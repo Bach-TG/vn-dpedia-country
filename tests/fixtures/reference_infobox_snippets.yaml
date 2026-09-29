@@ -1,0 +1,63 @@
+# Small offline snippets transcribed from data/reports/reference_infobox_keys.csv.
+# Keep distinguishing markup/footnotes; the complete API responses are not test fixtures.
+Việt Nam: |
+  {{Hộp thông tin quốc gia
+  | capital = [[Tập_tin:Logo_Hanoi.png|22px]] [[Hà Nội]]
+  | official_languages = [[Tiếng Việt]]{{efn|Hiến pháp<ref>{{chú thích web|title=Nguồn}}</ref>}}
+  | languages_type = Ngôn ngữ thiểu số
+  | Languages type = 
+  | population_estimate = 102.300.000<ref>{{cite report|title=Thống kê}}</ref>
+  | area_km2 = 331212
+  | currency = [[Đồng (tiền)|Đồng]] (₫)
+  | calling_code = [[Mã điện thoại Việt Nam|+84]]
+  }}
+Nhật Bản: |
+  {{Infobox country
+  | capital = [[Tokyo]]
+  | official_languages = Không có<ref>{{chú thích web|title=Thông tin pháp lý}}</ref>
+  | recognised_national_languages = [[Tiếng Nhật]]
+  | population_estimate = {{DecreaseNeutral}} 122.950.000<ref>{{Cite web|title=Thống kê}}</ref>
+  | area_km2 = 377975
+  | currency = [[Yên Nhật|Yên]] (¥){{\}}{{transl|ja|''En''}} {{nihongo2|円}}
+  | calling_code = [[Số điện thoại ở Nhật Bản|+81]]
+  }}
+Singapore: |
+  {{Infobox country
+  | capital = '''Singapore'''{{efn|Singapore không có thủ đô chính thức vì quốc gia này là một [[thành bang]].<ref>{{chú thích web|title=Nguồn}}</ref>}} ([[Thành bang]])
+  | official_languages = [[Tiếng Anh Singapore|Tiếng Anh]]<br>[[Tiếng Mã Lai]]<br>[[Tiếng Hoa Singapore|Tiếng Hoa]]<br>[[Tiếng Tamil]]
+  | population_estimate = {{IncreaseNeutral}} 6,110,200{{efn|Dân số Singapore gồm:<br>–Công dân: 3.640.000 người<ref>{{cite web|title=Thống kê}}</ref>}}
+  | area_km2 = 744.3
+  | currency = [[Đô la Singapore]] (S$)
+  | calling_code = [[+65]]
+  }}
+Cộng hòa Nam Phi: |
+  {{Infobox country
+  | capital = {{unbulleted list|[[Pretoria]] (chính phủ)<ref>{{cite web|title=[[Không phải thủ đô]]}}</ref>|[[Cape Town]] (Nghị viện)|[[Bloemfontein]] (tư pháp)}}
+  | official_languages = '''[[Ngôn ngữ của Nam Phi|12 ngôn ngữ]]'''<ref>{{cite book|title=[[Nguồn khác]]}}</ref>{{plainlist|
+  * [[Tiếng Afrikaans]]
+  * [[Tiếng Anh Nam Phi|Tiếng Anh]]
+  * [[Tiếng Nam Ndebele]]
+  * [[Tiếng Pedi]]
+  * [[Tiếng Sotho]]
+  * [[Tiếng Tswana]]
+  * [[Ngôn ngữ ký hiệu Nam Phi]]
+  * [[Tiếng Swazi]]
+  * [[Tiếng Venda]]
+  * [[Tiếng Xhosa]]
+  * [[Tiếng Tsonga]]
+  * [[Tiếng Zulu]]
+  }}{{collapsible list|title=Ngôn ngữ có quy chế đặc biệt|[[Tiếng Đức]]|[[Tiếng Hy Lạp]]}}
+  | population_estimate = {{IncreaseNeutral}} 63.015.904<ref>{{cite web|title=Thống kê}}</ref>
+  | area_km2 = 1221037
+  | currency = [[Rand Nam Phi]]
+  | calling_code = [[Telephone numbers in South Africa|+27]]
+  }}
+Thụy Sĩ: |
+  {{Tóm tắt về quốc gia
+  | capital = [[Tập tin:CHE Bern COA.svg|18px]] [[Bern]] ([[de facto]])<ref>"Thành phố liên bang" về pháp lí; pháp luật không xác định một thủ đô chính thức.</ref>
+  | official_languages = [[Tiếng Đức]], [[tiếng Pháp|Pháp]], [[tiếng Ý|Ý]], và [[tiếng Romansh|Romansh]]
+  | population_estimate = {{IncreaseNeutral}} {{formatnum:9060598}}<ref>{{Cite web|title=Thống kê}}</ref>
+  | area_km2 = 41.285
+  | currency = [[Franc Thụy Sĩ]] (SFr.)
+  | calling_code = +41
+  }}

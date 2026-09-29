@@ -1,0 +1,31 @@
+page_id,title_vi,field,status,source_parameter_present,raw_keys,reason
+151863,Việt Nam,capital,present,True,"["" capital                ""]",Normalized from source parameter
+151863,Việt Nam,population_total,present,True,"["" population_estimate                ""]",Normalized from source parameter
+151863,Việt Nam,area_km2,present,True,"["" area_km2                ""]",Normalized from source parameter
+151863,Việt Nam,currencies,present,True,"["" currency                ""]",Normalized from source parameter
+151863,Việt Nam,official_languages,present,True,"["" official_languages                ""]",Normalized from source parameter
+151863,Việt Nam,calling_codes,present,True,"["" calling_code                ""]",Normalized from source parameter
+362397,Nhật Bản,capital,present,True,"["" capital                ""]",Normalized from source parameter
+362397,Nhật Bản,population_total,present,True,"["" population_estimate                ""]",Normalized from source parameter
+362397,Nhật Bản,area_km2,present,True,"["" area_km2                ""]",Normalized from source parameter
+362397,Nhật Bản,currencies,present,True,"["" currency                ""]",Normalized from source parameter
+362397,Nhật Bản,official_languages,explicit_none,True,"["" official_languages                ""]",Source explicitly states there is none
+362397,Nhật Bản,calling_codes,present,True,"["" calling_code                ""]",Normalized from source parameter
+24477,Singapore,capital,explicit_none,True,"["" capital                ""]",Source explicitly states there is no official capital
+24477,Singapore,population_total,present,True,"["" population_estimate                ""]",Normalized from source parameter
+24477,Singapore,area_km2,present,True,"["" area_km2                ""]",Normalized from source parameter
+24477,Singapore,currencies,present,True,"["" currency                ""]",Normalized from source parameter
+24477,Singapore,official_languages,present,True,"["" official_languages                ""]",Normalized from source parameter
+24477,Singapore,calling_codes,present,True,"["" calling_code                ""]",Normalized from source parameter
+17669,Cộng hòa Nam Phi,capital,present,True,"["" capital                ""]",Normalized from source parameter
+17669,Cộng hòa Nam Phi,population_total,present,True,"["" population_estimate                ""]",Normalized from source parameter
+17669,Cộng hòa Nam Phi,area_km2,present,True,"["" area_km2                ""]",Normalized from source parameter
+17669,Cộng hòa Nam Phi,currencies,present,True,"["" currency                ""]",Normalized from source parameter
+17669,Cộng hòa Nam Phi,official_languages,present,True,"["" official_languages                ""]",Normalized from source parameter
+17669,Cộng hòa Nam Phi,calling_codes,present,True,"["" calling_code                ""]",Normalized from source parameter
+5185,Thụy Sĩ,capital,present,True,"["" capital                ""]",Normalized from source parameter
+5185,Thụy Sĩ,population_total,present,True,"["" population_estimate                ""]",Normalized from source parameter
+5185,Thụy Sĩ,area_km2,present,True,"["" area_km2                ""]",Normalized from source parameter
+5185,Thụy Sĩ,currencies,present,True,"["" currency                ""]",Normalized from source parameter
+5185,Thụy Sĩ,official_languages,present,True,"["" official_languages                ""]",Normalized from source parameter
+5185,Thụy Sĩ,calling_codes,present,True,"["" calling_code                ""]",Normalized from source parameter

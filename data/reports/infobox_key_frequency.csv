@@ -1,0 +1,545 @@
+normalized_key,occurrence_count,page_count,coverage_percentage,example_raw_keys,example_values
+alt_coat,2,2,40.0, alt_coat                ," 
+ |  Hình tròn màu vàng được phân chia bởi các hình nêm màu vàng có các cạnh ngoài tròn cùng viền mỏng màu đen.
+"
+alt_flag,2,2,40.0, alt_flag                ," 
+ |  Hình tròn màu đỏ nằm ở trung tâm một hình chữ nhật màu trắng.
+"
+antipodes,2,2,40.0, antipodes                ," 
+"
+area_data2,1,1,20.0, area_data2                ," 331.212 [[Kilômét vuông|km{{smallsup|2}}]]<br/>127.882 [[Dặm vuông|mi{{smallsup|2}}]]
+"
+area_footnote,4,4,80.0, area_footnote                ," 
+ |  <ref name=""area-2019"">{{chú thích web|script-title=ja:令和元年全国都道府県市区町村別面積調 (10月1日時点)|url=https://www.gsi.go.jp/KOKUJYOHO/MENCHO201910-index.html|trans-title=Reiwa 1 nationwide area survey by prefectures and municipalities (as of October 1)
+|publisher=[[Geospatial Information Authority of Japan]]|language=ja|date=December 26, 2019|archiveurl=https://web.archive.org/web/20200415123703/https://www.gsi.go.jp/KOKUJYOHO/MENCHO201910-index.html|archivedate=April 15, 2020|url-status=dead }}</ref>
+ |  <ref name=""area_2022"">{{cite act|index=3048/QĐ-BTNMT|title=Phê duyệt và công bố kết quả thống kê diện tích đất đai năm 2022|language=vi|trans-title=Approval and announcement of land area statistics for 2022|url=https://monre.gov.vn/VanBan/Lists/VanBanChiDao/Attachments/3012/3048-qd-btnmt_Signed.pdf|legislature=[[Bộ Tài nguyên và Môi trường]]|year= 2022|type=Quyết định}}{{Dead link|date=Tháng 4 năm 2024 |bot=InternetArchiveBot |fix-attempted=yes}}</ref>{{efn|Diện tích của Việt Nam được đề cập ở đây dựa trên số liệu thống kê diện tích đất đai do chính phủ Việt Nam cung cấp. Hiện cũng tồn tại các con số thay thế khác. Theo CIA World Factbook, tổng diện tích của Việt Nam là 331.210 ki-lô-mét vuông,<ref name=""Vietnam"">{{Chú thích web |title=Việt Nam |date=17 tháng 1 năm 2024 |work=The World Factbook |url=https://www.cia.gov/the-world-factbook/countries/vietnam/ |access-date=23 tháng 1 năm 2024 |publisher=[[Cơ quan Tình báo Trung ương]]|language=en |archive-date=10 tháng 6 năm 2021 |archive-url=https://web.archive.org/web/20210610173010/https://www.cia.gov/the-world-factbook/countries/vietnam/ |url-status=dead}}</ref> trong khi BBC trích dẫn một phép đo là 331.699 ki-lô-mét vuông.<ref name=""Vietnam country profile"">{{Chú thích web |title=Hồ sơ quốc gia Việt Nam |url=https://www.bbc.com/news/world-asia-pacific-16567315 |website=BBC News |access-date=27 tháng 1 năm 2021 |date=24 tháng 2 năm 2020 |archive-date=28 tháng 5 năm 2020 |archive-url=https://web.archive.org/web/20200528080124/https://www.bbc.com/news/world-asia-pacific-16567315 |url-status=live|language=en}}</ref>}}
+"
+area_km2,5,5,100.0, area_km2                ," 1221037
+ |  331212
+ |  377975
+"
+area_label2,1,1,20.0, area_label2                ," Đất liền
+"
+area_magnitude,2,2,40.0, area_magnitude                ," 1 E10
+ |  1 E11
+"
+area_rank,5,5,100.0, area_rank                ," 132
+ |  176
+ |  24
+"
+area_sq_mi,3,3,60.0, area_sq_mi                ," 128565
+ |  145937
+ |  471443
+"
+calling_code,5,5,100.0, calling_code                ," +41
+ |  [[+65]]
+ |  [[Mã điện thoại Việt Nam|+84]]
+"
+capital,5,5,100.0, capital                ," '''Singapore'''{{efn|Singapore không có thủ đô chính thức vì quốc gia này là một [[thành bang]].<ref name=""City-state"">{{chú thích web |title = Singapore |quote = The city, once a distinct entity, so came to dominate the island that the Republic of Singapore essentially became a city-state. |url = https://www.britannica.com/place/Singapore-capital |access-date = ngày 29 tháng 8 năm 2019 }}</ref>}} ([[Thành bang]])
+ |  [[Tokyo]]
+ |  [[Tập tin:CHE Bern COA.svg|18px]] [[Bern]] ([[de facto]])<ref group=""Phụ chú"">""Thành phố liên bang"" về pháp lí, thủ đô trên thực tế. Do tính nhạy cảm chủ nghĩa liên bang lịch sử, pháp luật Thụy Sĩ không xác định một thủ đô chính thức; và một số tổ chức liên bang như các tòa án nằm tại các thành phố khác.</ref><ref name=Bundesstadt/><ref name=""deFacto"">{{Chú thích tạp chí |title=Die Hauptstadt existiert nicht |url=http://boris.unibe.ch/id/eprint/41280 |type=scientific article |format=PDF |last=Holenstein |first=André |issue=152: Sonderfall Hauptstatdtregion |series=UniPress – Forschung und Wissenschaft an der Universität Bern |publisher=Department Communication, University of Berne |location=Berne |year=2012 |pages=16–19 |language=de |doi=10.7892/boris.41280 |quote=Als 1848 ein politisch-administratives Zentrum für den neuen Bundesstaat zu bestimmen war, verzichteten die Verfassungsväter daraufpl, eine Hauptstadt der Schweiz zu bezopnleichnen und formulierten stattdessen in Artikel 108: «Alles, was sich auf den Sitz der Bundesbehörden bezieht, ist Gegenstand der Bundesgesetzgebung.» Die Bundesstadt ist also nicht mehr und nicht weniger als der Sitz der Bundesbehörden. |access-date =ngày 20 tháng 12 năm 2015}}</ref>
+"
+cctld,5,5,100.0, cctld                ," [[.ch]], [[.swiss]]
+ |  [[.jp]]
+ |  [[.sg]]
+"
+coa_size,1,1,20.0, coa_size                ," 75
+"
+common_name,5,5,100.0, common_name                ," Nam Phi
+ |  Nhật Bản
+ |  Singapore
+"
+conventional_long_name,5,5,100.0, conventional_long_name                ," Cộng hòa Nam Phi
+ |  Cộng hòa Singapore
+ |  Cộng hòa xã hội chủ nghĩa<br/>Việt Nam<!--LƯU Ý: Không thay đổi câu dẫn thành ""Xã hội"" do [[WP:TEN]]. Cảm ơn.-->
+"
+coordinates,4,4,80.0, coordinates                ," 
+ |  {{Coord|1|17|N|103|50|E|type:city|display=inline,title}}
+ |  {{Coord|46|57|N|7|27|E|type:city}}
+"
+country_code,1,1,20.0, country_code                ," JP
+"
+currency,5,5,100.0, currency                ," [[Franc Thụy Sĩ]] (SFr.)
+ |  [[Rand Nam Phi]]
+ |  [[Yên Nhật|Yên]] (¥){{\}}{{transl|ja|''En''}} {{nihongo2|円}}
+"
+currency_code,5,5,100.0, currency_code                ," CHF
+ |  JPY
+ |  SGD
+"
+date_format,4,4,80.0, date_format                ," Short formats:
+* yyyy/mm/dd<ref>{{Cite web|title=Data Source Comparison for en-ZA|url=https://www.localeplanet.com/compare/en-ZA/index.html|access-date=5 May 2021|website=www.localeplanet.com|archive-date=16 August 2021|archive-url=https://web.archive.org/web/20210816213516/https://www.localeplanet.com/compare/en-ZA/index.html|url-status=live}}</ref>
+* yyyy-mm-dd<ref>{{Cite web|title=Data Source Comparison for af-ZA|url=https://www.localeplanet.com/compare/af-ZA/index.html|access-date=5 May 2021|website=www.localeplanet.com|archive-date=5 May 2021|archive-url=https://web.archive.org/web/20210505092248/https://www.localeplanet.com/compare/af-ZA/index.html|url-status=live}}</ref>
+ |  dd.mm.yyyy
+ |  {{abbr|dd|day}}/{{abbr|mm|month}}/{{abbr|yyyy|year}}
+"
+demonym,5,5,100.0, demonym                ," 
+ |  [[Người Việt Nam]]
+ |  [[người Singapore]]
+"
+drives_on,5,5,100.0, drives_on                ," [[Giao thông bên phải và bên trái|trái]]
+ |  [[Giao thông bên phải và bên|trái]]
+ |  phải
+"
+dst_note,1,1,20.0, DST_note                ," 
+"
+electricity,3,3,60.0, electricity                ," 100 V–50 và 60&nbsp;Hz
+ |  230 V–50 Hz
+ |  [[Nguồn điện thương dụng|220 V – 50 Hz]]
+"
+established_date1,5,5,100.0, established_date1                ," 11 tháng 2 năm 660&nbsp;TCN<ref>According to legend, Japan was founded on this date by [[Emperor Jimmu]], the country's first Emperor.</ref>
+ |  3 tháng 6, 1959
+ |  31 tháng 5 năm 1910
+"
+established_date10,1,1,20.0, established_date10                ," 18 tháng 12 năm 1986
+"
+established_date11,1,1,20.0, established_date11                ," 28 tháng 11 năm 2013
+"
+established_date2,5,5,100.0, established_date2                ," 11 tháng 12 năm 1931
+ |  16 tháng 9, 1963
+ |  24 tháng 10 năm 1648
+"
+established_date3,5,5,100.0, established_date3                ," 1802
+ |  3 tháng 5 năm 1947
+ |  31 tháng 5 năm 1961
+"
+established_date4,5,5,100.0, established_date4                ," 12 tháng 9 năm 1848<ref group=""Phụ chú"">Một tuyên ngôn trọng thể của [[Tagsatzung]] tuyên bố Hiến pháp Liên bang được thông qua vào ngày 12 tháng 9 năm 1848. Một nghị quyết của ''Tagsatzung'' vào ngày 14 tháng 9 năm 1848 xác định rằng quyền lực của các thể chế được cấp theo Hiệp định Liên bang 1815 kết thúc vào thời điểm hiến pháp của Hội đồng Liên bang có hiệu lực vào ngày 16 tháng 11 năm 1848.</ref><ref>{{HDS|9811|Federal constitution|date = ngày 3 tháng 5 năm 2011 |author=Andreas Kley}}</ref>
+ |  25 tháng 8 năm 1883
+ |  28 tháng 4 năm 1952
+"
+established_date5,1,1,20.0, established_date5                ," 2 tháng 9 năm 1945
+"
+established_date6,1,1,20.0, established_date6                ," 21 tháng 7 năm 1954
+"
+established_date7,1,1,20.0, established_date7                ," 27 tháng 1 năm 1973
+"
+established_date8,1,1,20.0, established_date8                ," 30 tháng 4 năm 1975
+"
+established_date9,1,1,20.0, established_date9                ," 2 tháng 7 năm 1976
+"
+established_event1,5,5,100.0, established_event1                ," Quốc gia hình thành
+ |  [[Liên hiệp Nam Phi]]
+ |  [[Quốc khánh Nhật Bản|Ngày Kiến quốc]]
+"
+established_event10,1,1,20.0, established_event10                ," [[Đổi Mới]]
+"
+established_event11,1,1,20.0, established_event11                ," [[Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 2013|Hiến pháp hiện hành]]
+"
+established_event2,5,5,100.0, established_event2                ," [[Hiến pháp Minh Trị]]
+ |  [[Hòa ước Westfalen]]
+ |  [[Nhà Ngô|Độc lập khỏi Trung Hoa]]
+"
+established_event3,5,5,100.0, established_event3                ," Khôi phục
+ |  [[Nhà Nguyễn|Thống nhất bởi nhà Nguyễn]]
+ |  [[Trưng cầu ý dân về cộng hòa Nam Phi 1960|Cộng hòa Nam Phi]]
+"
+established_event4,5,5,100.0, established_event4                ," Quốc gia liên bang
+ |  [[Hiến pháp Nam Phi|Hiến pháp hiện hành]]
+ |  [[Hòa ước Quý Mùi, 1883|Hiệp ước bảo hộ]]
+"
+established_event5,1,1,20.0, established_event5                ," [[Tuyên ngôn độc lập (Việt Nam Dân chủ Cộng hòa)|Tuyên ngôn độc lập]]
+"
+established_event6,1,1,20.0, established_event6                ," [[Hiệp định Genève|Chia cắt hai miền]]
+"
+established_event7,1,1,20.0, established_event7                ," [[Hiệp định Paris]]
+"
+established_event8,1,1,20.0, established_event8                ," [[Sự kiện 30 tháng 4 năm 1975|Kết thúc Chiến tranh Việt Nam]]
+"
+established_event9,1,1,20.0, established_event9                ," [[Quốc hội Việt Nam khóa VI|Tái thống nhất]]
+"
+ethnic_groups,4,4,80.0, ethnic_groups                ," {{Collapsible list | titlestyle = background:transparent; text-align:left; font-weight:normal; font-size:100%; | title = Danh sách [[Nhân khẩu học Singapore#Nhóm dân tộc|sắc tộc]]|75,9% [[người Singapore gốc Hoa|Hoa]]|15% [[người Singapore gốc Malaysia|Mã Lai]]|7,5% [[người Singapore gốc Ấn|Ấn]]|1,6% khác}}
+ |  {{unbulleted list
+  | 98,1% [[người Nhật|Nhật]]{{efn|Chính phủ Nhật Bản không thu thập dữ liệu về dân tộc; những con số này thay vào đó phản ánh nguồn gốc của cư dân nước ngoài. Xem [[Sắc tộc tại Nhật Bản]]}} |  0,5% [[Người Triều Tiên tại Nhật Bản|Triều Tiên]]
+  |  0,4% [[Người Hoa tại Nhật Bản|Hoa]]
+  |  1% khác
+ }}
+ |  {{unbulleted list
+ | {{nowrap|81.4% [[Người Bantu]]}}
+ | 8.2% [[Người da màu (Nam Phi|Người da màu]]
+ | 7.3% [[Người Nam Phi da trắng|Người da trắng]]
+ | 2.7% [[Người Nam Phi gốc Ấn Độ|Người gốc Ấn Độ]] hoặc [[Người châu Á (Nam Phi)|người châu Á]]
+| 0.4% dân tộc khác
+}}
+"
+ethnic_groups_ref,2,2,40.0, ethnic_groups_ref                ," <ref name=""cia"">{{chú thích web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/ja.html|title=CIA Factbook: Japan|work=[[The World Factbook]]|publisher=[[Cơ quan Tình báo Trung ương (Hoa Kỳ)|Cơ quan Tình báo Trung ương]]|accessdate =ngày 27 tháng 8 năm 2019|archive-date=ngày 26 tháng 12 năm 2018|archive-url=https://web.archive.org/web/20181226010157/https://www.cia.gov/library/publications/the-world-factbook/geos/ja.html%20|url-status=dead}}</ref>
+ |  <ref>[https://www.gov.sg/article/what-are-the-racial-proportions-among-singapore-citizens Population in Brief 2020]</ref>
+"
+ethnic_groups_year,4,4,80.0, ethnic_groups_year                ," 2016
+ |  2019
+ |  2020
+"
+flag2_border,1,1,20.0, flag2_border                ," 
+"
+footnotes,1,1,20.0, footnotes                ," 
+"
+gdp_nominal,5,5,100.0, GDP_nominal             |  GDP_nominal                ," {{decrease}} 4,379 nghìn tỷ đô la Mỹ<ref name=""IMFWEO.JP"" />
+ |  {{increase}} 1,147 nghìn tỷ đô la Mỹ<ref name=""IMFWEO.CH"" />
+ |  {{increase}} 418,05 tỷ đô la Mỹ<ref name=""IMFWEO.ZA""/>
+"
+gdp_nominal_per_capita,5,5,100.0, GDP_nominal_per_capita  |  GDP_nominal_per_capita                ," {{decrease}} 35.703 đô la Mỹ<ref name=""IMFWEO.JP"" />
+ |  {{increase}} 107,758 đô la Mỹ<ref name=IMFWEO.SG />
+ |  {{increase}} 126.177 đô la Mỹ<ref name=""IMFWEO.CH"" />
+"
+gdp_nominal_per_capita_rank,5,5,100.0, GDP_nominal_per_capita_rank  |  GDP_nominal_per_capita_rank                ," 108
+ |  121
+ |  3
+"
+gdp_nominal_rank,5,5,100.0, GDP_nominal_rank        |  GDP_nominal_rank                ," 20
+ |  27
+ |  33
+"
+gdp_nominal_year,5,5,100.0, GDP_nominal_year        |  GDP_nominal_year                ," 2025
+ |  2026
+"
+gdp_ppp,5,5,100.0, GDP_PPP                ," {{increase}}
+ 2,025 nghìn tỷ đô la Mỹ<ref name=""IMFWEO.VN"" >{{Chú thích web |url=https://data.imf.org/en/Data-Explorer?datasetUrn=IMF.RES:WEO(9.0.0) |title=World Economic Outlook Database (April 2026 Edition) |publisher=[[Quỹ Tiền tệ Quốc tế]] |website=www.imf.org |date=14 April 2026 |access-date=19 April 2026}}</ref>
+ |  {{increase}} 1,03 nghìn tỷ đô la Mỹ<ref name=""IMFWEO.ZA"">{{cite web |url=https://www.imf.org/external/datamapper/profile/ZAF |title=World Economic Outlook Database, April 2024 Edition. (South Africa) |publisher=[[Quỹ Tiền tệ Quốc tế]] |website=www.imf.org |date=16 April 2024 |access-date=17 April 2024 |archive-date=16 April 2024 |archive-url=https://web.archive.org/web/20240416232751/https://www.imf.org/en/Publications/WEO/weo-database/2024/April/weo-report?c=199,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2022&ey=2029&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1 |url-status=live }}</ref>
+ |  {{increase}} 1,063 nghìn tỷ đô la Mỹ<ref name=""IMFWEO.SG"">{{chú thích web |url=https://www.imf.org/en/Publications/WEO/weo-database/2025/April/weo-report?c=576,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2022&ey=2029&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1|title=World Economic Outlook Database, April 2025 Edition. (Singapore) |publisher=[[Quỹ Tiền tệ Quốc tế]] |website=www.imf.org |date=April 2025|access-date=27 April 2025}}</ref>
+"
+gdp_ppp_per_capita,5,5,100.0, GDP_PPP_per_capita      |  GDP_PPP_per_capita                ," {{increase}} 105.680 đô la Mỹ<ref name=""IMFWEO.CH"" />
+ |  {{increase}} 16.010 đô la Mỹ<ref name=""IMFWEO.ZA""/>
+ |  {{increase}} 173,708 đô la Mỹ<ref name=IMFWEO.SG />
+"
+gdp_ppp_per_capita_rank,5,5,100.0, GDP_PPP_per_capita_rank  |  GDP_PPP_per_capita_rank                ," 1
+ |  102
+ |  107
+"
+gdp_ppp_rank,5,5,100.0, GDP_PPP_rank            |  GDP_PPP_rank                ," 24
+ |  33
+ |  34
+"
+gdp_ppp_year,5,5,100.0, GDP_PPP_year            |  GDP_PPP_year                ," 2025
+ |  2026
+"
+gini,5,5,100.0, Gini                 |  Gini                   ," 31,5 <!--number only-->
+ |  33.4<!-- Number only. -->
+ |  35
+"
+gini_change,4,4,80.0, Gini_change             |  Gini_change                ," decrease <!--increase/decrease/steady-->
+ |  decrease<!-- Increase/decrease/steady. -->
+ |  increase <!--increase/decrease/steady-->
+"
+gini_rank,1,1,20.0, Gini_rank                ," <!-- 2nd --><!-- hid rank as source not clear -->
+"
+gini_ref,5,5,100.0, Gini_ref                |  Gini_ref                ," <ref name=""wb-gini"">{{cite web|url=https://data.worldbank.org/indicator/SI.POV.GINI?locations=ZA|title=Gini Index|publisher=World Bank|access-date=25 September 2018|archive-date=29 May 2020|archive-url=https://web.archive.org/web/20200529083011/https://data.worldbank.org/indicator/SI.POV.GINI?locations=ZA|url-status=live }}</ref>
+ |  <ref>{{Chú thích web|url=https://www.statista.com/outlook/co/socioeconomic-indicators/vietnam|tiêu đề=Socioeconomic Indicators - Vietnam {{!}} Market Forecast|website=Statista|ngôn ngữ=en|ngày truy cập=2025-04-29}}</ref>
+ |  <ref>{{chú thích web |title=Key Household Income Trends, 2023 |url=https://www.singstat.gov.sg/-/media/files/publications/households/pp-s30.ashx#:~:text=7%20The%20Gini%20coefficient5%20based,fell%20from%200.433%20to%200.371 |website=singstat.gov.sg |publisher=Singapore Department of Statistics |access-date=14 August 2024 |archive-date=13 July 2024 |archive-url=https://web.archive.org/web/20240713170530/https://www.singstat.gov.sg/-/media/files/publications/households/pp-s30.ashx#:~:text=7%20The%20Gini%20coefficient5%20based,fell%20from%200.433%20to%200.371 |url-status=live }}</ref>
+"
+gini_year,5,5,100.0, Gini_year               |  Gini_year                ," 2014
+ |  2018
+ |  2023
+"
+government_type,5,5,100.0, government_type                ," [[Chế độ đốc chính|Cộng hoà đốc chính]] [[liên bang]]
+ |  [[Cộng hòa lập hiến]] [[Thể chế Đại nghị|đại nghị]] [[Hệ thống đảng chiếm ưu thế|Đảng chiếm ưu thế]] [[đơn nhất]]
+ |  [[Cộng hòa đại nghị]] đơn nhất với tổng thống nắm quyền hành pháp
+"
+hdi,5,5,100.0, HDI                 |  HDI                    ," 0,726
+ |  0,741 <!--number only-->
+ |  0,970 <!--number only-->
+"
+hdi_change,5,5,100.0, HDI_change              |  HDI_change                ," increase
+ |  increase <!--increase/decrease/steady-->
+ |  increase<!-- Increase/decrease/steady. -->
+"
+hdi_rank,5,5,100.0, HDI_rank                |  HDI_rank                ," 106
+ |  13
+ |  2
+"
+hdi_ref,5,5,100.0, HDI_ref                ," <ref name=""HDI"">{{Cite web |date=6 May 2025 |title=Human Development Report 2025 |url=https://hdr.undp.org/system/files/documents/global-report-document/hdr2025reporten.pdf|url-status=live |archive-url=https://web.archive.org/web/20250506051232/https://hdr.undp.org/system/files/documents/global-report-document/hdr2025reporten.pdf |archive-date=6 May 2025 |access-date=6 May 2025 |publisher=[[United Nations Development Programme]] |language=en}}</ref>
+ |  <ref name=""HDI"">{{chú thích web |date=6 May 2025 |title=Human Development Report 2025 |url=https://hdr.undp.org/system/files/documents/global-report-document/hdr2025reporten.pdf|url-status=live |archive-url=https://web.archive.org/web/20250506051232/https://hdr.undp.org/system/files/documents/global-report-document/hdr2025reporten.pdf |archive-date=6 May 2025 |access-date=6 May 2025 |publisher=[[Chương trình Phát triển của Liên Hợp Quốc]] |language=en}}</ref>
+ |  <ref name=""UNHDR"">{{Chú thích web |date=6 May 2025 |title=Human Development Report 2025 |url=https://hdr.undp.org/system/files/documents/global-report-document/hdr2025reporten.pdf|url-status=live |archive-url=https://web.archive.org/web/20250506051232/https://hdr.undp.org/system/files/documents/global-report-document/hdr2025reporten.pdf |archive-date=6 May 2025 |access-date=6 May 2025 |publisher=[[Chương trình Phát triển của Liên Hợp Quốc ]] |language=en}}</ref>
+"
+hdi_year,5,5,100.0, HDI_year                |  HDI_year                ," 2023
+ |  2023<!-- Please use the year to which the data refers, not the publication year-->
+ |  2023<!-- Please use the year to which the data refers, not the publication year. -->
+"
+image_coat,5,5,100.0, image_coat                ," Coat of Arms of Switzerland.svg
+ |  Coat of arms of Singapore.svg
+ |  Coat of arms of South Africa (heraldic).svg
+"
+image_flag,5,5,100.0, image_flag                ," Flag of Japan.svg
+ |  Flag of Singapore.svg
+ |  Flag of South Africa.svg
+"
+image_map,5,5,100.0, image_map                ," Japan (orthographic projection).svg
+ |  Singapore on the globe (Southeast Asia centered) zoom.svg
+ |  Switzerland (orthographic projection).svg
+"
+image_map2,3,3,60.0, image_map2                ," 
+ |  Europe-Switzerland.svg
+ |  Japan-location-cia.png
+"
+image_map3,1,1,20.0, image_map3                ," Japan - Location Map (2013) - JPN - UNOCHA.svg
+"
+image_map_caption,1,1,20.0, image_map_caption                ," Vị trí ''""Thụy Sĩ""'' (xanh) trên thế giới
+"
+iso3166code,4,4,80.0, iso3166code                ," CH
+ |  SG
+ |  VN
+"
+iso_3166–1_alpha2,1,1,20.0, ISO_3166–1_alpha2                ," 
+"
+iso_3166–1_alpha3,1,1,20.0, ISO_3166–1_alpha3                ," 
+"
+languages,3,3,60.0, languages                ," [[Kana]], [[Kanji]]
+ |  [[tiếng Mã Lai]]
+ |  {{hlist|[[Tiếng Tày|Tày]]|[[Tiếng Thái|Thái]]|[[Tiếng Mường|Mường]]|[[Tiếng Hmong|Hmong]]|[[Tiếng Khmer|Khmer]]|''[[Ngôn ngữ tại Việt Nam|nhiều thứ tiếng khác]]...''}}
+"
+languages2,1,1,20.0, languages2                ," 
+"
+languages2_type,1,1,20.0, languages2_type                ," 
+"
+languages_type,4,3,60.0, Languages type                 |  languages_type                ," 
+ |  Ngôn ngữ thiểu số
+ |  [[Văn tự chính thức]]
+"
+largest_city,4,4,80.0, largest_city                ," [[Tập tin:Biểu trưng của TP HCM.svg|22px]] [[Thành phố Hồ Chí Minh]]
+ |  [[Tập tin:PrefSymbol-Tokyo.svg|24px]] [[Tokyo]]<br />{{Coord|35|41|N|139|46|E|type:city}}
+ |  [[Tập tin:Wappen Zürich matt.svg|18px]] [[Zürich]]
+"
+largest_settlement,1,1,20.0, largest_settlement                ," [[Bedok]]<ref>{{chú thích web|url=https://www.singstat.gov.sg/find-data/search-by-theme/population/geographic-distribution/visualising-data/geographical-distribution-dashboard|title=Singapore Department of Statistics population report for 2022|publisher=Singstat|access-date=June 7, 2023|archive-date=24 December 2022|archive-url=https://web.archive.org/web/20221224122208/https://www.singstat.gov.sg/find-data/search-by-theme/population/geographic-distribution/visualising-data/geographical-distribution-dashboard|url-status=live}}</ref>
+"
+largest_settlement_type,1,1,20.0, largest_settlement_type                ," [[Khu vực quy hoạch của Singapore|khu vực quy hoạch]] {{nobold|theo dân số}}
+"
+leader_name1,5,5,100.0, leader_name1                ," [[Cyril Ramaphosa]]
+ |  [[Naruhito]] (徳仁)
+ |  [[Tharman Shanmugaratnam]]
+"
+leader_name2,5,5,100.0, leader_name2                ," [[Hoàng Tuần Tài]]
+ |  [[Lê Minh Hưng]]
+ |  [[Paul Mashatile]]
+"
+leader_name3,2,2,40.0, leader_name3                ," [[Sundaresh Menon]]
+ |  [[Thoko Didiza]]
+"
+leader_name4,3,3,60.0, leader_name4                ," [[Refilwe Mtsweni-Tsipane]]
+ |  [[Trần Thanh Mẫn]]
+ |  [[Tạ Kiện Bình]]
+"
+leader_name5,2,2,40.0, leader_name5                ," [[Mandisa Maya]]
+ |  [[Trần Cẩm Tú]]
+"
+leader_title1,5,5,100.0, leader_title1                ," [[Hội đồng Liên bang (Thụy Sĩ)|Hội đồng Liên bang]]
+ |  [[Thiên hoàng]]
+ |  [[Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam|Tổng Bí thư]] và [[Chủ tịch nước Việt Nam|Chủ tịch nước]]
+"
+leader_title2,5,5,100.0, leader_title2                ," [[Phó Tổng thống Nam Phi|Phó Tổng thống]]
+ |  [[Thủ tướng Nhật Bản|Thủ tướng]]
+ |  [[Thủ tướng Singapore|Thủ tướng]]
+"
+leader_title3,2,2,40.0, leader_title3                ," [[Chánh án Tòa án Tối cao Singapore|Chánh án Tòa án Tối cao]]
+ |  [[Chủ tịch Quốc hội Nam Phi|Chủ tịch Quốc hội]]
+"
+leader_title4,3,3,60.0, leader_title4                ," [[Chủ tịch Hội đồng các tỉnh quốc gia]]
+ |  [[Chủ tịch Quốc hội Singapore|Chủ tịch Quốc hội]]
+ |  [[Chủ tịch Quốc hội Việt Nam|Chủ tịch Quốc hội]]
+"
+leader_title5,2,2,40.0, leader_title5                ," [[Chánh án Nam Phi|Chánh án]]
+ |  [[Thường trực Ban Bí thư Trung ương Đảng Cộng sản Việt Nam|Thường trực Ban Bí thư]]
+"
+legislature,5,5,100.0, legislature                ," [[Nghị viện Nam Phi|Nghị viện]]
+ |  [[Quốc hội Liên bang (Thụy Sĩ)|Quốc hội Liên bang]]
+ |  [[Quốc hội Nhật Bản|Quốc hội]]
+"
+linking_name,2,2,40.0, linking_name                ," Nhật Bản
+ |  Việt Nam
+"
+lower_house,4,4,80.0, lower_house                ," 
+ |  [[Chúng Nghị viện]]
+ |  [[Quốc hội Nam Phi|Quốc hội]]
+"
+map_caption,3,3,60.0, map_caption                ," 
+ |  Vị trí của Nhật Bản (xanh lá) trên thế giới,<br />bao gồm [[quần đảo Kuril]] hiện đang tranh chấp với<br />[[Liên bang Nga]] (xanh nhạt).
+ |  {{map caption|location_color=lục|region=[[ASEAN]]|region_color=lục|legend=Location Vietnam ASEAN.svg}}
+"
+map_caption2,1,1,20.0, map_caption2                ," Lãnh thổ trên thực tế thuộc quyền kiểm soát<br />của Nhật Bản (nâu).
+"
+map_width,1,1,20.0, map_width                ," 275px
+"
+national_anthem,5,5,100.0, national_anthem                ," ""[[Quốc ca Nam Phi]]"" <div style=""padding-top:0.5em;"" class=""centre"">[[File:South Africa National Anthem.ogg]]</div>
+ |  ""[[Tiến quân ca]]""<div class=""center"" style=""margin-top:0.4em;"">
+[[Tập tin:Quoc ca Viet Nam.ogg|242px]]</div>
+ |  ''[[Majulah Singapura]]''<br />(""Tiến lên, Singapore"")<br /><div style=""padding-top;"">[[Tập tin:Majulah Singapura.ogg|center]]</div>
+"
+national_motto,4,4,80.0, national_motto                ," ""{{lang|xam|ǃke e: ǀxarra ǁke}}""&nbsp;([[tiếng ǀXam]])<br />""Thống nhất trong đa dạng""
+ |  ''Unus pro omnibus, omnes pro uno''<br /> (Một người vì mọi người, mọi người vì một người)
+ |  <br>""Độc lập – Tự do – Hạnh phúc""
+"
+native_name,4,4,80.0, native_name                ," {{Infobox |subbox=yes |bodystyle=padding-top:0.5em; font-size:76%; font-weight:normal; |rowclass1 = mergedrow |label1=[[Tiếng Anh]]: |data1={{lang|ms|Republic of Singapore}} |rowclass2 = mergedrow |label2=[[Tiếng Mã Lai]]: |data2={{lang|ms|Republik Singapura}} |rowclass3 = mergedrow |label3=[[Quan thoại]]: |data3={{lang|zh-SG|新加坡共和国}} |rowclass4 = mergedrow |label4=[[Tiếng Tamil]]: |data4={{lang|ta|சிங்கப்பூர் குடியரசு}} }}
+ |  {{Native name|de|Schweizerische Eidgenossenschaft}}<br>{{Native name|fr|Confédération suisse}}<br>{{Native name|it|Confederazione Svizzera}}<br>{{Native name|rm|Confederaziun svizra}}<br>{{Native name|la|Confoederatio Helvetica}}
+ |  {{collapsible list
+| titlestyle = text-align:center;line-height:normal;font-size:86%;
+| title = 11 ngôn ngữ chính thức khác<ref>{{Cite act |institution=Parliament of the Republic of South Africa |title=Constitution Eighteenth Amendment Act |year=2023 |volume=697 |number=47665 |language=en, tn}}</ref>
+| {{Infobox
+| subbox=yes
+| bodystyle=font-size:77%;font-weight:normal;
+| rowclass1 = mergedrow
+| label1 = [[Tiếng Afrikaans]]:
+| data1 = {{lang|af|Republiek van Suid-Afrika}}
+| rowclass2 = mergedrow
+| label2 = [[Tiếng Zulu]]:
+| data2 = {{lang|zu|iRiphabhuliki yaseNingizimu Afrika}}
+| rowclass3 = mergedrow
+| label3 = [[Tiếng Xhosa]]:
+| data3 = {{lang|ss|iRiphabhlikhi yoMzantsi Afrika}}
+| rowclass4 = mergedrow
+| label5 = [[Tiếng Bắc Sotho]]:
+| data5 = {{lang|nso|Repabliki ya Afrika-Borwa}}
+| rowclass5 = mergedrow
+| label6 = [[Tiếng Sotho]]:
+| data6 = {{lang|st|Rephaboliki ya Afrika Borwa}}
+| rowclass6 = mergedrow
+| label7 = [[Tiếng Tswana]]:
+| data7 = {{lang|tn|Rephaboliki ya Aforika Borwa}}
+| rowclass7 = mergedrow
+| label8 = [[Tiếng Tsonga]]:
+| data8 = {{lang|ts|Riphabliki ya Afrika Dzonga}}
+| rowclass8 = mergedrow
+| label9 = [[Tiếng Swazi]]:
+| data9 = {{lang|sw|iRiphabhulikhi yaseNingizimu-Afrika}}
+| rowclass9 = mergedrow
+| label10 = [[Tiếng Venda]]:
+| data10 = {{lang|ve|Riphabuḽiki ya Afurika Tshipembe}}
+| rowclass10 = mergedrow
+| label11 = [[Tiếng Nam Ndebele]]:
+| data11 = {{lang|nr|iRiphabliki yeSewula Afrika}}
+| rowclass11 = mergedrow
+| label12 = [[Tiếng Anh]]:
+| data12 = {{lang|en|Republic of South Africa}}
+| rowclass12 = mergedrow
+}}
+}}
+"
+official_languages,5,5,100.0, official_languages                ," '''[[Ngôn ngữ của Nam Phi|12 ngôn ngữ]]'''<ref name=""constitution.1.6"">{{cite book|url=https://www.concourt.org.za/images/phocadownload/the_text/english-2013.pdf|title=The Constitution of the Republic of South Africa|publisher=Constitutional Court of South Africa|year=2013|edition=2013 English version|at=ch.&nbsp;1, s.&nbsp;6|access-date=17 April 2020|archive-date=23 August 2018|archive-url=https://web.archive.org/web/20180823174423/https://www.concourt.org.za/images/phocadownload/the_text/english-2013.pdf|url-status=live}}</ref><ref name=""parliament.gov.za"">{{Cite web|url=https://www.parliament.gov.za/press-releases/na-approves-south-african-sign-language-12th-official-language|title=The NA Approves South African Sign Language as the 12th Official Language |website=Parliament of South Africa |date=3 May 2023 |url-status=live |archive-url=https://web.archive.org/web/20231222131030/https://www.parliament.gov.za/press-releases/na-approves-south-african-sign-language-12th-official-language |archive-date= Dec 22, 2023 }}</ref>{{plainlist|
+* [[Tiếng Afrikaans]]
+* [[Tiếng Anh Nam Phi|Tiếng Anh]]
+* [[Tiếng Nam Ndebele]]
+* [[Tiếng Pedi]]
+* [[Tiếng Sotho]]
+* [[Tiếng Tswana]]
+* [[Ngôn ngữ ký hiệu Nam Phi]]
+* [[Tiếng Swazi]]
+* [[Tiếng Venda]]
+* [[Tiếng Xhosa]]
+* [[Tiếng Tsonga]]
+* [[Tiếng Zulu]]
+}}
+{{collapsible list
+| titlestyle = text-align:left;padding-left:0.5em;font-size:100%;<!--size of [show]/[hide] link-->
+| liststyle = text-align:left;white-space:nowrap;
+| title=Ngôn ngữ có quy chế đặc biệt<ref name=""constitution.1.6""/>|[[Ngữ tộc Khoe]]|[[Tiếng Khoekhoe]]|[[Tiếng Khoisan]]|[[Tiếng Đức]]|[[Tiếng Hy Lạp]]|[[Tiếng Gujarati]]|[[Tiếng Hindi]]|[[Tiếng Bồ Đào Nha]]|[[Tiếng Telugu]]|[[Tiếng Tamil]]|[[Tiếng Urdu]]|[[Tiếng Ả Rập]]|[[Tiếng Hebrew]]|[[Tiếng Phạn]]
+}}
+ |  Không có<ref>{{chú thích web |url=http://houseikyoku.sangiin.go.jp/column/column068.htm |script-title=ja:法制執務コラム集「法律と国語・日本語」 |publisher=Legislative Bureau of the House of Councillors |accessdate=ngày 19 tháng 1 năm 2009 |language=ja |archive-date=2018-12-25 |archive-url=https://web.archive.org/web/20181225073508/http://houseikyoku.sangiin.go.jp/column/column068.htm |url-status=live }}</ref>
+ |  [[Tiếng Anh Singapore|Tiếng Anh]]<br>[[Tiếng Mã Lai]]<br>[[Tiếng Hoa Singapore|Tiếng Hoa]]<br>[[Tiếng Tamil]]
+"
+official_website,1,1,20.0, official_website                ," {{url|https://www.japan.go.jp/}}
+"
+other_symbol,2,2,40.0, other_symbol                ," 
+ |  {{unbulleted list |[[Tập tin:Gyomei kokuji.svg|100px|Triện dấu Văn phòng Thủ tướng và Chính phủ Nhật Bản]]}}
+"
+other_symbol_type,1,1,20.0, other_symbol_type                ," [[Quốc ấn Nhật Bản|Quốc ấn]]
+"
+percent_water,5,5,100.0, percent_water                ," 0,38
+ |  1,43%
+ |  1,4<ref>{{cite web|title=Surface water and surface water change|accessdate=October 11, 2020|publisher=OECD|url=https://stats.oecd.org/Index.aspx?DataSetCode=SURFACE_WATER|archivedate=March 24, 2021|archiveurl=https://web.archive.org/web/20210324133453/https://stats.oecd.org/Index.aspx?DataSetCode=SURFACE_WATER|url-status=live}}</ref>
+"
+population_census,3,3,60.0, population_census                ," 126.226.568<ref>{{Chú thích web|url=https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&toukei=00200521&tstat=000001136464&cycle=0&year=20200&month=24101210&tclass1=000001136465&tclass2=000001154388&tclass3val=0|title=2020 Population Census Preliminary Tabulation|accessdate=ngày 26 tháng 6 năm 2021|publisher=[[Statistics Bureau (Japan)|Statistics Bureau of Japan]]|archive-date=2021-06-26|archive-url=https://web.archive.org/web/20210626170253/https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&toukei=00200521&tstat=000001136464&cycle=0&year=20200&month=24101210&tclass1=000001136465&tclass2=000001154388&tclass3val=0|url-status=live}}</ref>
+ |  {{IncreaseNeutral}} 62.027.503<ref name=""Census-2022"" />
+ |  {{IncreaseNeutral}} 8,327,126<ref>{{Cite report |url=https://www.bfs.admin.ch/bfs/en/home/statistics/population.assetdetail.1401565.html |title=Switzerland's population 2015 |date=22 November 2016 |publisher=Swiss Federal Statistical Office (FSO), Swiss Confederation |issue=1 Population |location=Neuchâtel, Switzerland |access-date=7 December 2016 |archive-url=https://web.archive.org/web/20161220075134/https://www.bfs.admin.ch/bfs/en/home/statistics/population.assetdetail.1401565.html |archive-date=20 December 2016 |format=PDF |url-status=live |editor=Jacqueline Kucera |editor2=Athena Krummenacher |series=Swiss Statistics}}</ref>
+"
+population_census_rank,1,1,20.0, population_census_rank                ," 23
+"
+population_census_year,3,3,60.0, population_census_year                ," 2015
+ |  2020
+ |  2022
+"
+population_density_km2,5,5,100.0, population_density_km2                ," 207
+ |  309
+ |  330
+"
+population_density_rank,4,4,80.0, population_density_rank                ," 169
+ |  3
+ |  39
+"
+population_density_sq_mi,3,3,60.0, population_density_sq_mi                ," 
+ |  21,471,0
+ |  800,3
+"
+population_densitymi2,1,1,20.0, population_densitymi2                ," 854.7
+"
+population_estimate,5,5,100.0, population_estimate                ,"  {{DecreaseNeutral}} 122.950.000<ref>{{Cite web |title=Preliminary counts of population of Japan|publisher=[[Statistics Bureau of Japan]] |url=https://www.stat.go.jp/english/index.html |accessdate=January 20, 2026  |archivedate=May 12, 2022 |archiveurl=https://web.archive.org/web/20220512233027/https://www.stat.go.jp/english/index.html |url-status=live}}</ref>
+ |  102.300.000<ref name=""gso-pop"">{{cite report |date=January 2026 |title=Infographic social-economic situation in the 4th quarter and 2025 |url=https://www.nso.gov.vn/en/data-and-statistics/2026/01/infographic-social-economic-situation-in-the-4th-quarter-and-2025/ |publisher=[[Cục Thống kê (Việt Nam)|Cục Thống kê]] |access-date=}}</ref>
+ |  {{IncreaseNeutral}} 6,110,200{{efn|Dân số Singapore gồm:<br>–Công dân Singapore (SC): 3.640.000 người<br>–Thường trú nhân (PR): 544.900 người<br>–Người nước ngoài/không có quyền cư trú vĩnh viễn: 1.860.000 người<ref name=""Population in Brief 2024"">{{cite web |title=Population in Brief 2024 |publisher=Singapore Department of Statistics |url=https://www.population.gov.sg/files/media-centre/publications/Population_in_Brief_2024.pdf|access-date=25 September 2024 |archive-url=https://web.archive.org/web/20240925140255/https://www.population.gov.sg/files/media-centre/publications/Population_in_Brief_2024.pdf |archive-date=25 September 2024}}</ref>}}
+"
+population_estimate_rank,5,5,100.0, population_estimate_rank                ," 11
+ |  111
+ |  16
+"
+population_estimate_year,5,5,100.0, population_estimate_year                ," 2024
+ |  2025
+ |  ngày 1 tháng 1 năm 2026
+"
+recognised_national_languages,1,1,20.0, recognised_national_languages                ," [[Tiếng Nhật]]<ref>{{chú thích web|title=Literacy and Language Classes in Community Centers, Country Profile: Japan|url=http://www.unesco.org/uil/litbase/?menu=14&programme=131|accessdate=ngày 29 tháng 1 năm 2017|archive-date=2018-12-25|archive-url=https://web.archive.org/web/20181225073518/https://uil.unesco.org/literacy/effective-practices-database-litbase|url-status=live}}</ref>
+"
+regional_languages,2,2,40.0, regional_languages                ," 
+ |  {{collapsible list
+  |expand = yes
+  |title = [[Ngôn ngữ tại Nhật Bản|11 ngôn ngữ]]<ref>{{chú thích web|url=https://www.ethnologue.com/country/JP/languages|title=Japan Languages|accessdate=ngày 29 tháng 1 năm 2017|language=en|archive-date=2018-12-25|archive-url=https://web.archive.org/web/20181225073513/https://www.ethnologue.com/country/JP/languages|url-status=live}}</ref>
+  |[[Tiếng Ainu|Ainu Itak]]
+  |[[Tiếng Amami Ōshima|Amami Ōshima]]
+  |[[Tiếng Kikai|Kikai]]
+  |[[Tiếng Kunigami|Kunigami]]
+  |[[Tiếng Miyako|Miyako]]
+  |[[Tiếng Okinawa|Okinawa]]
+  |[[Tiếng Okinoerabu|Okinoerabu]]
+  |[[Tiếng Tokunoshima|Tokunoshima]]
+  |[[Tiếng Yaeyama|Yaeyama]]
+  |[[Tiếng Yonaguni|Yonaguni]]
+  |[[Tiếng Yoron|Yoron]]
+}}
+"
+religion,4,4,80.0, religion                ," {{ublist|31.1% [[Phật giáo]]|20.0% [[không tôn giáo]]|18.9% [[Kitô giáo]]|15.6% [[Hồi giáo]]|8.8% [[Đạo giáo]]| 5.0% [[Hindu giáo]]| 0.6% khác}}
+ |  {{ublist|51.82% [[Thần đạo]]<br />{{smaller|(hoặc [[shinbutsu-shūgō|thực hành cùng lúc hai tôn giáo trên]])}}|34.9% [[Phật giáo Nhật Bản|Phật giáo]]| 2% [[Kitô giáo tại Nhật Bản|Kitô giáo]]{{efn|Theo khảo sát của Dentsu năm 2006: 1% [[Tin lành]], 0,8% thành viên của [[Giáo hội Công giáo Roma|Công giáo La Mã]], và 0,5% thành viên của [[Chính thống giáo Đông phương]].<ref name=""Dentsu2006"">{{Chú thích |publisher=Dentsu Communication Institute, Japan Research Center |url=http://www2.ttcn.ne.jp/honkawa/9460.html |trans-title=Sixty Countries' Values Databook |title=世界60カ国価値観データブック |date=2000 |access-date=2020-12-19 |archive-date=2018-02-27 |archive-url=https://web.archive.org/web/20180227112501/http://www2.ttcn.ne.jp/honkawa/9460.html |url-status=live }}</ref>}}|0,5% [[Các giáo phái Shinto]]|11% khác}}
+ |  {{ublist|73,7% [[không tôn giáo]]/[[Tín ngưỡng dân gian Việt Nam|tín ngưỡng dân gian]] |14,9% [[Phật giáo Việt Nam|Phật giáo]] |8,5% [[Kitô giáo tại Việt Nam|Kitô giáo]] |1,5% [[Phật giáo Hòa Hảo|Hòa Hảo]] |1,2% [[Đạo Cao Đài|Cao Đài]] |0,2% [[Tôn giáo tại Việt Nam|khác]]<ref>{{chú thích web|url=https://www.state.gov/reports/2019-report-on-international-religious-freedom/vietnam/|title=2019 Report on International Religious Freedom: Vietnam|website=[[U.S. Department of State]]}}</ref>{{cần nguồn tốt hơn|t=trích nguồn thống kê của nhà nước ấy}}}}
+"
+religion_ref,3,3,60.0, religion_ref                ," 
+ |  <ref name=""2022 census3"">{{cite web |title=Statistical Release - Census 2022 |url=https://census.statssa.gov.za/assets/documents/2022/P03014_Census_2022_Statistical_Release.pdf |access-date=2024-08-22 |website=statssa.gov.za}}</ref>
+ |  <ref>[https://web.archive.org/web/20240706140335/https://www.singstat.gov.sg/-/media/files/publications/population/population2023.ashx]</ref>
+"
+religion_year,4,4,80.0, religion_year                ," 2018
+ |  2019
+ |  2020
+"
+sovereignty_note,2,2,40.0, sovereignty_note                ," Từ Vương quốc Anh và Malaysia
+ |  {{nowrap|từ [[Vương quốc Liên hiệp Anh và Bắc Ireland]]}}
+"
+sovereignty_type,5,5,100.0, sovereignty_type                ," [[Lịch sử Nhật Bản|Hình thành]]
+ |  [[Lịch sử Thụy Sỹ|Độc lập]]
+ |  [[Lịch sử Việt Nam|Thành lập]]
+"
+sport_code,1,1,20.0, sport_code                ," 
+"
+symbol_type,2,2,40.0, symbol_type                ," Hoàng gia huy
+ |  Quốc huy
+"
+time_zone,5,5,100.0, time_zone                ," [[Giờ chuẩn Nam Phi]]
+ |  [[Giờ chuẩn Nhật Bản|JST]]
+ |  [[Giờ chuẩn Singapore]]
+"
+time_zone_dst,1,1,20.0, time_zone_DST                ," 
+"
+today,3,3,60.0, today                ," 
+"
+upper_house,4,4,80.0, upper_house                ," 
+ |  [[Hội đồng Quốc gia các Tỉnh]]
+ |  [[Tham Nghị viện]]
+"
+utc_offset,5,5,100.0, utc_offset                ," +07:00
+ |  +2
+ |  +8
+"
+utc_offset_dst,2,2,40.0, utc_offset_DST                ," 
+ |  +2
+"
+vehicle_code,1,1,20.0, vehicle_code                ," 
+"

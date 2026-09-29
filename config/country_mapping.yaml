@@ -1,0 +1,25 @@
+# Exact, normalized-key aliases only. Compare with reference_infobox_keys.csv
+# before extending; never map a merely similar but semantically uncertain key.
+capital:
+  type: resource_list
+  aliases: [capital, capital_city, thủ_đô, thu_do]
+population_total:
+  type: integer
+  # The five reference infoboxes all give estimates. Do not combine an older
+  # population_census value with an estimate or take a density/rank instead.
+  aliases: [population_total, population_estimate, population, dân_số, dan_so, dân_số_tổng_cộng]
+area_km2:
+  type: area_km2
+  # The normalizer accepts Vietnamese three-digit grouping (41.285 -> 41285)
+  # and genuine decimals (744.3); unclear units/formats stay unparsed.
+  aliases: [area_km2, area_total_km2, area_total, diện_tích, dien_tich]
+currencies:
+  type: resource_list
+  aliases: [currency, currencies, tiền_tệ, tien_te]
+official_languages:
+  type: resource_list
+  # recognised_national_languages is NOT an alias: recognised != official.
+  aliases: [official_languages, official_language, ngôn_ngữ_chính_thức, ngon_ngu_chinh_thuc]
+calling_codes:
+  type: string_list
+  aliases: [calling_code, calling_codes, mã_điện_thoại, ma_dien_thoai]

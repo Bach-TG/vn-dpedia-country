@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.pyc
+.DS_Store
+# Wikitext can be large; regenerate it with `reference` or `collect`.
+data/raw/pages/*.json
+data/raw/collection_manifest.csv
+data/interim/*.jsonl

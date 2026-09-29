@@ -1,0 +1,47 @@
+{
+  "candidate_count": 5,
+  "selected_count": 5,
+  "collected_count": 5,
+  "failed_collection_count": 0,
+  "processed_count": 5,
+  "valid_count": 5,
+  "warning_count": 0,
+  "invalid_count": 0,
+  "duplicate_page_ids": 0,
+  "duplicate_titles": 0,
+  "with_english_link": 5,
+  "without_english_link": 0,
+  "coverage": {
+    "title_vi": 100.0,
+    "abstract_vi": 100.0,
+    "capital": 80.0,
+    "population_total": 100.0,
+    "area_km2": 100.0,
+    "currencies": 100.0,
+    "official_languages": 80.0,
+    "calling_codes": 100.0,
+    "wikidata_id": 100.0,
+    "english_title": 100.0
+  },
+  "value_coverage": {
+    "title_vi": 100.0,
+    "abstract_vi": 100.0,
+    "capital": 80.0,
+    "population_total": 100.0,
+    "area_km2": 100.0,
+    "currencies": 100.0,
+    "official_languages": 80.0,
+    "calling_codes": 100.0,
+    "wikidata_id": 100.0,
+    "english_title": 100.0
+  },
+  "source_field_coverage": {
+    "capital": 100.0,
+    "population_total": 100.0,
+    "area_km2": 100.0,
+    "currencies": 100.0,
+    "official_languages": 100.0,
+    "calling_codes": 100.0
+  },
+  "generation_timestamp": "2026-09-29T03:45:24.508066+00:00"
+}

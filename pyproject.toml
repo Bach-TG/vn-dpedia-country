@@ -1,0 +1,31 @@
+[project]
+name = "vi-dbpedia-data"
+version = "0.1.0"
+description = "Vietnamese Wikipedia country data pipeline for a Semantic Web prototype"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = ["requests", "mwparserfromhell", "pandas", "pydantic", "PyYAML", "tqdm"]
+
+[project.scripts]
+vi-dbpedia-data = "vi_dbpedia_data.cli:main"
+
+[dependency-groups]
+dev = ["pytest", "pytest-cov", "ruff"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/vi_dbpedia_data"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["integration: optional live network tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]
