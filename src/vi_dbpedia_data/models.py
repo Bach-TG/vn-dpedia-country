@@ -28,6 +28,7 @@ class CandidateCountry(BaseModel):
     discovery_method: str
     discovery_methods: list[str] = Field(default_factory=list)
     discovery_conflicts: list[str] = Field(default_factory=list)
+    instance_qids: list[str] = Field(default_factory=list)
 
 
 class RawPage(BaseModel):

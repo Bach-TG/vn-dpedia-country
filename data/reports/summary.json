@@ -1,37 +1,37 @@
 {
-  "candidate_count": 5,
-  "selected_count": 5,
-  "collected_count": 5,
+  "candidate_count": 208,
+  "selected_count": 20,
+  "collected_count": 20,
   "failed_collection_count": 0,
-  "processed_count": 5,
-  "valid_count": 5,
-  "warning_count": 0,
+  "processed_count": 20,
+  "valid_count": 17,
+  "warning_count": 3,
   "invalid_count": 0,
   "duplicate_page_ids": 0,
   "duplicate_titles": 0,
-  "with_english_link": 5,
+  "with_english_link": 20,
   "without_english_link": 0,
   "coverage": {
     "title_vi": 100.0,
     "abstract_vi": 100.0,
-    "capital": 80.0,
-    "population_total": 100.0,
+    "capital": 95.0,
+    "population_total": 95.0,
     "area_km2": 100.0,
     "currencies": 100.0,
-    "official_languages": 80.0,
-    "calling_codes": 100.0,
+    "official_languages": 90.0,
+    "calling_codes": 95.0,
     "wikidata_id": 100.0,
     "english_title": 100.0
   },
   "value_coverage": {
     "title_vi": 100.0,
     "abstract_vi": 100.0,
-    "capital": 80.0,
-    "population_total": 100.0,
+    "capital": 95.0,
+    "population_total": 95.0,
     "area_km2": 100.0,
     "currencies": 100.0,
-    "official_languages": 80.0,
-    "calling_codes": 100.0,
+    "official_languages": 90.0,
+    "calling_codes": 95.0,
     "wikidata_id": 100.0,
     "english_title": 100.0
   },
@@ -40,8 +40,17 @@
     "population_total": 100.0,
     "area_km2": 100.0,
     "currencies": 100.0,
-    "official_languages": 100.0,
-    "calling_codes": 100.0
+    "official_languages": 95.0,
+    "calling_codes": 95.0
   },
-  "generation_timestamp": "2026-09-29T03:45:24.508066+00:00"
+  "total_resource_refs": 80,
+  "resource_refs_with_wiki_title": 79,
+  "resource_refs_without_wiki_title": 1,
+  "resource_ref_wiki_title_coverage_percentage": 98.75,
+  "template_selection_counts": {
+    "candidate_template_alias": 1,
+    "configured_alias": 19
+  },
+  "candidate_audit_potential_review_count": 12,
+  "generation_timestamp": "2026-09-29T06:36:27.760122+00:00"
 }

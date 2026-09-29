@@ -5,9 +5,13 @@ capital:
   aliases: [capital, capital_city, thủ_đô, thu_do]
 population_total:
   type: integer
-  # The five reference infoboxes all give estimates. Do not combine an older
-  # population_census value with an estimate or take a density/rank instead.
-  aliases: [population_total, population_estimate, population, dân_số, dan_so, dân_số_tổng_cộng]
+  aliases: [population_estimate, population_census, population_total, population, dân_số, dan_so, dân_số_tổng_cộng]
+  # Prefer a nonblank estimate; only fall back to census when estimate is absent
+  # or blank. An ambiguous nonblank estimate never silently falls back to census.
+  source_priority:
+    - {source_type: estimate, aliases: [population_estimate], year_aliases: [population_estimate_year]}
+    - {source_type: census, aliases: [population_census], year_aliases: [population_census_year]}
+    - {source_type: generic_total, aliases: [population_total, population, dân_số, dan_so, dân_số_tổng_cộng], year_aliases: []}
 area_km2:
   type: area_km2
   # The normalizer accepts Vietnamese three-digit grouping (41.285 -> 41285)
@@ -20,6 +24,10 @@ official_languages:
   type: resource_list
   # recognised_national_languages is NOT an alias: recognised != official.
   aliases: [official_languages, official_language, ngôn_ngữ_chính_thức, ngon_ngu_chinh_thuc]
+  contextual_fallback:
+    value_aliases: [languages]
+    type_aliases: [languages_type]
+    required_semantics: official
 calling_codes:
   type: string_list
   aliases: [calling_code, calling_codes, mã_điện_thoại, ma_dien_thoai]

@@ -30,6 +30,7 @@ class Settings(BaseModel):
     pilot_size: int = Field(gt=0)
     reference_titles: list[str]
     infobox_template_aliases: list[str]
+    candidate_infobox_template_aliases: list[str] = Field(default_factory=list)
 
 
 def load_settings(root: Path = ROOT) -> Settings:
@@ -49,6 +50,18 @@ def load_mapping(root: Path = ROOT) -> dict[str, dict]:
             if key in seen and seen[key] != field:
                 raise ValueError(f"Alias {alias!r} belongs to both {seen[key]} and {field}")
             seen[key] = field
+        if "source_priority" in spec:
+            configured = {normalize_key(alias) for alias in spec["aliases"]}
+            grouped = [
+                normalize_key(alias)
+                for group in spec["source_priority"]
+                for alias in group["aliases"]
+            ]
+            if set(grouped) != configured or len(grouped) != len(set(grouped)):
+                raise ValueError(f"source_priority aliases must partition {field} aliases")
+        fallback = spec.get("contextual_fallback")
+        if fallback and fallback["required_semantics"] != "official":
+            raise ValueError(f"Unsupported contextual semantics for {field}")
     return mapping
 
 

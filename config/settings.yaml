@@ -20,3 +20,7 @@ infobox_template_aliases:
   - Infobox country
   - Quốc gia
   - Tóm tắt về quốc gia
+# Only for pages explicitly collected from country-domain discovery; never a
+# generic assertion that every political division is a country.
+candidate_infobox_template_aliases:
+  - Infobox political division

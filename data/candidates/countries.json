@@ -1,0 +1,3110 @@
+[
+  {
+    "wikidata_id": "Q114",
+    "title_vi": "Kenya",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Kenya",
+    "english_title_hint": "Kenya",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q115",
+    "title_vi": "Ethiopia",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Ethiopia",
+    "english_title_hint": "Ethiopia",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q117",
+    "title_vi": "Ghana",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Ghana",
+    "english_title_hint": "Ghana",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q142",
+    "title_vi": "Pháp",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Ph%C3%A1p",
+    "english_title_hint": "France",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q145",
+    "title_vi": "Vương quốc Liên hiệp Anh và Bắc Ireland",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Li%C3%AAn_hi%E1%BB%87p_Anh_v%C3%A0_B%E1%BA%AFc_Ireland",
+    "english_title_hint": "United Kingdom",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q148",
+    "title_vi": "Trung Quốc",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Trung_Qu%E1%BB%91c",
+    "english_title_hint": "China",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q155",
+    "title_vi": "Brasil",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Brasil",
+    "english_title_hint": "Brazil",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q159",
+    "title_vi": "Nga",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Nga",
+    "english_title_hint": "Russia",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q16",
+    "title_vi": "Canada",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Canada",
+    "english_title_hint": "Canada",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q17",
+    "title_vi": "Nhật Bản",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Nh%E1%BA%ADt_B%E1%BA%A3n",
+    "english_title_hint": "Japan",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q183",
+    "title_vi": "Đức",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%A9c",
+    "english_title_hint": "Germany",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q184",
+    "title_vi": "Belarus",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Belarus",
+    "english_title_hint": "Belarus",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q189",
+    "title_vi": "Iceland",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Iceland",
+    "english_title_hint": "Iceland",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q191",
+    "title_vi": "Estonia",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Estonia",
+    "english_title_hint": "Estonia",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q20",
+    "title_vi": "Na Uy",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Na_Uy",
+    "english_title_hint": "Norway",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q211",
+    "title_vi": "Latvia",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Latvia",
+    "english_title_hint": "Latvia",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q212",
+    "title_vi": "Ukraina",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Ukraina",
+    "english_title_hint": "Ukraine",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q213",
+    "title_vi": "Séc",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/S%C3%A9c",
+    "english_title_hint": "Czech Republic",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q214",
+    "title_vi": "Slovakia",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Slovakia",
+    "english_title_hint": "Slovakia",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q215",
+    "title_vi": "Slovenia",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Slovenia",
+    "english_title_hint": "Slovenia",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q217",
+    "title_vi": "Moldova",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Moldova",
+    "english_title_hint": "Moldova",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q218",
+    "title_vi": "România",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Rom%C3%A2nia",
+    "english_title_hint": "Romania",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q219",
+    "title_vi": "Bulgaria",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Bulgaria",
+    "english_title_hint": "Bulgaria",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q221",
+    "title_vi": "Bắc Macedonia",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/B%E1%BA%AFc_Macedonia",
+    "english_title_hint": "North Macedonia",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q222",
+    "title_vi": "Albania",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Albania",
+    "english_title_hint": "Albania",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q223",
+    "title_vi": "Greenland",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Greenland",
+    "english_title_hint": "Greenland",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256"
+    ]
+  },
+  {
+    "wikidata_id": "Q224",
+    "title_vi": "Croatia",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Croatia",
+    "english_title_hint": "Croatia",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q225",
+    "title_vi": "Bosna và Hercegovina",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Bosna_v%C3%A0_Hercegovina",
+    "english_title_hint": "Bosnia and Herzegovina",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q227",
+    "title_vi": "Azerbaijan",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Azerbaijan",
+    "english_title_hint": "Azerbaijan",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q228",
+    "title_vi": "Andorra",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Andorra",
+    "english_title_hint": "Andorra",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q229",
+    "title_vi": "Síp",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/S%C3%ADp",
+    "english_title_hint": "Cyprus",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q230",
+    "title_vi": "Gruzia",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Gruzia",
+    "english_title_hint": "Georgia (country)",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q232",
+    "title_vi": "Kazakhstan",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Kazakhstan",
+    "english_title_hint": "Kazakhstan",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q233",
+    "title_vi": "Malta",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Malta",
+    "english_title_hint": "Malta",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q235",
+    "title_vi": "Monaco",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Monaco",
+    "english_title_hint": "Monaco",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q236",
+    "title_vi": "Montenegro",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Montenegro",
+    "english_title_hint": "Montenegro",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q237",
+    "title_vi": "Thành Vatican",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Th%C3%A0nh_Vatican",
+    "english_title_hint": "Vatican City",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q238",
+    "title_vi": "San Marino",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/San_Marino",
+    "english_title_hint": "San Marino",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q3624078",
+      "Q6256"
+    ]
+  },
+  {
+    "wikidata_id": "Q241",
+    "title_vi": "Cuba",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Cuba",
+    "english_title_hint": "Cuba",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q242",
+    "title_vi": "Belize",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Belize",
+    "english_title_hint": "Belize",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q244",
+    "title_vi": "Barbados",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Barbados",
+    "english_title_hint": "Barbados",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q252",
+    "title_vi": "Indonesia",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Indonesia",
+    "english_title_hint": "Indonesia",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q27",
+    "title_vi": "Cộng hòa Ireland",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/C%E1%BB%99ng_h%C3%B2a_Ireland",
+    "english_title_hint": "Republic of Ireland",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q28",
+    "title_vi": "Hungary",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Hungary",
+    "english_title_hint": "Hungary",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q29",
+    "title_vi": "Tây Ban Nha",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/T%C3%A2y_Ban_Nha",
+    "english_title_hint": "Spain",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q30",
+    "title_vi": "Hoa Kỳ",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3",
+    "english_title_hint": "United States",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q31",
+    "title_vi": "Bỉ",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/B%E1%BB%89",
+    "english_title_hint": "Belgium",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q32",
+    "title_vi": "Luxembourg",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Luxembourg",
+    "english_title_hint": "Luxembourg",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q33",
+    "title_vi": "Phần Lan",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Ph%E1%BA%A7n_Lan",
+    "english_title_hint": "Finland",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q34",
+    "title_vi": "Thụy Điển",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Th%E1%BB%A5y_%C4%90i%E1%BB%83n",
+    "english_title_hint": "Sweden",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q35",
+    "title_vi": "Đan Mạch",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/%C4%90an_M%E1%BA%A1ch",
+    "english_title_hint": "Denmark",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256"
+    ]
+  },
+  {
+    "wikidata_id": "Q36",
+    "title_vi": "Ba Lan",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Ba_Lan",
+    "english_title_hint": "Poland",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q37",
+    "title_vi": "Litva",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Litva",
+    "english_title_hint": "Lithuania",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q38",
+    "title_vi": "Ý",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/%C3%9D",
+    "english_title_hint": "Italy",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q39",
+    "title_vi": "Thụy Sĩ",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Th%E1%BB%A5y_S%C4%A9",
+    "english_title_hint": "Switzerland",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q40",
+    "title_vi": "Áo",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/%C3%81o",
+    "english_title_hint": "Austria",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q41",
+    "title_vi": "Hy Lạp",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Hy_L%E1%BA%A1p",
+    "english_title_hint": "Greece",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q43",
+    "title_vi": "Thổ Nhĩ Kỳ",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Th%E1%BB%95_Nh%C4%A9_K%E1%BB%B3",
+    "english_title_hint": "Turkey",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q45",
+    "title_vi": "Bồ Đào Nha",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/B%E1%BB%93_%C4%90%C3%A0o_Nha",
+    "english_title_hint": "Portugal",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q55",
+    "title_vi": "Hà Lan",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/H%C3%A0_Lan",
+    "english_title_hint": "Netherlands",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256"
+    ]
+  },
+  {
+    "wikidata_id": "Q77",
+    "title_vi": "Uruguay",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Uruguay",
+    "english_title_hint": "Uruguay",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q79",
+    "title_vi": "Ai Cập",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Ai_C%E1%BA%ADp",
+    "english_title_hint": "Egypt",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q96",
+    "title_vi": "México",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/M%C3%A9xico",
+    "english_title_hint": "Mexico",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q188736",
+    "title_vi": "Bosna (vùng)",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Bosna_(v%C3%B9ng)",
+    "english_title_hint": "Bosnia (region)",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256"
+    ]
+  },
+  {
+    "wikidata_id": "Q219060",
+    "title_vi": "Nhà nước Palestine",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Nh%C3%A0_n%C6%B0%E1%BB%9Bc_Palestine",
+    "english_title_hint": "Palestine",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q756617",
+    "title_vi": "Vương quốc Đan Mạch",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_%C4%90an_M%E1%BA%A1ch",
+    "english_title_hint": "Danish Realm",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1000",
+    "title_vi": "Gabon",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Gabon",
+    "english_title_hint": "Gabon",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1005",
+    "title_vi": "Gambia",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Gambia",
+    "english_title_hint": "The Gambia",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1006",
+    "title_vi": "Guinée",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Guin%C3%A9e",
+    "english_title_hint": "Guinea",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1007",
+    "title_vi": "Guiné-Bissau",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Guin%C3%A9-Bissau",
+    "english_title_hint": "Guinea-Bissau",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1008",
+    "title_vi": "Bờ Biển Ngà",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/B%E1%BB%9D_Bi%E1%BB%83n_Ng%C3%A0",
+    "english_title_hint": "Ivory Coast",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1009",
+    "title_vi": "Cameroon",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Cameroon",
+    "english_title_hint": "Cameroon",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1011",
+    "title_vi": "Cabo Verde",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Cabo_Verde",
+    "english_title_hint": "Cape Verde",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1013",
+    "title_vi": "Lesotho",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Lesotho",
+    "english_title_hint": "Lesotho",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1014",
+    "title_vi": "Liberia",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Liberia",
+    "english_title_hint": "Liberia",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1016",
+    "title_vi": "Libya",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Libya",
+    "english_title_hint": "Libya",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1019",
+    "title_vi": "Madagascar",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Madagascar",
+    "english_title_hint": "Madagascar",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1020",
+    "title_vi": "Malawi",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Malawi",
+    "english_title_hint": "Malawi",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1025",
+    "title_vi": "Mauritanie",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Mauritanie",
+    "english_title_hint": "Mauritania",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1027",
+    "title_vi": "Mauritius",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Mauritius",
+    "english_title_hint": "Mauritius",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1028",
+    "title_vi": "Maroc",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Maroc",
+    "english_title_hint": "Morocco",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1029",
+    "title_vi": "Mozambique",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Mozambique",
+    "english_title_hint": "Mozambique",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1030",
+    "title_vi": "Namibia",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Namibia",
+    "english_title_hint": "Namibia",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1032",
+    "title_vi": "Niger",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Niger",
+    "english_title_hint": "Niger",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1033",
+    "title_vi": "Nigeria",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Nigeria",
+    "english_title_hint": "Nigeria",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1036",
+    "title_vi": "Uganda",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Uganda",
+    "english_title_hint": "Uganda",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1037",
+    "title_vi": "Rwanda",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Rwanda",
+    "english_title_hint": "Rwanda",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1039",
+    "title_vi": "São Tomé và Príncipe",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_v%C3%A0_Pr%C3%ADncipe",
+    "english_title_hint": "São Tomé and Príncipe",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1041",
+    "title_vi": "Sénégal",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/S%C3%A9n%C3%A9gal",
+    "english_title_hint": "Senegal",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1042",
+    "title_vi": "Seychelles",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Seychelles",
+    "english_title_hint": "Seychelles",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1044",
+    "title_vi": "Sierra Leone",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Sierra_Leone",
+    "english_title_hint": "Sierra Leone",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1045",
+    "title_vi": "Somalia",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Somalia",
+    "english_title_hint": "Somalia",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1049",
+    "title_vi": "Sudan",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Sudan",
+    "english_title_hint": "Sudan",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1050",
+    "title_vi": "Eswatini",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Eswatini",
+    "english_title_hint": "Eswatini",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q1246",
+    "title_vi": "Kosovo",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Kosovo",
+    "english_title_hint": "Kosovo",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q21203",
+    "title_vi": "Aruba",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Aruba",
+    "english_title_hint": "Aruba",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256"
+    ]
+  },
+  {
+    "wikidata_id": "Q23681",
+    "title_vi": "Bắc Síp",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/B%E1%BA%AFc_S%C3%ADp",
+    "english_title_hint": "Northern Cyprus",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256"
+    ]
+  },
+  {
+    "wikidata_id": "Q25279",
+    "title_vi": "Curaçao",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Cura%C3%A7ao",
+    "english_title_hint": "Curaçao",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256"
+    ]
+  },
+  {
+    "wikidata_id": "Q258",
+    "title_vi": "Cộng hòa Nam Phi",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/C%E1%BB%99ng_h%C3%B2a_Nam_Phi",
+    "english_title_hint": "South Africa",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q262",
+    "title_vi": "Algérie",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Alg%C3%A9rie",
+    "english_title_hint": "Algeria",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q26273",
+    "title_vi": "Sint Maarten",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Sint_Maarten",
+    "english_title_hint": "Sint Maarten",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256"
+    ]
+  },
+  {
+    "wikidata_id": "Q265",
+    "title_vi": "Uzbekistan",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Uzbekistan",
+    "english_title_hint": "Uzbekistan",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q26988",
+    "title_vi": "Quần đảo Cook",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Qu%E1%BA%A7n_%C4%91%E1%BA%A3o_Cook",
+    "english_title_hint": "Cook Islands",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256"
+    ]
+  },
+  {
+    "wikidata_id": "Q298",
+    "title_vi": "Chile",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Chile",
+    "english_title_hint": "Chile",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q29999",
+    "title_vi": "Vương quốc Hà Lan",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_H%C3%A0_Lan",
+    "english_title_hint": "Kingdom of the Netherlands",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q334",
+    "title_vi": "Singapore",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Singapore",
+    "english_title_hint": "Singapore",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q34020",
+    "title_vi": "Niue",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Niue",
+    "english_title_hint": "Niue",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256"
+    ]
+  },
+  {
+    "wikidata_id": "Q347",
+    "title_vi": "Liechtenstein",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Liechtenstein",
+    "english_title_hint": "Liechtenstein",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q34754",
+    "title_vi": "Somaliland",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Somaliland",
+    "english_title_hint": "Somaliland",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256"
+    ]
+  },
+  {
+    "wikidata_id": "Q398",
+    "title_vi": "Bahrain",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Bahrain",
+    "english_title_hint": "Bahrain",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q399",
+    "title_vi": "Armenia",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Armenia",
+    "english_title_hint": "Armenia",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q403",
+    "title_vi": "Serbia",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Serbia",
+    "english_title_hint": "Serbia",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q408",
+    "title_vi": "Úc",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/%C3%9Ac",
+    "english_title_hint": "Australia",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q414",
+    "title_vi": "Argentina",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Argentina",
+    "english_title_hint": "Argentina",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q419",
+    "title_vi": "Perú",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Per%C3%BA",
+    "english_title_hint": "Peru",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q423",
+    "title_vi": "Cộng hòa Dân chủ Nhân dân Triều Tiên",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/C%E1%BB%99ng_h%C3%B2a_D%C3%A2n_ch%E1%BB%A7_Nh%C3%A2n_d%C3%A2n_Tri%E1%BB%81u_Ti%C3%AAn",
+    "english_title_hint": "North Korea",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q424",
+    "title_vi": "Campuchia",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Campuchia",
+    "english_title_hint": "Cambodia",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q574",
+    "title_vi": "Đông Timor",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/%C4%90%C3%B4ng_Timor",
+    "english_title_hint": "Timor-Leste",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q657",
+    "title_vi": "Tchad",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Tchad",
+    "english_title_hint": "Chad",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q664",
+    "title_vi": "New Zealand",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/New_Zealand",
+    "english_title_hint": "New Zealand",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q668",
+    "title_vi": "Ấn Độ",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/%E1%BA%A4n_%C4%90%E1%BB%99",
+    "english_title_hint": "India",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q672",
+    "title_vi": "Tuvalu",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Tuvalu",
+    "english_title_hint": "Tuvalu",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q678",
+    "title_vi": "Tonga",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Tonga",
+    "english_title_hint": "Tonga",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q683",
+    "title_vi": "Samoa",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Samoa",
+    "english_title_hint": "Samoa",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q685",
+    "title_vi": "Quần đảo Solomon",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Qu%E1%BA%A7n_%C4%91%E1%BA%A3o_Solomon",
+    "english_title_hint": "Solomon Islands",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q686",
+    "title_vi": "Vanuatu",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Vanuatu",
+    "english_title_hint": "Vanuatu",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q691",
+    "title_vi": "Papua New Guinea",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Papua_New_Guinea",
+    "english_title_hint": "Papua New Guinea",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q695",
+    "title_vi": "Palau",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Palau",
+    "english_title_hint": "Palau",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q697",
+    "title_vi": "Nauru",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Nauru",
+    "english_title_hint": "Nauru",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q702",
+    "title_vi": "Liên bang Micronesia",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Li%C3%AAn_bang_Micronesia",
+    "english_title_hint": "Federated States of Micronesia",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q709",
+    "title_vi": "Quần đảo Marshall",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Qu%E1%BA%A7n_%C4%91%E1%BA%A3o_Marshall",
+    "english_title_hint": "Marshall Islands",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q710",
+    "title_vi": "Kiribati",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Kiribati",
+    "english_title_hint": "Kiribati",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q711",
+    "title_vi": "Mông Cổ",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/M%C3%B4ng_C%E1%BB%95",
+    "english_title_hint": "Mongolia",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q712",
+    "title_vi": "Fiji",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Fiji",
+    "english_title_hint": "Fiji",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q717",
+    "title_vi": "Venezuela",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Venezuela",
+    "english_title_hint": "Venezuela",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q730",
+    "title_vi": "Suriname",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Suriname",
+    "english_title_hint": "Suriname",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q733",
+    "title_vi": "Paraguay",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Paraguay",
+    "english_title_hint": "Paraguay",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q734",
+    "title_vi": "Guyana",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Guyana",
+    "english_title_hint": "Guyana",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q736",
+    "title_vi": "Ecuador",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Ecuador",
+    "english_title_hint": "Ecuador",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q739",
+    "title_vi": "Colombia",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Colombia",
+    "english_title_hint": "Colombia",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q750",
+    "title_vi": "Bolivia",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Bolivia",
+    "english_title_hint": "Bolivia",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q754",
+    "title_vi": "Trinidad và Tobago",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Trinidad_v%C3%A0_Tobago",
+    "english_title_hint": "Trinidad and Tobago",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q757",
+    "title_vi": "Saint Vincent và Grenadines",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Saint_Vincent_v%C3%A0_Grenadines",
+    "english_title_hint": "Saint Vincent and the Grenadines",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q760",
+    "title_vi": "Saint Lucia",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Saint_Lucia",
+    "english_title_hint": "Saint Lucia",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q763",
+    "title_vi": "Saint Kitts và Nevis",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Saint_Kitts_v%C3%A0_Nevis",
+    "english_title_hint": "Saint Kitts and Nevis",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q766",
+    "title_vi": "Jamaica",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Jamaica",
+    "english_title_hint": "Jamaica",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q769",
+    "title_vi": "Grenada",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Grenada",
+    "english_title_hint": "Grenada",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q774",
+    "title_vi": "Guatemala",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Guatemala",
+    "english_title_hint": "Guatemala",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q778",
+    "title_vi": "Bahamas",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Bahamas",
+    "english_title_hint": "The Bahamas",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q781",
+    "title_vi": "Antigua và Barbuda",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Antigua_v%C3%A0_Barbuda",
+    "english_title_hint": "Antigua and Barbuda",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q783",
+    "title_vi": "Honduras",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Honduras",
+    "english_title_hint": "Honduras",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q784",
+    "title_vi": "Dominica",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Dominica",
+    "english_title_hint": "Dominica",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q786",
+    "title_vi": "Cộng hòa Dominica",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/C%E1%BB%99ng_h%C3%B2a_Dominica",
+    "english_title_hint": "Dominican Republic",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q790",
+    "title_vi": "Haiti",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Haiti",
+    "english_title_hint": "Haiti",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q792",
+    "title_vi": "El Salvador",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/El_Salvador",
+    "english_title_hint": "El Salvador",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q794",
+    "title_vi": "Iran",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Iran",
+    "english_title_hint": "Iran",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q796",
+    "title_vi": "Iraq",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Iraq",
+    "english_title_hint": "Iraq",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q800",
+    "title_vi": "Costa Rica",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Costa_Rica",
+    "english_title_hint": "Costa Rica",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q801",
+    "title_vi": "Israel",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Israel",
+    "english_title_hint": "Israel",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q804",
+    "title_vi": "Panamá",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Panam%C3%A1",
+    "english_title_hint": "Panama",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q805",
+    "title_vi": "Yemen",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Yemen",
+    "english_title_hint": "Yemen",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q810",
+    "title_vi": "Jordan",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Jordan",
+    "english_title_hint": "Jordan",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q811",
+    "title_vi": "Nicaragua",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Nicaragua",
+    "english_title_hint": "Nicaragua",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q813",
+    "title_vi": "Kyrgyzstan",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Kyrgyzstan",
+    "english_title_hint": "Kyrgyzstan",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q817",
+    "title_vi": "Kuwait",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Kuwait",
+    "english_title_hint": "Kuwait",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q819",
+    "title_vi": "Lào",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/L%C3%A0o",
+    "english_title_hint": "Laos",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q822",
+    "title_vi": "Liban",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Liban",
+    "english_title_hint": "Lebanon",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q826",
+    "title_vi": "Maldives",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Maldives",
+    "english_title_hint": "Maldives",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q833",
+    "title_vi": "Malaysia",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Malaysia",
+    "english_title_hint": "Malaysia",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q836",
+    "title_vi": "Myanmar",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Myanmar",
+    "english_title_hint": "Myanmar",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q837",
+    "title_vi": "Nepal",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Nepal",
+    "english_title_hint": "Nepal",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q842",
+    "title_vi": "Oman",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Oman",
+    "english_title_hint": "Oman",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q843",
+    "title_vi": "Pakistan",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Pakistan",
+    "english_title_hint": "Pakistan",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q846",
+    "title_vi": "Qatar",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Qatar",
+    "english_title_hint": "Qatar",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q851",
+    "title_vi": "Ả Rập Xê Út",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/%E1%BA%A2_R%E1%BA%ADp_X%C3%AA_%C3%9At",
+    "english_title_hint": "Saudi Arabia",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q854",
+    "title_vi": "Sri Lanka",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Sri_Lanka",
+    "english_title_hint": "Sri Lanka",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q858",
+    "title_vi": "Syria",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Syria",
+    "english_title_hint": "Syria",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q863",
+    "title_vi": "Tajikistan",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Tajikistan",
+    "english_title_hint": "Tajikistan",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q865",
+    "title_vi": "Đài Loan",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/%C4%90%C3%A0i_Loan",
+    "english_title_hint": "Taiwan",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q869",
+    "title_vi": "Thái Lan",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Th%C3%A1i_Lan",
+    "english_title_hint": "Thailand",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q874",
+    "title_vi": "Turkmenistan",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Turkmenistan",
+    "english_title_hint": "Turkmenistan",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q878",
+    "title_vi": "Các Tiểu vương quốc Ả Rập Thống nhất",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/C%C3%A1c_Ti%E1%BB%83u_v%C6%B0%C6%A1ng_qu%E1%BB%91c_%E1%BA%A2_R%E1%BA%ADp_Th%E1%BB%91ng_nh%E1%BA%A5t",
+    "english_title_hint": "United Arab Emirates",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q881",
+    "title_vi": "Việt Nam",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Nam",
+    "english_title_hint": "Vietnam",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q884",
+    "title_vi": "Hàn Quốc",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/H%C3%A0n_Qu%E1%BB%91c",
+    "english_title_hint": "South Korea",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q889",
+    "title_vi": "Afghanistan",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Afghanistan",
+    "english_title_hint": "Afghanistan",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q902",
+    "title_vi": "Bangladesh",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Bangladesh",
+    "english_title_hint": "Bangladesh",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q912",
+    "title_vi": "Mali",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Mali",
+    "english_title_hint": "Mali",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q916",
+    "title_vi": "Angola",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Angola",
+    "english_title_hint": "Angola",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q917",
+    "title_vi": "Bhutan",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Bhutan",
+    "english_title_hint": "Bhutan",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q921",
+    "title_vi": "Brunei",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Brunei",
+    "english_title_hint": "Brunei",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q924",
+    "title_vi": "Tanzania",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Tanzania",
+    "english_title_hint": "Tanzania",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q928",
+    "title_vi": "Philippines",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Philippines",
+    "english_title_hint": "Philippines",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q929",
+    "title_vi": "Cộng hòa Trung Phi",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/C%E1%BB%99ng_h%C3%B2a_Trung_Phi",
+    "english_title_hint": "Central African Republic",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q945",
+    "title_vi": "Togo",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Togo",
+    "english_title_hint": "Togo",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q948",
+    "title_vi": "Tunisia",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Tunisia",
+    "english_title_hint": "Tunisia",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q953",
+    "title_vi": "Zambia",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Zambia",
+    "english_title_hint": "Zambia",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q954",
+    "title_vi": "Zimbabwe",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Zimbabwe",
+    "english_title_hint": "Zimbabwe",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q3624078",
+      "Q6256"
+    ]
+  },
+  {
+    "wikidata_id": "Q958",
+    "title_vi": "Nam Sudan",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Nam_Sudan",
+    "english_title_hint": "South Sudan",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q962",
+    "title_vi": "Bénin",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/B%C3%A9nin",
+    "english_title_hint": "Benin",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q963",
+    "title_vi": "Botswana",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Botswana",
+    "english_title_hint": "Botswana",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q965",
+    "title_vi": "Burkina Faso",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Burkina_Faso",
+    "english_title_hint": "Burkina Faso",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q967",
+    "title_vi": "Burundi",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Burundi",
+    "english_title_hint": "Burundi",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q970",
+    "title_vi": "Comoros",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Comoros",
+    "english_title_hint": "Comoros",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q971",
+    "title_vi": "Cộng hòa Congo",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/C%E1%BB%99ng_h%C3%B2a_Congo",
+    "english_title_hint": "Republic of the Congo",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q974",
+    "title_vi": "Cộng hòa Dân chủ Congo",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/C%E1%BB%99ng_h%C3%B2a_D%C3%A2n_ch%E1%BB%A7_Congo",
+    "english_title_hint": "Democratic Republic of the Congo",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q977",
+    "title_vi": "Djibouti",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Djibouti",
+    "english_title_hint": "Djibouti",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q983",
+    "title_vi": "Guinea Xích Đạo",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Guinea_X%C3%ADch_%C4%90%E1%BA%A1o",
+    "english_title_hint": "Equatorial Guinea",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  },
+  {
+    "wikidata_id": "Q986",
+    "title_vi": "Eritrea",
+    "wikipedia_url": "https://vi.wikipedia.org/wiki/Eritrea",
+    "english_title_hint": "Eritrea",
+    "discovery_method": "wikidata_direct_country_or_sovereign_state",
+    "discovery_methods": [
+      "wikidata_direct_country_or_sovereign_state"
+    ],
+    "discovery_conflicts": [],
+    "instance_qids": [
+      "Q6256",
+      "Q3624078"
+    ]
+  }
+]

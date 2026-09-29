@@ -1,31 +1,121 @@
 page_id,title_vi,field,status,source_parameter_present,raw_keys,reason
 151863,Việt Nam,capital,present,True,"["" capital                ""]",Normalized from source parameter
-151863,Việt Nam,population_total,present,True,"["" population_estimate                ""]",Normalized from source parameter
+151863,Việt Nam,population_total,present,True,"["" population_estimate                ""]",Normalized estimate from source parameter
 151863,Việt Nam,area_km2,present,True,"["" area_km2                ""]",Normalized from source parameter
 151863,Việt Nam,currencies,present,True,"["" currency                ""]",Normalized from source parameter
 151863,Việt Nam,official_languages,present,True,"["" official_languages                ""]",Normalized from source parameter
 151863,Việt Nam,calling_codes,present,True,"["" calling_code                ""]",Normalized from source parameter
 362397,Nhật Bản,capital,present,True,"["" capital                ""]",Normalized from source parameter
-362397,Nhật Bản,population_total,present,True,"["" population_estimate                ""]",Normalized from source parameter
+362397,Nhật Bản,population_total,present,True,"["" population_estimate                "", "" population_census                ""]",Normalized estimate from source parameter
 362397,Nhật Bản,area_km2,present,True,"["" area_km2                ""]",Normalized from source parameter
 362397,Nhật Bản,currencies,present,True,"["" currency                ""]",Normalized from source parameter
 362397,Nhật Bản,official_languages,explicit_none,True,"["" official_languages                ""]",Source explicitly states there is none
 362397,Nhật Bản,calling_codes,present,True,"["" calling_code                ""]",Normalized from source parameter
 24477,Singapore,capital,explicit_none,True,"["" capital                ""]",Source explicitly states there is no official capital
-24477,Singapore,population_total,present,True,"["" population_estimate                ""]",Normalized from source parameter
+24477,Singapore,population_total,present,True,"["" population_estimate                ""]",Normalized estimate from source parameter
 24477,Singapore,area_km2,present,True,"["" area_km2                ""]",Normalized from source parameter
 24477,Singapore,currencies,present,True,"["" currency                ""]",Normalized from source parameter
 24477,Singapore,official_languages,present,True,"["" official_languages                ""]",Normalized from source parameter
 24477,Singapore,calling_codes,present,True,"["" calling_code                ""]",Normalized from source parameter
 17669,Cộng hòa Nam Phi,capital,present,True,"["" capital                ""]",Normalized from source parameter
-17669,Cộng hòa Nam Phi,population_total,present,True,"["" population_estimate                ""]",Normalized from source parameter
+17669,Cộng hòa Nam Phi,population_total,present,True,"["" population_estimate                "", "" population_census                ""]",Normalized estimate from source parameter
 17669,Cộng hòa Nam Phi,area_km2,present,True,"["" area_km2                ""]",Normalized from source parameter
 17669,Cộng hòa Nam Phi,currencies,present,True,"["" currency                ""]",Normalized from source parameter
 17669,Cộng hòa Nam Phi,official_languages,present,True,"["" official_languages                ""]",Normalized from source parameter
 17669,Cộng hòa Nam Phi,calling_codes,present,True,"["" calling_code                ""]",Normalized from source parameter
 5185,Thụy Sĩ,capital,present,True,"["" capital                ""]",Normalized from source parameter
-5185,Thụy Sĩ,population_total,present,True,"["" population_estimate                ""]",Normalized from source parameter
+5185,Thụy Sĩ,population_total,present,True,"["" population_estimate                "", "" population_census                ""]",Normalized estimate from source parameter
 5185,Thụy Sĩ,area_km2,present,True,"["" area_km2                ""]",Normalized from source parameter
 5185,Thụy Sĩ,currencies,present,True,"["" currency                ""]",Normalized from source parameter
 5185,Thụy Sĩ,official_languages,present,True,"["" official_languages                ""]",Normalized from source parameter
 5185,Thụy Sĩ,calling_codes,present,True,"["" calling_code                ""]",Normalized from source parameter
+30160,Malaysia,capital,present,True,"["" capital                ""]",Normalized from source parameter
+30160,Malaysia,population_total,present,True,"["" population_estimate                "", "" population_census                ""]",Normalized estimate from source parameter
+30160,Malaysia,area_km2,present,True,"["" area_km2                ""]",Normalized from source parameter
+30160,Malaysia,currencies,present,True,"["" currency                ""]",Normalized from source parameter
+30160,Malaysia,official_languages,present,True,"["" languages                ""]",Normalized from contextual official-language type
+30160,Malaysia,calling_codes,present,True,"["" calling_code                ""]",Normalized from source parameter
+38179,Kenya,capital,present,True,"["" capital   ""]",Normalized from source parameter
+38179,Kenya,population_total,present,True,"["" population_estimate   "", "" population_census   ""]",Normalized estimate from source parameter
+38179,Kenya,area_km2,present,True,"["" area_km2   ""]",Normalized from source parameter
+38179,Kenya,currencies,present,True,"["" currency   ""]",Normalized from source parameter
+38179,Kenya,official_languages,present,True,"["" official_languages   ""]",Normalized from source parameter
+38179,Kenya,calling_codes,present,True,"["" calling_code   ""]",Normalized from source parameter
+37564,Cabo Verde,capital,present,True,"["" capital                ""]",Normalized from source parameter
+37564,Cabo Verde,population_total,present,True,"["" population_census                ""]",Normalized census from source parameter
+37564,Cabo Verde,area_km2,present,True,"["" area_km2                ""]",Normalized from source parameter
+37564,Cabo Verde,currencies,present,True,"["" currency                ""]",Normalized from source parameter
+37564,Cabo Verde,official_languages,present,True,"["" official_languages                ""]",Normalized from source parameter
+37564,Cabo Verde,calling_codes,source_missing,False,[],No configured source parameter in selected infobox
+38222,Zambia,capital,present,True,"["" capital                ""]",Normalized from source parameter
+38222,Zambia,population_total,present,True,"["" population_estimate                ""]",Normalized estimate from source parameter
+38222,Zambia,area_km2,present,True,"["" area_km2                ""]",Normalized from source parameter
+38222,Zambia,currencies,present,True,"["" currency                ""]",Normalized from source parameter
+38222,Zambia,official_languages,present,True,"["" official_languages                ""]",Normalized from source parameter
+38222,Zambia,calling_codes,present,True,"["" calling_code                ""]",Normalized from source parameter
+29600,Cuba,capital,present,True,"["" capital                ""]",Normalized from source parameter
+29600,Cuba,population_total,present,True,"["" population_estimate                "", "" population_census                ""]",Normalized estimate from source parameter
+29600,Cuba,area_km2,present,True,"["" area_km2                ""]",Normalized from source parameter
+29600,Cuba,currencies,present,True,"["" currency                ""]",Normalized from source parameter
+29600,Cuba,official_languages,present,True,"["" official_languages                ""]",Normalized from source parameter
+29600,Cuba,calling_codes,present,True,"["" calling_code                ""]",Normalized from source parameter
+39575,Gruzia,capital,present,True,"["" capital                ""]",Normalized from source parameter
+39575,Gruzia,population_total,ambiguous,True,"["" population_census                "", "" population_estimate                ""]","Multiple distinct plausible population values: [3694608, 4012104]"
+39575,Gruzia,area_km2,present,True,"["" area_km2                ""]",Normalized from source parameter
+39575,Gruzia,currencies,present,True,"["" currency                ""]",Normalized from source parameter
+39575,Gruzia,official_languages,present,True,"["" official_languages                ""]",Normalized from source parameter
+39575,Gruzia,calling_codes,present,True,"["" calling_code                ""]",Normalized from source parameter
+38772,Croatia,capital,present,True,"["" capital                     ""]",Normalized from source parameter
+38772,Croatia,population_total,present,True,"["" population_estimate         "", "" population_census           ""]",Normalized estimate from source parameter
+38772,Croatia,area_km2,present,True,"["" area_km2                    ""]",Normalized from source parameter
+38772,Croatia,currencies,present,True,"["" currency                    ""]",Normalized from source parameter
+38772,Croatia,official_languages,present,True,"["" official_languages          ""]",Normalized from source parameter
+38772,Croatia,calling_codes,present,True,"["" calling_code                ""]",Normalized from source parameter
+27667,Brasil,capital,present,True,"["" capital                ""]",Normalized from source parameter
+27667,Brasil,population_total,present,True,"["" population_estimate                "", "" population_census                ""]",Normalized estimate from source parameter
+27667,Brasil,area_km2,present,True,"["" area_km2                ""]",Normalized from source parameter
+27667,Brasil,currencies,present,True,"["" currency                ""]",Normalized from source parameter
+27667,Brasil,official_languages,present,True,"["" languages                ""]",Normalized from contextual official-language type
+27667,Brasil,calling_codes,present,True,"["" calling_code                ""]",Normalized from source parameter
+45377,Tunisia,capital,present,True,"["" capital                ""]",Normalized from source parameter
+45377,Tunisia,population_total,present,True,"["" population_estimate                "", "" population_census                ""]",Normalized estimate from source parameter
+45377,Tunisia,area_km2,present,True,"["" area_km2                ""]",Normalized from source parameter
+45377,Tunisia,currencies,present,True,"["" currency                ""]",Normalized from source parameter
+45377,Tunisia,official_languages,present,True,"["" official_languages                ""]",Normalized from source parameter
+45377,Tunisia,calling_codes,present,True,"["" calling_code                ""]",Normalized from source parameter
+37121,Sudan,capital,present,True,"["" capital                ""]",Normalized from source parameter
+37121,Sudan,population_total,present,True,"["" population_estimate                ""]",Normalized estimate from source parameter
+37121,Sudan,area_km2,present,True,"["" area_km2                ""]",Normalized from source parameter
+37121,Sudan,currencies,present,True,"["" currency                ""]",Normalized from source parameter
+37121,Sudan,official_languages,present,True,"["" official_languages                ""]",Normalized from source parameter
+37121,Sudan,calling_codes,present,True,"["" calling_code                ""]",Normalized from source parameter
+49103,Đài Loan,capital,present,True,"["" capital                ""]",Normalized from source parameter
+49103,Đài Loan,population_total,present,True,"["" population_estimate    "", "" population_census      ""]",Normalized estimate from source parameter
+49103,Đài Loan,area_km2,present,True,"["" area_km2                ""]",Normalized from source parameter
+49103,Đài Loan,currencies,present,True,"["" currency                ""]",Normalized from source parameter
+49103,Đài Loan,official_languages,source_missing,False,[],Language type does not clearly assert official status
+49103,Đài Loan,calling_codes,present,True,"["" calling_code                ""]",Normalized from source parameter
+38325,Grenada,capital,present,True,"["" capital                ""]",Normalized from source parameter
+38325,Grenada,population_total,present,True,"["" population_estimate    "", "" population_census      ""]",Normalized estimate from source parameter
+38325,Grenada,area_km2,present,True,"["" area_km2               ""]",Normalized from source parameter
+38325,Grenada,currencies,present,True,"["" currency               ""]",Normalized from source parameter
+38325,Grenada,official_languages,present,True,"["" official_languages     ""]",Normalized from source parameter
+38325,Grenada,calling_codes,present,True,"["" calling_code           ""]",Normalized from source parameter
+51249,Sénégal,capital,present,True,"["" capital   ""]",Normalized from source parameter
+51249,Sénégal,population_total,present,True,"["" population_estimate   "", "" population_census   ""]",Normalized estimate from source parameter
+51249,Sénégal,area_km2,present,True,"["" area_km2   ""]",Normalized from source parameter
+51249,Sénégal,currencies,present,True,"["" currency   ""]",Normalized from source parameter
+51249,Sénégal,official_languages,present,True,"["" official_languages   ""]",Normalized from source parameter
+51249,Sénégal,calling_codes,present,True,"["" calling_code   ""]",Normalized from source parameter
+71,Iraq,capital,present,True,"["" capital                ""]",Normalized from source parameter
+71,Iraq,population_total,present,True,"["" population_estimate                "", "" population_census                ""]",Normalized census from source parameter
+71,Iraq,area_km2,present,True,"["" area_km2                ""]",Normalized from source parameter
+71,Iraq,currencies,present,True,"["" currency                ""]",Normalized from source parameter
+71,Iraq,official_languages,present,True,"["" official_languages                ""]",Normalized from source parameter
+71,Iraq,calling_codes,present,True,"["" calling_code                ""]",Normalized from source parameter
+2093,Hà Lan,capital,present,True,"["" capital                     ""]",Normalized from source parameter
+2093,Hà Lan,population_total,present,True,"["" population_census           "", "" population_estimate         ""]",Normalized estimate from source parameter
+2093,Hà Lan,area_km2,present,True,"["" area_km2                    ""]",Normalized from source parameter
+2093,Hà Lan,currencies,present,True,"["" currency                    ""]",Normalized from source parameter
+2093,Hà Lan,official_languages,present,True,"["" official_languages          ""]",Normalized from source parameter
+2093,Hà Lan,calling_codes,present,True,"["" calling_code                ""]",Normalized from source parameter

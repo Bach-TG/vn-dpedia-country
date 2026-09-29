@@ -14,7 +14,7 @@ LOG = logging.getLogger(__name__)
 # Direct instances first. The fallback broadens the type hierarchy when the
 # primary response is small; both provenance strings remain visible in output.
 PRIMARY = """
-SELECT DISTINCT ?item ?viArticle ?enArticle WHERE {
+SELECT DISTINCT ?item ?type ?viArticle ?enArticle WHERE {
   VALUES ?type { wd:Q3624078 wd:Q6256 }
   ?item wdt:P31 ?type .
   FILTER NOT EXISTS { ?item wdt:P576 ?dissolved }
@@ -23,8 +23,9 @@ SELECT DISTINCT ?item ?viArticle ?enArticle WHERE {
 } ORDER BY ?item
 """
 FALLBACK = """
-SELECT DISTINCT ?item ?viArticle ?enArticle WHERE {
+SELECT DISTINCT ?item ?type ?viArticle ?enArticle WHERE {
   ?item wdt:P31/wdt:P279* wd:Q3624078 .
+  OPTIONAL { ?item wdt:P31 ?type . }
   FILTER NOT EXISTS { ?item wdt:P576 ?dissolved }
   ?viArticle schema:about ?item; schema:isPartOf <https://vi.wikipedia.org/> .
   OPTIONAL { ?enArticle schema:about ?item; schema:isPartOf <https://en.wikipedia.org/> . }
@@ -54,6 +55,9 @@ def _query(
                 else None,
                 discovery_method=method,
                 discovery_methods=[method],
+                instance_qids=[binding["type"]["value"].rsplit("/", 1)[-1]]
+                if "type" in binding
+                else [],
             )
         )
     return result
@@ -90,6 +94,9 @@ def deduplicate(candidates: list[CandidateCountry]) -> list[CandidateCountry]:
             for method in candidate.discovery_methods or [candidate.discovery_method]:
                 if method not in existing.discovery_methods:
                     existing.discovery_methods.append(method)
+            for qid in candidate.instance_qids:
+                if qid not in existing.instance_qids:
+                    existing.instance_qids.append(qid)
             continue
         unique.append(candidate)
         if not candidate.discovery_methods:

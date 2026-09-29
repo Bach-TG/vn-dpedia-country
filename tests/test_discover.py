@@ -1,4 +1,4 @@
-from vi_dbpedia_data.discover import deduplicate, discover, pilot_candidates
+from vi_dbpedia_data.discover import PRIMARY, _query, deduplicate, discover, pilot_candidates
 from vi_dbpedia_data.models import CandidateCountry
 from vi_dbpedia_data.utils import load_settings, read_json
 
@@ -82,3 +82,25 @@ def test_pilot_does_not_resample_a_redirected_reference():
     assert pilot[3].wikidata_id == "Q258"
     assert all(item.title_vi != "Cộng hòa Nam Phi" for item in pilot[5:])
     assert len({item.wikidata_id for item in pilot[5:]}) == 15
+
+
+def test_future_discovery_persists_instance_type_evidence_without_changing_inclusion():
+    class Client:
+        def get_json(self, _url, _params):
+            return {
+                "results": {
+                    "bindings": [
+                        {
+                            "item": {"value": "http://www.wikidata.org/entity/Q55"},
+                            "type": {"value": "http://www.wikidata.org/entity/Q6256"},
+                            "viArticle": {"value": "https://vi.wikipedia.org/wiki/Hà_Lan"},
+                        }
+                    ]
+                }
+            }
+
+    assert "?type" in PRIMARY
+    candidate = _query(Client(), load_settings(), PRIMARY, "direct")[0]
+    assert candidate.wikidata_id == "Q55"
+    assert candidate.instance_qids == ["Q6256"]
+    assert candidate.english_title_hint is None

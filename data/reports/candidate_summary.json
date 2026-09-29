@@ -1,0 +1,17 @@
+{
+  "candidate_count": 208,
+  "discovery_method_counts": {
+    "wikidata_direct_country_or_sovereign_state": 208
+  },
+  "instance_type_counts": {
+    "Q3624078": 197,
+    "Q6256": 207
+  },
+  "missing_instance_type_count": 0,
+  "potential_review_count": 12,
+  "review_reason_counts": {
+    "Country type alone does not establish sovereign-state status": 11,
+    "Title hints at a potentially borderline territorial scope": 2
+  },
+  "generation_timestamp": "2026-09-29T06:36:27.759053+00:00"
+}

@@ -236,3 +236,29 @@ def test_collision_report_preserves_all_source_variants(tmp_path):
     assert row["occurrence_count"] == "2"
     assert json.loads(row["raw_keys"]) == ["languages_type", "Languages type"]
     assert json.loads(row["raw_values"]) == ["Ngôn ngữ thiểu số", ""]
+
+
+def test_resource_ref_quality_reports_identity_targets_without_guessing(tmp_path):
+    record = CountryRecord(
+        page_id=7,
+        title_vi="Nguồn",
+        source_url="https://vi.wikipedia.org/wiki/Nguồn",
+        retrieved_at=datetime.now(UTC),
+        capital=[ResourceRef(label_vi="Thủ đô", wiki_title="Thủ đô")],
+        currencies=[ResourceRef(label_vi="Tiền địa phương", wiki_title=None)],
+        official_languages=[ResourceRef(label_vi="Ngôn ngữ", wiki_title="Tiếng Việt")],
+    )
+    write_json(tmp_path / "data/processed/countries.json", [record.model_dump(mode="json")])
+    summary = generate_reports(tmp_path)
+    rows = read_csv(tmp_path / "data/reports/resource_ref_quality.csv")
+    assert summary["total_resource_refs"] == len(rows) == 3
+    assert summary["resource_refs_with_wiki_title"] == 2
+    assert summary["resource_refs_without_wiki_title"] == 1
+    assert summary["resource_ref_wiki_title_coverage_percentage"] == 66.67
+    assert {row["canonical_field"] for row in rows} == {
+        "capital",
+        "currencies",
+        "official_languages",
+    }
+    assert rows[1]["has_wiki_title"] == "False"
+    assert rows[1]["wiki_title"] == ""

@@ -2,10 +2,11 @@
 
 import json
 import random
+import re
 from collections import Counter, defaultdict
 from pathlib import Path
 
-from vi_dbpedia_data.models import DOMAIN_FIELDS, CountryRecord
+from vi_dbpedia_data.models import DOMAIN_FIELDS, CandidateCountry, CountryRecord
 from vi_dbpedia_data.utils import (
     ROOT,
     normalize_key,
@@ -40,6 +41,94 @@ REVIEW_COLUMNS = [
     "review_status",
     "notes",
 ]
+RESOURCE_FIELDS = ("capital", "currencies", "official_languages")
+CANDIDATE_COLUMNS = [
+    "wikidata_id",
+    "vi_title",
+    "vi_url",
+    "en_title_hint",
+    "discovery_provenance",
+    "discovery_query_source",
+    "instance_qids",
+    "type_evidence",
+    "inclusion_reason",
+    "potential_review",
+    "review_reason",
+    "discovery_conflicts",
+]
+
+
+def generate_candidate_audit(root: Path = ROOT) -> dict:
+    """Audit the saved candidate universe offline; never resolve missing facts via HTTP."""
+    path = root / "data/candidates/countries.json"
+    candidates = (
+        [CandidateCountry.model_validate(row) for row in read_json(path)] if path.exists() else []
+    )
+    rows, type_counts, method_counts, reason_counts = [], Counter(), Counter(), Counter()
+    for candidate in candidates:
+        methods = candidate.discovery_methods or [candidate.discovery_method]
+        method_counts.update(methods)
+        type_counts.update(candidate.instance_qids)
+        reasons = []
+        types = set(candidate.instance_qids)
+        if not types:
+            reasons.append("Exact P31 type not saved in this candidate record")
+        elif "Q3624078" not in types:
+            reasons.append("Country type alone does not establish sovereign-state status")
+        if any("hierarchy" in method for method in methods):
+            reasons.append("Candidate found via broader subclass hierarchy")
+        if re.search(
+            r"\b(?:region|realm|territory|constituent|dependent|autonomous)\b|"
+            r"\b(?:vùng|lãnh thổ)\b",
+            f"{candidate.title_vi} {candidate.english_title_hint or ''}",
+            re.I,
+        ):
+            reasons.append("Title hints at a potentially borderline territorial scope")
+        if candidate.discovery_conflicts:
+            reasons.append("Conflicting QIDs or Vietnamese sitelinks during deduplication")
+        reason_counts.update(reasons)
+        direct = "wikidata_direct_country_or_sovereign_state" in methods
+        rows.append(
+            {
+                "wikidata_id": candidate.wikidata_id or "",
+                "vi_title": candidate.title_vi,
+                "vi_url": candidate.wikipedia_url or "",
+                "en_title_hint": candidate.english_title_hint or "",
+                "discovery_provenance": json.dumps(methods, ensure_ascii=False),
+                "discovery_query_source": "primary/direct P31"
+                if direct
+                else "fallback/sovereign-state subclass hierarchy",
+                "instance_qids": json.dumps(candidate.instance_qids, ensure_ascii=False),
+                "type_evidence": "exact P31 saved at discovery" if types else "query class only",
+                "inclusion_reason": (
+                    "Direct country (Q6256) or sovereign-state (Q3624078) P31, "
+                    "Vietnamese Wikipedia sitelink, no P576 dissolution"
+                )
+                if direct
+                else (
+                    "Sovereign-state subclass path, Vietnamese Wikipedia sitelink, "
+                    "no P576 dissolution"
+                ),
+                "potential_review": bool(reasons),
+                "review_reason": " | ".join(reasons),
+                "discovery_conflicts": json.dumps(
+                    candidate.discovery_conflicts, ensure_ascii=False
+                ),
+            }
+        )
+    out = root / "data/reports"
+    write_csv(out / "candidate_audit.csv", rows, CANDIDATE_COLUMNS)
+    summary = {
+        "candidate_count": len(candidates),
+        "discovery_method_counts": dict(sorted(method_counts.items())),
+        "instance_type_counts": dict(sorted(type_counts.items())),
+        "missing_instance_type_count": sum(not item.instance_qids for item in candidates),
+        "potential_review_count": sum(row["potential_review"] for row in rows),
+        "review_reason_counts": dict(sorted(reason_counts.items())),
+        "generation_timestamp": utc_now().isoformat(),
+    }
+    write_json(out / "candidate_summary.json", summary)
+    return summary
 
 
 def _debug_rows(records: list[CountryRecord], interim: list[dict]) -> list[dict | None]:
@@ -124,6 +213,7 @@ def field_coverage(records: list[CountryRecord], interim: list[dict] | None = No
 def generate_reports(root: Path = ROOT) -> dict:
     records, interim, manifest, structural = load_pipeline(root)
     results = validate_dataset(root)
+    candidate_audit = generate_candidate_audit(root)
     coverage = field_coverage(records, interim)
     counts = Counter(result.status for result in results)
     duplicate_ids, duplicate_titles = duplicates(records)
@@ -136,6 +226,32 @@ def generate_reports(root: Path = ROOT) -> dict:
     }
     all_titles = duplicate_titles | {key for key, value in raw_titles.items() if value > 1}
     candidate_path = root / "data/candidates/countries.json"
+    resource_rows = [
+        {
+            "page_id": record.page_id,
+            "title_vi": record.title_vi,
+            "canonical_field": field,
+            "label_vi": ref.label_vi,
+            "wiki_title": ref.wiki_title,
+            "has_wiki_title": bool(ref.wiki_title),
+        }
+        for record in records
+        for field in RESOURCE_FIELDS
+        for ref in getattr(record, field)
+    ]
+    resource_with_title = sum(row["has_wiki_title"] for row in resource_rows)
+    write_csv(
+        root / "data/reports/resource_ref_quality.csv",
+        resource_rows,
+        ["page_id", "title_vi", "canonical_field", "label_vi", "wiki_title", "has_wiki_title"],
+    )
+    templates_path = root / "data/reports/infobox_templates.csv"
+    templates = read_csv(templates_path) if templates_path.exists() else []
+    template_counts = (
+        dict(sorted(Counter(row["selection_method"] for row in templates).items()))
+        if {row["page_id"] for row in templates} == {str(record.page_id) for record in records}
+        else {}
+    )
     summary = {
         "candidate_count": len(read_json(candidate_path))
         if candidate_path.exists()
@@ -160,6 +276,16 @@ def generate_reports(root: Path = ROOT) -> dict:
             for row in coverage
             if row["field"] in DOMAIN_FIELDS
         },
+        "total_resource_refs": len(resource_rows),
+        "resource_refs_with_wiki_title": resource_with_title,
+        "resource_refs_without_wiki_title": len(resource_rows) - resource_with_title,
+        "resource_ref_wiki_title_coverage_percentage": round(
+            100 * resource_with_title / len(resource_rows), 2
+        )
+        if resource_rows
+        else 0.0,
+        "template_selection_counts": template_counts,
+        "candidate_audit_potential_review_count": candidate_audit["potential_review_count"],
         "generation_timestamp": utc_now().isoformat(),
     }
     out = root / "data/reports"
@@ -299,6 +425,7 @@ def generate_reports(root: Path = ROOT) -> dict:
             "not_found",
             "ambiguous_alias",
             "ambiguous_heuristic",
+            "ambiguous_candidate_alias",
         }
     )
     write_csv(

@@ -32,7 +32,9 @@ FREQUENCY_COLUMNS = [
 LOG = logging.getLogger(__name__)
 
 
-def select_infobox(wikitext: str, settings: Settings) -> tuple[object | None, str, list[str]]:
+def select_infobox(
+    wikitext: str, settings: Settings, *, country_candidate: bool = False
+) -> tuple[object | None, str, list[str]]:
     """Select an exact configured alias first; never guess from an unrelated template."""
     templates = mwparserfromhell.parse(wikitext).filter_templates(recursive=False)
     aliases = {normalize_key(alias) for alias in settings.infobox_template_aliases}
@@ -52,6 +54,19 @@ def select_infobox(wikitext: str, settings: Settings) -> tuple[object | None, st
     ]
     if len(likely) == 1:
         return likely[0], "name_heuristic", names
+    if country_candidate and not likely:
+        fallback_aliases = {
+            normalize_key(alias) for alias in settings.candidate_infobox_template_aliases
+        }
+        fallback = [
+            template
+            for template in templates
+            if normalize_key(str(template.name)) in fallback_aliases
+        ]
+        if len(fallback) == 1:
+            return fallback[0], "candidate_template_alias", names
+        if len(fallback) > 1:
+            return None, "ambiguous_candidate_alias", names
     return None, "ambiguous_heuristic" if likely else "not_found", names
 
 
@@ -104,7 +119,9 @@ def inspect_pages(pages: list[RawPage], settings: Settings, root: Path) -> dict:
         if page.page_id in seen:
             continue
         seen.add(page.page_id)
-        selected, method, names = select_infobox(page.wikitext, settings)
+        selected, method, names = select_infobox(
+            page.wikitext, settings, country_candidate=bool(page.candidate_wikidata_id)
+        )
         template_name = str(selected.name).strip() if selected else ""
         templates.append(
             {

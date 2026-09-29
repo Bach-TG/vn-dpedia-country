@@ -1,0 +1,81 @@
+# Offline excerpts from the existing data/raw/pages/ pilot files. No HTTP needed.
+Malaysia: |
+  {{Infobox country
+  | capital = [[File:Coat of Arms of Kuala Lumpur.svg|22px]][[Kuala Lumpur]]{{refn|group=fn|Thủ đô lập hiến, nghi lễ và lập pháp; xem [[Tài liệu]]}}
+  | languages_type = Ngôn ngữ quốc gia (chính thức)
+  | languages = [[Tiếng Malaysia]]{{efn|Section 9 of the [[National Language Act 1963/67]] states the official usage}}
+  | population_estimate = 34,564,810
+  | population_estimate_year = 2024
+  | area_km2 = 330,803
+  | currency = [[Ringgit]] (RM)
+  | calling_code = [[+60]]
+  }}
+Brasil: |
+  {{Hộp thông tin quốc gia
+  | capital = [[Tập tin:Brasão do Distrito Federal (Brasil).svg|24px]] [[Brasília]]{{ref|a|a}}<br />{{Coord|15|45|S|47|57|W|type:city}}
+  | languages_type = [[Ngôn ngữ chính thức]]<br/>{{nobold|và ngôn ngữ quốc gia}}
+  | languages = [[Tiếng Bồ Đào Nha]] ([[Tiếng Bồ Đào Nha Brasil|Phương ngữ Brasil]])
+  | population_estimate = 212,583,750
+  | population_estimate_year = 2024
+  | area_km2 = 8515767
+  | currency = [[Real Brasil]] (R$)
+  | calling_code = [[Số điện thoại ở Brasil|+55]]
+  }}
+Cabo Verde: |
+  {{Hộp thông tin quốc gia
+  | capital = [[Praia]]
+  | official_languages = [[Tiếng Bồ Đào Nha]]
+  | population_census = 527.326<ref name="totpop" />
+  | population_census_year = 2025
+  | area_km2 = 4033
+  | currency = [[Escudo Cabo Verde]]
+  }}
+Iraq: |
+  {{Infobox country
+  | capital = [[Bagdad]]
+  | population_estimate =
+  | population_census = 46,118,793<ref>{{chú thích web|title=Census}}</ref>
+  | population_census_year = 2024
+  | area_km2 = 437,072
+  | currency = [[Đồng dinar của Iraqi]]
+  | official_languages = {{hlist|[[Tiếng Ả Rập chuẩn|Ả Rập]]|[[Tiếng Kurd|Kurd]]}}
+  | calling_code = [[Số điện thoại ở Iraq|+964]]
+  }}
+Gruzia: |
+  {{Infobox country
+  | capital = [[Tbilisi]]
+  | population_estimate = {{DecreaseNeutral}} 3,694,608{{Ref label|population|a|}}<ref>{{cite web|title=Demographic Portal}}</ref><br />4,012,104{{Ref label|population2|b|}}
+  | population_estimate_year = 2024
+  | population_census = 3,713,804<ref name="2014 Census" />
+  | population_census_year = 2014
+  | area_km2 = 69,700
+  | currency = [[Lari Gruzia]] (₾)
+  | official_languages = [[Tiếng Gruzia]]
+  | calling_code = [[+995]]
+  }}
+Hà Lan: |
+  {{Infobox political division
+  | name = Hà Lan
+  | settlement_type = [[Vương quốc Hà Lan|Quốc gia cấu thành Vương quốc Hà Lan]]
+  | official_languages = [[Tiếng Hà Lan]]
+  | languages_type = [[Ngôn ngữ khu vực]]
+  | languages = {{hlist|[[Tiếng Tây Frisia]]|[[Papiamento]]}}
+  | capital = [[Amsterdam]]{{efn|Amsterdam là thủ đô theo hiến pháp}}
+  | population_estimate = {{IncreaseNeutral}} 18.420.100<ref name="Counter" />
+  | population_estimate_year = 2025
+  | population_census = 16.655.799
+  | population_census_year = 2011
+  | area_km2 = 41865<ref>{{cite web|title=Area}}</ref>
+  | currency = {{hlist|[[Euro]] (€) ([[ISO 4217|EUR]])|[[đô la Mỹ]] ($) ([[ISO 4217|USD]]){{efn|[[Đồng guilder]] trước đây}}}}
+  | calling_code = [[Telephone numbers in the Netherlands|+31]], [[Telephone numbers in Curaçao and the Caribbean Netherlands|+599]]{{efn|+599 ở Caribe}}
+  }}
+Đài Loan: |
+  {{Hộp thông tin quốc gia
+  | capital = [[Đài Bắc]]
+  | languages_type = [[Ngôn ngữ quốc gia]]{{efn|Định nghĩa pháp lý}}
+  | languages = [[Tiếng Quan thoại Đài Loan|Tiếng Quan thoại]]
+  | area_km2 = 36197
+  | population_estimate = 23,396,049
+  | currency = [[Tân Đài tệ]]
+  | calling_code = [[Số điện thoại ở Đài Loan|+886]]
+  }}

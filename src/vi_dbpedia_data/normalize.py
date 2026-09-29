@@ -12,9 +12,9 @@ from vi_dbpedia_data.utils import article_url
 _REF = re.compile(r"<ref\b[^>]*>.*?</ref\s*>|<ref\b[^>]*/\s*>", re.I | re.S)
 _FORMATNUM = re.compile(r"\{\{\s*formatnum\s*:\s*([\d.,\s]+?)\s*\}\}", re.I)
 _NUMBER = re.compile(r"^-?\d[\d., \u00a0]*$")
-_NOTE_TEMPLATES = {"efn", "sfn"}
+_NOTE_TEMPLATES = {"efn", "sfn", "ref", "refn", "ref label"}
 _LIST_TEMPLATES = {"plainlist", "unbulleted list", "ublist", "hlist"}
-_DECORATION_TEMPLATES = {"transl", "nihongo2", "\\"}
+_DECORATION_TEMPLATES = {"transl", "nihongo2", "\\", "coord"}
 
 
 def clean_text(value: str) -> str:
@@ -26,6 +26,23 @@ def clean_text(value: str) -> str:
 
 def plain_text(value: str) -> str:
     return re.sub(r"\s+", " ", mwparserfromhell.parse(clean_text(value)).strip_code()).strip()
+
+
+def indicates_official_languages(value: str) -> bool:
+    """The type label, not the generic `languages` key, must assert official status."""
+    text = unicodedata.normalize("NFC", plain_text(value)).casefold()
+    return (
+        bool(re.search(r"ngôn\s+ngữ|tiếng", text))
+        and bool(re.search(r"chính\s+thức", text))
+        and not bool(re.search(r"(?:không|phi)\s+chính\s+thức", text))
+        and not bool(
+            re.search(
+                r"công\s+nhận|recognised|recognized|thiểu\s+số|minority|"
+                r"khu\s+vực|regional",
+                text,
+            )
+        )
+    )
 
 
 def explicit_none_reason(field: str, value: str) -> str | None:
@@ -94,13 +111,21 @@ def resources(value: str) -> list[ResourceRef]:
         for link in links:
             target = clean_text(str(link.title)).split("#", 1)[0].strip()
             normalized = target.replace("_", " ").casefold()
-            if not target or normalized.startswith(("file:", "tập tin:", "category:", "thể loại:")):
+            if not target or normalized.startswith(
+                ("file:", "tập tin:", "image:", "category:", "thể loại:")
+            ):
                 continue
-            if normalized in {"de facto", "de jure"}:
+            if normalized in {"de facto", "de jure", "iso 4217"}:
                 continue
             label = (
                 plain_text(str(link.text)) if link.text is not None else target.replace("_", " ")
             )
+            # A parenthetical dialect label qualifies the preceding language;
+            # it is not another official language in the same source field.
+            if re.match(r"(?:phương ngữ|dialect)\b", label, re.I) and re.search(
+                rf"\(\s*{re.escape(str(link))}\s*\)", str(code)
+            ):
+                continue
             if label:
                 refs.append(ResourceRef(label_vi=label, wiki_title=target.replace("_", " ")))
         return [
@@ -183,6 +208,15 @@ def _number(value: str, *, decimal: bool) -> float | int | None:
 def population(value: str) -> int | None:
     number = _number(_numeric_text(value), decimal=False)
     return number if isinstance(number, int) else None
+
+
+def population_options(value: str) -> list[int] | None:
+    """Parse explicit <br>-separated scalar alternatives without choosing one."""
+    parts = re.split(r"<br\s*/?>", value, flags=re.I)
+    if len(parts) < 2:
+        return None
+    numbers = [population(part) for part in parts]
+    return numbers if all(number is not None for number in numbers) else None
 
 
 def area(value: str) -> float | None:
