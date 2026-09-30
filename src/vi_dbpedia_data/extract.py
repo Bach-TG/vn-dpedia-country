@@ -21,6 +21,7 @@ from vi_dbpedia_data.normalize import (
     population,
     population_options,
     resources,
+    semantic_ambiguity,
 )
 from vi_dbpedia_data.utils import ROOT, Settings, load_mapping, normalize_key, write_json
 
@@ -174,8 +175,25 @@ def extract_page(
         elif reason := explicit_none_reason(field, selected_raw):
             interim["parse_status"][field] = "explicit_none"
             interim["field_reasons"][field] = reason
+        elif reason := semantic_ambiguity(field, selected_raw):
+            interim["parse_status"][field] = "ambiguous"
+            interim["field_reasons"][field] = reason
+            interim["parse_errors"].append(f"{field}: {reason}")
         else:
-            parsed = PARSERS[spec["type"]](selected_raw)
+            parsed = (
+                resources(selected_raw, field=field)
+                if spec["type"] == "resource_list"
+                else PARSERS[spec["type"]](selected_raw)
+            )
+            if spec["type"] == "area_km2" and spec.get("crosscheck_sq_mi_aliases"):
+                crosschecks = _matching(source_occurrences, spec["crosscheck_sq_mi_aliases"])
+                available = {
+                    item["raw_value"].strip() for item in crosschecks if item["raw_value"].strip()
+                }
+                if len(available) == 1:
+                    source = next(item for item in crosschecks if item["raw_value"].strip())
+                    provenance["crosscheck_sq_mi"] = source
+                    parsed = area(selected_raw, sq_mi_raw=source["raw_value"])
             if parsed is None and spec["type"] == "integer":
                 options = population_options(selected_raw)
                 if options and len(set(options)) > 1:
@@ -189,7 +207,12 @@ def extract_page(
                     parsed = options[0]
             if parsed is None or parsed == []:
                 interim["parse_status"][field] = "parse_failed"
-                interim["field_reasons"][field] = "Source value cannot be safely normalized"
+                detail = (
+                    "Unresolved template or parser-function value in source"
+                    if "{{" in selected_raw or "#property:" in selected_raw.casefold()
+                    else "Source value cannot be safely normalized"
+                )
+                interim["field_reasons"][field] = detail
                 interim["parse_errors"].append(f"{field}: cannot parse {selected_raw!r}")
             else:
                 interim["parse_status"][field] = "present"

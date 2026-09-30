@@ -1,8 +1,10 @@
 """Inspect country templates and retain all original parameter spelling/value text."""
 
 import logging
+import re
 from collections import Counter, defaultdict
 from pathlib import Path
+from types import SimpleNamespace
 
 import mwparserfromhell
 from pydantic import ValidationError
@@ -32,6 +34,84 @@ FREQUENCY_COLUMNS = [
 LOG = logging.getLogger(__name__)
 
 
+def _has_country_parameters(template: object, settings: Settings) -> bool:
+    evidence = {normalize_key(key) for key in settings.infobox_evidence_keys}
+    return (
+        len(template.params) >= 5
+        and sum(normalize_key(str(param.name)) in evidence for param in template.params) >= 2
+    )
+
+
+def _recover_lead_infobox(wikitext: str, settings: Settings) -> object | None:
+    """Bound a malformed lead infobox; never scan country-like prose/navigation.
+
+    MediaWiki's AST sometimes exposes a source infobox as Text when broken
+    inline markup inside it prevents a whole-page parse. Use its stand-alone
+    closing line and brace/link depth to recover *parameters*, not prose.
+    """
+    aliases = {normalize_key(name) for name in settings.infobox_template_aliases}
+    starts = [
+        match
+        for match in re.finditer(r"(?m)^\s*\{\{([^\n|{}]+)", wikitext[:2500])
+        if normalize_key(match[1]) in aliases
+    ]
+    if len(starts) != 1:
+        return None
+    start = starts[0]
+    end = re.search(r"(?m)^\s*\}\}\s*$", wikitext[start.start() : start.start() + 30000])
+    if end is None:
+        return None
+    fragment = wikitext[start.start() : start.start() + end.end()]
+    parsed = [
+        template
+        for template in mwparserfromhell.parse(fragment).filter_templates(recursive=False)
+        if normalize_key(str(template.name)) in aliases
+        and _has_country_parameters(template, settings)
+    ]
+    if len(parsed) == 1:
+        return parsed[0]
+
+    # Keep offsets while ignoring braces/pipes in HTML comments.
+    masked = re.sub(r"<!--.*?-->", lambda match: " " * len(match[0]), fragment, flags=re.S)
+    boundaries, depth, link_depth, position = [], 0, 0, 0
+    while position < len(masked) - 1:
+        pair = masked[position : position + 2]
+        if pair == "{{":
+            depth += 1
+            position += 2
+        elif pair == "}}":
+            depth -= 1
+            position += 2
+        elif pair == "[[":
+            link_depth += 1
+            position += 2
+        elif pair == "]]":
+            link_depth = max(0, link_depth - 1)
+            position += 2
+        else:
+            if (
+                masked[position] == "|"
+                and depth == 1
+                and link_depth == 0
+                and (position == 0 or masked[position - 1] == "\n")
+            ):
+                boundaries.append(position)
+            position += 1
+    params = []
+    for index, offset in enumerate(boundaries):
+        value = fragment[
+            offset + 1 : boundaries[index + 1]
+            if index + 1 < len(boundaries)
+            else fragment.rfind("}}")
+        ]
+        if "=" not in value.split("\n", 1)[0]:
+            continue
+        key, raw_value = value.split("=", 1)
+        params.append(SimpleNamespace(name=key, value=raw_value))
+    template = SimpleNamespace(name=start[1].strip(), params=params)
+    return template if depth == 0 and _has_country_parameters(template, settings) else None
+
+
 def select_infobox(
     wikitext: str, settings: Settings, *, country_candidate: bool = False
 ) -> tuple[object | None, str, list[str]]:
@@ -44,6 +124,8 @@ def select_infobox(
         return exact[0], "configured_alias", names
     if len(exact) > 1:
         return None, "ambiguous_alias", names
+    if recovered := _recover_lead_infobox(wikitext, settings):
+        return recovered, "recovered_lead_infobox", names
     likely = [
         template
         for template in templates
@@ -52,6 +134,7 @@ def select_infobox(
             for word in ("country", "quốc_gia", "quoc_gia")
         )
     ]
+    likely = [template for template in likely if _has_country_parameters(template, settings)]
     if len(likely) == 1:
         return likely[0], "name_heuristic", names
     if country_candidate and not likely:

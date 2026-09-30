@@ -7,6 +7,7 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 from vi_dbpedia_data.models import DOMAIN_FIELDS, CandidateCountry, CountryRecord
+from vi_dbpedia_data.sanity import sanity_issues
 from vi_dbpedia_data.utils import (
     ROOT,
     normalize_key,
@@ -216,6 +217,18 @@ def generate_reports(root: Path = ROOT) -> dict:
     candidate_audit = generate_candidate_audit(root)
     coverage = field_coverage(records, interim)
     counts = Counter(result.status for result in results)
+    field_status_counts = Counter(
+        entry.get("parse_status", {}).get(field)
+        for entry in interim
+        for field in DOMAIN_FIELDS
+        if entry.get("parse_status", {}).get(field)
+    )
+    parse_failed_by_field = Counter(
+        field
+        for entry in interim
+        for field in DOMAIN_FIELDS
+        if entry.get("parse_status", {}).get(field) == "parse_failed"
+    )
     duplicate_ids, duplicate_titles = duplicates(records)
     raw_ids = Counter(row["page_id"] for row in manifest if row.get("page_id"))
     raw_titles = Counter(
@@ -240,10 +253,17 @@ def generate_reports(root: Path = ROOT) -> dict:
         for ref in getattr(record, field)
     ]
     resource_with_title = sum(row["has_wiki_title"] for row in resource_rows)
+    sanity_rows = sanity_issues(records)
+    sanity_counts = Counter(row["category"] for row in sanity_rows)
     write_csv(
         root / "data/reports/resource_ref_quality.csv",
         resource_rows,
         ["page_id", "title_vi", "canonical_field", "label_vi", "wiki_title", "has_wiki_title"],
+    )
+    write_csv(
+        root / "data/reports/sanity_issues.csv",
+        sanity_rows,
+        ["page_id", "title_vi", "canonical_field", "category", "value"],
     )
     templates_path = root / "data/reports/infobox_templates.csv"
     templates = read_csv(templates_path) if templates_path.exists() else []
@@ -276,6 +296,8 @@ def generate_reports(root: Path = ROOT) -> dict:
             for row in coverage
             if row["field"] in DOMAIN_FIELDS
         },
+        "field_status_counts": dict(sorted(field_status_counts.items())),
+        "parse_failed_by_field": dict(sorted(parse_failed_by_field.items())),
         "total_resource_refs": len(resource_rows),
         "resource_refs_with_wiki_title": resource_with_title,
         "resource_refs_without_wiki_title": len(resource_rows) - resource_with_title,
@@ -286,6 +308,8 @@ def generate_reports(root: Path = ROOT) -> dict:
         else 0.0,
         "template_selection_counts": template_counts,
         "candidate_audit_potential_review_count": candidate_audit["potential_review_count"],
+        "sanity_issue_count": len(sanity_rows),
+        "sanity_issue_categories": dict(sorted(sanity_counts.items())),
         "generation_timestamp": utc_now().isoformat(),
     }
     out = root / "data/reports"

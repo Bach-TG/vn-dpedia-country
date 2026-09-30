@@ -20,6 +20,16 @@ infobox_template_aliases:
   - Infobox country
   - Quốc gia
   - Tóm tắt về quốc gia
+# Evidence for heuristic selection / recovery of a malformed lead template.
+# A navigation template bearing a country-like name has no such parameters.
+infobox_evidence_keys:
+  - capital
+  - population_estimate
+  - population_census
+  - area_km2
+  - currency
+  - official_languages
+  - calling_code
 # Only for pages explicitly collected from country-domain discovery; never a
 # generic assertion that every political division is a country.
 candidate_infobox_template_aliases:

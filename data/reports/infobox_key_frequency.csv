@@ -1,507 +1,863 @@
 normalized_key,occurrence_count,page_count,coverage_percentage,example_raw_keys,example_values
-1,2,2,10.0,1,"
+1,7,7,3.55,1,"
  | Tổng thống:[[Lại Thanh Đức]]
+ | {{efn|[[Tiếng Đan Mạch]], [[Tiếng Hạ Đức|Hạ Đức]], [[Nhóm ngôn ngữ Sorb|Sorb]], [[Tiếng Digan|Digan]], và [[Nhóm ngôn ngữ Frisia|Frisia]] cũng được công nhận dựa trên [[Hiến chương châu Âu về ngôn ngữ địa phương hoặc của dân tộc thiểu số]].<ref>{{chú thích web|url=https://blogs.loc.gov/law/2018/09/the-protection-of-minority-and-regional-languages-in-germany/|publisher=Library of Congress|last=Gesley|first=Jenny|title=The Protection of Minority and Regional Languages in Germany|date=ngày 26 tháng 9 năm 2018|archive-url=https://web.archive.org/web/20200525092638/https://blogs.loc.gov/law/2018/09/the-protection-of-minority-and-regional-languages-in-germany/|archive-date=ngày 25 tháng 5 năm 2020|url-status=live}}</ref>}}
 "
-2,1,1,5.0,2,"
+2,1,1,0.51,2,"
 "
-3,1,1,5.0,3,"
+3,1,1,0.51,3,"
 "
-4,1,1,5.0,4,"
+4,1,1,0.51,4,"
 "
-5,1,1,5.0,5,"
+5,1,1,0.51,5,"
 "
-6,1,1,5.0,6,"
+6,1,1,0.51,6,"
 "
-7,1,1,5.0,7,"
+7,1,1,0.51,7,"
 "
-8,1,1,5.0,8,"
+8,1,1,0.51,8,"
 "
-9,1,1,5.0,9,"
+9,1,1,0.51,9,"
 "
-admin_center,2,2,10.0, admin_center                ," [[Den Haag]]{{efn|name=central_cities}}
+admin_center,4,4,2.03, admin_center                ," [[Aden]]{{refn|group=""n""|Claimed by the [[Presidential Leadership Council]] as its [[temporary capital|provisional capital]].<ref>{{cite news |last1=Al-Sakani |first1=Ali |title=Yemen inaugurates new presidential council |url=https://www.aljazeera.com/news/2022/4/19/yemen-inaugurates-new-presidential-council |access-date=8 May 2022 |work=[[Al Jazeera Arabic|Al Jazeera]] |date=19 April 2022 |quote=Yemen's Prime Minister Maeen Abdulmalik Saeed, along with other senior government officials, had also arrived in Aden, which serves as Yemen's temporary capital, before the swearing-in ceremony. |archive-date=8 May 2022 |archive-url=https://web.archive.org/web/20220508025532/https://www.aljazeera.com/news/2022/4/19/yemen-inaugurates-new-presidential-council |url-status=live }}</ref>}}
+ |  [[Den Haag]]{{efn|name=central_cities}}
  |  [[File:Coat of arms of Putrajaya.svg|22px]][[Putrajaya]]{{refn|group=fn|Hành chính và tư pháp}}<br />{{coord|2|56|N|101|42|E|region:MY|display=inline}}
 "
-admin_center_type,2,2,10.0, admin_center_type            |  admin_center_type                ," Trụ sở chính phủ
+admin_center_type,3,3,1.52, admin_center_type            |  admin_center_type                ," Trụ sở chính phủ
 "
-alt_coat,6,6,30.0, alt_coat                ," 
- |  Golden circle subdivided by golden wedges with rounded outer edges and thin black outlines.
- |  Hình tròn màu vàng được phân chia bởi các hình nêm màu vàng có các cạnh ngoài tròn cùng viền mỏng màu đen.
+alt_coat,17,17,8.63, alt_coat    |  alt_coat                ," 
+ |  <!--văn bản thay thế cho huy hiệu-->
+ |  Ba con sư tử quay mặt sang trái, phải và về phía người xem, trên đỉnh phù điêu có một con ngựa đang phi nước đại, một bánh xe 24 chấu và một con voi. Bên dưới là một phương châm: ""सत्यमेव जयते"".
 "
-alt_flag,4,4,20.0, alt_flag                ," 
- |  Hình tròn màu đỏ nằm ở trung tâm một hình chữ nhật màu trắng.
- |  Một hình chữ nhật màu xanh với một ngôi sao vàng và hình lưỡi liềm ở góc trên bên trái, phần còn lại của lá cờ có 14 sọc ngang đỏ và trắng.
+alt_flag,25,25,12.69, alt_flag    |  alt_flag                |  alt_flag                ," 
+ |  <!--văn bản thay thế cho cờ (văn bản hiển thị khi con trỏ di chuyển trên cờ)-->
+ |  A flag featuring both cross and saltire in red, white and blue
 "
-alt_map,2,2,10.0, alt_map                ," 
+alt_flag2,1,1,0.51, alt_flag2                ," <!--văn bản thay thế cho cờ thứ hai-->
 "
-anthem,2,2,10.0, anthem                      ," ""[[Lijepa naša domovino]]""<br />(""Quê hương tươi đẹp của chúng ta"")<br /><div style=""display:inline-block;margin-top:0.4em;"">[[File:Lijepa nasa domovino instrumental.ogg|center]]</div>
+alt_map,16,16,8.12, alt_map                 |  alt_map                  ," 
+ |  <!--văn bản thay thế cho bản đồ-->
+ |  Bản đồ bán cầu có tâm ở New Zealand, sử dụng phép chiếu trực quan.
+"
+alt_map2,3,3,1.52, alt_map2                ," 
+ |  <!--văn bản thay thế cho bản đồ thứ hai-->
+ |  Hoa Kỳ và [[Các lãnh thổ của Hoa Kỳ|lãnh thổ hải ngoại]]
+"
+alt_map3,1,1,0.51, alt_map3                ," <!--văn bản thay thế cho vị trí bản đồ thứ ba-->
+"
+alt_symbol,1,1,0.51, alt_symbol                ," 
+"
+anthem,3,3,1.52, anthem                 |  anthem                      ," ""[[Lijepa naša domovino]]""<br />(""Quê hương tươi đẹp của chúng ta"")<br /><div style=""display:inline-block;margin-top:0.4em;"">[[File:Lijepa nasa domovino instrumental.ogg|center]]</div>
+ |  {{lang|ko|애국가}}<br/>{{transl|ko|[[Aegukga (Hàn Quốc)|Aegukga]]}}<br/>Ái quốc ca{{parabr}}{{center|[[Tập tin:National anthem of South Korea, performed by the United States Navy Band.wav]]}}
  |  {{native name|nl|[[Wilhelmus]]|link=on}}<br />(''""William of Nassau""'')<br /><div style=""display:inline-block;margin-top:0.4em;"">{{center|[[File:United States Navy Band - Het Wilhelmus (tempo corrected).ogg]]}}</div>
 "
-antipodes,2,2,10.0, antipodes                ," 
+antipodes,4,4,2.03, antipodes                ," 
+ |  <!--Đặt chính xác ở phía đối diện của thế giới với quốc gia/lãnh thổ-->
 "
-area_data2,1,1,5.0, area_data2                ," 331.212 [[Kilômét vuông|km{{smallsup|2}}]]<br/>127.882 [[Dặm vuông|mi{{smallsup|2}}]]
+area,2,2,1.02, area                ," 
+ |  <!--Kích thước diện tích chính (trong [[Bản mẫu:convert]] hoặc km2 hoặc sqmi đầu tiên)-->
 "
-area_footnote,9,9,45.0, area_footnote    |  area_footnote                ," 
- |  <ref name=""area"">{{cite web |url=http://unstats.un.org/unsd/demographic/products/dyb/DYB2004/Table03.pdf |title=Population by sex, rate of population increase, surface area and density |author=United Nations Statistics Division |access-date=9 November 2007 |archive-date=31 October 2007 |archive-url=https://web.archive.org/web/20071031023924/http://unstats.un.org/unsd/demographic/products/dyb/DYB2004/Table03.pdf |url-status=live }}</ref>
- |  <ref name=""area-2019"">{{chú thích web|script-title=ja:令和元年全国都道府県市区町村別面積調 (10月1日時点)|url=https://www.gsi.go.jp/KOKUJYOHO/MENCHO201910-index.html|trans-title=Reiwa 1 nationwide area survey by prefectures and municipalities (as of October 1)
-|publisher=[[Geospatial Information Authority of Japan]]|language=ja|date=December 26, 2019|archiveurl=https://web.archive.org/web/20200415123703/https://www.gsi.go.jp/KOKUJYOHO/MENCHO201910-index.html|archivedate=April 15, 2020|url-status=dead }}</ref>
+area_data2,10,10,5.08, area_data2    |  area_data2                ," 3.531.905 dặm vuông Anh (9.147.590 km²)
+ |  331.212 [[Kilômét vuông|km{{smallsup|2}}]]<br/>127.882 [[Dặm vuông|mi{{smallsup|2}}]]
+ |  4,85
 "
-area_km2,20,20,100.0, area_km2    |  area_km2                |  area_km2                ," 110.860<ref>{{Cite web|url=https://www.cia.gov/the-world-factbook/countries/cuba/#geography|title=Cuba|date=20 February 2023|publisher=Central Intelligence Agency|access-date=20 November 2023|archive-date=12 August 2021|archive-url=https://web.archive.org/web/20210812170744/https://www.cia.gov/the-world-factbook/countries/cuba/#geography|url-status=live}}</ref>
- |  1221037
- |  163610
+area_data3,2,2,1.02, area_data3                ," 365{{spaces}}km{{smallsup|2}}<ref>{{Chú thích web|url=https://www.cia.gov/the-world-factbook/countries/gaza-strip/ |title=The World Factbook: Middle East: Gaza Strip |publisher=Central Intelligence Agency |date=12 May 2014 |access-date=8 June 2014 |archive-date=2021-01-12|archive-url=https://web.archive.org/web/20210112082940/https://www.cia.gov/the-world-factbook/countries/gaza-strip |url-status=live }}</ref>
+ |  {{convert|543.940,9|km2|sqmi|abbr=on}}<wbr/>{{efn-ur|name=four|Dữ liệu [[Đăng ký đất đai]] của Pháp, loại trừ hồ, ao và [[sông băng]] lớn hơn 1&nbsp;km² (0.386&nbsp;mi² hoặc 247&nbsp;mẫu Anh) cũng như các cửa sông.}}<wbr/><ref>{{chú thích tạp chí |url=http://www.insee.fr/fr/themes/comparateur.asp?codgeo=METRODOM-1 |title=France Métropolitaine |publisher=INSEE |year=2011 |url-status=dead |archive-url=https://web.archive.org/web/20150828051307/http://www.insee.fr/fr/themes/comparateur.asp?codgeo=METRODOM-1 |archive-date=2015-08-28}}</ref> ([[Danh sách quốc gia theo diện tích|hạng 50]])
 "
-area_label2,1,1,5.0, area_label2                ," Đất liền
+area_footnote,51,51,25.89, area_footnote  |  area_footnote    |  area_footnote          ," 
+ |  <ref name=""CIA"" />
+ |  <ref name=""Eritrea"">{{Cite web|url=https://www.cia.gov/the-world-factbook/countries/eritra/#geography|title=Eritrea|date=27 February 2023|publisher=Central Intelligence Agency|via=CIA.gov|access-date=24 February 2023|archive-date=10 January 2021|archive-url=https://web.archive.org/web/20210110072816/https://www.cia.gov/the-world-factbook/countries/eritrea#geography|url-status=live}}</ref><ref name=""Eritrea country profile"">{{Cite news |url=https://www.bbc.com/news/world-africa-13349078 |title=Eritrea country profile |work=BBC News |date=10 May 2011 |access-date=20 November 2023 |archive-date=20 November 2023 |archive-url=https://web.archive.org/web/20231120212749/https://www.bbc.com/news/world-africa-13349078 |url-status=live }}</ref><ref name=""UNHDR"">{{cite book|title=Human Development Report 2020 The Next Frontier: Human Development and the Anthropocene|date=15 December 2020|publisher=United Nations Development Programme|isbn=978-92-1-126442-5|pages=343–346|url=http://hdr.undp.org/sites/default/files/hdr2020.pdf|access-date=16 December 2020}}</ref>
 "
-area_magnitude,3,3,15.0, area_magnitude                ," 1 E10
+area_km2,196,196,99.49, area_km2  |  area_km2    |  area_km2             ," 0.49
+ |  1,098,581
+ |  1,104,300
+"
+area_label,7,7,3.55, area_label    |  area_label                ," <!--Dán nhãn dưới ""Diện tích"" (mặc định là ""Tổng cộng"")-->
+ |  Bao gồm Kosovo{{efn|name=Kosovo|{{Kosovo-note}}}}
+ |  Bao gồm Transnistria
+"
+area_label2,10,10,5.08, area_label2    |  area_label2                ," <!--Nhãn bên duói area_label (tùy chọn)-->
+ |  Không bao gồm Quần đảo Galapagos
+ |  Ngoại trừ Transnistria
+"
+area_label3,2,2,1.02, area_label3                ," Chính quốc Pháp ([[Địa chính]])
+ |  [[Dải Gaza]]
+"
+area_link,1,1,0.51, area_link                ," #Địa lý
+"
+area_magnitude,12,12,6.09, area_magnitude                ," 
+ |  1 E10
  |  1 E11
- |  1 E12
 "
-area_rank,20,20,100.0, area_rank    |  area_rank               |  area_rank                ," 104 <!-- Area rank should match [[List of countries and dependencies by area]] -->
- |  119<!-- Area rank should match [[List of countries and dependencies by area]] -->
- |  124
-"
-area_sq_mi,17,17,85.0, area_sq_mi    |  area_sq_mi              |  area_sq_mi                ," 127,720
- |  128565
- |  133<!--Do not remove per [[WP:MOSNUM]]-->
-"
-calling_code,19,19,95.0, calling_code    |  calling_code            |  calling_code                ," +1
- |  +41
- |  [[+221]]
-"
-capital,20,20,100.0, capital    |  capital                 |  capital                     ," '''Singapore'''{{efn|Singapore không có thủ đô chính thức vì quốc gia này là một [[thành bang]].<ref name=""City-state"">{{chú thích web |title = Singapore |quote = The city, once a distinct entity, so came to dominate the island that the Republic of Singapore essentially became a city-state. |url = https://www.britannica.com/place/Singapore-capital |access-date = ngày 29 tháng 8 năm 2019 }}</ref>}} ([[Thành bang]])
- |  [[Amsterdam]]{{efn|name=central_cities|Amsterdam là thủ đô theo hiến pháp, còn chính phủ và hoàng gia đặt tại Den Haag.}}
- |  [[Bagdad]]
-"
-cctld,20,20,100.0, cctld    |  cctld                 |  cctld                  ," [[.br]]
- |  [[.ch]], [[.swiss]]
- |  [[.cu]]
-"
-coa_size,5,5,25.0, coa_size                 |  coa_size                    ," 70
- |  75
- |  90
-"
-common_name,19,19,95.0, common_name    |  common_name             |  common_name                ," Brazil
- |  Cape Verde <!-- This field is not visible to the reader, it provides codes for page links. It should not be changed to Cabo Verde unless the actual pages are moved. -->
- |  Croatia
-"
-conventional_long_name,19,19,95.0, conventional_long_name  |  conventional_long_name    |  conventional_long_name      ," Cộng hòa Cabo Verde
- |  Cộng hòa Croatia
- |  Cộng hòa Cuba
-"
-coordinates,17,17,85.0, coordinates    |  coordinates             |  coordinates                ," 
- |  {{Coord|12|3|14|N|61|44|43|W|type:landmark|name=Grenada House of Parliament}}
- |  {{Coord|14|40|N|17|25|W|type:city}}
-"
-country_code,2,2,10.0, country_code    |  country_code                ," 
- |  JP
-"
-currency,20,20,100.0, currency    |  currency                |  currency                ," [[Bảng Sudan]]
- |  [[Dinar Tunisia]]
- |  [[Escudo Cabo Verde]]
-"
-currency_code,19,19,95.0, currency_code    |  currency_code           |  currency_code               ," BRL
- |  CHF
- |  CUP
-"
-date_format,16,16,80.0, date_format    |  date_format             |  date_format                ," Short formats:
-* yyyy/mm/dd<ref>{{Cite web|title=Data Source Comparison for en-ZA|url=https://www.localeplanet.com/compare/en-ZA/index.html|access-date=5 May 2021|website=www.localeplanet.com|archive-date=16 August 2021|archive-url=https://web.archive.org/web/20210816213516/https://www.localeplanet.com/compare/en-ZA/index.html|url-status=live}}</ref>
-* yyyy-mm-dd<ref>{{Cite web|title=Data Source Comparison for af-ZA|url=https://www.localeplanet.com/compare/af-ZA/index.html|access-date=5 May 2021|website=www.localeplanet.com|archive-date=5 May 2021|archive-url=https://web.archive.org/web/20210505092248/https://www.localeplanet.com/compare/af-ZA/index.html|url-status=live}}</ref>
- |  dd-mm-yyyy
- |  dd-mm-yyyy {{efn|Xem [[:en:Date and time notation in the Netherlands]]}}
-"
-date_start,1,1,5.0, date_start                ," 
-"
-demonym,19,19,95.0, demonym    |  demonym                 |  demonym                     ," 
- |  Grenadian<ref>{{Chú thích web |title=About Grenada, Carriacou & Petite Martinique |url=http://www.gov.gd/about_grenada.html |url-status=dead |archive-url=https://web.archive.org/web/20090910073752/http://www.gov.gd/about_grenada.html |archive-date=10 September 2009 |access-date=31 July 2017 |website=Gov.gd }}</ref>
- |  Người Hà Lan
-"
-drives_on,19,19,95.0, drives_on    |  drives_on               |  drives_on                ," Phải
- |  [[Giao thông bên phải và bên trái|trái]]
- |  [[Giao thông bên phải và bên|trái]]
-"
-dst_note,2,2,10.0, DST_note                ," 
-"
-electricity,5,5,25.0, electricity                ," 100 V–50 và 60&nbsp;Hz
- |  110V–60Hz
- |  220 V, 60 Hz và 127 V, 60 Hz
-"
-elevation_max_m,1,1,5.0, elevation_max_m             ," 887
-"
-elevation_max_point,1,1,5.0, elevation_max_point         ," [[Núi Scenery]]
-"
-established_date,1,1,5.0, established_date            ," [[Hà Lan thuộc Tây Ban Nha]]
-"
-established_date1,19,19,95.0, established_date1    |  established_date1       |  established_date1           ," 10 tháng 10 năm 1868
- |  10 tháng 10 năm 1911
- |  11 tháng 2 năm 660&nbsp;TCN<ref>According to legend, Japan was founded on this date by [[Emperor Jimmu]], the country's first Emperor.</ref>
-"
-established_date10,3,3,15.0, established_date10                ," 18 tháng 12 năm 1986
- |  26 tháng 12 năm 1991
- |  6 tháng 4 năm 1985
-"
-established_date11,3,3,15.0, established_date11                ," 24 tháng 8 năm 1995
- |  28 tháng 11 năm 2013
- |  9 tháng 7 năm 2011
-"
-established_date12,1,1,5.0, established_date12                ," 19 tháng 12 năm 2018
-"
-established_date13,1,1,5.0, established_date13                ," 20 tháng 8 năm 2019
-"
-established_date2,18,18,90.0, established_date2    |  established_date2       |  established_date2           ," 1 tháng 1 năm 1912
- |  1070 TCN
- |  11 tháng 12 năm 1931
-"
-established_date3,17,17,85.0, established_date3    |  established_date3       |  established_date3           ," 10 tháng 12 năm 1898
- |  1008
- |  1102
-"
-established_date4,17,17,85.0, established_date4    |  established_date4       |  established_date4           ," 11 tháng 11 năm 1903 |  12 tháng 12 năm 1964
- |  12 tháng 9 năm 1848<ref group=""Phụ chú"">Một tuyên ngôn trọng thể của [[Tagsatzung]] tuyên bố Hiến pháp Liên bang được thông qua vào ngày 12 tháng 9 năm 1848. Một nghị quyết của ''Tagsatzung'' vào ngày 14 tháng 9 năm 1848 xác định rằng quyền lực của các thể chế được cấp theo Hiệp định Liên bang 1815 kết thúc vào thời điểm hiến pháp của Hội đồng Liên bang có hiệu lực vào ngày 16 tháng 11 năm 1848.</ref><ref>{{HDS|9811|Federal constitution|date = ngày 3 tháng 5 năm 2011 |author=Andreas Kley}}</ref>
-"
-established_date5,11,11,55.0, established_date5    |  established_date5            |  established_date5                ," 
- |  12 tháng 9 năm 1801
- |  1820
-"
-established_date6,8,8,40.0, established_date6    |  established_date6            |  established_date6                ," 
- |  10 tháng 4 năm 2019
- |  15 tháng 12 năm 1954
-"
-established_date7,5,5,25.0, established_date7            |  established_date7                ," 10 tháng 10 năm 2010
- |  12 tháng 2 năm 1921
- |  1899
-"
-established_date8,4,4,20.0, established_date8            |  established_date8                ," 1 tháng 1 năm 1956
- |  25 tháng 2 năm 1921
- |  30 tháng 4 năm 1975
-"
-established_date9,3,3,15.0, established_date9                ," 2 tháng 7 năm 1976
- |  25 tháng 5 năm 1969
- |  9 tháng 4 năm 1991
-"
-established_event1,19,19,95.0, established_event1    |  established_event1      |  established_event1          ," Công quốc Croatia
- |  Nhà nước liên kết
- |  Quốc gia hình thành
-"
-established_event10,3,3,15.0, established_event10                ," Công nhận
- |  [[Cộng hòa Sudan (1985–2019)]]
- |  [[Đổi Mới]]
-"
-established_event11,3,3,15.0, established_event11                ," [[Hiến pháp Gruzia|Hiến pháp hiện hành]]
- |  [[Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 2013|Hiến pháp hiện hành]]
- |  [[Nam Sudan]] ly khai
-"
-established_event12,1,1,5.0, established_event12                ," [[Cách mạng Sudan]]
-"
-established_event13,1,1,5.0, established_event13                ," [[2019–2026 Sudanese transition to democracy#Draft Constitutional Declaration|Dự thảo Tuyên bố Hiến pháp 2019]] có hiệu lực
-"
-established_event2,17,17,85.0, established_event2    |  established_event2      |  established_event2          ," Gia nhập [[Liên bang Mali]]
- |  Vương quốc Croatia
- |  [[Chiến tranh giành độc lập của Cuba|Chiến tranh giành độc lập]]
-"
-established_event3,16,16,80.0, established_event3    |  established_event3      |  established_event3          ," Cách mạng Grenada
- |  Khôi phục
- |  Liên minh cá nhân với Hungary
-"
-established_event4,16,16,80.0, established_event4    |  established_event4      |  established_event4          ," Gia nhập Quân chủ quốc Habsburg
- |  Hồi quốc [[Vương quốc Tunjur|Tunjur]], [[Hồi quốc Funj|Funj]] và [[Hồi quốc Darfur|Darfur]]
- |  Phục hồi hiến pháp
-"
-established_event5,10,10,50.0, established_event5    |  established_event5           |  established_event5                ," 
- |  Ly khai từ [[Đế quốc Áo-Hung]]
- |  [[Cách mạng Cuba]]
-"
-established_event6,7,7,35.0, established_event6    |  established_event6           |  established_event6                ," 
- |  Hiến pháp hiện hành
- |  Thành lập Nam Tư
-"
-established_event7,4,4,20.0, established_event7           |  established_event7                ," [[Cộng hòa Xã hội chủ nghĩa Croatia]] thuộc Nam Tư
- |  [[Hiệp định Paris]]
- |  [[Hồng quân xâm lược Gruzia]]
-"
-established_event8,4,4,20.0, established_event8           |  established_event8                ," Tuyên bố độc lập
- |  [[Cộng hòa Xã hội chủ nghĩa Xô viết Gruzia]]
- |  [[Sự kiện 30 tháng 4 năm 1975|Kết thúc Chiến tranh Việt Nam]]
-"
-established_event9,3,3,15.0, established_event9                ," Tuyên bố độc lập từ [[Liên Xô]]
- |  [[Cộng hòa Dân chủ Sudan]]
- |  [[Quốc hội Việt Nam khóa VI|Tái thống nhất]]
-"
-established_title,1,1,5.0, established_title           ," Trước độc lập
-"
-established_title2,1,1,5.0, established_title2          ," [[Tuyên ngôn độc lập Hà Lan]]
-"
-established_title3,1,1,5.0, established_title3          ," [[Hòa ước Münster]]
-"
-established_title4,1,1,5.0, established_title4          ," [[Vương quốc Liên hiệp Hà Lan]]
-"
-established_title5,1,1,5.0, established_title5          ," [[Ngày Giải phóng (Hà Lan)|Ngày Giải phóng]]
-"
-established_title6,1,1,5.0, established_title6          ," [[Hiến chương Vương quốc Hà Lan]]
-"
-established_title7,1,1,5.0, established_title7          ," [[Giải thể Antille thuộc Hà Lan]]
-"
-ethnic_groups,17,17,85.0, ethnic_groups    |  ethnic_groups           |  ethnic_groups               ," 47,73% [[Người Brasil gốc da trắng|Người da trắng]]<br />43,13% [[Người Brasil gốc Pardo|Người hỗn hợp]] (Đa chủng tộc)<br />7,61% [[Người Brasil gốc Phi|Người da đen]]<br />1,09% [[Người Brasil gốc Châu Á|Người Châu Á]]<br />0,43% [[Thổ dân tại Brasil|Người Mỹ bản địa]]
- |  95% [[Người Hán]]{{sfnp|Exec. Yuan|2014|p=36}}<br />&nbsp;'''∟''' 70% [[Người Phúc Kiến]]<br />&nbsp;'''∟''' 14% [[Người Khách Gia]]<br />{{raise|0.1em|&nbsp;'''∟''' 14% [[Người Trung Quốc đại lục|Những người<br/> nhập cư từ năm 1949]]{{efn|name=waishengren|Không bao gồm các công dân của [[Cộng hòa Nhân dân Trung Hoa]] gần đây đã chuyển đến Đài Loan. Một số người nhập cư từ đại lục cũng là [[người Khách Gia]] và [[người Phúc Kiến]], và thiểu số là [[người Mãn]], [[người Mông Cổ]], v.v..}}}}<br />3,1% [[:zh:臺灣新住民|Những người<br/> mới nhập cư]]<br />2,4% [[Thổ dân Đài Loan|Thổ dân]]{{efn|[[Thổ dân Đài Loan]] chính thức được chia thành 16 nhóm dân tộc riêng biệt bởi [[Trung Hoa Dân Quốc|Hoa Mai]].{{harvp|Exec. Yuan|2014|p=49}} }}
- |  {{Collapsible list | titlestyle = background:transparent; text-align:left; font-weight:normal; font-size:100%; | title = Danh sách [[Nhân khẩu học Singapore#Nhóm dân tộc|sắc tộc]]|75,9% [[người Singapore gốc Hoa|Hoa]]|15% [[người Singapore gốc Malaysia|Mã Lai]]|7,5% [[người Singapore gốc Ấn|Ấn]]|1,6% khác}}
-"
-ethnic_groups_ref,7,7,35.0, ethnic_groups_ref    |  ethnic_groups_ref                ," <ref name=""2021 pop"">{{cite web|url=https://www.malaymail.com/news/malaysia/2022/01/17/minister-census-shows-malaysias-oldest-man-and-woman-aged-120-and-118-preli/2035636|title=Minister: Census shows Malaysia's oldest man and woman aged 120 and 118; preliminary census findings to be released in Feb 2022|date=17 January 2022|publisher=Malaymail|access-date=17 January 2022|archive-date=17 January 2022|archive-url=https://web.archive.org/web/20220117074901/https://www.malaymail.com/news/malaysia/2022/01/17/minister-census-shows-malaysias-oldest-man-and-woman-aged-120-and-118-preli/2035636|url-status=live}}</ref><ref>{{cite web |url=https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=155&bul_id=ZjJOSnpJR21sQWVUcUp6ODRudm5JZz09&menu_id=L0pheU43NWJwRWVSZklWdzQ4TlhUUT09 |title=Current population and estimates, Malaysia 2021 Group |author=Department of Statistics Malaysia |access-date=1 February 2022 |year=2021 |archive-date=1 February 2022 |archive-url=https://web.archive.org/web/20220201080046/https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=155&bul_id=ZjJOSnpJR21sQWVUcUp6ODRudm5JZz09&menu_id=L0pheU43NWJwRWVSZklWdzQ4TlhUUT09
-|url-status=live }}</ref><ref>MyGOV - The Government of Malaysia’s Official Portal. (n.d.). https://www.malaysia.gov.my/portal/content/30114 {{Webarchive|url=https://web.archive.org/web/20210120005627/https://www.malaysia.gov.my/portal/content/30114 |date=20 January 2021 }}</ref>
- |  <ref name=""CIA Factbook"">{{cite web |title=Senegal |date=2022-08-23 |url=https://www.cia.gov/the-world-factbook/countries/senegal/ |work=The World Factbook |publisher=Central Intelligence Agency |language=en |access-date=2024-01-23 |archive-date=4 February 2021 |archive-url=https://web.archive.org/web/20210204143936/https://www.cia.gov/the-world-factbook/countries/senegal/ |url-status=live }}</ref>
- |  <ref name=""Census2019a"">{{Chú thích web |title=2019 Kenya Population and Housing Census Volume IV: Distribution of Population by Socio-Economic Characteristics |url=https://www.knbs.or.ke/?wpdmpro=2019-kenya-population-and-housing-census-volume-iv-distribution-of-population-by-socio-economic-characteristics&wpdmdl=5730&ind=7HRl6KateNzKXCJaxxaHSh1qe6C1M6VHznmVmKGBKgO5qIMXjby1XHM2u_swXdiR |url-status=live |archive-url=https://web.archive.org/web/20200605222711/https://www.knbs.or.ke/?wpdmpro=2019-kenya-population-and-housing-census-volume-iv-distribution-of-population-by-socio-economic-characteristics&wpdmdl=5730&ind=7HRl6KateNzKXCJaxxaHSh1qe6C1M6VHznmVmKGBKgO5qIMXjby1XHM2u_swXdiR |archive-date=5 June 2020 |access-date=24 March 2020 |website=Kenya National Bureau of Statistics}}</ref>
-"
-ethnic_groups_year,15,15,75.0, ethnic_groups_year    |  ethnic_groups_year      |  ethnic_groups_year          ," 2010
- |  2010<ref name=""ZMBCSO2016"">{{cite web |title=Census of Population and Housing National Analytical Report 2010 |url=http://www.zamstats.gov.zm/phocadownload/2010_Census/2010%20Census%20of%20Population%20National%20Analytical%20Report.pdf |publisher=Central Statistical Office, Zambia |archive-url=https://web.archive.org/web/20171114001635/http://www.zamstats.gov.zm/phocadownload/2010_Census/2010%20Census%20of%20Population%20National%20Analytical%20Report.pdf#page=83 |archive-date=14 November 2017 |page=67}}</ref>
- |  2012
-"
-flag2_border,1,1,5.0, flag2_border                ," 
-"
-flag_anthem,1,1,5.0, flag_anthem                ," {{vunblist|""[[Quốc kỳ ca Trung Hoa Dân Quốc|Trung Hoa Dân Quốc Quốc kỳ ca]]"" <br />{{lang|zh-tw|<big>中華民國國旗歌</big>}}<br />''Zhōnghuá Míngúo Gúoqígē'' {{small|([[tiếng Quan thoại]])}}<br />''Tiong-⁠hôa&nbsp;Bîn-⁠kok&nbsp;Kok-⁠kî-⁠koa''&nbsp;{{small|([[tiếng Phúc Kiến]])}}<br />''Chûng-fà Mìn-koet Koet-khì-kô'' {{small|([[tiếng Khách Gia]])}}}} <div style=""display:inline-block;margin-top:0.4em;"">{{center|[[Tập tin:中華民國國旗歌 (演奏版).ogg]]}}</div>
-"
-flag_link,1,1,5.0, flag_link                   ," Quốc kỳ Hà Lan
-"
-flag_p1,1,1,5.0, flag_p1   ," Flag of Mali (1959–1961).svg
-"
-flag_size,1,1,5.0, flag_size                   ," 125
-"
-flag_type,1,1,5.0, flag_type                ," [[Quốc kỳ Sudan|Quốc kỳ]]
-"
-footnote_a,3,3,15.0, footnote_a              |  footnote_a                ," 
- |  Hiến pháp Iraq, Điều 4 (1).
- |  {{Note|population}} Not including [[Russian-occupied territories in Georgia|occupied territories]]
-"
-footnote_b,1,1,5.0, footnote_b                ," {{Note|population2}} Including [[Russian-occupied territories in Georgia|occupied territories]]{{Citation needed|date=January 2023}}
-"
-footnotes,3,3,15.0, footnotes    |  footnotes                ," 
- |  Theo CIA, các ước tính về quốc gia này có tính đến tác động của tỷ lệ tử vong do AIDS; điều này có thể dẫn đến tuổi thọ trung bình thấp hơn, tỷ lệ tử vong ở trẻ sơ sinh và tỷ lệ tử vong chung cao hơn, quy mô và tốc độ tăng dân số thấp hơn, cũng như sự thay đổi trong cơ cấu dân số theo độ tuổi và giới tính so với dự kiến.{{big|<ref name=""cia"">{{Chú thích web |last=Central Intelligence Agency |author-link=Central Intelligence Agency |year=2012 |title=Kenya |url=https://www.cia.gov/the-world-factbook/countries/kenya/ |url-status=live |archive-url=https://web.archive.org/web/20210124224025/https://www.cia.gov/the-world-factbook/countries/kenya/ |archive-date=24 January 2021 |access-date=28 May 2013 |website=[[The World Factbook]]}}</ref>}}
-"
-gdp_nominal,20,20,100.0, GDP_nominal   |  GDP_nominal    |  GDP_nominal            ," {{decrease}} 2.126 nghìn tỷ đô la Mỹ<ref name=""IMFWEO.BR"" />
- |  {{decrease}} 258.02 tỷ đô la Mỹ<ref name=:0/>
- |  {{decrease}} 29,536 tỷ đô la Mỹ<ref name=""IMFWEO.ZM"" />
-"
-gdp_nominal_per_capita,20,20,100.0, GDP_nominal_per_capita  |  GDP_nominal_per_capita    |  GDP_nominal_per_capita      ," {{decrease}} 1.435 đô la Mỹ<ref name=""IMFWEO.ZM"" />
- |  {{decrease}} 35.703 đô la Mỹ<ref name=""IMFWEO.JP"" />
- |  {{decrease}} 5,670 đô la Mỹ<ref name=:0/>
-"
-gdp_nominal_per_capita_rank,19,19,95.0, GDP_nominal_per_capita_rank  |  GDP_nominal_per_capita_rank    |  GDP_nominal_per_capita_rank                ," 10
- |  108
- |  112
-"
-gdp_nominal_rank,19,19,95.0, GDP_nominal_rank   |  GDP_nominal_rank    |  GDP_nominal_rank       ," 10
- |  103
- |  107
-"
-gdp_nominal_year,20,20,100.0, GDP_nominal_year   |  GDP_nominal_year    |  GDP_nominal_year       ," 2023
- |  2024
- |  2025
-"
-gdp_ppp,20,20,100.0, GDP_PPP    |  GDP_PPP                 |  GDP_PPP                     ," 254.865 tỷ đô la Mỹ<ref name=""auto"">{{cite web|title=World Bank GDP PPP 2015, 28 April 2017 PDF |url=https://archive.org/details/GDPPPP1|access-date=18 January 2018}}</ref>
- |  {{increase}}
- 2,025 nghìn tỷ đô la Mỹ<ref name=""IMFWEO.VN"" >{{Chú thích web |url=https://data.imf.org/en/Data-Explorer?datasetUrn=IMF.RES:WEO(9.0.0) |title=World Economic Outlook Database (April 2026 Edition) |publisher=[[Quỹ Tiền tệ Quốc tế]] |website=www.imf.org |date=14 April 2026 |access-date=19 April 2026}}</ref>
- |  {{increase}} 1,03 nghìn tỷ đô la Mỹ<ref name=""IMFWEO.ZA"">{{cite web |url=https://www.imf.org/external/datamapper/profile/ZAF |title=World Economic Outlook Database, April 2024 Edition. (South Africa) |publisher=[[Quỹ Tiền tệ Quốc tế]] |website=www.imf.org |date=16 April 2024 |access-date=17 April 2024 |archive-date=16 April 2024 |archive-url=https://web.archive.org/web/20240416232751/https://www.imf.org/en/Publications/WEO/weo-database/2024/April/weo-report?c=199,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2022&ey=2029&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1 |url-status=live }}</ref>
-"
-gdp_ppp_per_capita,20,20,100.0, GDP_PPP_per_capita   |  GDP_PPP_per_capita    |  GDP_PPP_per_capita     ," 22,237 đô la Mỹ<ref name=""auto""/><ref>{{cite web|title=World Bank total population of Cuba in 2015 (GDP PPP divided by Population data)|url=https://data.worldbank.org/indicator/SP.POP.TOTL?end=2015&locations=CU&start=1960|access-date=18 January 2018|archive-date=11 November 2020|archive-url=https://web.archive.org/web/20201111235251/https://data.worldbank.org/indicator/SP.POP.TOTL?end=2015&locations=CU&start=1960|url-status=live}}</ref>
- |  {{increase }} 5.498 đô la Mỹ <ref name=""IMFWEO.SN"" />
- |  {{increase}} 105.680 đô la Mỹ<ref name=""IMFWEO.CH"" />
-"
-gdp_ppp_per_capita_rank,19,19,95.0, GDP_PPP_per_capita_rank |  GDP_PPP_per_capita_rank  |  GDP_PPP_per_capita_rank   ," 
+area_rank,195,195,98.98, area_rank  |  area_rank    |  area_rank              ," 
  |  1
  |  10
 "
-gdp_ppp_rank,19,19,95.0, GDP_PPP_rank    |  GDP_PPP_rank            |  GDP_PPP_rank                ," 
+area_sq_mi,178,178,90.36, area_sq_mi  |  area_sq_mi    |  area_sq_mi           ,"
+ |  
+ |  (16,576.5)
+"
+area_water_km2,4,4,2.03, area_water_km2                ," 24069
+ |  2575
+ |  5501
+"
+bản_đồ,1,1,0.51,Bản đồ ," VCT orthographic.svg
+"
+bản_đồ_2,1,1,0.51, Bản đồ 2                ," EU-Sweden.svg
+"
+calling_code,194,194,98.48, calling_code  |  calling_code    |  calling_code         ," +1
+ |  +20
+ |  +222
+"
+capital,196,196,99.49, capital  |  capital    |  capital              ," '''Singapore'''{{efn|Singapore không có thủ đô chính thức vì quốc gia này là một [[thành bang]].<ref name=""City-state"">{{chú thích web |title = Singapore |quote = The city, once a distinct entity, so came to dominate the island that the Republic of Singapore essentially became a city-state. |url = https://www.britannica.com/place/Singapore-capital |access-date = ngày 29 tháng 8 năm 2019 }}</ref>}} ([[Thành bang]])
+ |  (''[[de facto]]'')
+[[Yaren]]{{efn|Naoero không có thủ đô chính thức nhưng Yaren là trụ sở của quốc hội.<ref name=directory>{{cite book |title=Worldwide Government Directory with Intergovernmental Organizations |year=2013 |page=1131 |publisher=CQ Press}}</ref>}}
+ |  Thành phố Monaco
+"
+capital_type,1,1,0.51, capital_type                ," {{unbulleted list
+| item1_style=margin-top:2px;margin-bottom:2px;|Thủ đô
+| Trung tâm hành chính
+}}
+"
+cctld,196,196,99.49, cctld  |  cctld    |  cctld                ," ; [[Tên miền cấp cao nhất dùng chung]]:<ref>{{chú thích web | url = https://doi.org/10.1787/232630011251 | tiêu đề = Generic Top Level Domain Names | author = | ngày = | ngày truy cập = 5 tháng 3 năm 2024 | nơi xuất bản = | ngôn ngữ = }}</ref> [[.com]], [[.org]], [[.net]], [[.edu]], [[.gov]], [[.mil]]
+; ccTLD (thường không được sử dụng ở Hoa Kỳ): [[.us]], [[.pr]], [[.as]], [[.gu]], [[.mp]], [[.vi]] and, formerly, [[.um]] (bị ICANN xóa vào năm 2008, nhưng vẫn được chính phủ Hoa Kỳ công nhận là ccTLD)
+ |  <!--Mã định danh tên miền cấp cao nhất của mã quốc gia Internet (ví dụ: [[.br]], [[.de]], v.v.)
+|iso3166code =        <!--Sử dụng để ghi đè mặc định từ tham số common_name ở trên; bỏ qua bằng cách sử dụng ""bỏ qua""..-->
+ |  [[.ad]]{{ref label|cctld|e|}}
+"
+chính_thể,1,1,0.51,Chính thể ," [[Quân chủ lập hiến]] [[thể chế đại nghị|nghị viện]]
+"
+chú_thích_bản_đồ,1,1,0.51, Chú thích bản đồ                ," Vị trí '''Thụy Điển''' trên thế giới
+"
+chú_thích_bản_đồ_2,1,1,0.51, Chú thích bản đồ 2                ," {{map caption |location_color=xanh đậm |region=Châu Âu |region_color=xám đậm |subregion=[[Liên Minh Châu Âu|EU]] |subregion_color=xanh nhạt}}
+"
+chức_vụ_1,1,1,0.51,Chức vụ 1 ," Quân chủ
+"
+chức_vụ_2,1,1,0.51,Chức vụ 2 ," Toàn quyền
+"
+chức_vụ_3,1,1,0.51,Chức vụ 3 ," Thủ tướng
+"
+coa_size,49,49,24.87, coa_size  |  coa_size    |  coa_size               ," 
  |  100
- |  101
+ |  105
 "
-gdp_ppp_year,20,20,100.0, GDP_PPP_year    |  GDP_PPP_year            |  GDP_PPP_year                ," 2015
- |  2023
- |  2024
+coat_of_arms,1,1,0.51, Coat of arms                ," 
 "
-gini,20,20,100.0, Gini    |  Gini     |  Gini                ," 26,4
- |  29.5
- |  29.7
+common_languages,3,3,1.52, common_languages        |  common_languages                ," Tiếng Anh
+ |  Tiếng Ả Rập Emirati, [[Tiếng Anh]]{{efn|Tiếng Anh là ngôn ngữ được sử dụng phổ biến nhất ở UAE.<ref name=""Siemund"">{{cite journal |last1=Siemund |first1=Peter |last2=Al-Issa |first2=Ahmad |last3=Leimgruber |first3=Jakob R. E. |title=Multilingualism and the role of English in the United Arab Emirates |journal=World Englishes |date=June 2021 |volume=40 |issue=2 |pages=191–204 |doi=10.1111/weng.12507 |s2cid=219903631 |language=en |issn=0883-2919|doi-access=free }}</ref><ref name=""visitdubai"">{{cite web |title=What Languages are Spoken in Dubai? {{!}} Visit Dubai |url=https://www.visitdubai.com/en/articles/spoken-languages-in-dubai#:~:text=Absolutely.,English%20is%20always%20an%20option. |website=www.visitdubai.com |publisher=Dubai Department of Economy and Tourism |access-date=15 May 2023 |language=en |archive-date=15 January 2022 |archive-url=https://web.archive.org/web/20220115224604/https://www.visitdubai.com/en/articles/spoken-languages-in-dubai#:~:text=Absolutely.,English%20is%20always%20an%20option. |url-status=live }}</ref>}}
+ |  {{vunblist| [[Tiếng Pháp]]<ref name=""AlgeriaFactbook"">{{chú thích web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/ag.html |title=The World Factbook – Algeria |publisher=[[Central Intelligence Agency]] |date=ngày 4 tháng 12 năm 2013 |access-date =ngày 24 tháng 12 năm 2013 |url-status=dead |archive-url=https://web.archive.org/web/20070612211925/https://www.cia.gov/library/publications/the-world-factbook/geos/ag.html |archive-date=ngày 12 tháng 6 năm 2007 }}</ref>|[[Tiếng Ả Rập Algérie|Tiếng Darja]] {{small|([[lingua franca]])}}}}
 "
-gini_change,18,18,90.0, Gini_change   |  Gini_change    |  Gini_change            ," 
- |  <!--increase/decrease/steady-->
- |  decrease
+common_name,193,193,97.97, common_name  |  common_name   |  common_name   ," 
+ |  Afghanistan
+ |  Ai Cập
 "
-gini_rank,12,12,60.0, Gini_rank    |  Gini_rank               |  Gini_rank                ," 
- |  <!-- 2nd --><!-- hid rank as source not clear -->
+conventional_long_name,194,194,98.48, conventional_long_name  |  conventional_long_name    |  conventional_long_name     ," Antigua và Barbuda
+ |  Belize
+ |  Bosna và Hercegovina
 "
-gini_ref,20,20,100.0, Gini_ref    |  Gini_ref                |  Gini_ref                ," 
+conventional_short_name,1,1,0.51, conventional_short_name                ," 
+"
+coordinates,170,170,86.29, coordinates  |  coordinates   |  coordinates   ," 
+ |  {{Coord|00|13|12|S|78|30|43|W|type:city}}
+ |  {{Coord|04|51|N|31|36|E|type:city}}
+"
+country_code,19,19,9.64, country_code  |  country_code    |  country_code                ,"
+ |  
+ |  AD
+"
+currency,195,195,98.98, currency  |  currency    |  currency             ," Balboa (PAB)<br />[[Đô la Mỹ]] (USD)
+ |  Bảng Liban
+ |  Dobra
+"
+currency_code,184,184,93.4, currency_code  |  currency_code   |  currency_code   ," 
+ |  AED
+ |  AFN
+"
+cấp_hdi,1,1,0.51,Cấp HDI ," <font color=""orange"">cao</font>
+"
+date_format,115,115,58.38, date_format  |  date_format    |  date_format            ," 
+ |  <span dir=""rtl"">yyyy/mm/dd</span> ([[Lịch Shamsi Hijri|SH]])
+ |  MM/DD/YYYY
+"
+date_start,1,1,0.51, date_start                ," 
+"
+demonym,192,192,97.46, demonym  |  demonym    |  demonym                ," 
+ |  <!--Thuật ngữ mô tả những thuật ngữ liên quan đến quốc gia/lãnh thổ (ví dụ: ""người Bỉ"" cho quốc gia Bỉ)-->
+ |  <span class=""nowikilink"">Người Congo</span>
+"
+diện_tích_dặm_vuông,1,1,0.51,Diện tích dặm vuông ," 150
+"
+diện_tích_km2,1,1,0.51,Diện tích km2 ," 389 
+"
+drives_on,175,175,88.83, drives_on  |  drives_on    |  drives_on            ," Phải
+ |  Trái
+ |  Trái<ref name=fco>{{Chú thích web |date=ngày 29 tháng 8 năm 2006 |archive-url= https://web.archive.org/web/20071015163750/http://www.fco.gov.uk/servlet/Front?pagename=OpenMarket%2FXcelerate%2FShowPage&c=Page&cid=1007029390590&a=KCountryAdvice&aid=1013618386991 |url=http://www.fco.gov.uk/servlet/Front?pagename=OpenMarket/Xcelerate/ShowPage&c=Page&cid=1007029390590&a=KCountryAdvice&aid=1013618386991 |archive-date=ngày 15 tháng 10 năm 2007 |title=Barbados |url-status=dead}} (fco.gov.uk), updated ngày 5 tháng 6 năm 2006.</ref>
+"
+dst_note,15,15,7.61, DST_note                |  DST_note                ," 
+ |  ''Daylight saving time is not observed''
+ |  ''Không áp dụng [[Quy ước giờ mùa hè|giờ mùa hè]]''
+"
+dân_số,1,1,0.51,Dân số ," 109,991
+"
+dân_số_ước_lượng,1,1,0.51,Dân số ước lượng ," 110.255
+"
+dân_tộc,1,1,0.51,Dân tộc ," {{unbulleted list
+ | 66% da đen
+ | 19% lai
+ | 6,0% Ấn Độ
+ | 4% Âu
+ | {{nowrap|2,0% da đỏ Carib}}
+ | 3,0% khác
+ }}
+"
+electricity,17,17,8.63, electricity  |  electricity                ," 100 V–50 và 60&nbsp;Hz
+ |  110V–60Hz
+ |  120 V–60 Hz
+"
+elevation_max_m,1,1,0.51, elevation_max_m             ," 887
+"
+elevation_max_point,1,1,0.51, elevation_max_point         ," [[Núi Scenery]]
+"
+englishmotto,5,5,2.54, englishmotto  |  englishmotto                ," ""Bác ái, Công bằng, Lao động""
+ |  ""Freedom and Unity""
+ |  (""Độc lập, tự do, Cộng hòa Hồi giáo"") <br /> {{small|(''[[de facto]]'')}}<ref name=""Temperman2010"">{{chú thích sách |author=Jeroen Temperman | title=State-Religion Relationships and Human Rights Law: Towards a Right to Religiously Neutral Governance | url=https://books.google.com/books?id=Khag6tbsIn4C&pg=PA87 | year=2010 | publisher=Brill | isbn=978-90-04-18148-9| pages=87–
+| quote=The official motto of Iran is ''[[Takbir]]'' (""God is the Greatest"" or ""God is Great""). Transliteration ''Allahu Akbar''. As referred to in art. 18 of the constitution of Iran (1979). The ''[[de facto]]'' motto however is: ""Independence, freedom, the Islamic Republic.""}}</ref>
+"
+established_date,1,1,0.51, established_date            ," [[Hà Lan thuộc Tây Ban Nha]]
+"
+established_date1,195,195,98.98, established_date1  |  established_date1    |  established_date1    ," 1 tháng 1 năm 1804
+ |  1 tháng 1 năm 1900
+ |  1 tháng 1 năm 1960
+"
+established_date10,27,27,13.71, established_date10  |  established_date10    |  established_date10     ," 1 tháng 1 năm 1993
+ |  1 tháng 12 năm 1991
+ |  1 tháng 5 năm 2004
+"
+established_date11,17,17,8.63, established_date11  |  established_date11    |  established_date11                ," 1 tháng 2 năm 2021
+ |  14 tháng 12 năm 1955
+ |  18 tháng 3 năm 1994
+"
+established_date12,13,13,6.6, established_date12  |  established_date12                ," 
+ |  1 tháng 1 năm 1986
+ |  11 tháng 1 năm 2021
+"
+established_date13,6,6,3.05, established_date13                ," 
+ |  1884–1960
+ |  20 tháng 6 năm 2012
+"
+established_date14,2,2,1.02, established_date14                ," 
+ |  1889–1941
+"
+established_date15,2,2,1.02, established_date15                ," 
+ |  26 tháng 6 năm 1960
+"
+established_date16,1,1,0.51, established_date16                ," 1 tháng 7 năm 1960
+"
+established_date17,1,1,0.51, established_date17                ," 1 tháng 8 năm 2012
+"
+established_date2,181,181,91.88, established_date2  |  established_date2    |  established_date2    ," 1 tháng 1 năm 1900
+ |  1 tháng 1 năm 1912
+ |  1 tháng 1 năm 1981
+"
+established_date3,151,151,76.65, established_date3  |  established_date3    |  established_date3      ," 1 tháng 1 năm 1912
+ |  1 tháng 1 năm 1914
+ |  1 tháng 1 năm 1984
+"
+established_date4,118,118,59.9, established_date4  |  established_date4    |  established_date4      ," 
+ |  1 tháng 1 năm 1801
+ |  1 tháng 1 năm 1958
+"
+established_date5,90,90,45.69, established_date5  |  established_date5    |  established_date5      ," 
+ |  1 tháng 1 năm 1886
+ |  1 tháng 1 năm 1986
+"
+established_date6,73,73,37.06, established_date6  |  established_date6    |  established_date6      ," 
+ |  1 tháng 1 năm 1973
+ |  1 tháng 7 năm 1962
+"
+established_date7,51,51,25.89, established_date7  |  established_date7    |  established_date7      ," 1 tháng 1 năm 1962
+ |  1 tháng 1 năm 2011
+ |  1 tháng 12 năm 1918
+"
+established_date8,41,41,20.81, established_date8  |  established_date8    |  established_date8      ," 1 tháng 1 năm 1956
+ |  1 tháng 1 năm 1969
+ |  1 tháng 10 năm 1978<ref>{{cite web|url=https://mjp.univ-perp.fr/constit/km1978.htm|title=Comoros Constitution of October 1, 1978|publisher=Digithèque MJP|date=2012|access-date=24 October 2020}} {{in lang|fr}}</ref>
+"
+established_date9,32,32,16.24, established_date9  |  established_date9    |  established_date9      ," 1 tháng 12 năm 1918
+ |  1 tháng 3 năm 1990
+ |  1 tháng năm 1918<sup>d</sup>
+"
+established_event1,195,195,98.98, established_event1  |  established_event1   |  established_event1   ," Bộ lạc [[Azd]] di cư
+ |  Các hiệp định sáp nhập Wales vào Anh
+ |  Các nền chính trị đầu tiên
+"
+established_event10,27,27,13.71, established_event10  |  established_event10    |  established_event10    ," Công nhận
+ |  Cộng hòa
+ |  Gia nhập [[Liên minh châu Âu]]
+"
+established_event11,17,17,8.63, established_event11  |  established_event11    |  established_event11                ," Khôi phục nền độc lập
+ |  Liên bang Nga
+ |  Tham gia [[Liên Hợp Quốc]]
+"
+established_event12,13,13,6.6, established_event12  |  established_event12                ," 
+ |  Gia nhập [[Liên minh Châu Âu]]
+ |  [[Bồ Đào Nha gia nhập Liên minh châu Âu|Gia nhập EEC]]
+"
+established_event13,6,6,3.05, established_event13                ," 
+ |  <!--(có thể bao gồm tới 13 sự kiện riêng biệt)-->
+ |  [[2019–2026 Sudanese transition to democracy#Draft Constitutional Declaration|Dự thảo Tuyên bố Hiến pháp 2019]] có hiệu lực
+"
+established_event14,2,2,1.02, established_event14                ," 
+ |  [[Somaliland thuộc Ý]]
+"
+established_event15,2,2,1.02, established_event15                ," 
+ |  [[Independence Day (State of Somaliland)|Độc lập]] của [[Quốc gia Somaliland]] từ [[Vương quốc Liên hiệp Anh và Bắc Ireland]]
+"
+established_event16,1,1,0.51, established_event16                ," [[Independence Day (Somalia)|Độc lập]] của [[Lãnh thổ Ủy thác Somaliland]] từ [[Ý]] và hợp nhất với [[Quốc gia Somaliland]] thành [[Cộng hòa Somalia]]
+"
+established_event17,1,1,0.51, established_event17                ," [[Hiến pháp Somalia|Hiến pháp hiện hành]]
+"
+established_event2,180,180,91.37, established_event2  |  established_event2   |  established_event2   ," ''[[De facto]]''
+ |  ''[[Nueva Planta decrees|De jure]]''
+ |  '[[Triều đại Alaouite]] (triều đại hiện tại)
+"
+established_event3,150,150,76.14, established_event3  |  established_event3   |  established_event3   ," ''[[Trưng cầu ý dân về độc lập Eritrea 1993|De jure]]''
+ |  Chư hầu của [[Vương quốc Rattanakosin|Xiêm]]
+ |  Chấm dứt điều ước với [[Vương quốc Liên hiệp Anh và Bắc Ireland]]
+"
+established_event4,117,117,59.39, established_event4  |  established_event4   |  established_event4   ," 
+ |  Chế độ dân chủ hiện hành
+ |  Công nhận
+"
+established_event5,89,89,45.18, established_event5  |  established_event5   |  established_event5   ," 
+ |  Bokassa I bị lật đổ, khôi phục nền cộng hòa
+ |  Cộng hòa
+"
+established_event6,72,72,36.55, established_event6  |  established_event6    |  established_event6     ," 
+ |  Chính thức công nhận
+ |  Gia nhập [[ASEAN]]
+"
+established_event7,50,50,25.38, established_event7  |  established_event7    |  established_event7     ," Cuộc xâm lược Albania của [[Phát xít Ý|Ý]]
+ |  Gia nhập [[Liên Hợp Quốc]]
+ |  Hiến pháp hiện hành
+"
+established_event8,41,41,20.81, established_event8  |  established_event8    |  established_event8     ," Cộng hòa Hồi giáo Liên bang Comoros
+ |  Giải thể
+ |  Quyền tự trị mở rộng
+"
+established_event9,32,32,16.24, established_event9  |  established_event9    |  established_event9     ," Chủ quyền và liên minh cá nhân với Đan Mạch
+ |  Gia nhập [[Cộng đồng các Quốc gia Độc lập|SNG]]
+ |  Liên bang Comoros
+"
+established_title,1,1,0.51, established_title           ," Trước độc lập
+"
+established_title2,1,1,0.51, established_title2          ," [[Tuyên ngôn độc lập Hà Lan]]
+"
+established_title3,1,1,0.51, established_title3          ," [[Hòa ước Münster]]
+"
+established_title4,1,1,0.51, established_title4          ," [[Vương quốc Liên hiệp Hà Lan]]
+"
+established_title5,1,1,0.51, established_title5          ," [[Ngày Giải phóng (Hà Lan)|Ngày Giải phóng]]
+"
+established_title6,1,1,0.51, established_title6          ," [[Hiến chương Vương quốc Hà Lan]]
+"
+established_title7,1,1,0.51, established_title7          ," [[Giải thể Antille thuộc Hà Lan]]
+"
+ethinc_groups_year,1,1,0.51, ethinc_groups_year  ," 
+"
+ethnic_groups,165,165,83.76, ethnic_groups  |  ethnic_groups   |  ethnic_groups   ," 
+ |  ''Xem [[#Sắc tộc|Sắc tộc]] ở mục bên dưới''
+ |  33.8% [[Visayas]]<br>27.7% [[Tagalog]]<br>9.8% [[Ilocos]]<br>6.8% [[Bicol]]<br>5.1% [[Moro]]<br>3.1% [[Kapampangan]]<br>1.7% [[Igoro]]<br>1.4% [[Pangasinan]]<br>1.2% [[Người Hoa]]<br>1.1% [[Zamboanga]]<br>8,3% khác
+"
+ethnic_groups_ref,81,81,41.12, ethnic_groups_ref  |  ethnic_groups_ref    |  ethnic_groups_ref      ," 
+ |  <!--(đối với mọi tham chiếu/liên kết với dữ liệu của các nhóm dân tộc)-->
+ |  <ref name=""2020CensusData"">{{cite web |url=https://www.census.gov/library/stories/2021/08/improved-race-ethnicity-measures-reveal-united-states-population-much-more-multiracial.html |title=2020 Census Illuminates Racial and Ethnic Composition of the Country |work=[[United States Census]] |access-date=August 13, 2021 |archive-date=2022-05-01 |archive-url=https://web.archive.org/web/20220501085621/https://www.census.gov/library/stories/2021/08/improved-race-ethnicity-measures-reveal-united-states-population-much-more-multiracial.html |url-status=live }}</ref><ref name=""2020InteractiveCensusData"">{{cite web |url=https://www.census.gov/library/visualizations/interactive/race-and-ethnicity-in-the-united-state-2010-and-2020-census.html?linkId=100000060666476 |title=Race and Ethnicity in the United States: 2010 Census and 2020 Census |work=[[United States Census]] |access-date=August 13, 2021 |archive-date=2021-08-19 |archive-url=https://web.archive.org/web/20210819183842/https://www.census.gov/library/visualizations/interactive/race-and-ethnicity-in-the-united-state-2010-and-2020-census.html?linkId=100000060666476 |url-status=live }}</ref><ref>{{cite web |url=https://www.npr.org/2021/08/13/1014710483/2020-census-data-us-race-ethnicity-diversity |title=A Breakdown of 2020 Census Demographic Data |date=August 13, 2021 |publisher=NPR |access-date=2025-04-03 |archive-date=2021-12-02 |archive-url=https://web.archive.org/web/20211202152607/https://www.npr.org/2021/08/13/1014710483/2020-census-data-us-race-ethnicity-diversity |url-status=live }}</ref>
+"
+ethnic_groups_year,141,141,71.57, ethnic_groups_year  |  ethnic_groups_year   |  ethnic_groups_year   ," 
+ |  1994
+ |  1999
+"
+flag,2,2,1.02, flag                ," Flag of Fiji
+ |  Quốc kỳ Cộng hòa Dân chủ Nhân dân Triều Tiên
+"
+flag2_border,2,2,1.02, flag2_border                ," 
+ |  <!--đặt thành không để vô hiệu hóa đường viền xung quanh cờ-->
+"
+flag_alt,1,1,0.51, flag_alt                ," Horizontal tricolor (red, yellow, and green from top to bottom)
+"
+flag_alt2,1,1,0.51, flag_alt2                ," 7 × 7 square patchwork with the (top left to bottom right) diagonals forming colored stripes (green, blue, purple, red, orange, yellow, white, green, blue, purple, red, orange, yellow, from top right to bottom left)
+"
+flag_anthem,1,1,0.51, flag_anthem                ," {{vunblist|""[[Quốc kỳ ca Trung Hoa Dân Quốc|Trung Hoa Dân Quốc Quốc kỳ ca]]"" <br />{{lang|zh-tw|<big>中華民國國旗歌</big>}}<br />''Zhōnghuá Míngúo Gúoqígē'' {{small|([[tiếng Quan thoại]])}}<br />''Tiong-⁠hôa&nbsp;Bîn-⁠kok&nbsp;Kok-⁠kî-⁠koa''&nbsp;{{small|([[tiếng Phúc Kiến]])}}<br />''Chûng-fà Mìn-koet Koet-khì-kô'' {{small|([[tiếng Khách Gia]])}}}} <div style=""display:inline-block;margin-top:0.4em;"">{{center|[[Tập tin:中華民國國旗歌 (演奏版).ogg]]}}</div>
+"
+flag_border,5,5,2.54, flag_border                ," 
+ |  <!--đặt thành không để vô hiệu hóa đường viền xung quanh cờ-->
+ |  Flag of Poland (normative).svg
+"
+flag_caption,2,2,1.02, flag_caption                ," Quốc kỳ
+ |  [[Quốc kỳ Úc|Quốc kỳ]]
+"
+flag_link,1,1,0.51, flag_link                   ," Quốc kỳ Hà Lan
+"
+flag_p1,2,2,1.02, flag_p1    |  flag_p1                ," Flag of Mali (1959–1961).svg
+ |  Flag of The Gambia.svg
+"
+flag_size,7,7,3.55, flag_size                 |  flag_size                   ," 100
+ |  120
+ |  125
+"
+flag_type,10,10,5.08, flag_type               |  flag_type                ," Quốc kỳ
+ |  [[Quốc kỳ Afghanistan|Quốc kỳ]]
+ |  [[Quốc kỳ Bahamas|Quốc kỳ]]
+"
+flag_type_article,2,2,1.02, flag_type_article                ," Flag of Ecuador
+ |  Flag of the Maldives
+"
+footnote,3,3,1.52, footnote               ," 
+"
+footnote_a,72,72,36.55, footnote_a  |  footnote_a    |  footnote_a             ," 
+ |  +006 từ [[Kenya]] và [[Tanzania]]
+ |  <!--ORPHANED: Supplemented by a nearly equal amount from external sources.-->
+"
+footnote_b,32,32,16.24, footnote_b    |  footnote_b                ," 
+ |  ""Trong số các dân tộc ở Cận Đông cổ đại, chỉ có người Ai Cập ở lại nơi họ vẫn ở, mặc dù họ đã thay đổi ngôn ngữ một lần và tôn giáo của họ hai lần.<ref>name=""USDept of State/Egypt""</ref><ref>{{chú thích sách|author=Arthur Goldschmidt|title=Modern Egypt: The Formation of a Nation-State|url=https://books.google.com/books?id=YmZyAAAAMAAJ|year=1988|publisher=Westview Press|isbn=978-0-86531-182-4}}</ref> Arthur Goldschmidt Jr.
+ |  <!--Orphaned (see population_density_rank)-->
+"
+footnote_c,19,19,9.64, footnote_c    |  footnote_c                ," 
+ |  <span style=""font-size:100%;"">Mã vùng phổ biến ở [[Campione d'Italia]] là mã vùng của Thụy Sĩ - [[Telephone numbers in Switzerland|+41]].</span>
+ |  Còn dùng tên miền [[.eu]] chung với các quốc gia [[Liên minh châu Âu]] khác.
+"
+footnote_d,9,9,4.57, footnote_d    |  footnote_d                ," <span style=""font-size:100%;"">Tên miền [[.eu]] cũng hay dược sử dụng bởi Ý có chia sẻ tên miền với các nước thành viên thuộc [[Liên minh châu Âu]].</span>
+ |  Chế độ quân chủ đã bị bãi bỏ vào ngày 30 tháng 12 năm 1947 sau khi tuyên bố Cộng hòa Nhân dân và đã được thay đổi khi hiến pháp mới được thông qua ngày 21 tháng 8 năm 1965 với tư cách là Cộng hòa Xã hội Chủ nghĩa. Chế độ Cộng sản sụp đổ vào ngày 22 tháng 12 năm 1989, chính phủ dân chủ mới được thành vào ngày 20 tháng 5 năm 1990 và hiến pháp hậu cộng sản mới được thông qua ngày 21 tháng 11 năm 1991. România gia nhập Liên minh châu Âu vào ngày 1 tháng 1 năm 2007.
+ |  Estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected.
+"
+footnote_e,6,6,3.05, footnote_e    |  footnote_e                ," Ngoài ra, tên miền [[.eu]] được chia sẻ với các thành viên [[Liên minh châu Âu]]..
+ |  Rankings based on 2017 figures ([https://www.cia.gov/the-world-factbook/countries/togo/ ''CIA World Factbook'' – ""Togo""])
+ |  {{note label|currency|e|none}} Vào ngày 1 tháng 10 năm 2021, một loại tiền bolivar mới đã được giới thiệu, đó là ""Bolívar kỹ thuật số"" (mã ISO 4217 là VED) với mệnh giá 1.000.000 VES.
+"
+footnote_h,1,1,0.51, footnote_h                ," <!--Đối với bất kỳ chú thích <sup>h</sup> used above-->
+"
+footnotes,21,21,10.66, footnotes    |  footnotes               |  footnotes                ," 
+ |  * Population estimates for this country explicitly take into account the effects of excess mortality due to [[HIV/AIDS|AIDS]]; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected.
+* Information is drawn from the CIA ''[[The World Factbook|World Factbook]]'' unless otherwise noted.
+ |  <!--Đối với bất kỳ chú thích chung không được đánh số-->
+"
+fr_total_population_estimate_year,1,1,0.51, FR_total_population_estimate_year                ," 11,428,245 (2019)<ref name=imf>{{cite web| url=https://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?pr.x=58&pr.y=4&sy=2016&ey=2023&scsm=1&ssd=1&sort=country&ds=.&br=1&c=218&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC%2CLP&grp=0&a=| title=Report for Selected Countries and Subjects| publisher=[[International Monetary Fund]]| access-date=29 August 2020| archive-date=27 May 2020| archive-url=https://web.archive.org/web/20200527192142/https://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?pr.x=58&pr.y=4&sy=2016&ey=2023&scsm=1&ssd=1&sort=country&ds=.&br=1&c=218&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC%2CLP&grp=0&a=| url-status=live}}</ref>
+"
+fsi,3,3,1.52, FSI    |  FSI                ," 108,1<!-- number only -->
+ |  49,4
+ |  58,8<!-- number only -->
+"
+fsi_change,3,3,1.52, FSI_change    |  FSI_change                ," decrease<!-- increase/decrease/steady -->
+ |  increase<!-- increase/decrease/steady -->
+ |  increase<!--increase/decrease/gain-->
+"
+fsi_rank,3,3,1.52, FSI_rank    |  FSI_rank                ," 121
+ |  137
+ |  4
+"
+fsi_ref,2,2,1.02, FSI_ref                ," <ref>{{Chú thích web|title=Fragile States Index 2024|url=https://public.tableau.com/app/profile/fund.for.peace/viz/fsi-2024-rankings/DashboardRankings|publisher=[[Fund for Peace]]|access-date = ngày 9 tháng 12 năm 2024 |language=en|date = ngày 19 tháng 6 năm 2024}}</ref>
+ |  <ref>{{chú thích web|title=Fragile States Index 2020|url=https://fundforpeace.org/2020/05/11/fragile-states-index-2020/|publisher=[[Fund for Peace]] và [[The New Humanitarian]]|access-date = ngày 28 tháng 2 năm 2021 |language=en|date = ngày 11 tháng 5 năm 2020}}</ref>
+"
+fsi_year,3,3,1.52, FSI_year    |  FSI_year                ," 2018
+ |  2020<!-- Please use the year to which the data refers, not the publication year -->
+ |  2024<!-- Please use the year to which the data refers, not the publication year -->
+"
+gdp_danh_nghĩa,1,1,0.51, GDP danh nghĩa ," 784 triệu USD<ref name=imf2/>
+"
+gdp_danh_nghĩa_bình_quân_đầu_người,1,1,0.51, GDP danh nghĩa bình quân đầu người ," 7.123 USD<ref name=imf2/>
+"
+gdp_nominal,195,195,98.98, GDP_nominal  |  GDP_nominal   |  GDP_nominal   ," $290,1 triệu<ref name=""Marshall Islands"">{{cite web |title=Marshall Islands |url=https://data.worldbank.org/country/marshall-islands |publisher=World Bank |access-date=June 11, 2026}}</ref>
+ |  1,064 tỷ đô la Mỹ<ref name=imf2/>
+ |  1.982 tỷ đô la Mỹ<ref name=""IMFWEO.ER""/>
+"
+gdp_nominal_per_capita,195,195,98.98, GDP_nominal_per_capita  |  GDP_nominal_per_capita    |  GDP_nominal_per_capita      ," $7,726
+ |  10.125 đô la Mỹ<ref name=imf/>
+ |  3.188 đô la Mỹ<ref name=imf2/>
+"
+gdp_nominal_per_capita_rank,182,182,92.39, GDP_nominal_per_capita_rank  |  GDP_nominal_per_capita_rank    |  GDP_nominal_per_capita_rank                ," 
+ |  - không xếp hạng
+ |  1
+"
+gdp_nominal_rank,181,181,91.88, GDP_nominal_rank  |  GDP_nominal_rank   |  GDP_nominal_rank   ," 
+ |  - không xếp hạng
+ |  1
+"
+gdp_nominal_year,195,195,98.98, GDP_nominal_year  |  GDP_nominal_year   |  GDP_nominal_year   ," 2017
+ |  2018
+ |  2019
+"
+gdp_ppp,197,197,100.0, GDP PPP  |  GDP_PPP  |  GDP_PPP   ," $215 triệu
+ |  1,002 tỷ đô la Mỹ<ref name=imf2>{{cite web |url=https://www.imf.org/en/Publications/WEO/weo-database/2023/April/weo-report?c=846,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2022&ey=2024&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1 |title=World Economic Outlook Database, April 2023 |publisher=[[Quỹ Tiền tệ Quốc tế]] |access-date=20 April 2023 |archive-date=20 April 2023 |archive-url=https://web.archive.org/web/20230420192938/https://www.imf.org/en/Publications/WEO/weo-database/2023/April/weo-report?c=846,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2022&ey=2024&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1 |url-status=live}}</ref>
+ |  1,243 tỉ USD<ref name=""imf2"">{{chú thích web |url=http://www.imf.org/external/pubs/ft/weo/2016/01/weodata/weorept.aspx?sy=2016&ey=2017&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=35&pr1.y=10&c=311%2C343%2C361%2C321%2C362%2C364%2C328&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a= |title=St. Vincent and the Grenadines |website=International Monetary Fund |year=2016 |access-date=ngày 1 tháng 4 năm 2016}}</ref>
+"
+gdp_ppp_bình_quân_đầu_người,1,1,0.51, GDP PPP bình quân đầu người ," 11.291 USD<ref name=imf2/>
+"
+gdp_ppp_per_capita,196,196,99.49, GDP_PPP_per_capita  |  GDP_PPP_per_capita   |  GDP_PPP_per_capita   ," $3.789<ref name=""imf.org1"">{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?pr.x=81&pr.y=11&sy=2017&ey=2024&scsm=1&ssd=1&sort=country&ds=.&br=1&c=867&s=NGDPD,PPPGDP,NGDPDPC,PPPPC&grp=0&a= |title=Report for Selected Countries and Subjects |website=imf.org |access-date=2019-06-06 |archive-date=2020-06-12 |archive-url=https://web.archive.org/web/20200612080022/https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?pr.x=81&pr.y=11&sy=2017&ey=2024&scsm=1&ssd=1&sort=country&ds=.&br=1&c=867&s=NGDPD,PPPGDP,NGDPDPC,PPPPC&grp=0&a= |url-status=live}}</ref>
+ |  1,821 đô la Mỹ<ref name=""IMFWEO.ER""/>
+ |  19.450,22€
+"
+gdp_ppp_per_capita_rank,187,187,94.92, GDP_PPP_per_capita_rank |  GDP_PPP_per_capita_rank  |  GDP_PPP_per_capita_rank   ," 
+ |  - không xếp hạng
+ |  1
+"
+gdp_ppp_per_capita_year,1,1,0.51, GDP_PPP_per_capita_year                ," 
+"
+gdp_ppp_rank,186,186,94.42, GDP_PPP_rank  |  GDP_PPP_rank    |  GDP_PPP_rank         ," 
+ |  - không xếp hạng
+ |  1
+"
+gdp_ppp_year,196,196,99.49, GDP_PPP_year  |  GDP_PPP_year    |  GDP_PPP_year         ," 2015
+ |  2018
+ |  2019
+"
+gini,193,193,97.97, Gini  |  Gini    |  Gini    ,"
+ |  
+ |  21.2 <!--number only-->
+"
+gini_change,183,183,92.89, Gini_change  |  Gini_change   |  Gini_change   ," 
+ |  <!-- Increase/decrease/steady -->
+ |  <!-- increase --> steady
+"
+gini_rank,112,112,56.85, Gini_rank  |  Gini_rank    |  Gini_rank              ,"
+ |  
+ |  1
+"
+gini_ref,191,191,96.95, Gini_ref  |  Gini_ref    |  Gini_ref             ," 
+ |  <ref name=""GINI"">{{Chú thích web |title=Gini index – China |url=https://data.worldbank.org/indicator/SI.POV.GINI?locations=CN&most_recent_year_desc=true |url-status=live |archive-url=https://web.archive.org/web/20240319005643/https://data.worldbank.org/indicator/SI.POV.GINI?locations=CN&most_recent_year_desc=true |archive-date=19 March 2024 |access-date=24 May 2022 |publisher=World Bank}}</ref>
  |  <ref name=""GINI"">{{Chú thích web |year=2019 |title=Gini index |url= https://data.worldbank.org/indicator/SI.POV.GINI?locations=KE |url-status=live |access-date=17 October 2023 |publisher=World Bank Group |archive-url=https://web.archive.org/web/20230615030226/https://data.worldbank.org/indicator/SI.POV.GINI?locations=KE |archive-date=15 Jun 2023 }}</ref>
- |  <ref name=""WBgini"">{{Chú thích web|title=Gini index - Brazil|url=https://data.worldbank.org/indicator/SI.POV.GINI?locations=BR|access-date=2025-06-07|website=World Bank Open Data}}</ref>
 "
-gini_year,20,20,100.0, Gini_year    |  Gini_year               |  Gini_year                ," 
- |  2000
- |  2011
+gini_year,191,191,96.95, Gini_year  |  Gini_year    |  Gini_year            ,"
+ |  
+ |  1998
 "
-government_type,20,20,100.0, government_type    |  government_type         |  government_type             ," Cộng hòa bán tổng thống đơn nhất<ref name=""SpL"">{{cite SSRN |last1=Amorim Neto |first1=Octávio |last2=Costa Lobo |first2=Marina |year=2010 |ssrn=1644026 |title=Between Constitutional Diffusion and Local Politics: Semi-Presidentialism in Portuguese-Speaking Countries}}</ref>
- |  Quân chủ lập hiến
- |  [[Bán tổng thống chế|Cộng hòa bán tổng thống]] [[Nhà nước đơn nhất|đơn nhất]]
+government_type,196,196,99.49, government_type  |  government_type   |  government_type   ," Cộng hòa Hồi giáo bán tổng thống đơn nhất
+ |  Cộng hòa [[Chế độ đốc chính|đốc chính]] lưỡng đầu [[Thể chế đại nghị|đại nghị]] đơn nhất
+ |  Cộng hòa [[bán tổng thống chế]] đơn nhất dưới một [[chính phủ lâm thời]]<br>([[de jure]])<br>Limited to none (de facto)
 "
-hdi,20,20,100.0, HDI    |  HDI     |  HDI                ," 0,511 <!--number only-->
- |  0,530 <!--number only-->
- |  0,668 <!--number only-->
+hdi,195,195,98.98, HDI  |  HDI    |  HDI    ," 
+ |  0,388<!--chỉ số phát triển con người, chỉ nhập số-->
+ |  0,414 <!--number only-->
 "
-hdi_change,20,20,100.0, HDI_change    |  HDI_change              |  HDI_change                ," decrease <!--increase/decrease/steady-->
- |  decrease<!--increase/decrease/steady-->
- |  increase
+hdi_change,193,193,97.97, HDI_change  |  HDI_change    |  HDI_change           ," Increase <!--increase/decrease/steady-->
+ |  decrease
+ |  decrease <!--increase/decrease/steady-->
 "
-hdi_rank,20,20,100.0, HDI_rank    |  HDI_rank                |  HDI_rank                ," 105
- |  106
- |  126
+hdi_rank,194,193,97.97, HDI_rank  |  HDI_rank    |  HDI_rank             ," 
+ |  1
+ |  10
 "
-hdi_ref,20,20,100.0, HDI_ref    |  HDI_ref                 |  HDI_ref                     ," <ref name=""HDI 2021"">{{Chú thích web|url=https://ws.dgbas.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMC9yZWxmaWxlLzExMDIwLzIyOTU5MS9iNDdhNmYyYy1jNjY2LTRjZDAtYmQ2Ni03OGEyYjMwMmM4MzkucGRm&n=TjExMTEwMTQucGRm&icon=.pdf|title=國情統計通報(第 195 號)|publisher=[[Directorate General of Budget, Accounting and Statistics]], Executive Yuan, Taiwan (ROC)|date=14 October 2021|access-date=11 February 2023|archive-date=11 February 2023|archive-url=https://web.archive.org/web/20230211120125/https://ws.dgbas.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMC9yZWxmaWxlLzExMDIwLzIyOTU5MS9iNDdhNmYyYy1jNjY2LTRjZDAtYmQ2Ni03OGEyYjMwMmM4MzkucGRm&n=TjExMTEwMTQucGRm&icon=.pdf|url-status=live}}</ref>
- |  <ref name=""HDI"">{{Cite web |date=6 May 2025 |title=Human Development Report 2025 |url=https://hdr.undp.org/system/files/documents/global-report-document/hdr2025reporten.pdf|url-status=live |archive-url=https://web.archive.org/web/20250506051232/https://hdr.undp.org/system/files/documents/global-report-document/hdr2025reporten.pdf |archive-date=6 May 2025 |access-date=6 May 2025 |publisher=[[Chương trình Phát triển của Liên Hợp Quốc]] |language=en}}</ref>
- |  <ref name=""HDI"">{{Cite web |date=6 May 2025 |title=Human Development Report 2025 |url=https://hdr.undp.org/system/files/documents/global-report-document/hdr2025reporten.pdf|url-status=live |archive-url=https://web.archive.org/web/20250506051232/https://hdr.undp.org/system/files/documents/global-report-document/hdr2025reporten.pdf |archive-date=6 May 2025 |access-date=6 May 2025 |publisher=[[United Nations Development Programme]] |language=en}}</ref>
+hdi_ref,193,193,97.97, HDI_ref  |  HDI_ref    |  HDI_ref              ," <ref name=""2022 components3"">{{Chú thích sách |url=https://hdr.undp.org/content/human-development-report-2025 |title=Human Development Report 2025 - A matter of choice: People and possibilities in the age of AI |date=6 May 2025 |publisher=United Nations Development Programme |isbn= |publication-date=6 May 2025 |pages= |access-date=6 May 2025 |archive-url=https://web.archive.org/web/20250506064128/https://hdr.undp.org/content/human-development-report-2025 |archive-date=6 May 2025}}</ref>
+ |  <ref name=""Conceição2025"">{{Chú thích sách |author=Pedro Conceição |date=2025 |title=Human Development Report 2025 |publisher=United Nations Development Programme |isbn=9789211542639 |issn=2412-3129 |page=276}}</ref>
+ |  <ref name=""HDI 2021"">{{Chú thích web|url=https://ws.dgbas.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMC9yZWxmaWxlLzExMDIwLzIyOTU5MS9iNDdhNmYyYy1jNjY2LTRjZDAtYmQ2Ni03OGEyYjMwMmM4MzkucGRm&n=TjExMTEwMTQucGRm&icon=.pdf|title=國情統計通報(第 195 號)|publisher=[[Directorate General of Budget, Accounting and Statistics]], Executive Yuan, Taiwan (ROC)|date=14 October 2021|access-date=11 February 2023|archive-date=11 February 2023|archive-url=https://web.archive.org/web/20230211120125/https://ws.dgbas.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMC9yZWxmaWxlLzExMDIwLzIyOTU5MS9iNDdhNmYyYy1jNjY2LTRjZDAtYmQ2Ni03OGEyYjMwMmM4MzkucGRm&n=TjExMTEwMTQucGRm&icon=.pdf|url-status=live}}</ref>
 "
-hdi_year,20,20,100.0, HDI_year    |  HDI_year                |  HDI_year                ," 2021
- |  2022 <!-- Please use the year to which the data refers, not the publication year-->
- |  2022<!-- Please use the year to which the data refers, not the publication year-->
+hdi_year,194,194,98.48, HDI_year  |  HDI_year    |  HDI_year             ," 
+ |  2021
+ |  2022
 "
-image_coat,19,19,95.0, image_coat    |  image_coat              |  image_coat                ," Coat of Arms of Cuba.svg
- |  Coat of Arms of Switzerland.svg
- |  Coat of arms of Brazil.svg
+huy_hiệu,1,1,0.51,Huy hiệu ," Coat of arms of Saint Vincent and the Grenadines.svg
 "
-image_flag,20,20,100.0, image_flag    |  image_flag              |  image_flag                ," Flag of Brazil.svg
- |  Flag of Cape Verde.svg
- |  Flag of Croatia.svg
+hướng_kinh_độ,1,1,0.51,Hướng kinh độ,"W
 "
-image_map,20,20,100.0, image_map    |  image_map               |  image_map                ," BRA orthographic.svg
- |  CUB orthographic.svg
- |  File:Sudan (orthographic projection) highlighted.svg
+hướng_vĩ_độ,1,1,0.51,Hướng vĩ độ,N 
+image_coat,193,193,97.97, image_coat  |  image_coat    |  image_coat           ," <!-- Hiến pháp Thổ Nhĩ Kỳ không quy định quốc huy chính thức -->
+ |  Arms of the French Republic.svg
+ |  Austria Bundesadler.svg
 "
-image_map2,10,10,50.0, image_map2    |  image_map2                ," 
- |  Europe-Switzerland.svg
- |  Japan-location-cia.png
+image_flag,196,196,99.49, image_flag  |  image_flag    |  image_flag           ," Bandera de España.svg
+ |  File:Flag of Canada (Pantone).svg
+ |  Flag of Albania.svg
 "
-image_map3,1,1,5.0, image_map3                ," Japan - Location Map (2013) - JPN - UNOCHA.svg
+image_flag2,4,4,2.03, image_flag2                ," 
+ |  <!--e.g. Second-flag of country.svg-->
+ |  <!--not officialMexican States Standard.svg//-->
 "
-image_map_caption,1,1,5.0, image_map_caption                ," Vị trí ''""Thụy Sĩ""'' (xanh) trên thế giới
+image_map,196,196,99.49, image_map  |  image_map    |  image_map            ," ATG orthographic.svg
+ |  Algeria (centered orthographic projection).svg
+ |  Angola (orthographic projection).svg
 "
-image_seal,1,1,5.0, image_seal                  ," State coat of arms of the Netherlands.svg
+image_map2,98,98,49.75, image_map2  |  image_map2    |  image_map2             ,"
+ |  
+ |  <!--Một bản đồ khác, nếu cần-->
 "
-iso3166code,8,8,40.0, iso3166code                ," BR
- |  CH
- |  GE
+image_map3,19,19,9.64, image_map3  |  image_map3    |  image_map3                ," 
+ |  <!--Vị trí bản đồ thứ ba tùy chọn, ví dụ: để sử dụng với tham chiếu đến chú thích bên dưới nó-->
+ |  Albania - Location Map (2013) - ALB - UNOCHA.svg
 "
-iso_3166–1_alpha2,2,2,10.0, ISO_3166–1_alpha2                ," 
+image_map_caption,4,4,2.03, image_map_caption       |  image_map_caption                ," Vị trí ''""Thụy Sĩ""'' (xanh) trên thế giới
+ |  Vị trí của '''Iceland''' (màu xanh đậm)
+ |  Vị trí của Bắc Triều Tiên trên thế giới (xanh)
 "
-iso_3166–1_alpha3,2,2,10.0, ISO_3166–1_alpha3                ," 
+image_seal,1,1,0.51, image_seal                  ," State coat of arms of the Netherlands.svg
 "
-languages,10,10,50.0, languages    |  languages                 |  languages                   ," [[Kana]], [[Kanji]]
- |  [[Tiếng Bồ Đào Nha]] ([[Tiếng Bồ Đào Nha Brasil|Phương ngữ Brasil]])
- |  [[Tiếng Malaysia]]{{efn|Section 9 of the [[National Language Act 1963/67]] states that ""The script of the national language shall be the Rumi script: provided that this shall not prohibit the use of the Malay script, more commonly known as the Jawi script, of the national language"".}}{{efn|Section 2 of the [[National Language Act 1963/67]] states that ""Save as provided in this Act and subject to the safeguards contained in Article 152(1) of the Constitution relating to any other language and the language of any other community in Malaysia the national language shall be used for official purposes"".}}{{efn|name=Recognised|See Article 152 of the [[Federal Constitution of Malaysia]] and [[National Language Act 1963/67]].}}
+image_symbol,1,1,0.51, image_symbol                ," National emblem of Papua New Guinea.svg
 "
-languages2,7,7,35.0, languages2    |  languages2                 |  languages2                  ," 
- |  [[Tiếng Anh]]{{efn|name=Recognised}}
- |  [[Tiếng Pháp]] và [[tiếng Anh]]{{efn|English is taught from fourth grade,<ref>{{Chú thích web|url=https://cnp.com.tn/arabic/PDF/CurriculumOFENGLISH.pdf|title=CurriculumOFENGLISH|date=2019}}</ref> and there is a notable increase in its usage among the youth and a growing demand in the workforce.<ref>{{Chú thích tập san học thuật|title=English-medium instruction in Tunisia: Perspectives of students|date=2023|doi=10.3389/fpsyg.2023.1112255 |doi-access=free |last1=Abdeljaoued |first1=Marii |journal=Frontiers in Psychology |volume=14 |pmid=37008855 |pmc=10063842 }}</ref>}}
+iso3166-1_alpha2,1,1,0.51, ISO3166-1_alpha2                ," 
 "
-languages2_sub,1,1,5.0, languages2_sub              ," yes
+iso3166-2_alpha3,1,1,0.51, ISO3166-2_alpha3                , 
+iso3166code,62,62,31.47, iso3166code  |  iso3166code   |  iso3166code   ," 
+ |  AR
+ |  BD
 "
-languages2_type,7,7,35.0, languages2_type    |  languages2_type              |  languages2_type                ," 
- |  Ngôn ngữ nước ngoài
- |  Ngôn ngữ được công nhận
+iso_3166-1_alpha2,1,1,0.51, ISO_3166-1_alpha2                ," 
 "
-languages_sub,1,1,5.0, languages_sub               ," yes
+iso_3166-2_alpha3,1,1,0.51, ISO_3166-2_alpha3                ," 
 "
-languages_type,12,11,55.0, Languages type                 |  languages_type    |  languages_type              ," 
- |  Ngôn ngữ quốc gia (chính thức)
- |  Ngôn ngữ thiểu số
+iso_3166–1_alpha2,11,11,5.58, ISO_3166–1_alpha2  |  ISO_3166–1_alpha2    |  ISO_3166–1_alpha2                ," 
 "
-largest_city,19,19,95.0, largest_city    |  largest_city            |  largest_city                ," [[Bagdad]]
- |  [[Khartoum]]
- |  [[Nairobi]]
+iso_3166–1_alpha3,11,11,5.58, ISO_3166–1_alpha3  |  ISO_3166–1_alpha3    |  ISO_3166–1_alpha3                ," 
 "
-largest_settlement,1,1,5.0, largest_settlement                ," [[Bedok]]<ref>{{chú thích web|url=https://www.singstat.gov.sg/find-data/search-by-theme/population/geographic-distribution/visualising-data/geographical-distribution-dashboard|title=Singapore Department of Statistics population report for 2022|publisher=Singstat|access-date=June 7, 2023|archive-date=24 December 2022|archive-url=https://web.archive.org/web/20221224122208/https://www.singstat.gov.sg/find-data/search-by-theme/population/geographic-distribution/visualising-data/geographical-distribution-dashboard|url-status=live}}</ref>
+khẩu_hiệu,1,1,0.51,Khẩu hiệu ," ''""Pax et justitia""''{{spaces|2}}<small>([[Latinh|Latin]])<br />""Hòa bình va Công lý""</small>
 "
-largest_settlement_type,1,1,5.0, largest_settlement_type                ," [[Khu vực quy hoạch của Singapore|khu vực quy hoạch]] {{nobold|theo dân số}}
+kinh_độ,1,1,0.51,Kinh độ,61 
+kinh_độ_phút,1,1,0.51,Kinh độ phút,14 
+languages,101,101,51.27, languages  |  languages    |  languages              ," 
+ |  <!--Ngôn ngữ thuộc loại khác-->
+ |  Chữ Kirin
 "
-leader_name1,20,20,100.0, leader_name1    |  leader_name1            |  leader_name1                ," [[Abdel Fattah al-Burhan]]
- |  [[Bassirou Diomaye Faye]]
- |  [[Charles III]]
+languages2,49,49,24.87, languages2    |  languages2              |  languages2                ," 
+ |  ''[[#Ngôn ngữ|Xem bên dưới]]''
+ |  35 [[Ngôn ngữ tại Nga#Ngôn ngữ chính thức|ngôn ngữ chính thức địa phương]]
 "
-leader_name2,19,19,95.0, leader_name2    |  leader_name2            |  leader_name2                ," [[Andrej Plenković]]
- |  [[Anwar Ibrahim]]
- |  [[Cécile La Grenade]]
+languages2_sub,4,4,2.03, languages2_sub               |  languages2_sub                ," <!--Là loại ngôn ngữ thay thế thứ hai có phải là một mục con của loại không phụ trước đó không? (""có hay không"")-->
+ |  yes
 "
-leader_name3,13,13,65.0, leader_name3    |  leader_name3            |  leader_name3                ," [[Ali al-Zaidi]]
- |  [[Amason Kingi]]
- |  [[Dickon Mitchell]]
+languages2_type,50,50,25.38, languages2_type    |  languages2_type         |  languages2_type             ," 
+ |  '''Ngôn ngữ bản địa'''
+ |  <!--Một loại ngôn ngữ khác-->
 "
-leader_name4,8,8,40.0, leader_name4    |  leader_name4                ," [[Mohamed al-Halbousi]]
- |  [[Moses Wetangula]]
- |  [[Mumba Malila]]
+languages_sub,7,7,3.55, languages_sub    |  languages_sub                |  languages_sub                ," <!--Đây có phải là loại ngôn ngữ nữa là một mục con của loại không phụ trước đó không? (""có hay không"")-->
+ |  no
+ |  yes
 "
-leader_name5,5,5,25.0, leader_name5    |  leader_name5                ," [[Dias Toffoli]]
- |  [[Mandisa Maya]]
- |  [[Martha Koome]]
+languages_type,102,101,51.27, Languages type                 |  languages_type  |  languages_type   ," 
+ |  '''Ngôn ngữ vùng'''
+ |  <!--Sử dụng để chỉ định một loại ngôn ngữ khác, nếu không phải là chính thức, quốc gia hoặc khu vực-->
 "
-leader_title1,20,20,100.0, leader_title1    |  leader_title1           |  leader_title1               ," Chủ tịch [[Hội đồng Chủ quyền Chuyển tiếp]]
+largest_city,188,188,95.43, largest_city  |  largest_city    |  largest_city         ," Bridgetown
+ |  Bình Nhưỡng
+ |  Castries
+"
+largest_settlement,7,7,3.55, largest_settlement                ," <!--Tên của khu định cư lớn nhất-->
+ |  [[Bedok]]<ref>{{chú thích web|url=https://www.singstat.gov.sg/find-data/search-by-theme/population/geographic-distribution/visualising-data/geographical-distribution-dashboard|title=Singapore Department of Statistics population report for 2022|publisher=Singstat|access-date=June 7, 2023|archive-date=24 December 2022|archive-url=https://web.archive.org/web/20221224122208/https://www.singstat.gov.sg/find-data/search-by-theme/population/geographic-distribution/visualising-data/geographical-distribution-dashboard|url-status=live}}</ref>
+ |  [[Dogana]]<br />{{coord|43|58|53|N|12|29|22|E|display=inline}}
+"
+largest_settlement_type,7,7,3.55, largest_settlement_type                ," <!--Loại hình giải quyết nếu giải quyết lớn nhất không phải là một thành phố-->
+ |  Khu vực hành chính
+ |  Khu định cư
+"
+leader_name1,196,196,99.49, leader_name1  |  leader_name1    |  leader_name1         ," <span style=white-space:nowrap;>[[Katerina Sakellaropoulou]]</span>
+ |  [[Abdel Fattah al-Burhan]]
+ |  [[Abdel Fattah el-Sisi]]
+"
+leader_name2,192,192,97.46, leader_name2  |  leader_name2    |  leader_name2         ," 
+ |  ''Khuyết''
+ |  ''trống''
+"
+leader_name3,127,127,64.47, leader_name3  |  leader_name3    |  leader_name3         ," 
+ |  Albulena Haxhiu
+ |  Brigitte Haas
+"
+leader_name4,70,70,35.53, leader_name4  |  leader_name4    |  leader_name4           ," 
+ |  <!-- ''Trống'' -->
+ |  <!--Currently Vacant--->
+"
+leader_name5,27,27,13.71, leader_name5  |  leader_name5    |  leader_name5           ," 
+ |  <!-- ''Trống'' -->
+ |  Begenç Hojamgulyýew
+"
+leader_name6,4,4,2.03, leader_name6  |  leader_name6            |  leader_name6                ," 
+ |  [[Lý Hi]]
+ |  [[Pennelope Beckles-Robinson]]
+"
+leader_name7,1,1,0.51, leader_name7 ," [[Đinh Tiết Tường]]
+"
+leader_name8,1,1,0.51, leader_name8 ," 
+"
+leader_title1,196,196,99.49, leader_title1  |  leader_title1   |  leader_title1   ," Chủ tịch [[Hội đồng Chủ quyền Chuyển tiếp]]
  |  Quân chủ
  |  Tổng thống
 "
-leader_title2,19,19,95.0, leader_title2    |  leader_title2           |  leader_title2               ," Thủ tướng
- |  Toàn quyền
- |  [[Phó Tổng thống Kenya|Phó Tổng thống]]
+leader_title2,192,192,97.46, leader_title2  |  leader_title2   |  leader_title2   ," 
+ |  Chủ tịch Quốc hội
+ |  Phó Tổng thống
 "
-leader_title3,13,13,65.0, leader_title3    |  leader_title3           |  leader_title3               ," Thủ tướng
- |  [[Chánh án Tòa án Tối cao Singapore|Chánh án Tòa án Tối cao]]
- |  [[Chủ tịch Quốc hội Croatia|Chủ tịch Quốc hội]]
+leader_title3,128,128,64.97, leader_title3  |  leader_title3   |  leader_title3   ," 
+ |  Chủ tịch Hạ viện
+ |  Chủ tịch Hội đồng
 "
-leader_title4,8,8,40.0, leader_title4    |  leader_title4                ," [[Chánh án Zambia|Chánh án]]
- |  [[Chủ tịch Hạ viện Kenya|Chủ tịch Hạ viện]]
- |  [[Chủ tịch Hội đồng các tỉnh quốc gia]]
+leader_title4,70,70,35.53, leader_title4  |  leader_title4    |  leader_title4          ," 
+ |  Chánh án
+ |  Chánh án Tòa án Tối cao
 "
-leader_title5,5,5,25.0, leader_title5    |  leader_title5                ," [[Chánh án Kenya|Chánh án]]
- |  [[Chánh án Nam Phi|Chánh án]]
- |  [[Thường trực Ban Bí thư Trung ương Đảng Cộng sản Việt Nam|Thường trực Ban Bí thư]]
+leader_title5,26,26,13.2, leader_title5  |  leader_title5    |  leader_title5          ," 
+ |  Chủ tịch Quốc hội
+ |  Chủ tịch [[Tòa án tối cao Liên bang Ethiopia|Tòa án tối cao Liên bang]]
 "
-legislature,20,20,100.0, legislature    |  legislature             |  legislature                ," Quốc hội
- |  [[Hội đồng Lập pháp chuyển tiếp (Sudan)|Hội đồng Lập pháp chuyển tiếp]]
- |  [[Lập pháp viện Trung Hoa Dân Quốc|Lập pháp viện]]
+leader_title6,4,4,2.03, leader_title6  |  leader_title6           |  leader_title6                ," 
+ |  [[Bí thư Ủy ban Kiểm tra Kỷ luật Trung ương Đảng Cộng sản Trung Quốc|Bí thư Ủy ban Kiểm tra Kỷ luật]]
+ |  [[Lãnh đạo phe đối lập (Trinidad và Tobago)|Lãnh đạo phe đối lập]]
 "
-linking_name,5,5,25.0, linking_name                ," Brazil
- |  Georgia (country)
- |  Nhật Bản
+leader_title7,1,1,0.51, leader_title7 ," [[Phó Tổng lý Quốc vụ viện|Phó Tổng lý thứ nhất]]
 "
-lower_house,11,11,55.0, lower_house    |  lower_house             |  lower_house                ," 
+leader_title8,1,1,0.51, leader_title8 ," 
+"
+legislature,194,193,97.97, Legislature                 |  legislature  |  legislature  ," 
+ |  Hội đồng lập pháp
+ |  Hội đồng nhân dân
+"
+linking_name,23,23,11.68, linking_name  |  linking_name            |  linking_name                ," 
+ |  Anh Quốc
+ |  Argentina
+"
+loctext,1,1,0.51, loctext                ," <!--mô tả văn bản của vị trí của đất nước-->
+"
+lower_house,83,83,42.13, lower_house  |  lower_house    |  lower_house            ," 
  |  Hạ viện
- |  [[Chúng Nghị viện]]
+ |  Hội đồng Đại diện
 "
-map_caption,15,15,75.0, map_caption    |  map_caption             |  map_caption                ," 
- |  Vị trí của Brasil (xanh) trên thế giới
- |  Vị trí của Nhật Bản (xanh lá) trên thế giới,<br />bao gồm [[quần đảo Kuril]] hiện đang tranh chấp với<br />[[Liên bang Nga]] (xanh nhạt).
+loại_chủ_quyền,1,1,0.51,Loại chủ quyền ," Độc lập
 "
-map_caption2,1,1,5.0, map_caption2                ," Lãnh thổ trên thực tế thuộc quyền kiểm soát<br />của Nhật Bản (nâu).
+lá_cờ,1,1,0.51,Lá cờ ," Flag of Saint Vincent and the Grenadines.svg
 "
-map_width,1,1,5.0, map_width                ," 275px
+lái_xe_bên,1,1,0.51,Lái xe bên ," trái
 "
-motto,1,1,5.0, motto                       ," {{native name|fr|[[Coat of arms of the Netherlands|Je maintiendrai]]|link=on}}<br />(''""Tôi sẽ giữ vững""'')
+map2_caption,1,1,0.51, map2_caption                ," 
 "
-name,2,2,10.0, name                 |  name                       ," Hà Lan<!--Không đổi thành ""Vương quốc Hà Lan""; nó có bài riêng.-->
- |  {{unbulleted list|{{native name|ar|الجمهورية التونسية}}<br />{{resize|80%|{{transliteration|ar|al-Jumhūriyyah at-Tūnisiyyah}}}}}}
+map2_width,4,4,2.03, map2_width              |  map2_width                ," 
+ |  250px
 "
-national_anthem,18,18,90.0, national_anthem    |  national_anthem         |  national_anthem                ," ""[[Ee Mungu Nguvu Yetu]]""<br />({{Langx|en|""O God of All Creation""}})<br /><div style=""display:inline-block;margin-top:0.4em;"">[[File:National anthem of Kenya, performed by the United States Navy Band.wav|center]]</div>
- |  ""[[Hail Grenada]]""<div style=""display:inline-block;margin-top:0.4em;"">[[File:HailGrenada.ogg]]</div>
- |  ""[[Quốc ca Nam Phi]]"" <div style=""padding-top:0.5em;"" class=""centre"">[[File:South Africa National Anthem.ogg]]</div>
+map_caption,152,152,77.16, map_caption  |  map_caption   |  map_caption   ,"
+ |  
+ |  <p style=""margin-top:0;margin-bottom:-2px;line-height:1em;""><span style=""font-size:12px;"">Vùng Argentina đòi chủ quyền tại [[Châu Nam Cực]] <br/> (chồng chéo lên những vùng [[Chile]] và [[Vương quốc Liên hiệp Anh và Bắc Ireland|Anh]] <br/> đòi chủ quyền thuộc [[Châu Nam Cực]]) <br/> cùng với [[Quần đảo Falkland]], [[Nam Georgia và Quần đảo Nam Sandwich|Nam Georgia <br/>và Quần đảo Nam Sandwich]] (do [[Vương quốc Liên hiệp Anh và Bắc Ireland|Anh]] quản lý)<br/> được thể hiện bằng màu xanh sáng.
 "
-national_languages,1,1,5.0, national_languages                ," Tiếng [[Cape Verdean Creole]]<ref name="":0"" />
+map_caption2,28,28,14.21, map_caption2  |  map_caption2    |  map_caption2                ," 
+ |  <!--Chú thích để đặt bên dưới bản đồ thứ hai-->
+ |  Các hòn đảo của Mauritius màu đen.<br />* ''[[Đảo Tromelin]]'' (một phần của [[Vùng đất phía Nam và châu Nam Cực thuộc Pháp]], bị Mauritius tranh chấp).<br />* ''[[Quần đảo Chagos]]'' (một phần của [[Lãnh thổ Ấn Độ Dương thuộc Anh]], bị Mauritius tranh chấp).<ref name="":1"">{{cite web |date=30 May 2025 |title=2025 treaty on the British Indian Ocean Territory/Chagos Archipelago |url=https://commonslibrary.parliament.uk/research-briefings/cbp-10273/ |website=Parliament of the United Kingdom}}</ref>
 "
-national_motto,16,16,80.0, national_motto    |  national_motto          |  national_motto                ," ""Ever Conscious of God We Aspire, Build and Advance as One People""{{lower|0.2em|<ref>{{Chú thích web |url=http://www.gov.gd/ |title=Government of Grenada Website |access-date=1 November 2007 |archive-date=27 June 2018 |archive-url=https://web.archive.org/web/20180627205953/http://www.gov.gd/ |url-status=live }}</ref>}}
- |  ""[[Harambee]]""<br />({{langx|en|""Let us all pull together""}})
- |  ""{{lang|xam|ǃke e: ǀxarra ǁke}}""&nbsp;([[tiếng ǀXam]])<br />""Thống nhất trong đa dạng""
+map_caption3,13,13,6.6, map_caption3  |  map_caption3                ," 
+ |  Biên giới sau Hiệp định ngừng bắn năm 1949 ([[Giới tuyến Xanh (Israel)|Giới tuyến Xanh]])
+ |  Bản đồ Albania năm 2013.
 "
-national_representation,1,1,5.0, national_representation     ," [[Nghị viện châu Âu]]
+map_width,25,25,12.69, map_width  |  map_width    |  map_width              ," 220px
+ |  227px
+ |  230px
 "
-national_representation1,1,1,5.0, national_representation1    ," 31 ghế
+march,1,1,0.51, march                ," <br />''[[The Stars and Stripes Forever]]''<br />(""Lá cờ sọc sao muôn năm"")<br />{{center|[[Tập tin:March, ""The Stars and Stripes Forever"" · Colonel John R. Bourgeois, Director · John Philip Sousa · United States Marine Band.ogg]]}}
 "
-national_representation_type1,1,1,5.0, national_representation_type1," [[Hà Lan (đơn vị bầu cử Nghị viện châu Âu)|Đơn vị bầu cử Hà Lan]]
+membership,3,3,1.52, membership                ," {{cslist|[[Liên Hợp Quốc]]|[[Hiệp hội Hợp tác Khu vực Nam Á]]| [[BIMST-EC]]}}
+ |  {{cslist|[[Liên Hợp Quốc]]|[[Khối Thịnh vượng chung Anh]]|[[Tổ chức Thương mại Thế giới|WTO]]|[[BRICS]]|[[Hiệp hội Nam Á vì sự Hợp tác Khu vực|SAARC]]|[[Tổ chức Hợp tác Thượng Hải|SCO]]|[[Nhóm G4|G5]]|[[Nhóm G5|G5]]|[[G8+5]]|[[G20 (nhóm các nền kinh tế lớn)|G20]]}}
+ |  {{ublist
+ | {{Lá cờ|Anh}}
+ | {{Lá cờ|Bắc Ireland}}
+ | {{Lá cờ|Scotland}}
+ | {{Lá cờ|Wales}}
+ }}
 "
-native_name,17,17,85.0, native_name    |  native_name             |  native_name                ," ''La Gwinad'' ([[Tiếng Pháp Creole Grenada]])<ref>{{Chú thích web|title=National Anthem of Grenada|url=https://www.grenadaembassy.ru/anthem/|access-date=2025-03-19|website=Embassy of Grenada in Russia|language=en-US|archive-date=2022-01-21|archive-url=https://web.archive.org/web/20220121223829/https://grenadaembassy.ru/anthem/|url-status=dead}}</ref>
-<br>''Gwenad'' ([[Tiếng Anh Creole Grenada]])<ref>{{Chú thích web |url=https://glosbe.com/en/gcl/Grenada |title=Grenadian Creole English - English Dictionary |access-date=7 February 2025 |archive-date=7 January 2025 |archive-url=https://web.archive.org/web/20250107035201/https://glosbe.com/en/gcl/Grenada |url-status=live }}</ref>
- |  Republika Hrvatska
- |  {{Infobox |subbox=yes |bodystyle=padding-top:0.5em; font-size:76%; font-weight:normal; |rowclass1 = mergedrow |label1=[[Tiếng Anh]]: |data1={{lang|ms|Republic of Singapore}} |rowclass2 = mergedrow |label2=[[Tiếng Mã Lai]]: |data2={{lang|ms|Republik Singapura}} |rowclass3 = mergedrow |label3=[[Quan thoại]]: |data3={{lang|zh-SG|新加坡共和国}} |rowclass4 = mergedrow |label4=[[Tiếng Tamil]]: |data4={{lang|ta|சிங்கப்பூர் குடியரசு}} }}
+membership_type,1,1,0.51, membership_type                ," [[Quốc gia cấu thành Vương quốc Liên hiệp Anh và Bắc Ireland|Quốc gia cấu thành]]
 "
-official_languages,17,17,85.0, official_languages    |  official_languages      |  official_languages          ," '''[[Ngôn ngữ của Nam Phi|12 ngôn ngữ]]'''<ref name=""constitution.1.6"">{{cite book|url=https://www.concourt.org.za/images/phocadownload/the_text/english-2013.pdf|title=The Constitution of the Republic of South Africa|publisher=Constitutional Court of South Africa|year=2013|edition=2013 English version|at=ch.&nbsp;1, s.&nbsp;6|access-date=17 April 2020|archive-date=23 August 2018|archive-url=https://web.archive.org/web/20180823174423/https://www.concourt.org.za/images/phocadownload/the_text/english-2013.pdf|url-status=live}}</ref><ref name=""parliament.gov.za"">{{Cite web|url=https://www.parliament.gov.za/press-releases/na-approves-south-african-sign-language-12th-official-language|title=The NA Approves South African Sign Language as the 12th Official Language |website=Parliament of South Africa |date=3 May 2023 |url-status=live |archive-url=https://web.archive.org/web/20231222131030/https://www.parliament.gov.za/press-releases/na-approves-south-african-sign-language-12th-official-language |archive-date= Dec 22, 2023 }}</ref>{{plainlist|
+micronation,1,1,0.51, micronation                ," <!--có nếu một vi mô-->
+"
+motto,8,8,4.06, motto                 |  motto                       ," 
+ |  ""Công lý, Tự do, Thịnh vượng""
+ |  <br />{{native phrase|tg|Истиқлол, Озодӣ, Ватан|italics=off|nolink=yes}}<br />{{transliteration|tg|Istiqlol, Ozodī, Vatan}}<br />{{native phrase|ru|Независимость, Свобода, Родина|italics=off|nolink=yes}}<br />{{transliteration|ru|Nezavisimost', Svoboda, Rodina}}<br />""Độc lập, Tự do, Tổ quốc""
+"
+mã_điện_thoại,1,1,0.51,Mã điện thoại ," 1 784
+"
+mã_đơn_vị_tiền_tệ,1,1,0.51,Mã đơn vị tiền tệ ," XCD
+"
+múi_giờ,1,1,0.51,Múi giờ ," 
+"
+múi_giờ_dst,1,1,0.51,Múi giờ DST ," 
+"
+mật_độ,1,1,0.51,Mật độ ," 307
+"
+mật_độ_dân_số_dặm_vuông,1,1,0.51,Mật độ dân số dặm vuông ," 792
+"
+name,7,7,3.55, name                 |  name                       ," Hà Lan<!--Không đổi thành ""Vương quốc Hà Lan""; nó có bài riêng.-->
+ |  {{collapsible list
+  | titlestyle = background:transparent;text-align:center;line-height:normal;font-size:84%;
+ }}
+ |  {{collapsible list
+ |titlestyle = background:transparent; font-size:90%;
+ |title = {{resize|9pt|''Tên bản ngữ khác:''}}
+ |{{Infobox |subbox=yes |bodystyle=font-size:7pt;font-weight:normal;
+ |rowclass1=mergedrow |label1=[[Tiếng Scotland]]: |data1={{lang|sco|Unitit Kinrick o Great Breetain an Northren Ireland}}
+ |rowclass2 =mergedrow |label2=[[Phương ngữ Scotland Ulster|Tiếng Scotland Ulster]]: |data2={{lang|sco|Claught Kängrick o Docht Brätain an Norlin Airlann}}
+ |rowclass3 =mergedrow |label3=[[Tiếng Wales]]: |data3={{lang|cy|Teyrnas Unedig Prydain Fawr a Gogledd Iwerddon}}
+ |rowclass4 =mergedrow |label4=[[Tiếng Cornwall]]: |data4={{lang|kw|Rywvaneth Unys Breten Veur ha Kledhbarth Iwerdhon}}
+ |rowclass5 =mergedrow |label5=[[Tiếng Gael Scotland]]: |data5={{lang|gd| Rìoghachd Aonaichte Bhreatainn is Èireann a Tuath}}
+ |rowclass6 =mergedrow |label6=[[Tiếng Ireland]]: |data6={{lang|ga|Ríocht Aontaithe na Breataine Móire agus Thuaisceart Éireann}}
+ |rowclass7 =mergedrow |label7=[[Tiếng Man]]: |data7={{lang|gv|Reeriaght Unnaneysit ny Bretyn Mooar as Nerin Hwoaie }}
+ }}
+ }}
+"
+national_animal,3,3,1.52, national_animal  |  national_animal                ," [[Cáo fennec]] (''Vulpes zerda'')<ref>{{chú thích web|last=Hodges |first=Kate |title=National Animals of African Countries |url=http://african.howzit.msn.com/national-animals-of-african-countries?page=10 |access-date =ngày 19 tháng 2 năm 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140225172955/http://african.howzit.msn.com/national-animals-of-african-countries?page=10 |archive-date=ngày 25 tháng 2 năm 2014 }}</ref><ref>{{chú thích web|url=http://www.algeria.com/blog/the-fennec-fox-algeria-s-national-animal|title=The Fennec Fox: Algeria's National Animal|website=Algeria.com|access-date = ngày 21 tháng 3 năm 2013}}</ref>
+ |  [[Linh dương đen Đông Phi]] (''Hippotragus niger'')<ref name=""Angola Embassy"">{{chú thích web|url=https://www.angolaembassy.org.rs/about/national-symbols|title=National Symbols|website=angolaembassy.org.rs|publisher=Đại sứ quán Angola ở Serbia|access-date=ngày 10 tháng 11 năm 2020|archive-date=2018-12-11|archive-url=https://web.archive.org/web/20181211164649/http://www.angolaembassy.org.rs/about/national-symbols|url-status=dead}}</ref>
+ |  {{vunblist|[[Hươu hoang]] (''Dama dama'')<ref name=""aggov"">{{chú thích web|url=https://ab.gov.ag/detail_page.php?page=26|title=Our National Symbols|publisher=Website chính thức của Chính phủ Antigua và Barbuda|access-date=ngày 10 tháng 10 năm 2020|author=Chính phủ Antigua và Barbuda|lang=en|archive-date=2021-11-13|archive-url=https://web.archive.org/web/20211113152547/https://ab.gov.ag/detail_page.php?page=26|url-status=dead}}}</ref>|[[Đồi mồi]] (''Eretmochelys imbricata	'')<ref name=""aggov"" />}}
+"
+national_anthem,193,193,97.97, national_anthem  |  national_anthem   |  national_anthem   ," ""''[[Amar Sonar Bangla]]''""<br/>আমার সোনার বাংলা<br>({{Langx|vi|""Bengal quý giá của ta""}})<br>{{center|[[Tập tin: Amar Sonar Bangla vocal music.oga]]}}
+----
+{{center|'''Diễu hành:''' ""[[Notuner Gaan]]""<ref name=""national march"">{{chú thích web|title=NATIONAL SYMBOLS→National march|work=Bangladesh Tourism Board|location=Bangladesh|publisher=Ministry of Civil Aviation & Tourism|url=http://visitbangladesh.gov.bd/about-bangladesh/national-symbol/|quote=In ngày 13 tháng 1 năm 1972, the ministry of Bangladesh has adopted this song as a national marching song on its first meeting after the country's independence.|ngày truy cập=2017-09-17|archive-date = ngày 25 tháng 12 năm 2018 |archive-url=https://web.archive.org/web/20181225043041/http://visitbangladesh.gov.bd/about-bangladesh/national-symbol/|url-status=dead}}</ref>}}নতুনের গান<br>({{Langx|vi|""Bài hát tuổi trẻ""}})<br><center>[[Tập tin: Chol Chol Chol.ogg]]</center>
+ |  ""''[[Lupang Hinirang]]''""<br>(Mảnh đất được Chúa chọn)<br><center>[[Tập tin:Lupang Hinirang instrumental.ogg]]</center>
+ |  ""[[All Hail, Liberia, Hail!]]""{{parabr}}{{center|[[File:Liberia National Anthem.ogg]]}}
+"
+national_bird,3,3,1.52, national_bird  |  national_bird                ," [[Fregata magnificens|Cốc biển]] (''Fregata magnificens'')<ref name=""aggov"" />
+ |  [[Tauraco erythrolophus|Turaco mào đỏ]] (''Tauraco erythrolophus'')<ref>{{chú thích web|website=Birds Angola|title=The National Bird of Angola|url=http://www.birdsangola.org/nationalbird.htm|access-date=ngày 20 tháng 2 năm 2014}}</ref>
+ |  [[Đại bàng]]<ref>{{chú thích sách|last1=Minahan|first1=James|title=The Complete Guide to National Symbols and Emblems|url=https://books.google.com/books?id=jfrWCQAAQBAJ&pg|year=2010|page=301–302|isbn=9780313344978}}</ref><ref>{{chú thích sách|last=Elsie|first=Robert|author-link=Robert Elsie|title=A Dictionary of Albanian Religion, Mythology and Folk Culture|place=London|publisher=Hurst & Company|url=https://books.google.com/?id=N_IXHrXIsYkC&dq|isbn=1-85065-570-7|year=2001|p=78}}</ref>
+"
+national_flower,1,1,0.51, national_flower ," [[Agave karatto|Thùa Karatto]] (''Agave karatto'')<ref name=""aggov"" />
+"
+national_languages,18,18,9.14, national_languages   |  national_languages    |  national_languages     ," 
+ |  ''('''không có''' ở cấp quốc gia)''
+ |  Không có<ref name=""Times News Network"">{{chú thích báo|last=Khan|first=Saeed|title=There's no national language in India: Gujarat High Court|url=http://timesofindia.indiatimes.com/india/Theres-no-national-language-in-India-Gujarat-High-Court/articleshow/5496231.cms|access-date =ngày 5 tháng 5 năm 2014|newspaper=[[The Times of India]]|date=ngày 25 tháng 1 năm 2010|archive-url=https://web.archive.org/web/20140318040319/http://timesofindia.indiatimes.com/india/Theres-no-national-language-in-India-Gujarat-High-Court/articleshow/5496231.cms|archive-date=2014-03-18}}</ref><ref name=""NoneNtl"">{{chú thích báo|url=http://timesofindia.indiatimes.com/india/Learning-with-the-Times-India-doesnt-have-any-national-language/articleshow/5234047.cms|title=Learning with the Times: India doesn't have any 'national language'|newspaper=[[The Times of India]]|archive-url=https://web.archive.org/web/20171010085454/https://timesofindia.indiatimes.com/india/Learning-with-the-Times-India-doesnt-have-any-national-language/articleshow/5234047.cms|archive-date=2017-10-10}}</ref><ref name=""Press Trust of India"">{{chú thích báo|url=http://www.thehindu.com/news/national/hindi-not-a-national-language-court/article94695.ece|title=Hindi, not a national language: Court|newspaper=[[The Hindu]]|author=Press Trust of India|access-date =ngày 23 tháng 12 năm 2014|date=ngày 25 tháng 1 năm 2010|location=Ahmedabad|archive-url=https://web.archive.org/web/20140704084339/http://www.thehindu.com/news/national/hindi-not-a-national-language-court/article94695.ece|archive-date=2014-07-04}}</ref>
+"
+national_motto,146,146,74.11, national_motto  |  national_motto   |  national_motto   ," 
+ |  "" Unity and Faith, Peace and Progress""
+ |  ""Apres Bondie, C'est La Ter""<ref>{{Chú thích web|url=http://www.dominica.gov.dm/about-dominica/national-symbols/coat-of-arms|title=Coat of Arms – Government of the State of Dominica|website=www.dominica.gov.dm|access-date=25 September 2015|archive-date=29 May 2020|archive-url=https://web.archive.org/web/20200529234156/http://dominica.gov.dm/about-dominica/national-symbols/coat-of-arms|url-status=live}}</ref> (Tiếng Pháp Dominican Creole) <br /> ""Post Deum terra est"" ([[Latin]]) <br />""Sau Chúa là Trái Đất""
+"
+national_representation,1,1,0.51, national_representation     ," [[Nghị viện châu Âu]]
+"
+national_representation1,1,1,0.51, national_representation1    ," 31 ghế
+"
+national_representation_type1,1,1,0.51, national_representation_type1," [[Hà Lan (đơn vị bầu cử Nghị viện châu Âu)|Đơn vị bầu cử Hà Lan]]
+"
+national_symbol1,1,1,0.51, national_symbol1 ," [[Dứa]] (''Ananas comosus'')<ref name=""aggov"" />
+"
+national_symbol1_title,1,1,0.51, national_symbol1_title ," [[Trái cây quốc gia|Trái cây]]
+"
+national_tree,2,2,1.02, national_tree  |  national_tree                ," [[Bucida buceras|Vân sam Caribe]] (''Bucida buceras'')<ref name=""aggov"" />
+ |  {{unbulleted list
+ | [[Welwitschia|Gấm Angola]] (''Welwitschia'')<ref name=""Angola Embassy"" />
+ | [[Adansonia digitata|Baobab châu Phi]] (''Adansonia digitata'')<ref name=""Angola Embassy"" />
+}}
+"
+native_name,190,190,96.45, native_name  |  native_name   |  native_name   ,"
+ |  
+ |  
+ {{Infobox |subbox = yes
+ | mergedrow |label1={{nowrap|[[Tiếng Anh]]}}|data1={{lang|en|Antigua and Barbuda}}
+ }}
+"
+ngày_1,1,1,0.51,Ngày 1 ," [[27 tháng 10]] [[1979]]
+"
+ngôn_ngữ_chính_thức,1,1,0.51,Ngôn ngữ chính thức ," [[Tiếng Anh]]
+"
+note,1,1,0.51, note ," 
+"
+nummembers,1,1,0.51, nummembers                ," <!--Một thay thế cho dân số cho vi mô-->
+"
+năm_thống_kê_dân_số,1,1,0.51,Năm thống kê dân số ," 2011
+"
+năm_tính_gdp_danh_nghĩa,1,1,0.51, Năm tính GDP danh nghĩa ," 2016
+"
+năm_tính_gdp_ppp,1,1,0.51, Năm tính GDP PPP ," 2016
+"
+năm_tính_hdi,1,1,0.51,Năm tính HDI ," 2014
+"
+năm_ước_lượng_dân_số,1,1,0.51,Năm ước lượng dân số ," 2015
+"
+official_languages,168,168,85.28, official_languages  |  official_languages   |  official_languages   ," 
+ |  '''[[Ngôn ngữ của Nam Phi|12 ngôn ngữ]]'''<ref name=""constitution.1.6"">{{cite book|url=https://www.concourt.org.za/images/phocadownload/the_text/english-2013.pdf|title=The Constitution of the Republic of South Africa|publisher=Constitutional Court of South Africa|year=2013|edition=2013 English version|at=ch.&nbsp;1, s.&nbsp;6|access-date=17 April 2020|archive-date=23 August 2018|archive-url=https://web.archive.org/web/20180823174423/https://www.concourt.org.za/images/phocadownload/the_text/english-2013.pdf|url-status=live}}</ref><ref name=""parliament.gov.za"">{{Cite web|url=https://www.parliament.gov.za/press-releases/na-approves-south-african-sign-language-12th-official-language|title=The NA Approves South African Sign Language as the 12th Official Language |website=Parliament of South Africa |date=3 May 2023 |url-status=live |archive-url=https://web.archive.org/web/20231222131030/https://www.parliament.gov.za/press-releases/na-approves-south-african-sign-language-12th-official-language |archive-date= Dec 22, 2023 }}</ref>{{plainlist|
 * [[Tiếng Afrikaans]]
 * [[Tiếng Anh Nam Phi|Tiếng Anh]]
 * [[Tiếng Nam Ndebele]]
@@ -520,164 +876,284 @@ official_languages,17,17,85.0, official_languages    |  official_languages      
 | liststyle = text-align:left;white-space:nowrap;
 | title=Ngôn ngữ có quy chế đặc biệt<ref name=""constitution.1.6""/>|[[Ngữ tộc Khoe]]|[[Tiếng Khoekhoe]]|[[Tiếng Khoisan]]|[[Tiếng Đức]]|[[Tiếng Hy Lạp]]|[[Tiếng Gujarati]]|[[Tiếng Hindi]]|[[Tiếng Bồ Đào Nha]]|[[Tiếng Telugu]]|[[Tiếng Tamil]]|[[Tiếng Urdu]]|[[Tiếng Ả Rập]]|[[Tiếng Hebrew]]|[[Tiếng Phạn]]
 }}
- |  Không có<ref>{{chú thích web |url=http://houseikyoku.sangiin.go.jp/column/column068.htm |script-title=ja:法制執務コラム集「法律と国語・日本語」 |publisher=Legislative Bureau of the House of Councillors |accessdate=ngày 19 tháng 1 năm 2009 |language=ja |archive-date=2018-12-25 |archive-url=https://web.archive.org/web/20181225073508/http://houseikyoku.sangiin.go.jp/column/column068.htm |url-status=live }}</ref>
- |  Tiếng Anh
+ |  Không có
 "
-official_website,1,1,5.0, official_website                ," {{url|https://www.japan.go.jp/}}
+official_religion,1,1,0.51, official_religion                ," 
 "
-other_symbol,5,5,25.0, other_symbol                ," 
+official_website,23,23,11.68, official_website  |  official_website    |  official_website       ," 
+ |  <!-- do not add www.gov.in – The article is about the country, not the government – from Template:Infobox country, ""do not use government website (e.g. usa.gov) for countries (e.g. United States) -->
+ |  [http://palaugov.pw/ PalauGov.pw]
+"
+org_type,1,1,0.51, org_type                ," 
+"
+other_symbol,25,25,12.69, other_symbol                ," 
  |  '''Quốc hoa:''' [[Tập tin:Meihua ROC.svg|20px]] [[Quốc hoa Trung Hoa Dân Quốc|Hoa Mai]]<br />{{lang|zh-tw|梅花}}<br />''Méihuā'' {{small|([[tiếng Quan thoại]])}}<br />''Môe-hôa''&nbsp;{{small|([[tiếng Phúc Kiến]])}}<br />''Mòi-fà'' {{small|([[tiếng Khách Gia]])}}<hr>'''[[Quốc ấn Trung Hoa Dân Quốc|Quốc ấn]]'''<br>{{lang|zh-Hant|中華民國之璽}}<br>''Trung Hoa Dân Quốc Chi Tỉ''<br/>[[Tập tin:中華民國之璽.svg|85px]]<br/>{{lang|zh-Hant|榮典之璽}}<br/>''Vinh Điển Chi Tỉ''
- |  [[File:Public Seal of Zambia.svg|100px]]
+ |  ''[[La Granadera]]''<br />({{Langx|en|""The Grenadier""}})<br />{{center|[[File:La_Granadera.ogg]]}}
 "
-other_symbol_type,3,3,15.0, other_symbol_type                ," Public Seal
- |  [[Con dấu quốc gia Brasil|Quốc ấn]]<br />[[Con dấu quốc gia Brasil|''Selo Nacional do Brasil'']]<br />Con dấu quốc gia Brasil
- |  [[Quốc ấn Nhật Bản|Quốc ấn]]
+other_symbol_type,22,22,11.17, other_symbol_type                ," 
+ |  <!--Sử dụng nếu một biểu tượng khác tồn tại, ví dụ: Thánh ca-->
+ |  Bài hát quốc gia
 "
-patron_saint,1,1,5.0, patron_saint                ," [[St. Joseph]]<ref name=""Hrvatski sabor – Povijest"">{{Chú thích web |url=http://www.sabor.hr/sv-josip-zastitnik-hrvatske-domovine |access-date=2018-03-10 |title=Hrvatski sabor – Povijest |archive-url=https://web.archive.org/web/20180306022924/http://www.sabor.hr/sv-josip-zastitnik-hrvatske-domovine |archive-date=2018-03-06 |url-status=dead}}</ref>
+p1,1,1,0.51, p1                ," 
 "
-percent_water,19,19,95.0, percent_water    |  percent_water           |  percent_water               ," 
- |  0,38
- |  0.3
+p2,1,1,0.51, p2                ," 
 "
-population_census,16,16,80.0, population_census    |  population_census       |  population_census           ," 
- |  126.226.568<ref>{{Chú thích web|url=https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&toukei=00200521&tstat=000001136464&cycle=0&year=20200&month=24101210&tclass1=000001136465&tclass2=000001154388&tclass3val=0|title=2020 Population Census Preliminary Tabulation|accessdate=ngày 26 tháng 6 năm 2021|publisher=[[Statistics Bureau (Japan)|Statistics Bureau of Japan]]|archive-date=2021-06-26|archive-url=https://web.archive.org/web/20210626170253/https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&toukei=00200521&tstat=000001136464&cycle=0&year=20200&month=24101210&tclass1=000001136465&tclass2=000001154388&tclass3val=0|url-status=live}}</ref>
- |  16.655.799<ref name=""2011Census"">{{cite web|url=https://www.cbs.nl/-/media/imported/documents/2014/44/2014-b57-pub.pdf?la=en-gb|title=Dutch Census 2011 Analysis and Methodology|publisher=[[Statistics Netherlands]]|page=9|date=19 November 2014|accessdate=9 June 2021}}</ref>
+patron_saint,8,8,4.06, patron_saint    |  patron_saint            |  patron_saint                ," <!--Sử dụng các vị thánh_quan_thầy cho nhiều-->
+ |  [[Anrê Tông đồ|Thánh An-rê]]
+ |  [[István I|Thánh Stephen]]
 "
-population_census_rank,8,8,40.0, population_census_rank    |  population_census_rank       |  population_census_rank                ," 
- |  128
- |  172 <!-- UN WPP -->
+patron_saints,1,1,0.51, patron_saints                ," [[Paul the Apostle]], [[Saint Publius]], and [[Agatha of Sicily]]<ref name=""Frommer"">{{Cite book |last=Lesley |first=Anne Rose |url=https://books.google.com/books?id=Gr3g2SMGPZgC |title=Frommer's Malta and Gozo Day by Day |date=15 April 2009 |publisher=John Wiley & Sons |isbn=978-0-470-74610-3 |page=139}}</ref>
 "
-population_census_year,16,16,80.0, population_census_year  |  population_census_year    |  population_census_year      ," 
- |  2011
- |  2014
+percent_water,190,190,96.45, percent_water  |  percent_water   |  percent_water   ," 
+ |  0
+ |  0,11<ref name=""CIA"" />
 "
-population_density_km2,20,20,100.0, population_density_km2  |  population_density_km2    |  population_density_km2      ," 101
- |  147,1
- |  17.2
+phần_nước,1,1,0.51,Phần nước ," không đáng kể
 "
-population_density_rank,19,19,95.0, population_density_rank  |  population_density_rank    |  population_density_rank     ," 
- |  116
- |  122
+pop_den_footnote,3,3,1.52, pop_den_footnote                ," 
+ |  <ref name=""ONS.UK-Population"" />
 "
-population_density_sq_mi,15,15,75.0, population_density_sq_mi  |  population_density_sq_mi    |  population_density_sq_mi    ," 
- |  149.1
- |  183.9
+population_census,116,116,58.88, population_census  |  population_census    |  population_census    ," 
+ |   391.810<ref>{{cite web |url=https://www.statice.is/publications/news-archive/inhabitants/population-in-the-2nd-quarter-2025/ |title=Iceland's population was 391,810 at the second quarter of 2025 |date=1 August 2025 |access-date=1 August 2025 |website=www.statice.is |publisher=[[Statistics Iceland]] |archive-date=1 August 2025 |archive-url=https://archive.today/20250802041345/https://www.statice.is/publications/news-archive/inhabitants/population-in-the-2nd-quarter-2025/ |url-status=live }}</ref>
+ |   4,993,923<ref>[https://www.stats.govt.nz/information-releases/2023-census-population-counts-by-ethnic-group-age-and-maori-descent-and-dwelling-counts/]</ref>
 "
-population_densitymi2,1,1,5.0, population_densitymi2                ," 854.7
+population_census_rank,40,40,20.3, population_census_rank  |  population_census_rank    |  population_census_rank      ," 
+ |  1
+ |  105
 "
-population_estimate,19,19,95.0, population_estimate    |  population_estimate     |  population_estimate         ," 
- |   {{DecreaseNeutral}} 122.950.000<ref>{{Cite web |title=Preliminary counts of population of Japan|publisher=[[Statistics Bureau of Japan]] |url=https://www.stat.go.jp/english/index.html |accessdate=January 20, 2026  |archivedate=May 12, 2022 |archiveurl=https://web.archive.org/web/20220512233027/https://www.stat.go.jp/english/index.html |url-status=live}}</ref>
- |  102.300.000<ref name=""gso-pop"">{{cite report |date=January 2026 |title=Infographic social-economic situation in the 4th quarter and 2025 |url=https://www.nso.gov.vn/en/data-and-statistics/2026/01/infographic-social-economic-situation-in-the-4th-quarter-and-2025/ |publisher=[[Cục Thống kê (Việt Nam)|Cục Thống kê]] |access-date=}}</ref>
+population_census_year,118,118,59.9, population_census_year  |  population_census_year    |  population_census_year      ," 
+ |  2002
+ |  2005
 "
-population_estimate_rank,19,19,95.0, population_estimate_rank  |  population_estimate_rank    |  population_estimate_rank    ," 11
- |  111
- |  126
+population_data2,3,3,1.52, population_data2                ," 
+ |  52.110<ref name=""Faroer pop"">{{chú thích web|title=Faroe Islands Population|url=http://citypopulation.de/en/faroe/cities/|publisher=Hagstova Føroya|access-date=ngày 1 tháng 4 năm 2020}}</ref>
+ |  {{pop density|67413000|643801|km2}} ([[Danh sách quốc gia theo mật độ dân số|hạng 106]])
 "
-population_estimate_year,19,19,95.0, population_estimate_year  |  population_estimate_year    |  population_estimate_year    ," 
- |  2023
- |  2024
+population_data3,2,2,1.02, population_data3                ," 56.081<ref name=""Greenland pop"">{{chú thích web|title=2020 Population|url=http://citypopulation.de/en/greenland/|access-date=ngày 1 tháng 4 năm 2020}}</ref>
+ |  {{IncreaseNeutral}} 65.239.000<ref>{{Chú thích web|url=https://www.insee.fr/en/statistiques/serie/000436387|title=Demography – Population at the beginning of the month – Metropolitan France|year=2019|website=insee.fr|access-date=31 July 2019|archive-date=2019-06-06|archive-url=https://web.archive.org/web/20190606131558/https://www.insee.fr/en/statistiques/serie/000436387|url-status=live}}</ref> ([[List of countries and dependencies by population|23rd]])
 "
-recognised_national_languages,1,1,5.0, recognised_national_languages                ," [[Tiếng Nhật]]<ref>{{chú thích web|title=Literacy and Language Classes in Community Centers, Country Profile: Japan|url=http://www.unesco.org/uil/litbase/?menu=14&programme=131|accessdate=ngày 29 tháng 1 năm 2017|archive-date=2018-12-25|archive-url=https://web.archive.org/web/20181225073518/https://uil.unesco.org/literacy/effective-practices-database-litbase|url-status=live}}</ref>
+population_density_km2,195,195,98.98, population_density_km2  |  population_density_km2    |  population_density_km2      ," 
+ |  1,649
+ |  1.165
 "
-regional_languages,6,6,30.0, regional_languages      |  regional_languages                ," 
- |  Tiếng Anh Creole Grenada, Tiếng Pháp Creole Grenada
- |  [[Tiếng Abkhaz]]{{efn|In the [[Abkhazian Autonomous Republic|Autonomous Republic of Abkhazia]].<ref>{{citation |chapter=Article 8 |title=Constitution of Georgia|title-link=Constitution of Georgia (country)}}. In [[Abkhazian Autonomous Republic|Abkhazian AR]], also [[Abkhaz language|Abkhazian]].</ref><ref>{{Cite web |url=http://parliament.ge/uploads/other/28/28803.pdf |title=Constitution of Georgia |website=Parliament of Georgia |archive-url=https://web.archive.org/web/20171210071629/http://parliament.ge/uploads/other/28/28803.pdf |archive-date=10 December 2017}}</ref>}}
+population_density_rank,175,175,88.83, population_density_rank  |  population_density_rank   |  population_density_rank   ," 
+ |  1 <!--Lưu ý: Ma Cao có mật độ dân số cao hơn, nhưng nó là vùng lãnh thổ, không phải quốc gia-->
+ |  103
 "
-religion,19,19,95.0, religion    |  religion                |  religion                ," <!-- direct figures from ReligionUNdata reference -->{{unbulleted list
- |85.5% [[Kitô giáo]]
- |10.9% [[Hồi giáo ở Kenya|Hồi giáo]]
- |1.5% [[Không tôn giáo ở Kenya|không tôn giáo]]
- |0.7% [[Tôn giáo truyền thống châu Phi|tín ngưỡng truyền thống]]
- |1.3% tôn giáo khác}}
- |  {{Tree list}}
-* 56% [[Không tôn giáo tại Hà Lan|không tôn giáo]]
-* 31% [[Kitô giáo tại Hà Lan|Kitô giáo]]
-** 17% [[Công giáo tại Hà Lan|Công giáo]]
-** 14% [[Tin Lành tại Hà Lan|Đạo Tin Lành]]
-* 6% [[Hồi giáo tại Hà Lan|Hồi giáo]]
-* 7% [[Tôn giáo tại Hà Lan|tôn giáo khác]]
-{{Tree list/end}}
- |  {{tree list}}
-* 96.6% Kitô giáo
-** 48.8% [[Tin Lành]]
-** 39.2% [[Công giáo]]
-** 8.6% Kitô giáo khác
-* 1.3% [[Ấn Độ giáo]]
-* 1.0% [[Không tôn giáo]]
-* 0.7% [[Rastafari]]
-* 0.4% Khác
-{{tree list/end}}
+population_density_sq_mi,173,173,87.82, population_density_sq_mi  |  population_density_sq_mi    |  population_density_sq_mi    ," 
+ |  1,340
+ |  1,704<!--Do not remove per [[WP:MOSNUM]]-->
 "
-religion_ref,14,14,70.0, religion_ref    |  religion_ref            |  religion_ref                ," 
- |  <ref name=""2022 census3"">{{cite web |title=Statistical Release - Census 2022 |url=https://census.statssa.gov.za/assets/documents/2022/P03014_Census_2022_Statistical_Release.pdf |access-date=2024-08-22 |website=statssa.gov.za}}</ref>
- |  <ref name=""2022 religion"">{{Chú thích web|url=https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-noticias/noticias/43593-censo-2022-catolicos-seguem-em-queda-evangelicos-e-sem-religiao-crescem-no-pais|title=Censo 2022: católicos seguem em queda; evangélicos e sem religião crescem no país|publisher=IBGE|access-date=2025-06-06}}</ref>
+population_densitymi2,1,1,0.51, population_densitymi2                ," 854.7
 "
-religion_year,17,17,85.0, religion_year    |  religion_year           |  religion_year               ," 2014
+population_densitymi³,1,1,0.51, population_densitymi³                ," <!--Do not remove per [[WP:MOSNUM]]-->
+"
+population_estimate,171,171,86.8, population_estimate  |  population_estimate   |  population_estimate   ,"
+ |  
+ |   52,695,952<ref>{{Chú thích web|url=https://www.dane.gov.co/files/censo2018/proyecciones-de-poblacion/Nacional/DCD-area-proypoblacion-Nac-2020-2070.xlsx|title=Proyecciones de Población DANE|access-date=10 April 2023|archive-date=10 April 2023|archive-url=https://web.archive.org/web/20230410005852/https://www.dane.gov.co/files/censo2018/proyecciones-de-poblacion/Nacional/DCD-area-proypoblacion-Nac-2020-2070.xlsx|url-status=live}}</ref>
+"
+population_estimate_rank,173,173,87.82, population_estimate_rank  |  population_estimate_rank    |  population_estimate_rank    ," 
+ |  1
+ |  10
+"
+population_estimate_year,176,176,89.34, population_estimate_year  |  population_estimate_year    |  population_estimate_year    ," 
+ |  1/1/2024
  |  2018
- |  2019
 "
-royal_anthem,1,1,5.0, royal_anthem           ," ""[[Chúa phù hộ Quốc vương]]""
+population_estimates,1,1,0.51, population_estimates                ," 
+"
+population_label2,3,3,1.52, population_label2                ," 
+ |  Density
+ |  Đảo Faroe
+"
+population_label3,2,2,1.02, population_label3                ," Chính quốc Pháp, ước tính {{as of|lc=y|May 2021}}
+ |  Greenland
+"
+quốc_ca,1,1,0.51,Quốc ca ," ''[[St Vincent Land So Beautiful]]'' <br/>{{small|St Vincent vùng đất rất tươi đẹp}}<br>{{center|[[Tập tin:National anthem of Saint Vincent and the Grenadines, performed by the United States Navy Band.oga]]}}
+"
+recognised_languages,1,1,0.51, recognised_languages                ," [[Tiếng Pháp]]<ref>{{chú thích web|url=http://www.studycountry.com/guide/LA-language.htm|title=The Languages spoken in Laos|website=Studycountry|access-date=ngày 16 tháng 9 năm 2018}}</ref>
+"
+recognised_national_languages,1,1,0.51, recognised_national_languages                ," [[Tiếng Nhật]]<ref>{{chú thích web|title=Literacy and Language Classes in Community Centers, Country Profile: Japan|url=http://www.unesco.org/uil/litbase/?menu=14&programme=131|accessdate=ngày 29 tháng 1 năm 2017|archive-date=2018-12-25|archive-url=https://web.archive.org/web/20181225073518/https://uil.unesco.org/literacy/effective-practices-database-litbase|url-status=live}}</ref>
+"
+recognized_languages,3,3,1.52, recognized_languages                ," [[Tiếng Ả Rập]]
+ |  {{Collapsible list
+| title = {{nobold|'''Danh sách''':<ref>{{cite web |title=States Parties to the European Charter for Regional or Minority Languages and their regional or minority languages |url=https://rm.coe.int/november-2022-revised-table-languages-covered-english-/1680a8fef4 |website=Council of Europe |access-date=13 December 2023 |date=1 November 2022}}</ref>{{efn|Through the [[European Charter for Regional or Minority Languages]].}}}}
+| [[Tiếng Suret]]
+| [[Tiếng Đức]]
+| [[Tiếng Hy Lạp]]
+| [[Tiếng Kurd]]{{efn|The list recognises the language of Yazidis, as separate from Kurdish.}}
+| [[Tiếng Nga]]
+| [[Tiếng Ukraina]]
+ }}
+ |  {{list
+| [[Tiếng Quan Thoại]]
+| [[Tiếng Quảng Đông]]
+| [[Tiếng Ả Rập]]
+| [[Tiếng Ý]]
+| [[Tiếng Việt]]
+| [[Tiếng Nhật]]
+| [[Tiếng Hàn]]
+| [[Tiếng Indonesia]]
+| [[Tiếng Hy Lạp]]
+| [[Tiếng Đức]]
+| [[Tiếng Tây Ban Nha]]
+}}
+"
+recognized_national_languages,2,2,1.02, recognized_national_languages                ," 
+ |  {{hlist|[[Tiếng Sami]]|[[Tiếng Karelia]]|[[Tiếng Kalo Phần Lan]]|[[Ngôn ngữ ký hiệu Phần Lan]]|[[Ngôn ngữ ký hiệu Phần Lan-Thụy Điển]]}}
+"
+recognized_regional_languages,7,7,3.55, recognized_regional_languages                ," 68 ngôn ngữ bản địa{{ref label|iboxa|a|}}
+ |  [[Tiếng Kichwa]], [[Tiếng Shuar]] và những ngôn ngữ khác ""được các dân tộc bản địa chính thức sử dụng""<ref>{{Chú thích web|url=http://www.ecuanex.net.ec/constitucion/titulo01.html|title=Constitución Política de la República del Ecuador|access-date=13 September 2014|archive-url=https://web.archive.org/web/20151017035841/http://www.ecuanex.net.ec/constitucion/titulo01.html|archive-date=17 October 2015|url-status=dead}}</ref>
+ |  [[Tiếng Tây Ban Nha México|Tiếng Tây Ban Nha]] và 68 ngôn ngữ của người bản địa{{ref label|iboxa|a}}
+"
+regional_languages,28,28,14.21, regional_languages  |  regional_languages    |  regional_languages     ," 
+ |  Guaymí<br />Buglere<br />Emberá<br />Wounaan<br />Guna<br />Teribe<br />Bribri
+ |  Tiếng Anh Creole Grenada, Tiếng Pháp Creole Grenada
+"
+religion,183,183,92.89, religion |  religion  |  religion   ," 
+ |  90,18% [[Công giáo La Mã]]<br>5,67% [[Hồi Giáo]]<br>4,15% khác
+ |  91,04% [[Hồi giáo]]<br>7,94% [[Ấn Độ giáo]]<br> 0,6% [[Phật giáo]]<br> 0,3 % [[Cơ Đốc giáo]]<br>0,12% Khác
+"
+religion_ref,127,127,64.47, religion_ref  |  religion_ref   |  religion_ref   ," 
+ |   <ref>{{Chú thích web |date=September 2021 |title=Special Eurobarometer 516 |url=https://data.europa.eu/data/datasets/s2237_95_2_516_eng?locale=en |url-status=live |archive-url=https://web.archive.org/web/20230629085321/http://data.europa.eu/data/datasets/s2237_95_2_516_eng?locale=en |archive-date=29 June 2023 |access-date=24 September 2021|publisher=[[European Union]]: [[European Commission]]|via=[[European Data Portal]] (see Volume C: Country/socio-demographics: IT: Question D90.2.)}}</ref>
+ |  ,<ref name=""CIA"">{{cite web |url=https://www.cia.gov/the-world-factbook/countries/yemen/ |title=Yemen |author=<!--Staff writer(s); no by-line.--> |publisher=CIA World Factbook |work=Central Intelligence Agency |date=6 December 2013 |access-date=24 January 2021 |archive-date=8 May 2021 |archive-url=https://web.archive.org/web/20210508223950/https://www.cia.gov/the-world-factbook/countries/yemen |url-status=live }}</ref>
+"
+religion_year,156,156,79.19, religion_year  |  religion_year   |  religion_year   ," 
+ |  1998<ref>{{Chú thích tạp chí|title=POPULATION BY RELIGION|url=http://www.pbs.gov.pk/sites/default/files//tables/POPULATION%20BY%20RELIGION.pdf|journal=Pakistan Burau of Statistics, Government of Pakistan|pages=1|access-date=2021-04-04|archive-date=2020-03-29|archive-url=https://web.archive.org/web/20200329204115/http://www.pbs.gov.pk/sites/default/files/tables/POPULATION%20BY%20RELIGION.pdf}}</ref>
+ |  2011
+"
+royal_anthem,12,12,6.09, royal_anthem  |  royal_anthem            |  royal_anthem                ," 
+ |  ""[[Chúa phù hộ Quốc vương]]""
 <br /><div style=""display:inline-block;margin-top:0.4em;"">[[File:U.S. Navy Band - God Save the King.oga]]</div>
+ |  ""[[Chúa phù hộ Quốc vương]]""<ref>{{Cite CIA World Factbook|country=Bahamas, The|section=Government|access-date=10 July 2022}}</ref><div style=""display:inline-block;margin-top:0.4em;"">[[File:U.S. Navy Band - God Save the King.oga]]</div>
 "
-seal_link,1,1,5.0, seal_link                   ," Coat of arms of the Netherlands
+seal_link,1,1,0.51, seal_link                   ," Coat of arms of the Netherlands
 "
-seal_size,1,1,5.0, seal_size                   ," 110
+seal_size,1,1,0.51, seal_size                   ," 110
 "
-seal_type,1,1,5.0, seal_type                   ," Huy hiệu
+seal_type,1,1,0.51, seal_type                   ," Huy hiệu
 "
-settlement_type,1,1,5.0, settlement_type             ," [[Vương quốc Hà Lan|Quốc gia cấu thành Vương quốc Hà Lan]]
+settlement_type,1,1,0.51, settlement_type             ," [[Vương quốc Hà Lan|Quốc gia cấu thành Vương quốc Hà Lan]]
 "
-sovereignty_note,8,8,40.0, sovereignty_note    |  sovereignty_note                ," 
+sovereignty_note,82,82,41.62, sovereignty_note  |  sovereignty_note    |  sovereignty_note       ," 
  |  Từ Vương quốc Anh và Malaysia
- |  từ [[Pháp]]
+ |  Từ [[Vương quốc Liên hiệp Anh và Bắc Ireland|Anh]]
 "
-sovereignty_type,19,19,95.0, sovereignty_type    |  sovereignty_type        |  sovereignty_type            ," Lịch sử hình thành
- |  Sự hình thành
- |  [[Brasil độc lập|Độc lập]]
+sovereignty_type,189,189,95.94, sovereignty_type  |  sovereignty_type   |  sovereignty_type   ," 
+ |  Hình thành
+ |  Lịch sử hình thành
 "
-sport_code,2,2,10.0, sport_code                ," 
+sport_code,16,16,8.12, sport_code  |  sport_code    |  sport_code                ," 
+ |  AUD
+ |  KOR
 "
-status,1,1,5.0, status                ," Quốc gia không thuộc [[Liên Hợp Quốc]], bị hạn chế công nhận chủ quyền nhưng độc lập trên thực tế
+status,6,6,3.05, status                ," <!--Tình trạng của đất nước, đặc biệt hữu ích cho các vi mô-->
+ |  Quốc gia không thuộc [[Liên Hợp Quốc]], bị hạn chế công nhận chủ quyền nhưng độc lập trên thực tế
+ |  [[Member states of the United Nations|Nước thành viên LHQ]] với [[Hiệp ước Liên kết Tự do]] với [[Hoa Kỳ]]<ref>[https://www.doi.gov/oia/compacts-of-free-association Compacts of Free Association] - [[United States Department of the Interior]]</ref>
 "
-subdivision_name,1,1,5.0, subdivision_name            ," [[Vương quốc Hà Lan]]
+subdivision_name,1,1,0.51, subdivision_name            ," [[Vương quốc Hà Lan]]
 "
-subdivision_type,1,1,5.0, subdivision_type            ," [[Quốc gia có chủ quyền]]
+subdivision_type,1,1,0.51, subdivision_type            ," [[Quốc gia có chủ quyền]]
 "
-symbol_type,8,8,40.0, symbol_type                ," Hoàng gia huy
- |  Quốc huy
- |  [[Cờ Thanh Thiên Bạch Nhật|Quốc huy]]
+symbol,10,10,5.08, symbol                 |  symbol                 ," 
+ |  Coat of arms of Fiji
+ |  Coat of arms of Norway
 "
-time_zone,19,19,95.0, time_zone    |  time_zone               |  time_zone                ," 
- |  AST
- |  BRL
+symbol_footnote,1,1,0.51, symbol_footnote                ," <!--tham chiếu tùy chọn hoặc chú thích cho chú thích biểu tượng-->
 "
-time_zone_dst,6,6,30.0, time_zone_DST    |  time_zone_DST           |  time_zone_DST               ," 
- |  [[Giờ mùa hè Trung Âu|CEST]]
- |  [[UTC−04:00|CDT]]
+symbol_type,86,86,43.65, symbol_type  |  symbol_type    |  symbol_type            ," 
+ |  Coat of arms
+ |  Hoàng gia huy
 "
-timezone,1,1,5.0, timezone                    ," 
+symbol_type_article,2,2,1.02, symbol_type_article                ," 
+ |  Diplomatic emblem of France
 "
-today,7,7,35.0, today    |  today                ," 
+symbol_width,10,10,5.08, symbol_width    |  symbol_width                ," 100px
+ |  130
+ |  50px
 "
-upper_house,11,11,55.0, upper_house    |  upper_house             |  upper_house                ," 
+sự_kiện_1,1,1,0.51,Sự kiện 1 ," {{nowrap|từ [[Vương quốc Liên hiệp Anh và Bắc Ireland|Anh]]}}
+"
+thành_phố_lớn_nhất,1,1,0.51,Thành phố lớn nhất ," Thủ đô
+"
+thủ_đô,1,1,0.51,Thủ đô ," [[Kingstown]]
+"
+time_zone,189,189,95.94, time_zone  |  time_zone    |  time_zone              ," 
+ |  <!-- [[Asia/Hovd|HOVD]] (Hovd Standard Time) / [[Asia/Ulaanbaatar||ULAT]] (Ulaanbaatar Standard Time) -->
+ |  <!--Morocco defines its time zone as Greenwich Mean Time + 1 hour, please do not add ""Central European Time"" or ""West Africa Time"" without an official source.-->
+"
+time_zone_dst,98,98,49.75, time_zone_DST  |  time_zone_DST   |  time_zone_DST   ,"
+ |  
+ |  ''Not observed''
+"
+timezone,1,1,0.51, timezone                    ," 
+"
+today,93,93,47.21, today  |  today    |  today                ,"
+ |  
+"
+tên,1,1,0.51,Tên ,"Thịnh vượng chung Saint Vincent và Grenadines
+"
+tên_bản_địa_1,1,1,0.51,Tên bản địa 1 ," Saint Vincent and the Grenadines
+"
+tên_dân_tộc,1,1,0.51,Tên dân tộc ," Vincentian
+"
+tên_miền_internet,1,1,0.51,Tên miền Internet ," [[.vc]]
+"
+upper_house,82,82,41.62, upper_house  |  upper_house    |  upper_house            ," 
+ |  Hội đồng Tham vấn
  |  Thượng viện
- |  [[Dewan Negara|Thượng viện]]
 "
-utc_dst,1,1,5.0, utc_DST                ," 
+utc,1,1,0.51,UTC ," -4
 "
-utc_offset,19,19,95.0, utc_offset    |  utc_offset              |  utc_offset                ," +07:00
- |  +1
- |  +2
+utc_dst,2,2,1.02, utc_DST                 | UTC DST ," 
 "
-utc_offset_dst,8,8,40.0, utc_offset_DST    |  utc_offset_DST          |  utc_offset_DST              ," 
- |  +2
- |  Tùy tiểu bang
+utc_offset,195,195,98.98, utc_offset  |  utc_offset    |  utc_offset           ," 
+ |  + 7
+ |  +0
 "
-utc_offset_list,1,1,5.0, utc_offset_list             ," {{hlist|[[UTC+01:00]] ([[Giờ Trung Âu]])|[[UTC−04:00]] ([[Múi giờ Đại Tây Dương]])}}{{efn|Giờ Trung Âu và Giờ mùa hè Trung Âu dùng ở phần lãnh thổ Hà Lan thuộc châu Âu; giờ Đại Tây Dương dùng ở [[Caribe thuộc Hà Lan]].}}
+utc_offset_dst,104,104,52.79, utc_offset_DST  |  utc_offset_DST   |  utc_offset_DST   ,"
+ |  
+ |  +02
 "
-utc_offset_list_dst,1,1,5.0, utc_offset_list_DST         ," {{hlist|[[UTC+02:00]] ([[Giờ mùa hè Trung Âu]])|[[UTC−04:00]] (Múi giờ Đại Tây Dương)}}
+utc_offset_list,1,1,0.51, utc_offset_list             ," {{hlist|[[UTC+01:00]] ([[Giờ Trung Âu]])|[[UTC−04:00]] ([[Múi giờ Đại Tây Dương]])}}{{efn|Giờ Trung Âu và Giờ mùa hè Trung Âu dùng ở phần lãnh thổ Hà Lan thuộc châu Âu; giờ Đại Tây Dương dùng ở [[Caribe thuộc Hà Lan]].}}
 "
-vehicle_code,2,2,10.0, vehicle_code                ," 
+utc_offset_list_dst,1,1,0.51, utc_offset_list_DST         ," {{hlist|[[UTC+02:00]] ([[Giờ mùa hè Trung Âu]])|[[UTC−04:00]] (Múi giờ Đại Tây Dương)}}
 "
-website,1,1,5.0, website                ," 
+vehicle_code,15,15,7.61, vehicle_code  |  vehicle_code    |  vehicle_code                ," 
+ |  AUD
+ |  ROK
+"
+vietnamesemotto,5,5,2.54, vietnamesemotto  |  vietnamesemotto                ," ""Quốc gia, tôn giáo, nhà vua""
+ |  ""Tự do""
+ |  ''""[[Mir wëlle bleiwe wat mir sinn]]""''{{spaces|2}}<small>([[tiếng Luxembourg]])<br />""Chúng tôi muốn duy trì những gì chúng tôi đang có""</small>
+"
+viên_chức_1,1,1,0.51,Viên chức 1 ," [[Charles III]]
+"
+viên_chức_2,1,1,0.51,Viên chức 2 ," [[Susan Dougan]]
+"
+viên_chức_3,1,1,0.51,Viên chức 3 ," [[Ralph Gonsalves]]
+"
+vĩ_độ,1,1,0.51,Vĩ độ,13 
+vĩ_độ_phút,1,1,0.51,Vĩ độ phút,10 
+website,1,1,0.51, website                ," 
+"
+xếp_hạng_gdp_danh_nghĩa,1,1,0.51, Xếp hạng GDP danh nghĩa ," 
+"
+xếp_hạng_gdp_danh_nghĩa_bình_quân_đầu_người,1,1,0.51, Xếp hạng GDP danh nghĩa bình quân đầu người ," 
+"
+xếp_hạng_gdp_ppp,1,1,0.51, Xếp hạng GDP PPP ," 
+"
+xếp_hạng_gdp_ppp_bình_quân_đầu_người,1,1,0.51, Xếp hạng GDP PPP bình quân đầu người ," 
+"
+đơn_vị_tiền_tệ,1,1,0.51,Đơn vị tiền tệ ," [[đô la Đông Caribe]]
+"
+độ_lớn_diện_tích,1,1,0.51,Độ lớn diện tích ," 
+"
+đứng_hàng_diện_tích,1,1,0.51,Đứng hàng diện tích ," 201
+"
+đứng_hàng_dân_số_ước_lượng,1,1,0.51,Đứng hàng dân số ước lượng ," 196
+"
+đứng_hàng_hdi,1,1,0.51,Đứng hàng HDI ," 97
+"
+đứng_hàng_mật_độ_dân_số,1,1,0.51,Đứng hàng mật độ dân số ," 39
 "

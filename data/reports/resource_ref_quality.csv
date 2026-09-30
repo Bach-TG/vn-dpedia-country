@@ -1,14 +1,317 @@
 page_id,title_vi,canonical_field,label_vi,wiki_title,has_wiki_title
-151863,Việt Nam,capital,Hà Nội,Hà Nội,True
-151863,Việt Nam,currencies,Đồng,Đồng (tiền),True
-151863,Việt Nam,official_languages,Tiếng Việt,Tiếng Việt,True
+38179,Kenya,capital,Nairobi,Nairobi,True
+38179,Kenya,currencies,Shilling Kenya,Shilling Kenya,True
+38179,Kenya,official_languages,Tiếng Swahili,Tiếng Swahili,True
+38179,Kenya,official_languages,Tiếng Anh,Tiếng Anh,True
+37520,Ethiopia,capital,Addis Ababa,Addis Ababa,True
+37520,Ethiopia,currencies,Birr,Ethiopia birr,True
+37520,Ethiopia,official_languages,Tiếng Amhara,Tiếng Amhara,True
+27737,Ghana,capital,Accra,Accra,True
+27737,Ghana,currencies,Cedi,Ghanaian cedi,True
+27737,Ghana,official_languages,Tiếng Anh,Tiếng Anh,True
+2860,Pháp,capital,Paris,Paris,True
+2860,Pháp,currencies,Euro,Euro,True
+2860,Pháp,currencies,Franc CFP,Franc CFP,True
+2860,Pháp,official_languages,Tiếng Pháp,Tiếng Pháp,True
+577821,Vương quốc Liên hiệp Anh và Bắc Ireland,capital,Luân Đôn,Luân Đôn,True
+577821,Vương quốc Liên hiệp Anh và Bắc Ireland,currencies,Bảng Anh,Bảng Anh,True
+1529,Trung Quốc,capital,Bắc Kinh,Bắc Kinh,True
+1529,Trung Quốc,currencies,Nhân dân tệ,Nhân dân tệ,True
+1529,Trung Quốc,official_languages,Tiếng Trung Quốc phổ thông,Hán ngữ tiêu chuẩn,True
+27667,Brasil,capital,Brasília,Brasília,True
+27667,Brasil,currencies,Real Brasil,Real Brasil,True
+27667,Brasil,official_languages,Tiếng Bồ Đào Nha,Tiếng Bồ Đào Nha,True
+856,Nga,capital,Moskva,Moskva,True
+856,Nga,currencies,Rúp Nga,Rúp Nga,True
+856,Nga,official_languages,Tiếng Nga,Tiếng Nga,True
+797,Canada,capital,Ottawa,Ottawa,True
+797,Canada,currencies,Đô la Canada,Đô la Canada,True
+797,Canada,official_languages,Tiếng Anh,Tiếng Anh Canada,True
+797,Canada,official_languages,Tiếng Pháp,Tiếng Pháp Canada,True
 362397,Nhật Bản,capital,Tokyo,Tokyo,True
 362397,Nhật Bản,currencies,Yên,Yên Nhật,True
-24477,Singapore,currencies,Đô la Singapore,Đô la Singapore,True
-24477,Singapore,official_languages,Tiếng Anh,Tiếng Anh Singapore,True
-24477,Singapore,official_languages,Tiếng Mã Lai,Tiếng Mã Lai,True
-24477,Singapore,official_languages,Tiếng Hoa,Tiếng Hoa Singapore,True
-24477,Singapore,official_languages,Tiếng Tamil,Tiếng Tamil,True
+741,Đức,capital,Berlin,Berlin,True
+741,Đức,currencies,Euro,Euro,True
+741,Đức,official_languages,Tiếng Đức,Tiếng Đức,True
+28053,Belarus,capital,Minsk,Minsk,True
+28053,Belarus,currencies,Rúp Belarus,Rúp Belarus,True
+28053,Belarus,official_languages,Tiếng Belarus,Tiếng Belarus,True
+28053,Belarus,official_languages,Tiếng Nga,Tiếng Nga,True
+38776,Iceland,capital,Reykjavík,Reykjavík,True
+38776,Iceland,currencies,Icelandic króna,Icelandic króna,True
+38776,Iceland,official_languages,Tiếng Iceland,Tiếng Iceland,True
+10699,Estonia,capital,Tallinn,Tallinn,True
+10699,Estonia,currencies,Euro,Euro,True
+10699,Estonia,official_languages,Tiếng Estonia,Tiếng Estonia,True
+16790,Na Uy,capital,Oslo,Oslo,True
+16790,Na Uy,currencies,Krone Na Uy,Krone Na Uy,True
+16790,Na Uy,official_languages,Tiếng Na Uy,Tiếng Na Uy,True
+16790,Na Uy,official_languages,Nhóm ngôn ngữ Sámi,Nhóm ngôn ngữ Sámi,True
+10698,Latvia,capital,Riga,Riga,True
+10698,Latvia,currencies,Euro,Euro,True
+10698,Latvia,official_languages,Tiếng Latvia,Tiếng Latvia,True
+25197,Ukraina,capital,Kyiv,Kyiv,True
+25197,Ukraina,currencies,Hryvnia,Hryvnia Ukraina,True
+25197,Ukraina,official_languages,Tiếng Ukraina,Tiếng Ukraina,True
+4119,Séc,capital,Praha,Praha,True
+5320,Slovakia,capital,Bratislava,Bratislava,True
+5320,Slovakia,currencies,Euro,Euro,True
+5320,Slovakia,official_languages,Tiếng Slovakia,Tiếng Slovakia,True
+89842,Slovenia,capital,Ljubljana,Ljubljana,True
+89842,Slovenia,currencies,Euro,Euro,True
+89842,Slovenia,official_languages,Tiếng Slovene,Tiếng Slovene,True
+93918,Moldova,capital,Chișinău,Chișinău,True
+93918,Moldova,currencies,Leu Moldova,Leu Moldova,True
+93918,Moldova,official_languages,Tiếng Romania,Tiếng Romania,True
+63966,România,capital,Bucharest,Bucharest,True
+63966,România,currencies,Leu România,Leu România,True
+63966,România,official_languages,Tiếng România,Tiếng România,True
+38771,Bulgaria,capital,Sofia,Sofia,True
+38771,Bulgaria,currencies,Euro,Euro,True
+38771,Bulgaria,official_languages,Tiếng Bulgaria,Tiếng Bulgaria,True
+96096,Bắc Macedonia,capital,Skopje,Skopje,True
+96096,Bắc Macedonia,currencies,Denar Macedonia,Denar Macedonia,True
+96096,Bắc Macedonia,official_languages,Tiếng Macedonia,Tiếng Macedonia,True
+96096,Bắc Macedonia,official_languages,Tiếng Albania,Tiếng Albania,True
+39312,Albania,capital,Tirana,Tirana,True
+39312,Albania,currencies,Lek,Lek Albania,True
+39312,Albania,official_languages,Tiếng Albania,Tiếng Albania,True
+38772,Croatia,capital,Zagreb,Zagreb,True
+38772,Croatia,currencies,Euro,Euro,True
+38772,Croatia,official_languages,Tiếng Croatia,Tiếng Croatia,True
+38767,Bosna và Hercegovina,capital,Sarajevo,Sarajevo,True
+38767,Bosna và Hercegovina,currencies,Mark chuyển đổi,Bosnia and Herzegovina convertible mark,True
+38762,Azerbaijan,capital,Baku,Baku,True
+38762,Azerbaijan,currencies,Manat,Manat Azerbaijan,True
+38762,Azerbaijan,official_languages,Tiếng Azerbaijan,Tiếng Azerbaijan,True
+96100,Andorra,capital,Andorra la Vella,Andorra la Vella,True
+96100,Andorra,currencies,Euro,Euro,True
+96100,Andorra,official_languages,Tiếng Catalunya,Tiếng Catalunya,True
+38765,Síp,capital,Nicosia,Nicosia,True
+38765,Síp,currencies,Euro,Euro,True
+38765,Síp,official_languages,Tiếng Hy Lạp,Tiếng Hy Lạp,True
+38765,Síp,official_languages,Tiếng Thổ Nhĩ Kỳ,Tiếng Thổ Nhĩ Kỳ,True
+39575,Gruzia,capital,Tbilisi,Tbilisi,True
+39575,Gruzia,currencies,Lari Gruzia,Lari Gruzia,True
+39575,Gruzia,official_languages,Tiếng Gruzia,Tiếng Gruzia,True
+39589,Kazakhstan,capital,Astana,Astana,True
+39589,Kazakhstan,currencies,Tenge,Tenge Kazakhstan,True
+39589,Kazakhstan,official_languages,Tiếng Kazakh,Tiếng Kazakh,True
+39589,Kazakhstan,official_languages,Tiếng Nga,Tiếng Nga,True
+40918,Malta,capital,Valletta,Valletta,True
+40918,Malta,currencies,Euro,Euro,True
+40918,Malta,official_languages,Tiếng Malta,Tiếng Malta,True
+40918,Malta,official_languages,Tiếng Anh,Tiếng Anh,True
+73204,Monaco,capital,Thành phố Monaco,,False
+73204,Monaco,currencies,Euro,Euro,True
+73204,Monaco,official_languages,Tiếng Pháp,Tiếng Pháp,True
+56099,Montenegro,capital,Podgorica,Podgorica,True
+56099,Montenegro,currencies,Euro,Euro,True
+56099,Montenegro,official_languages,Tiếng Montenegro,Tiếng Montenegro,True
+15891,Thành Vatican,capital,Thành Vatican,,False
+15891,Thành Vatican,currencies,Euro,Euro,True
+15891,Thành Vatican,official_languages,Tiếng Ý,Tiếng Ý,True
+15891,Thành Vatican,official_languages,Tiếng Latinh,Tiếng Latinh,True
+25823,San Marino,capital,San Marino,Thành phố San Marino,True
+25823,San Marino,currencies,Euro,Euro,True
+25823,San Marino,official_languages,Tiếng Ý,,False
+29600,Cuba,capital,La Habana,La Habana,True
+29600,Cuba,currencies,Peso Cuba,Peso Cuba,True
+29600,Cuba,official_languages,Tiếng Tây Ban Nha,Tiếng Tây Ban Nha Cuba,True
+92637,Belize,capital,Belmopan,Belmopan,True
+92637,Belize,currencies,Đô la Belize,Đô la Belize,True
+92637,Belize,official_languages,Tiếng Anh,Tiếng Anh Belize,True
+54914,Barbados,capital,Bridgetown,Bridgetown,True
+54914,Barbados,currencies,Đô la Barbados,Đô la Barbados,True
+54914,Barbados,official_languages,Tiếng Anh,Tiếng Anh,True
+24175,Indonesia,capital,Jakarta,Jakarta,True
+24175,Indonesia,capital,Nusantara,Nusantara (thành phố),True
+24175,Indonesia,currencies,Rupiah Indonesia,Rupiah Indonesia,True
+24175,Indonesia,official_languages,Tiếng Indonesia,Tiếng Indonesia,True
+23315,Cộng hòa Ireland,capital,Dublin,Dublin,True
+23315,Cộng hòa Ireland,currencies,Euro,Euro,True
+23315,Cộng hòa Ireland,official_languages,Tiếng Ireland,Tiếng Ireland,True
+23315,Cộng hòa Ireland,official_languages,Tiếng Anh,Tiếng Anh,True
+33743,Hungary,capital,Budapest,Budapest,True
+33743,Hungary,currencies,Forint,Hungary forint,True
+33743,Hungary,official_languages,Tiếng Hungary,Tiếng Hungary,True
+12586,Tây Ban Nha,capital,Madrid,Madrid,True
+12586,Tây Ban Nha,currencies,Euro,Euro,True
+12586,Tây Ban Nha,official_languages,Tiếng Tây Ban Nha,Tiếng Tây Ban Nha,True
+57,Hoa Kỳ,capital,"Washington, D.C.","Washington, D.C.",True
+57,Hoa Kỳ,official_languages,Tiếng Anh,Tiếng Anh,True
+1351,Bỉ,capital,Thành phố Bruxelles,Thành phố Bruxelles,True
+1351,Bỉ,currencies,Euro,Euro,True
+1351,Bỉ,official_languages,Tiếng Hà Lan,Tiếng Hà Lan,True
+1351,Bỉ,official_languages,Tiếng Pháp,Tiếng Pháp,True
+1351,Bỉ,official_languages,Tiếng Đức,Tiếng Đức,True
+30751,Luxembourg,capital,Luxembourg,Luxembourg (thành phố),True
+30751,Luxembourg,currencies,Euro,Euro,True
+30751,Luxembourg,official_languages,Tiếng Luxembourg,Tiếng Luxembourg,True
+30751,Luxembourg,official_languages,tiếng Pháp,tiếng Pháp,True
+30751,Luxembourg,official_languages,tiếng Đức,tiếng Đức,True
+25437,Phần Lan,capital,Helsinki,Helsinki,True
+25437,Phần Lan,currencies,Euro,Euro,True
+25437,Phần Lan,official_languages,Tiếng Phần Lan,Tiếng Phần Lan,True
+25437,Phần Lan,official_languages,Tiếng Thụy Điển,Tiếng Thụy Điển,True
+33,Thụy Điển,capital,Stockholm,Stockholm,True
+33,Thụy Điển,currencies,Krona,Krona Thụy Điển,True
+14921,Đan Mạch,capital,Copenhagen,Copenhagen,True
+14921,Đan Mạch,currencies,Krone Đan Mạch,Krone Đan Mạch,True
+14921,Đan Mạch,official_languages,Tiếng Đan Mạch,Tiếng Đan Mạch,True
+32562,Ba Lan,capital,Warszawa,Warszawa,True
+32562,Ba Lan,currencies,Złoty Ba Lan,Złoty Ba Lan,True
+32562,Ba Lan,official_languages,Tiếng Ba Lan,Tiếng Ba Lan,True
+10697,Litva,capital,Vilnius,Vilnius,True
+10697,Litva,currencies,Euro,Euro,True
+10697,Litva,official_languages,Tiếng Litva,Tiếng Litva,True
+25196,Ý,capital,Roma,Roma,True
+25196,Ý,currencies,Euro,Euro,True
+25196,Ý,official_languages,Tiếng Ý,Tiếng Ý,True
+5185,Thụy Sĩ,capital,Bern,Bern,True
+5185,Thụy Sĩ,currencies,Franc Thụy Sĩ,Franc Thụy Sĩ,True
+5185,Thụy Sĩ,official_languages,Tiếng Đức,Tiếng Đức,True
+5185,Thụy Sĩ,official_languages,Pháp,tiếng Pháp,True
+5185,Thụy Sĩ,official_languages,Ý,tiếng Ý,True
+5185,Thụy Sĩ,official_languages,Romansh,tiếng Romansh,True
+2819,Áo,capital,Viên,Viên,True
+2819,Áo,currencies,Euro,Euro,True
+2819,Áo,official_languages,Tiếng Đức Áo,Tiếng Đức Áo,True
+13605,Hy Lạp,capital,Athens,Athens,True
+13605,Hy Lạp,currencies,Euro,Euro,True
+13605,Hy Lạp,official_languages,Tiếng Hy Lạp,Tiếng Hy Lạp,True
+39567,Thổ Nhĩ Kỳ,capital,Ankara,Ankara,True
+39567,Thổ Nhĩ Kỳ,currencies,Lira Thổ Nhĩ Kỳ,Lira Thổ Nhĩ Kỳ,True
+39567,Thổ Nhĩ Kỳ,official_languages,Tiếng Thổ Nhĩ Kỳ,Tiếng Thổ Nhĩ Kỳ,True
+8773,Bồ Đào Nha,capital,Lisboa,Lisboa,True
+8773,Bồ Đào Nha,currencies,Euro,Euro,True
+8773,Bồ Đào Nha,official_languages,Tiếng Bồ Đào Nha,Tiếng Bồ Đào Nha,True
+2093,Hà Lan,capital,Amsterdam,Amsterdam,True
+2093,Hà Lan,currencies,Euro,Euro,True
+2093,Hà Lan,currencies,đô la Mỹ,đô la Mỹ,True
+2093,Hà Lan,official_languages,Tiếng Hà Lan,Tiếng Hà Lan,True
+38303,Uruguay,capital,Montevideo,Montevideo,True
+38303,Uruguay,currencies,Peso Uruguay,Peso Uruguay,True
+38303,Uruguay,official_languages,Tiếng Tây Ban Nha,Tiếng Tây Ban Nha Rioplatense,True
+38303,Uruguay,official_languages,Ngôn ngữ ký hiệu Uruguay,Ngôn ngữ ký hiệu Uruguay,True
+26186,Ai Cập,capital,Cairo,Cairo,True
+26186,Ai Cập,currencies,Bảng Ai Cập,Bảng Ai Cập,True
+26186,Ai Cập,official_languages,Tiếng Ả Rập,Tiếng Ả Rập chuẩn,True
+8685,México,capital,Thành phố México,Thành phố México,True
+8685,México,currencies,Peso México,Peso México,True
+8685,México,official_languages,Tiếng Tây Ban Nha,Tiếng Tây Ban Nha,True
+348832,Nhà nước Palestine,capital,Jerusalem,Jerusalem,True
+348832,Nhà nước Palestine,capital,Ramallah,Ramallah,True
+348832,Nhà nước Palestine,currencies,Bảng Ai Cập,Bảng Ai Cập,True
+348832,Nhà nước Palestine,currencies,Shekel Israel mới,Shekel Israel mới,True
+348832,Nhà nước Palestine,currencies,Dinar Jordan,Dinar Jordan,True
+348832,Nhà nước Palestine,official_languages,Tiếng Ả Rập,Tiếng Ả Rập,True
+38172,Gabon,capital,Libreville,Libreville,True
+38172,Gabon,currencies,Franc CFA Trung Phi,Franc CFA Trung Phi,True
+38172,Gabon,official_languages,Tiếng Pháp,Tiếng Pháp,True
+38173,Gambia,capital,Banjul,Banjul,True
+38173,Gambia,currencies,Dalasi Gambia,Dalasi Gambia,True
+38173,Gambia,official_languages,Tiếng Anh,Tiếng Anh,True
+36696,Guinée,capital,Conakry,Conakry,True
+36696,Guinée,currencies,Franc Guinée,Franc Guinée,True
+36696,Guinée,official_languages,Tiếng Pháp,Tiếng Pháp,True
+38174,Guiné-Bissau,capital,Bissau,Bissau,True
+38174,Guiné-Bissau,currencies,Franc CFA Tây Phi,Franc CFA Tây Phi,True
+38174,Guiné-Bissau,official_languages,Tiếng Bồ Đào Nha,Tiếng Bồ Đào Nha,True
+29821,Bờ Biển Ngà,capital,Yamoussoukro,Yamoussoukro,True
+29821,Bờ Biển Ngà,currencies,Franc CFA Tây Phi,Franc CFA Tây Phi,True
+29821,Bờ Biển Ngà,official_languages,Tiếng Pháp,Tiếng Pháp châu Phi,True
+37565,Cameroon,capital,Yaoundé,Yaoundé,True
+37565,Cameroon,currencies,Franc CFA Trung Phi,Franc CFA Trung Phi,True
+37565,Cameroon,official_languages,Tiếng Pháp,Tiếng Pháp,True
+37565,Cameroon,official_languages,Tiếng Anh,Tiếng Anh,True
+37564,Cabo Verde,capital,Praia,Praia,True
+37564,Cabo Verde,currencies,Escudo Cabo Verde,Escudo Cabo Verde,True
+37564,Cabo Verde,official_languages,Tiếng Bồ Đào Nha,Tiếng Bồ Đào Nha,True
+38181,Lesotho,capital,Maseru,Maseru,True
+38181,Lesotho,currencies,Lesotho loti,Lesotho loti,True
+38181,Lesotho,currencies,Rand Nam Phi,Rand Nam Phi,True
+38181,Lesotho,official_languages,Tiếng Sotho,Tiếng Sotho,True
+38181,Lesotho,official_languages,Tiếng Anh,Tiếng Anh,True
+38181,Lesotho,official_languages,Tiếng Xhosa,Tiếng Xhosa,True
+38181,Lesotho,official_languages,Tiếng Phuthi,,False
+35835,Liberia,capital,Monrovia,Monrovia,True
+35835,Liberia,currencies,Đô la Mỹ,Đô la Mỹ,True
+35835,Liberia,currencies,Đô la Liberia,Đô la Liberia,True
+35835,Liberia,official_languages,Tiếng Anh,Tiếng Anh,True
+38184,Libya,capital,Tripoli,"Tripoli, Libya",True
+38184,Libya,currencies,Dinar Libya,Dinar Libya,True
+38184,Libya,official_languages,Tiếng Ả Rập,Tiếng Ả Rập,True
+38186,Madagascar,capital,Antananarivo,Antananarivo,True
+38186,Madagascar,currencies,Ariary,Malagasy ariary,True
+38186,Madagascar,official_languages,Tiếng Malagasy,Tiếng Malagasy,True
+38186,Madagascar,official_languages,Tiếng Pháp,Tiếng Pháp,True
+38199,Malawi,capital,Lilongwe,Lilongwe,True
+38199,Malawi,currencies,Kwacha Malawi,Kwacha Malawi,True
+38199,Malawi,official_languages,Tiếng Anh,Tiếng Anh,True
+38202,Mauritanie,capital,Nouakchott,Nouakchott,True
+38202,Mauritanie,currencies,Ouguiya,Mauritanian ouguiya,True
+38202,Mauritanie,official_languages,Tiếng Ả Rập,Tiếng Ả Rập,True
+30948,Mauritius,capital,Port Louis,Port Louis,True
+30948,Mauritius,currencies,Rupee Mauritius,Rupee Mauritius,True
+38200,Maroc,capital,Rabat,Rabat,True
+38200,Maroc,currencies,Dirham Maroc,Dirham Maroc,True
+38200,Maroc,official_languages,Tiếng Ả Rập,Tiếng Ả Rập chuẩn,True
+38200,Maroc,official_languages,Tamazight,Tiếng Tamazight Maroc chuẩn,True
+38205,Mozambique,capital,Maputo,Maputo,True
+38205,Mozambique,currencies,Metical Mozambique,Metical Mozambique,True
+38205,Mozambique,official_languages,Tiếng Bồ Đào Nha,Tiếng Bồ Đào Nha,True
+38206,Namibia,capital,Windhoek,Windhoek,True
+38206,Namibia,currencies,Đô la Namibia,Đô la Namibia,True
+38206,Namibia,currencies,Rand Nam Phi,Rand Nam Phi,True
+38206,Namibia,official_languages,Tiếng Anh,Tiếng Anh,True
+35862,Niger,capital,Niamey,Niamey,True
+35862,Niger,currencies,Franc CFA Tây Phi,Franc CFA Tây Phi,True
+35862,Niger,official_languages,Tiếng Hausa,Tiếng Hausa,True
+35825,Nigeria,capital,Abuja,Abuja,True
+35825,Nigeria,currencies,Naira,Nigerian naira,True
+35825,Nigeria,official_languages,Tiếng Anh,Tiếng Anh,True
+38220,Uganda,capital,Kampala,Kampala,True
+38220,Uganda,currencies,Shilling Uganda,Shilling Uganda,True
+38220,Uganda,official_languages,Tiếng Anh,Tiếng Anh Uganda,True
+38220,Uganda,official_languages,Tiếng Swahili,Tiếng Swahili,True
+38207,Rwanda,capital,Kigali,Kigali,True
+38207,Rwanda,currencies,Franc Rwanda,Franc Rwanda,True
+38207,Rwanda,official_languages,Tiếng Kinyarwanda,Tiếng Kinyarwanda,True
+38207,Rwanda,official_languages,Tiếng Anh,Tiếng Anh,True
+38207,Rwanda,official_languages,Tiếng Pháp,Tiếng Pháp Bỉ,True
+38207,Rwanda,official_languages,Tiếng Swahili,Tiếng Swahili,True
+38212,São Tomé và Príncipe,capital,São Tomé,São Tomé,True
+38212,São Tomé và Príncipe,currencies,Dobra,,False
+38212,São Tomé và Príncipe,official_languages,Tiếng Bồ Đào Nha,,False
+51249,Sénégal,capital,Dakar,Dakar,True
+51249,Sénégal,currencies,Franc CFA Tây Phi,Franc CFA Tây Phi,True
+51249,Sénégal,official_languages,Tiếng Pháp,Tiếng Pháp,True
+120973,Seychelles,capital,Victoria,"Victoria, Seychelles",True
+120973,Seychelles,currencies,Rupee Seychelles,Rupee Seychelles,True
+120973,Seychelles,official_languages,Seychellois Creole,Seychellois Creole,True
+120973,Seychelles,official_languages,Tiếng Anh,Tiếng Anh,True
+120973,Seychelles,official_languages,Tiếng Pháp,Tiếng Pháp,True
+35843,Sierra Leone,capital,Freetown,Freetown,True
+35843,Sierra Leone,currencies,Leone,Leone (Sierra Leonean),True
+35843,Sierra Leone,official_languages,Tiếng Anh,Tiếng Anh,True
+38215,Somalia,capital,Mogadishu,Mogadishu,True
+38215,Somalia,currencies,Shilling Somalia,Shilling Somalia,True
+38215,Somalia,official_languages,Tiếng Somali,Tiếng Somali,True
+37121,Sudan,capital,Khartoum,Khartoum,True
+37121,Sudan,currencies,Bảng Sudan,Bảng Sudan,True
+37121,Sudan,official_languages,Tiếng Ả Rập,Tiếng Ả Rập,True
+37121,Sudan,official_languages,Tiếng Anh,Tiếng Anh,True
+38216,Eswatini,capital,Mbabane,Mbabane,True
+38216,Eswatini,capital,Lobamba,Lobamba,True
+38216,Eswatini,currencies,Lilangeni,Lilangeni Swazi,True
+38216,Eswatini,currencies,Rand Nam Phi,Rand Nam Phi,True
+38216,Eswatini,official_languages,Tiếng Swazi,Tiếng Swazi,True
+38216,Eswatini,official_languages,Tiếng Anh,Tiếng Anh,True
+143481,Kosovo,capital,Priština,Priština,True
+143481,Kosovo,currencies,Euro,Euro,True
+143481,Kosovo,official_languages,Tiếng Albania,Tiếng Albania,True
+143481,Kosovo,official_languages,Tiếng Serbia,Tiếng Serbia,True
 17669,Cộng hòa Nam Phi,capital,Pretoria,Pretoria,True
 17669,Cộng hòa Nam Phi,capital,Cape Town,Cape Town,True
 17669,Cộng hòa Nam Phi,capital,Bloemfontein,Bloemfontein,True
@@ -25,57 +328,387 @@ page_id,title_vi,canonical_field,label_vi,wiki_title,has_wiki_title
 17669,Cộng hòa Nam Phi,official_languages,Tiếng Xhosa,Tiếng Xhosa,True
 17669,Cộng hòa Nam Phi,official_languages,Tiếng Tsonga,Tiếng Tsonga,True
 17669,Cộng hòa Nam Phi,official_languages,Tiếng Zulu,Tiếng Zulu,True
-5185,Thụy Sĩ,capital,Bern,Bern,True
-5185,Thụy Sĩ,currencies,Franc Thụy Sĩ,Franc Thụy Sĩ,True
-5185,Thụy Sĩ,official_languages,Tiếng Đức,Tiếng Đức,True
-5185,Thụy Sĩ,official_languages,Pháp,tiếng Pháp,True
-5185,Thụy Sĩ,official_languages,Ý,tiếng Ý,True
-5185,Thụy Sĩ,official_languages,Romansh,tiếng Romansh,True
-30160,Malaysia,capital,Kuala Lumpur,Kuala Lumpur,True
-30160,Malaysia,currencies,Ringgit,Ringgit,True
-30160,Malaysia,official_languages,Tiếng Malaysia,Tiếng Malaysia,True
-38179,Kenya,capital,Nairobi,Nairobi,True
-38179,Kenya,currencies,Shilling Kenya,Shilling Kenya,True
-38179,Kenya,official_languages,Tiếng Swahili,Tiếng Swahili,True
-38179,Kenya,official_languages,Tiếng Anh,Tiếng Anh,True
-37564,Cabo Verde,capital,Praia,Praia,True
-37564,Cabo Verde,currencies,Escudo Cabo Verde,Escudo Cabo Verde,True
-37564,Cabo Verde,official_languages,Tiếng Bồ Đào Nha,Tiếng Bồ Đào Nha,True
-38222,Zambia,capital,Lusaka,Lusaka,True
-38222,Zambia,currencies,Kwacha Zambia,Kwacha Zambia,True
-38222,Zambia,official_languages,Tiếng Anh,Tiếng Anh,True
-29600,Cuba,capital,La Habana,La Habana,True
-29600,Cuba,currencies,Peso Cuba,Peso Cuba,True
-29600,Cuba,official_languages,Tiếng Tây Ban Nha,Tiếng Tây Ban Nha Cuba,True
-39575,Gruzia,capital,Tbilisi,Tbilisi,True
-39575,Gruzia,currencies,Lari Gruzia,Lari Gruzia,True
-39575,Gruzia,official_languages,Tiếng Gruzia,Tiếng Gruzia,True
-38772,Croatia,capital,Zagreb,Zagreb,True
-38772,Croatia,currencies,Euro,Euro,True
-38772,Croatia,official_languages,Tiếng Croatia,Tiếng Croatia,True
-27667,Brasil,capital,Brasília,Brasília,True
-27667,Brasil,currencies,Real Brasil,Real Brasil,True
-27667,Brasil,official_languages,Tiếng Bồ Đào Nha,Tiếng Bồ Đào Nha,True
-45377,Tunisia,capital,Tunis,Tunis,True
-45377,Tunisia,currencies,Dinar Tunisia,Dinar Tunisia,True
-45377,Tunisia,official_languages,Tiếng Ả Rập,Tiếng Ả Rập chuẩn,True
-37121,Sudan,capital,Khartoum,Khartoum,True
-37121,Sudan,currencies,Bảng Sudan,Bảng Sudan,True
-37121,Sudan,official_languages,Tiếng Ả Rập,Tiếng Ả Rập,True
-37121,Sudan,official_languages,Tiếng Anh,Tiếng Anh,True
-49103,Đài Loan,capital,Đài Bắc,Đài Bắc,True
-49103,Đài Loan,currencies,Tân Đài tệ,Tân Đài tệ,True
+37558,Algérie,capital,Algiers,Algiers,True
+37558,Algérie,currencies,Dinar,Dinar Algérie,True
+37558,Algérie,official_languages,Tiếng Ả Rập,Tiếng Ả Rập,True
+37558,Algérie,official_languages,Tiếng Berber,Tiếng Berber Algérie tiêu chuẩn,True
+39600,Uzbekistan,capital,Tashkent,Tashkent,True
+39600,Uzbekistan,currencies,soʻm Uzbekistan,,False
+39600,Uzbekistan,official_languages,Tiếng Uzbek,Tiếng Uzbek,True
+38294,Chile,capital,Santiago de Chile,Santiago de Chile,True
+38294,Chile,currencies,Peso Chile,Peso Chile,True
+24477,Singapore,currencies,Đô la Singapore,Đô la Singapore,True
+24477,Singapore,official_languages,Tiếng Anh,Tiếng Anh Singapore,True
+24477,Singapore,official_languages,Tiếng Mã Lai,Tiếng Mã Lai,True
+24477,Singapore,official_languages,Tiếng Hoa,Tiếng Hoa Singapore,True
+24477,Singapore,official_languages,Tiếng Tamil,Tiếng Tamil,True
+42756,Liechtenstein,capital,Vaduz,Vaduz,True
+42756,Liechtenstein,currencies,Franc Thụy Sĩ,Franc Thụy Sĩ,True
+42756,Liechtenstein,official_languages,Tiếng Đức,Tiếng Đức chuẩn Thụy Sĩ,True
+41492,Bahrain,capital,Manama,Manama,True
+41492,Bahrain,currencies,Dinar Bahrain,Dinar Bahrain,True
+41492,Bahrain,official_languages,Tiếng Ả Rập,Tiếng Ả Rập chuẩn,True
+39578,Armenia,capital,Yerevan,Yerevan,True
+39578,Armenia,currencies,Dram Armenian,Dram Armenian,True
+39578,Armenia,official_languages,Tiếng Armenia,Tiếng Armenia,True
+87980,Serbia,capital,Beograd,Beograd,True
+87980,Serbia,currencies,Dinar Serbia,Dinar Serbia,True
+87980,Serbia,official_languages,Tiếng Serbia,Tiếng Serbia,True
+2849,Úc,capital,Canberra,Canberra,True
+2849,Úc,currencies,Đô la Úc,Đô la Úc,True
+27668,Argentina,capital,Buenos Aires,Buenos Aires,True
+27668,Argentina,currencies,Peso,Peso Argentina,True
+27738,Perú,capital,Lima,Lima,True
+27738,Perú,currencies,Sol,Sol Peru,True
+27738,Perú,official_languages,Tiếng Tây Ban Nha,Tiếng Tây Ban Nha Perú,True
+372816,Cộng hòa Dân chủ Nhân dân Triều Tiên,capital,Bình Nhưỡng,Bình Nhưỡng,True
+372816,Cộng hòa Dân chủ Nhân dân Triều Tiên,currencies,Won Triều Tiên,Won Cộng hòa Dân chủ Nhân dân Triều Tiên,True
+372816,Cộng hòa Dân chủ Nhân dân Triều Tiên,official_languages,Tiếng Triều Tiên,Tiếng Triều Tiên,True
+81,Campuchia,capital,Phnom Penh,Phnom Penh,True
+81,Campuchia,currencies,Riel,Riel Campuchia,True
+81,Campuchia,official_languages,Tiếng Khmer,Tiếng Khmer,True
+36002,Đông Timor,capital,Dili,Dili,True
+36002,Đông Timor,currencies,Đô la Mỹ,Đô la Mỹ,True
+36002,Đông Timor,official_languages,Tiếng Tetum,Tiếng Tetum,True
+36002,Đông Timor,official_languages,Tiếng Bồ Đào Nha,Tiếng Bồ Đào Nha,True
+36911,Tchad,capital,N'Djamena,N'Djamena,True
+36911,Tchad,currencies,Franc CFA Tây Phi,Franc CFA Tây Phi,True
+36911,Tchad,official_languages,Tiếng Ả Rập,Tiếng Ả Rập,True
+36911,Tchad,official_languages,Tiếng Pháp,Tiếng Pháp,True
+27736,New Zealand,capital,Wellington,Wellington,True
+27736,New Zealand,currencies,Đô la New Zealand,Đô la New Zealand,True
+27736,New Zealand,official_languages,Tiếng Anh,Tiếng Anh New Zealand,True
+27736,New Zealand,official_languages,Māori,Tiếng Māori,True
+27736,New Zealand,official_languages,Ngôn ngữ ký hiệu New Zealand,Ngôn ngữ ký hiệu New Zealand,True
+6323,Ấn Độ,capital,New Delhi,New Delhi,True
+6323,Ấn Độ,currencies,Rupee Ấn Độ,Rupee Ấn Độ,True
+6323,Ấn Độ,official_languages,tiếng Hindi,tiếng Hindi,True
+6323,Ấn Độ,official_languages,tiếng Anh,tiếng Anh,True
+128575,Tuvalu,capital,Funafuti,Funafuti,True
+128575,Tuvalu,currencies,Đô la Tuvaluan,Đô la Tuvaluan,True
+128575,Tuvalu,currencies,Đô la Úc,Đô la Úc,True
+128575,Tuvalu,official_languages,Tiếng Tuvalu,Tiếng Tuvalu,True
+128575,Tuvalu,official_languages,Tiếng Anh,Tiếng Anh,True
+56760,Tonga,capital,Nukuʻalofa,Nukuʻalofa,True
+56760,Tonga,currencies,Paʻanga,Paʻanga Tonga,True
+56760,Tonga,official_languages,Tiếng Tonga,,False
+56760,Tonga,official_languages,Tiếng Anh,,False
+133274,Samoa,capital,Apia,Apia,True
+133274,Samoa,currencies,Tālā,Tālā,True
+133274,Samoa,official_languages,Tiếng Samoa,Tiếng Samoa,True
+133274,Samoa,official_languages,tiếng Anh,tiếng Anh,True
+139860,Quần đảo Solomon,capital,Honiara,Honiara,True
+139860,Quần đảo Solomon,currencies,Đô la Quần đảo Solomon,Đô la Quần đảo Solomon,True
+139860,Quần đảo Solomon,official_languages,Tiếng Anh,Tiếng Anh,True
+42299,Vanuatu,capital,Port Vila,Port Vila,True
+42299,Vanuatu,currencies,Vatu,Vatu Vanuatu,True
+42299,Vanuatu,official_languages,Bislama,Bislama,True
+42299,Vanuatu,official_languages,Tiếng Anh,Tiếng Anh,True
+42299,Vanuatu,official_languages,Tiếng Pháp,Tiếng Pháp,True
+48219,Papua New Guinea,capital,Port Moresby,Port Moresby,True
+48219,Papua New Guinea,currencies,Kina,Papua New Guinean kina,True
+48219,Papua New Guinea,official_languages,Tiếng Anh,Tiếng Anh,True
+48219,Papua New Guinea,official_languages,Hiri Motu,Hiri Motu,True
+48219,Papua New Guinea,official_languages,Ngôn ngữ ký hiệu PNG,,False
+48219,Papua New Guinea,official_languages,Tok Pisin,Tok Pisin,True
+132698,Palau,capital,Ngerulmud,Ngerulmud,True
+132698,Palau,currencies,Đô la Mỹ,Đô la Mỹ,True
+132698,Palau,official_languages,Tiếng Palau,Tiếng Palau,True
+132698,Palau,official_languages,Tiếng Anh,Tiếng Anh,True
+46247,Nauru,currencies,Đô la Úc,Đô la Úc,True
+46247,Nauru,official_languages,Tiếng Naoero,Tiếng Naoero,True
+46247,Nauru,official_languages,Tiếng Anh,Tiếng Anh,True
+131067,Liên bang Micronesia,capital,Palikir,Palikir,True
+131067,Liên bang Micronesia,currencies,Đô la Mỹ,Đô la Mỹ,True
+131067,Liên bang Micronesia,official_languages,Tiếng Anh,Tiếng Anh,True
+135867,Quần đảo Marshall,capital,Majuro,Majuro,True
+135867,Quần đảo Marshall,currencies,Đô la Mỹ,Đô la Mỹ,True
+135867,Quần đảo Marshall,official_languages,Tiếng Marshall,Tiếng Marshall,True
+135867,Quần đảo Marshall,official_languages,Tiếng Anh,Tiếng Anh,True
+39608,Kiribati,capital,Tarawa,Tarawa,True
+39608,Kiribati,currencies,Đô la Úc,Đô la Úc,True
+39608,Kiribati,official_languages,Tiếng Anh,Tiếng Anh,True
+39608,Kiribati,official_languages,Tiếng Gilbert,Tiếng Gilbert,True
+29500,Mông Cổ,capital,Ulaanbaatar,Ulaanbaatar,True
+29500,Mông Cổ,currencies,Tögrög,Tögrög,True
+29500,Mông Cổ,official_languages,tiếng Mông Cổ,tiếng Mông Cổ,True
+39605,Fiji,capital,Suva,Suva,True
+39605,Fiji,currencies,Đô la Fiji,Đô la Fiji,True
+39605,Fiji,official_languages,Tiếng Fiji,Tiếng Fiji,True
+39605,Fiji,official_languages,Tiếng Anh,Tiếng Anh,True
+39605,Fiji,official_languages,Tiếng Hindi Fiji,Tiếng Hindi Fiji,True
+38304,Venezuela,capital,Caracas,Caracas,True
+38304,Venezuela,currencies,Bolívar Venezuela,Bolívar Venezuela,True
+38304,Venezuela,currencies,Đô la Mỹ,Đô la Mỹ,True
+38304,Venezuela,official_languages,Tiếng Tây Ban Nha,Tiếng Tây Ban Nha Venezuela,True
+38302,Suriname,capital,Paramaribo,Paramaribo,True
+38302,Suriname,currencies,Đô la Suriname,Đô la Suriname,True
+38302,Suriname,official_languages,Tiếng Hà Lan,Tiếng Hà Lan Suriname,True
+38301,Paraguay,capital,Asunción,Asunción,True
+38301,Paraguay,currencies,Guaraní Paraguay,Guaraní Paraguay,True
+38301,Paraguay,official_languages,Tiếng Tây Ban Nha,Tiếng Tây Ban Nha Paraguay,True
+38301,Paraguay,official_languages,Tiếng Guarani,Tiếng Guarani,True
+38298,Guyana,capital,Georgetown,"Georgetown, Guyana",True
+38298,Guyana,currencies,Đô la Guyana,Đô la Guyana,True
+38298,Guyana,official_languages,Tiếng Anh,Tiếng Anh,True
+38297,Ecuador,capital,Quito,Quito,True
+38297,Ecuador,currencies,Đô la Mỹ,Đô la Mỹ,True
+38297,Ecuador,official_languages,Tiếng Tây Ban Nha,Tiếng Tây Ban Nha,True
+38296,Colombia,capital,Bogotá,Bogotá,True
+38296,Colombia,currencies,Peso,Peso Colombia,True
+38296,Colombia,official_languages,Tiếng Tây Ban Nha,Tiếng Tây Ban Nha,True
+38296,Colombia,official_languages,Tiếng Anh,Tiếng Anh,True
+38290,Bolivia,capital,Sucre,Sucre,True
+38290,Bolivia,currencies,Boliviano Bolivia,Boliviano Bolivia,True
+38290,Bolivia,official_languages,Tiếng Tây Ban Nha,Tiếng Tây Ban Nha,True
+38290,Bolivia,official_languages,Tiếng Quechua,Tiếng Quechua,True
+38290,Bolivia,official_languages,Tiếng Aymara,Tiếng Aymara,True
+38290,Bolivia,official_languages,Tiếng Guarani,Tiếng Guarani,True
+38290,Bolivia,official_languages,Những ngôn ngữ bản địa khác,Ngôn ngữ của Bolivia,True
+42229,Trinidad và Tobago,capital,Port of Spain,Port of Spain,True
+42229,Trinidad và Tobago,currencies,Đô la Trinidad và Tobago,Đô la Trinidad và Tobago,True
+42229,Trinidad và Tobago,official_languages,Tiếng Anh,Tiếng Anh,True
+139754,Saint Vincent và Grenadines,capital,Kingstown,Kingstown,True
+139754,Saint Vincent và Grenadines,official_languages,Tiếng Anh,Tiếng Anh,True
+135674,Saint Lucia,capital,Castries,Castries,True
+135674,Saint Lucia,currencies,Đô la Đông Caribe,Đô la Đông Caribe,True
+135674,Saint Lucia,official_languages,Tiếng Anh,Tiếng Anh,True
+139934,Saint Kitts và Nevis,capital,Basseterre,Basseterre,True
+139934,Saint Kitts và Nevis,currencies,Đô la Đông Caribe,Đô la Đông Caribe,True
+139934,Saint Kitts và Nevis,official_languages,Tiếng Anh,Tiếng Anh,True
+38758,Jamaica,capital,Kingston,"Kingston, Jamaica",True
+38758,Jamaica,currencies,Đô la Jamaica,Đô la Jamaica,True
+38758,Jamaica,official_languages,Tiếng Anh,Tiếng Anh Jamaica,True
 38325,Grenada,capital,St. George's,"St. George's, Grenada",True
 38325,Grenada,currencies,Đô la Đông Caribe,Đô la Đông Caribe,True
 38325,Grenada,official_languages,Tiếng Anh,,False
-51249,Sénégal,capital,Dakar,Dakar,True
-51249,Sénégal,currencies,Franc CFA Tây Phi,Franc CFA Tây Phi,True
-51249,Sénégal,official_languages,Tiếng Pháp,Tiếng Pháp,True
+38406,Guatemala,capital,Thành phố Guatemala,Thành phố Guatemala,True
+38406,Guatemala,currencies,Quetzal Guatemala,Quetzal Guatemala,True
+38406,Guatemala,official_languages,Tiếng Tây Ban Nha,Tiếng Tây Ban Nha Guatemala,True
+38308,Bahamas,capital,Nassau,"Nassau, Bahamas",True
+38308,Bahamas,currencies,Đô la Bahamas,Đô la Bahamas,True
+38308,Bahamas,official_languages,Tiếng Anh,Tiếng Anh,True
+106126,Antigua và Barbuda,capital,St. John's,"St. John's, Antigua và Barbuda",True
+106126,Antigua và Barbuda,currencies,Đô la Đông Caribe,Đô la Đông Caribe,True
+106126,Antigua và Barbuda,official_languages,Tiếng Anh,Tiếng Anh,True
+38757,Honduras,capital,Tegucigalpa,Tegucigalpa,True
+38757,Honduras,currencies,Lempira,Honduran lempira,True
+38757,Honduras,official_languages,Tiếng Tây Ban Nha,Tiếng Tây Ban Nha,True
+38323,Dominica,capital,Roseau,Roseau,True
+38323,Dominica,currencies,Đô la Đông Caribe,Đô la Đông Caribe,True
+38323,Dominica,official_languages,Tiếng Anh,Tiếng Anh,True
+38324,Cộng hòa Dominica,capital,Santo Domingo,Santo Domingo,True
+38324,Cộng hòa Dominica,currencies,Peso Dominica,Peso Dominica,True
+38324,Cộng hòa Dominica,official_languages,Tiếng Tây Ban Nha,Tiếng Tây Ban Nha Dominicana,True
+38422,Haiti,capital,Port-au-Prince,Port-au-Prince,True
+38422,Haiti,currencies,Gourde,Gourde Haiti,True
+38320,El Salvador,capital,San Salvador,San Salvador,True
+38320,El Salvador,currencies,Đô la Mỹ,Đô la Mỹ,True
+38320,El Salvador,currencies,Colón El Salvador,Colón El Salvador,True
+38320,El Salvador,official_languages,Tiếng Tây Ban Nha,Tiếng Tây Ban Nha,True
+36688,Iran,capital,Tehran,Tehran,True
+36688,Iran,currencies,Rial,Rial Iran,True
+36688,Iran,official_languages,Tiếng Ba Tư,Tiếng Ba Tư,True
 71,Iraq,capital,Bagdad,Bagdad,True
 71,Iraq,currencies,Đồng dinar của Iraqi,Đồng dinar của Iraqi,True
 71,Iraq,official_languages,Ả Rập,Tiếng Ả Rập chuẩn,True
 71,Iraq,official_languages,Kurd,Tiếng Kurd,True
-2093,Hà Lan,capital,Amsterdam,Amsterdam,True
-2093,Hà Lan,currencies,Euro,Euro,True
-2093,Hà Lan,currencies,đô la Mỹ,đô la Mỹ,True
-2093,Hà Lan,official_languages,Tiếng Hà Lan,Tiếng Hà Lan,True
+38317,Costa Rica,capital,San José,"San José, Costa Rica",True
+38317,Costa Rica,currencies,Colón Costa Rica,Colón Costa Rica,True
+38317,Costa Rica,official_languages,Tiếng Tây Ban Nha,Tiếng Tây Ban Nha Costa Rica,True
+3723,Israel,capital,Jerusalem,Jerusalem,True
+3723,Israel,currencies,Shekel mới,Shekel mới Israel,True
+3723,Israel,official_languages,Hebrew,Tiếng Hebrew hiện đại,True
+38299,Panamá,capital,Thành phố Panamá,Thành phố Panamá,True
+38299,Panamá,currencies,Balboa,,False
+38299,Panamá,currencies,Đô la Mỹ,Đô la Mỹ,True
+38299,Panamá,official_languages,Tiếng Tây Ban Nha,Tiếng Tây Ban Nha,True
+39568,Yemen,capital,Sanaa,Sanaa,True
+39568,Yemen,currencies,Rial Yemen,Rial Yemen,True
+39568,Yemen,official_languages,Tiếng Ả Rập,Tiếng Ả Rập chuẩn,True
+39559,Jordan,capital,Amman,Amman,True
+39559,Jordan,currencies,Dinar Jordan,Dinar Jordan,True
+39559,Jordan,official_languages,Tiếng Ả Rập,Tiếng Ả Rập chuẩn,True
+38761,Nicaragua,capital,Managua,Managua,True
+38761,Nicaragua,currencies,Córdoba Nicaragua,Córdoba Nicaragua,True
+38761,Nicaragua,official_languages,Tiếng Tây Ban Nha,Tiếng Tây Ban Nha Nicaragua,True
+39591,Kyrgyzstan,capital,Bishkek,Bishkek,True
+39591,Kyrgyzstan,currencies,Som Kyrgyzstani,,False
+39591,Kyrgyzstan,official_languages,Tiếng Kyrgyz,Tiếng Kyrgyz,True
+39591,Kyrgyzstan,official_languages,Tiếng Nga,Tiếng Nga,True
+39560,Kuwait,capital,Thành phố Kuwait,Thành phố Kuwait,True
+39560,Kuwait,currencies,Dinar Kuwait,Dinar Kuwait,True
+39560,Kuwait,official_languages,Tiếng Ả Rập,Tiếng Ả Rập chuẩn,True
+56,Lào,capital,Viêng Chăn,Viêng Chăn,True
+56,Lào,currencies,Kíp,Kíp Lào,True
+56,Lào,official_languages,Tiếng Lào,Tiếng Lào,True
+39555,Liban,capital,Beirut,Beirut,True
+39555,Liban,currencies,Bảng Liban,,False
+39555,Liban,official_languages,Tiếng Ả Rập,Tiếng Ả Rập,True
+39585,Maldives,capital,Malé,Malé,True
+39585,Maldives,currencies,Rufiyaa Maldives,Rufiyaa Maldives,True
+39585,Maldives,official_languages,Tiếng Maldives,Tiếng Maldives,True
+30160,Malaysia,capital,Kuala Lumpur,Kuala Lumpur,True
+30160,Malaysia,currencies,Ringgit,Ringgit,True
+30160,Malaysia,official_languages,Tiếng Malaysia,Tiếng Malaysia,True
+24176,Myanmar,capital,Naypyidaw,Naypyidaw,True
+24176,Myanmar,currencies,Kyat,Kyat,True
+24176,Myanmar,official_languages,Tiếng Miến Điện,Tiếng Miến Điện,True
+36776,Nepal,capital,Kathmandu,Kathmandu,True
+36776,Nepal,currencies,Rupee Nepal,Rupee Nepal,True
+36776,Nepal,official_languages,Tiếng Nepal,Tiếng Nepal,True
+39561,Oman,capital,Muscat,"Muscat, Oman",True
+39561,Oman,currencies,Rial Oman,Rial Oman,True
+39561,Oman,official_languages,Tiếng Ả Rập,Tiếng Ả Rập,True
+3724,Pakistan,capital,Islamabad,Islamabad,True
+3724,Pakistan,currencies,Rupee Pakistan,Rupee Pakistan,True
+3724,Pakistan,official_languages,Tiếng Urdu,Tiếng Urdu,True
+3724,Pakistan,official_languages,Tiếng Anh,Tiếng Anh,True
+39562,Qatar,capital,Doha,Doha,True
+39562,Qatar,currencies,Riyal Qatar,Riyal Qatar,True
+39562,Qatar,official_languages,Tiếng Ả Rập,Tiếng Ả Rập,True
+28157,Ả Rập Xê Út,capital,Riyadh,Riyadh,True
+28157,Ả Rập Xê Út,currencies,Riyal Ả Rập Xê Út,Riyal Ả Rập Xê Út,True
+28157,Ả Rập Xê Út,official_languages,Tiếng Ả Rập chuẩn,Tiếng Ả Rập chuẩn,True
+39586,Sri Lanka,capital,Sri Jayawardenepura Kotte,Sri Jayawardenepura Kotte,True
+39586,Sri Lanka,capital,Colombo,Colombo,True
+39586,Sri Lanka,currencies,Rupee Sri Lanka,Rupee Sri Lanka,True
+39586,Sri Lanka,official_languages,Tiếng Sinhala,Tiếng Sinhala,True
+39586,Sri Lanka,official_languages,Tiếng Tamil,Tiếng Tamil,True
+39564,Syria,capital,Damascus,Damascus,True
+39564,Syria,currencies,Bảng Syria,Bảng Syria,True
+39596,Tajikistan,capital,Dushanbe,Dushanbe,True
+39596,Tajikistan,currencies,Somoni Tajikistan,Somoni Tajikistan,True
+39596,Tajikistan,official_languages,Tiếng Tajik,Tiếng Tajik,True
+39596,Tajikistan,official_languages,Tiếng Nga,Tiếng Nga,True
+49103,Đài Loan,capital,Đài Bắc,Đài Bắc,True
+49103,Đài Loan,currencies,Tân Đài tệ,Tân Đài tệ,True
+4862,Thái Lan,capital,Băng Cốc,Băng Cốc,True
+4862,Thái Lan,currencies,Baht,Baht,True
+4862,Thái Lan,official_languages,Tiếng Thái,Tiếng Thái,True
+39598,Turkmenistan,capital,Ashgabat,Ashgabat,True
+39598,Turkmenistan,currencies,Manat Turkmenistan,Manat Turkmenistan,True
+39598,Turkmenistan,official_languages,Tiếng Turkmen,Tiếng Turkmen,True
+41662,Các Tiểu vương quốc Ả Rập Thống nhất,capital,Abu Dhabi,Abu Dhabi,True
+41662,Các Tiểu vương quốc Ả Rập Thống nhất,currencies,UAE Dirham,,False
+41662,Các Tiểu vương quốc Ả Rập Thống nhất,official_languages,Tiếng Ả Rập,Tiếng Ả Rập chuẩn,True
+151863,Việt Nam,capital,Hà Nội,Hà Nội,True
+151863,Việt Nam,currencies,Đồng,Đồng (tiền),True
+151863,Việt Nam,official_languages,Tiếng Việt,Tiếng Việt,True
+15383,Hàn Quốc,capital,Seoul,Seoul,True
+15383,Hàn Quốc,currencies,Won,Won Hàn Quốc,True
+15383,Hàn Quốc,official_languages,Tiếng Hàn Quốc,Tiếng Hàn Quốc,True
+15383,Hàn Quốc,official_languages,Ngôn ngữ ký hiệu Hàn Quốc,Ngôn ngữ ký hiệu Hàn Quốc,True
+6719,Afghanistan,capital,Kabul,Kabul,True
+6719,Afghanistan,currencies,Afghani,Afghan afghani,True
+6719,Afghanistan,official_languages,Tiếng Dari,Tiếng Dari,True
+6719,Afghanistan,official_languages,Tiếng Pashto,Tiếng Pashto,True
+39580,Bangladesh,capital,Dhaka,Dhaka,True
+39580,Bangladesh,currencies,Taka Bangladesh,Taka Bangladesh,True
+39580,Bangladesh,official_languages,Tiếng Bengal,Tiếng Bengal,True
+29921,Mali,capital,Bamako,Bamako,True
+29921,Mali,currencies,Franc CFA Tây Phi,Franc CFA Tây Phi,True
+29921,Mali,official_languages,Tiếng Bambara,Tiếng Bambara,True
+29921,Mali,official_languages,Tiếng Bobo,Tiếng Bobo,True
+29921,Mali,official_languages,Tiếng Ả Rập Hassaniya,Tiếng Ả Rập Hassaniya,True
+29921,Mali,official_languages,Tiếng Bozo,Tiếng Bozo,True
+29921,Mali,official_languages,"Dogon, Toro So",Escarpment Dogon,True
+29921,Mali,official_languages,Tiếng Fula,Tiếng Fula,True
+29921,Mali,official_languages,Tiếng Kassonke,Tiếng Kassonke,True
+29921,Mali,official_languages,Tiếng Maninka,Tiếng Maninka,True
+29921,Mali,official_languages,Tiếng Minyanka,Tiếng Minyanka,True
+29921,Mali,official_languages,"Senufo, Senara",Tiếng Senara,True
+29921,Mali,official_languages,"Songhay, Koyraboro Senni",Koyraboro Senni,True
+29921,Mali,official_languages,Tiếng Soninke,Tiếng Soninke,True
+29921,Mali,official_languages,Tiếng Tamasheq,Tiếng Tamasheq,True
+6267,Angola,capital,Luanda,Luanda,True
+6267,Angola,currencies,Kwanza,Kwanza Angola,True
+6267,Angola,official_languages,Tiếng Bồ Đào Nha,Tiếng Bồ Đào Nha,True
+36792,Bhutan,capital,Thimphu,Thimphu,True
+36792,Bhutan,currencies,Ngultrum Bhutan,Ngultrum Bhutan,True
+36792,Bhutan,currencies,Rupee Ấn Độ,Rupee Ấn Độ,True
+36792,Bhutan,official_languages,Dzongkha,Dzongkha,True
+38039,Brunei,capital,Bandar Seri Begawan,Bandar Seri Begawan,True
+38039,Brunei,currencies,Đô la Brunei,Đô la Brunei,True
+38039,Brunei,official_languages,Tiếng Mã Lai,Tiếng Mã Lai,True
+29498,Tanzania,capital,Dodoma,Dodoma,True
+29498,Tanzania,currencies,Shilling Tanzania,Shilling Tanzania,True
+29498,Tanzania,official_languages,Tiếng Swahili,Tiếng Swahili,True
+29498,Tanzania,official_languages,Tiếng Anh,Tiếng Anh,True
+35811,Philippines,capital,Manila,Manila,True
+35811,Philippines,currencies,Peso,Peso Philippines,True
+35811,Philippines,official_languages,Tiếng Filipino,Tiếng Filipino,True
+35811,Philippines,official_languages,Tiếng Anh,Tiếng Anh,True
+38219,Cộng hòa Trung Phi,capital,Bangui,Bangui,True
+38219,Cộng hòa Trung Phi,currencies,Franc CFA Trung Phi,Franc CFA Trung Phi,True
+38219,Cộng hòa Trung Phi,official_languages,Tiếng Pháp,Tiếng Pháp,True
+38219,Cộng hòa Trung Phi,official_languages,Tiếng Sango,Tiếng Sango,True
+45476,Togo,capital,Lomé,Lomé,True
+45476,Togo,currencies,Franc CFA Tây Phi,Franc CFA Tây Phi,True
+45476,Togo,official_languages,Tiếng Pháp,Tiếng Pháp,True
+45377,Tunisia,capital,Tunis,Tunis,True
+45377,Tunisia,currencies,Dinar Tunisia,Dinar Tunisia,True
+45377,Tunisia,official_languages,Tiếng Ả Rập,Tiếng Ả Rập chuẩn,True
+38222,Zambia,capital,Lusaka,Lusaka,True
+38222,Zambia,currencies,Kwacha Zambia,Kwacha Zambia,True
+38222,Zambia,official_languages,Tiếng Anh,Tiếng Anh,True
+92303,Zimbabwe,capital,Harare,Harare,True
+92303,Zimbabwe,official_languages,Tiếng Chewa,Tiếng Chewa,True
+92303,Zimbabwe,official_languages,Chibarwe,Chibarwe,True
+92303,Zimbabwe,official_languages,Tiếng Anh,Tiếng Anh Zimbabwe,True
+92303,Zimbabwe,official_languages,Tiếng Kalanga,Tiếng Kalanga,True
+92303,Zimbabwe,official_languages,Khoisan,Phương ngữ Tjwao,True
+92303,Zimbabwe,official_languages,Tiếng Nambya,Tiếng Nambya,True
+92303,Zimbabwe,official_languages,Tiếng Ndau,Tiếng Ndau,True
+92303,Zimbabwe,official_languages,Tiếng Bắc Ndebele,Tiếng Bắc Ndebele,True
+92303,Zimbabwe,official_languages,Tiếng Shangani,Tiếng Shangani,True
+92303,Zimbabwe,official_languages,Tiếng Shona,Tiếng Shona,True
+92303,Zimbabwe,official_languages,Tiếng Sotho,Tiếng Sotho,True
+92303,Zimbabwe,official_languages,Tiếng Tonga,Tiếng Tonga (Zambia và Zimbabwe),True
+92303,Zimbabwe,official_languages,Tiếng Tswana,Tiếng Tswana,True
+92303,Zimbabwe,official_languages,Tiếng Venda,Tiếng Venda,True
+92303,Zimbabwe,official_languages,Tiếng Xhosa,Tiếng Xhosa,True
+92303,Zimbabwe,official_languages,Ngôn ngữ ký hiệu Zimbabwe,Ngôn ngữ ký hiệu Zimbabwe,True
+588637,Nam Sudan,capital,Juba,Juba,True
+588637,Nam Sudan,currencies,Bảng Nam Sudan,Bảng Nam Sudan,True
+588637,Nam Sudan,official_languages,Tiếng Anh,Tiếng Anh,True
+37560,Bénin,capital,Porto-Novo,Porto-Novo,True
+37560,Bénin,currencies,Franc CFA Tây Phi,Franc CFA Tây Phi,True
+37560,Bénin,official_languages,Tiếng Pháp,Tiếng Pháp,True
+37561,Botswana,capital,Gaborone,Gaborone,True
+37561,Botswana,currencies,Pula,Botswana pula,True
+37561,Botswana,official_languages,Tiếng Anh,,False
+36702,Burkina Faso,capital,Ouagadougou,Ouagadougou,True
+36702,Burkina Faso,currencies,Franc CFA Tây Phi,Franc CFA Tây Phi,True
+36702,Burkina Faso,official_languages,Mooré,Mooré,True
+36702,Burkina Faso,official_languages,Tiếng Bissa,Tiếng Bissa,True
+36702,Burkina Faso,official_languages,Tiếng Dyula,Tiếng Dyula,True
+36702,Burkina Faso,official_languages,Tiếng Fula,Tiếng Fula,True
+37563,Burundi,capital,Gitega,Gitega,True
+37563,Burundi,capital,Bujumbura,Bujumbura,True
+37563,Burundi,currencies,Burundian franc,Burundian franc,True
+37563,Burundi,official_languages,Tiếng Kirundi,Tiếng Kirundi,True
+37563,Burundi,official_languages,Tiếng Pháp,Tiếng Pháp,True
+37563,Burundi,official_languages,Tiếng Anh,Tiếng Anh,True
+37566,Comoros,capital,Moroni,"Moroni, Comoros",True
+37566,Comoros,currencies,Franc Comoros,Franc Comoros,True
+37566,Comoros,official_languages,Tiếng Comoros,Tiếng Comoros,True
+37566,Comoros,official_languages,Tiếng Pháp,Tiếng Pháp,True
+37566,Comoros,official_languages,Tiếng Ả Rập,Tiếng Ả Rập chuẩn,True
+37567,Cộng hòa Congo,capital,Brazzaville,Brazzaville,True
+37567,Cộng hòa Congo,currencies,Franc CFA Tây Phi,Franc CFA Tây Phi,True
+37567,Cộng hòa Congo,official_languages,Tiếng Pháp,Tiếng Pháp,True
+37568,Cộng hòa Dân chủ Congo,capital,Kinshasa,Kinshasa,True
+37568,Cộng hòa Dân chủ Congo,currencies,Franc Congo,Franc Congo,True
+37568,Cộng hòa Dân chủ Congo,official_languages,Tiếng Pháp,Tiếng Pháp,True
+38170,Djibouti,capital,Thành phố Djibouti,Thành phố Djibouti,True
+38170,Djibouti,currencies,Franc Djibouti,Franc Djibouti,True
+38170,Djibouti,official_languages,Tiếng Ả Rập,Tiếng Ả Rập,True
+38170,Djibouti,official_languages,Tiếng Pháp,Tiếng Pháp,True
+38176,Guinea Xích Đạo,capital,Ciudad de la Paz,Ciudad de la Paz,True
+38176,Guinea Xích Đạo,currencies,Franc CFA Trung Phi,Franc CFA Trung Phi,True
+38176,Guinea Xích Đạo,official_languages,Tiếng Tây Ban Nha,,False
+38176,Guinea Xích Đạo,official_languages,Tiếng Pháp,,False
+38176,Guinea Xích Đạo,official_languages,Tiếng Bồ Đào Nha,,False
+38171,Eritrea,capital,Asmara,Asmara,True
+38171,Eritrea,currencies,Nakfa Eritrea,Nakfa Eritrea,True

@@ -74,7 +74,11 @@ def test_ambiguous_alias_values_and_template_selection():
     assert debug["canonical_raw_values"]["capital"] == ["[[A]]", "[[B]]"]
     assert debug["parse_status"]["population_total"] == "parse_failed"
     assert (
-        select_infobox("{{Infobox sovereign country|capital=[[A]]}}", settings)[1]
+        select_infobox(
+            "{{Infobox sovereign country|capital=[[A]]|area_km2=4|currency=[[X]]"
+            "|calling_code=+1|population_estimate=6}}",
+            settings,
+        )[1]
         == "name_heuristic"
     )
     assert select_infobox("{{Taxobox|foo=bar}}", settings)[1] == "not_found"

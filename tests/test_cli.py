@@ -37,6 +37,16 @@ def test_pilot_orchestration_avoids_reference_redirect_duplicate(tmp_path, monke
         return [{"collection_status": "collected"} for _ in selected]
 
     monkeypatch.setattr(cli, "discover", lambda *_: candidates)
+    monkeypatch.setattr(cli, "generate_candidate_audit", lambda *_: {})
+    monkeypatch.setattr(
+        cli,
+        "generate_scope",
+        lambda items, _root: (
+            items,
+            {"approved_count": len(items), "discovered_count": len(items)},
+        ),
+    )
+    monkeypatch.setattr(cli, "load_approved_candidates", lambda _root: candidates)
     monkeypatch.setattr(cli, "collect_reference", fake_reference)
     monkeypatch.setattr(cli, "collect", fake_collect)
     monkeypatch.setattr(cli, "_finish", lambda _: calls.append("finish"))

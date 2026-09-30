@@ -1,0 +1,29 @@
+# Short offline excerpts from existing country-infobox values.
+Ukraina:
+  capital: '[[Tập tin :Flag of Kyiv Kurovskyi.svg|30px]] [[Kyiv]]'
+Thổ Nhĩ Kỳ:
+  currencies: '[[Lira Thổ Nhĩ Kỳ]] [[Hình:Turkish lira symbol black.svg|10px]]'
+Đức:
+  currencies: '[[Euro]] ([[Euro sign|€]])'
+Armenia:
+  currencies: '[[Dram Armenian]]&nbsp;([[Armenian dram sign|֏]])'
+Samoa:
+  currencies: '[[Tālā]] (WS[[$]]{{efn|Symbols used in the [[Samoan language]]}})'
+Nhà nước Palestine:
+  capital: |
+    {{unbulleted list
+    |item1_style=margin-bottom:2px;|[[Jerusalem]] ([[Vị thế của Jerusalem|công nhận giới hạn]]){{efn|[[Ramallah]] là thủ đô hành chính; tham khảo [[Tel Aviv]]}}
+    | [[Ramallah]]
+    }}
+Colombia:
+  official_languages: '[[Tiếng Tây Ban Nha]]<br>[[Tiếng Anh]] là ngôn ngữ chính thức tại [[San Andrés]], [[Providencia]] và [[Santa Catalina]].'
+Vương quốc Liên hiệp Anh và Bắc Ireland:
+  currencies: '[[Bảng&nbsp;Anh]] (£)'
+Pháp:
+  currencies: '{{ubl|[[Euro]] (€)|[[Franc CFP]] (XPF)}}'
+Cộng hòa Nam Phi:
+  capital: '{{unbulleted list|[[Pretoria]] (chính phủ)|[[Cape Town]] (Nghị viện)|[[Bloemfontein]] (tư pháp)}}'
+Sri Lanka:
+  capital: '{{ubl|[[Sri Jayawardenepura Kotte]] (Quốc hội)|[[Colombo]] (chính phủ)}}'
+Panamá:
+  currencies: 'Balboa (PAB)<br/>[[Đô la Mỹ]] (USD)'

@@ -176,6 +176,8 @@ def test_source_presence_and_value_coverage_are_distinct(tmp_path):
     summary = generate_reports(tmp_path)
     assert summary["source_field_coverage"]["capital"] == 50
     assert summary["value_coverage"]["capital"] == 0
+    assert summary["field_status_counts"]["explicit_none"] == 2
+    assert summary["parse_failed_by_field"] == {"area_km2": 1}
     empty = {
         (row["page_id"], row["field"]): row
         for row in read_csv(tmp_path / "data/reports/missing_values.csv")

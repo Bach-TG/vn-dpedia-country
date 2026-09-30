@@ -1,0 +1,11 @@
+{
+  "discovered_count": 208,
+  "approved_count": 197,
+  "excluded_count": 11,
+  "review_count": 0,
+  "type_policy": "Include direct P31 Q3624078 by default; exclude country-only candidates unless substituted; review candidates without sufficient type evidence. Dataset scoping convention, not a geopolitical recognition judgement.",
+  "substitution_count": 2,
+  "unresolved_substitutions": [],
+  "unused_manual_overrides": [],
+  "generation_timestamp": "2026-09-29T09:36:33.492720+00:00"
+}

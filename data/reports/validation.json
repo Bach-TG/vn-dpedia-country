@@ -1,7 +1,60 @@
 [
   {
-    "page_id": 151863,
-    "title_vi": "Việt Nam",
+    "page_id": 38179,
+    "title_vi": "Kenya",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 37520,
+    "title_vi": "Ethiopia",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 27737,
+    "title_vi": "Ghana",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 2860,
+    "title_vi": "Pháp",
+    "status": "warning",
+    "reasons": [
+      "Source missing population_total"
+    ]
+  },
+  {
+    "page_id": 577821,
+    "title_vi": "Vương quốc Liên hiệp Anh và Bắc Ireland",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 1529,
+    "title_vi": "Trung Quốc",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 27667,
+    "title_vi": "Brasil",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 856,
+    "title_vi": "Nga",
+    "status": "warning",
+    "reasons": [
+      "Ambiguous source population_total",
+      "Parse error: population_total: ambiguous values [146028325, 143569049]"
+    ]
+  },
+  {
+    "page_id": 797,
+    "title_vi": "Canada",
     "status": "valid",
     "reasons": []
   },
@@ -12,52 +65,127 @@
     "reasons": []
   },
   {
-    "page_id": 24477,
-    "title_vi": "Singapore",
-    "status": "valid",
-    "reasons": []
-  },
-  {
-    "page_id": 17669,
-    "title_vi": "Cộng hòa Nam Phi",
-    "status": "valid",
-    "reasons": []
-  },
-  {
-    "page_id": 5185,
-    "title_vi": "Thụy Sĩ",
-    "status": "valid",
-    "reasons": []
-  },
-  {
-    "page_id": 30160,
-    "title_vi": "Malaysia",
-    "status": "valid",
-    "reasons": []
-  },
-  {
-    "page_id": 38179,
-    "title_vi": "Kenya",
-    "status": "valid",
-    "reasons": []
-  },
-  {
-    "page_id": 37564,
-    "title_vi": "Cabo Verde",
+    "page_id": 741,
+    "title_vi": "Đức",
     "status": "warning",
     "reasons": [
       "Source missing calling_codes"
     ]
   },
   {
-    "page_id": 38222,
-    "title_vi": "Zambia",
+    "page_id": 28053,
+    "title_vi": "Belarus",
     "status": "valid",
     "reasons": []
   },
   {
-    "page_id": 29600,
-    "title_vi": "Cuba",
+    "page_id": 38776,
+    "title_vi": "Iceland",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 10699,
+    "title_vi": "Estonia",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 16790,
+    "title_vi": "Na Uy",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 10698,
+    "title_vi": "Latvia",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 25197,
+    "title_vi": "Ukraina",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 4119,
+    "title_vi": "Séc",
+    "status": "warning",
+    "reasons": [
+      "Source missing currencies",
+      "Source missing official_languages"
+    ]
+  },
+  {
+    "page_id": 5320,
+    "title_vi": "Slovakia",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 89842,
+    "title_vi": "Slovenia",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 93918,
+    "title_vi": "Moldova",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 63966,
+    "title_vi": "România",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38771,
+    "title_vi": "Bulgaria",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 96096,
+    "title_vi": "Bắc Macedonia",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 39312,
+    "title_vi": "Albania",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38772,
+    "title_vi": "Croatia",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38767,
+    "title_vi": "Bosna và Hercegovina",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38762,
+    "title_vi": "Azerbaijan",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 96100,
+    "title_vi": "Andorra",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38765,
+    "title_vi": "Síp",
     "status": "valid",
     "reasons": []
   },
@@ -71,26 +199,851 @@
     ]
   },
   {
-    "page_id": 38772,
-    "title_vi": "Croatia",
+    "page_id": 39589,
+    "title_vi": "Kazakhstan",
     "status": "valid",
     "reasons": []
   },
   {
-    "page_id": 27667,
-    "title_vi": "Brasil",
+    "page_id": 40918,
+    "title_vi": "Malta",
     "status": "valid",
     "reasons": []
   },
   {
-    "page_id": 45377,
-    "title_vi": "Tunisia",
+    "page_id": 73204,
+    "title_vi": "Monaco",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 56099,
+    "title_vi": "Montenegro",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 15891,
+    "title_vi": "Thành Vatican",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 25823,
+    "title_vi": "San Marino",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 29600,
+    "title_vi": "Cuba",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 92637,
+    "title_vi": "Belize",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 54914,
+    "title_vi": "Barbados",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 24175,
+    "title_vi": "Indonesia",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 23315,
+    "title_vi": "Cộng hòa Ireland",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 33743,
+    "title_vi": "Hungary",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 12586,
+    "title_vi": "Tây Ban Nha",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 57,
+    "title_vi": "Hoa Kỳ",
+    "status": "warning",
+    "reasons": [
+      "Parse failed currencies",
+      "Parse error: currencies: cannot parse ' [[{{#property:p38}}]] ($)\\n'"
+    ]
+  },
+  {
+    "page_id": 1351,
+    "title_vi": "Bỉ",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 30751,
+    "title_vi": "Luxembourg",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 25437,
+    "title_vi": "Phần Lan",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 33,
+    "title_vi": "Thụy Điển",
+    "status": "warning",
+    "reasons": [
+      "Ambiguous source official_languages",
+      "Parse error: official_languages: de facto language and official minority-language scopes require review"
+    ]
+  },
+  {
+    "page_id": 14921,
+    "title_vi": "Đan Mạch",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 32562,
+    "title_vi": "Ba Lan",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 10697,
+    "title_vi": "Litva",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 25196,
+    "title_vi": "Ý",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 5185,
+    "title_vi": "Thụy Sĩ",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 2819,
+    "title_vi": "Áo",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 13605,
+    "title_vi": "Hy Lạp",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 39567,
+    "title_vi": "Thổ Nhĩ Kỳ",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 8773,
+    "title_vi": "Bồ Đào Nha",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 2093,
+    "title_vi": "Hà Lan",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38303,
+    "title_vi": "Uruguay",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 26186,
+    "title_vi": "Ai Cập",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 8685,
+    "title_vi": "México",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 348832,
+    "title_vi": "Nhà nước Palestine",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38172,
+    "title_vi": "Gabon",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38173,
+    "title_vi": "Gambia",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 36696,
+    "title_vi": "Guinée",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38174,
+    "title_vi": "Guiné-Bissau",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 29821,
+    "title_vi": "Bờ Biển Ngà",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 37565,
+    "title_vi": "Cameroon",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 37564,
+    "title_vi": "Cabo Verde",
+    "status": "warning",
+    "reasons": [
+      "Source missing calling_codes"
+    ]
+  },
+  {
+    "page_id": 38181,
+    "title_vi": "Lesotho",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 35835,
+    "title_vi": "Liberia",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38184,
+    "title_vi": "Libya",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38186,
+    "title_vi": "Madagascar",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38199,
+    "title_vi": "Malawi",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38202,
+    "title_vi": "Mauritanie",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 30948,
+    "title_vi": "Mauritius",
+    "status": "warning",
+    "reasons": [
+      "Ambiguous source official_languages",
+      "Parse error: official_languages: de jure absence and de facto languages cannot be one unqualified field"
+    ]
+  },
+  {
+    "page_id": 38200,
+    "title_vi": "Maroc",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38205,
+    "title_vi": "Mozambique",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38206,
+    "title_vi": "Namibia",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 35862,
+    "title_vi": "Niger",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 35825,
+    "title_vi": "Nigeria",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38220,
+    "title_vi": "Uganda",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38207,
+    "title_vi": "Rwanda",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38212,
+    "title_vi": "São Tomé và Príncipe",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 51249,
+    "title_vi": "Sénégal",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 120973,
+    "title_vi": "Seychelles",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 35843,
+    "title_vi": "Sierra Leone",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38215,
+    "title_vi": "Somalia",
     "status": "valid",
     "reasons": []
   },
   {
     "page_id": 37121,
     "title_vi": "Sudan",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38216,
+    "title_vi": "Eswatini",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 143481,
+    "title_vi": "Kosovo",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 17669,
+    "title_vi": "Cộng hòa Nam Phi",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 37558,
+    "title_vi": "Algérie",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 39600,
+    "title_vi": "Uzbekistan",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38294,
+    "title_vi": "Chile",
+    "status": "warning",
+    "reasons": [
+      "Source missing official_languages"
+    ]
+  },
+  {
+    "page_id": 24477,
+    "title_vi": "Singapore",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 42756,
+    "title_vi": "Liechtenstein",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 41492,
+    "title_vi": "Bahrain",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 39578,
+    "title_vi": "Armenia",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 87980,
+    "title_vi": "Serbia",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 2849,
+    "title_vi": "Úc",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 27668,
+    "title_vi": "Argentina",
+    "status": "warning",
+    "reasons": [
+      "Ambiguous source official_languages",
+      "Parse error: official_languages: de jure absence and de facto languages cannot be one unqualified field"
+    ]
+  },
+  {
+    "page_id": 27738,
+    "title_vi": "Perú",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 372816,
+    "title_vi": "Cộng hòa Dân chủ Nhân dân Triều Tiên",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 81,
+    "title_vi": "Campuchia",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 36002,
+    "title_vi": "Đông Timor",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 36911,
+    "title_vi": "Tchad",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 27736,
+    "title_vi": "New Zealand",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 6323,
+    "title_vi": "Ấn Độ",
+    "status": "warning",
+    "reasons": [
+      "Parse failed population_total",
+      "Parse error: population_total: cannot parse ' {{IncreaseNeutral}} {{UN Population|India}}{{UN Population|ref}}\\n'"
+    ]
+  },
+  {
+    "page_id": 128575,
+    "title_vi": "Tuvalu",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 56760,
+    "title_vi": "Tonga",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 133274,
+    "title_vi": "Samoa",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 139860,
+    "title_vi": "Quần đảo Solomon",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 42299,
+    "title_vi": "Vanuatu",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 48219,
+    "title_vi": "Papua New Guinea",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 132698,
+    "title_vi": "Palau",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 46247,
+    "title_vi": "Nauru",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 131067,
+    "title_vi": "Liên bang Micronesia",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 135867,
+    "title_vi": "Quần đảo Marshall",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 39608,
+    "title_vi": "Kiribati",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 29500,
+    "title_vi": "Mông Cổ",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 39605,
+    "title_vi": "Fiji",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38304,
+    "title_vi": "Venezuela",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38302,
+    "title_vi": "Suriname",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38301,
+    "title_vi": "Paraguay",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38298,
+    "title_vi": "Guyana",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38297,
+    "title_vi": "Ecuador",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38296,
+    "title_vi": "Colombia",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38290,
+    "title_vi": "Bolivia",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 42229,
+    "title_vi": "Trinidad và Tobago",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 139754,
+    "title_vi": "Saint Vincent và Grenadines",
+    "status": "warning",
+    "reasons": [
+      "Source missing area_km2",
+      "Source missing currencies"
+    ]
+  },
+  {
+    "page_id": 135674,
+    "title_vi": "Saint Lucia",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 139934,
+    "title_vi": "Saint Kitts và Nevis",
+    "status": "warning",
+    "reasons": [
+      "Parse failed population_total",
+      "Parse error: population_total: cannot parse ' {{UN_Population|Saint Kitts and Nevis}}{{UN_Population|ref}}\\n'"
+    ]
+  },
+  {
+    "page_id": 38758,
+    "title_vi": "Jamaica",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38325,
+    "title_vi": "Grenada",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38406,
+    "title_vi": "Guatemala",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38308,
+    "title_vi": "Bahamas",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 106126,
+    "title_vi": "Antigua và Barbuda",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38757,
+    "title_vi": "Honduras",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38323,
+    "title_vi": "Dominica",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38324,
+    "title_vi": "Cộng hòa Dominica",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38422,
+    "title_vi": "Haiti",
+    "status": "warning",
+    "reasons": [
+      "Ambiguous source official_languages",
+      "Parse error: official_languages: direct language plus collapsible list has unclear same-field membership"
+    ]
+  },
+  {
+    "page_id": 38320,
+    "title_vi": "El Salvador",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 36688,
+    "title_vi": "Iran",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 71,
+    "title_vi": "Iraq",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38317,
+    "title_vi": "Costa Rica",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 3723,
+    "title_vi": "Israel",
+    "status": "warning",
+    "reasons": [
+      "Ambiguous source area_km2",
+      "Parse error: area_km2: numeric range has no single canonical value: [20770.0, 22072.0]"
+    ]
+  },
+  {
+    "page_id": 38299,
+    "title_vi": "Panamá",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 39568,
+    "title_vi": "Yemen",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 39559,
+    "title_vi": "Jordan",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38761,
+    "title_vi": "Nicaragua",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 39591,
+    "title_vi": "Kyrgyzstan",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 39560,
+    "title_vi": "Kuwait",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 56,
+    "title_vi": "Lào",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 39555,
+    "title_vi": "Liban",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 39585,
+    "title_vi": "Maldives",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 30160,
+    "title_vi": "Malaysia",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 24176,
+    "title_vi": "Myanmar",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 36776,
+    "title_vi": "Nepal",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 39561,
+    "title_vi": "Oman",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 3724,
+    "title_vi": "Pakistan",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 39562,
+    "title_vi": "Qatar",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 28157,
+    "title_vi": "Ả Rập Xê Út",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 39586,
+    "title_vi": "Sri Lanka",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 39564,
+    "title_vi": "Syria",
+    "status": "warning",
+    "reasons": [
+      "Source missing official_languages"
+    ]
+  },
+  {
+    "page_id": 39596,
+    "title_vi": "Tajikistan",
     "status": "valid",
     "reasons": []
   },
@@ -103,27 +1056,183 @@
     ]
   },
   {
-    "page_id": 38325,
-    "title_vi": "Grenada",
+    "page_id": 4862,
+    "title_vi": "Thái Lan",
     "status": "valid",
     "reasons": []
   },
   {
-    "page_id": 51249,
-    "title_vi": "Sénégal",
+    "page_id": 39598,
+    "title_vi": "Turkmenistan",
     "status": "valid",
     "reasons": []
   },
   {
-    "page_id": 71,
-    "title_vi": "Iraq",
+    "page_id": 41662,
+    "title_vi": "Các Tiểu vương quốc Ả Rập Thống nhất",
     "status": "valid",
     "reasons": []
   },
   {
-    "page_id": 2093,
-    "title_vi": "Hà Lan",
+    "page_id": 151863,
+    "title_vi": "Việt Nam",
     "status": "valid",
     "reasons": []
+  },
+  {
+    "page_id": 15383,
+    "title_vi": "Hàn Quốc",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 6719,
+    "title_vi": "Afghanistan",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 39580,
+    "title_vi": "Bangladesh",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 29921,
+    "title_vi": "Mali",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 6267,
+    "title_vi": "Angola",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 36792,
+    "title_vi": "Bhutan",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38039,
+    "title_vi": "Brunei",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 29498,
+    "title_vi": "Tanzania",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 35811,
+    "title_vi": "Philippines",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38219,
+    "title_vi": "Cộng hòa Trung Phi",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 45476,
+    "title_vi": "Togo",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 45377,
+    "title_vi": "Tunisia",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38222,
+    "title_vi": "Zambia",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 92303,
+    "title_vi": "Zimbabwe",
+    "status": "warning",
+    "reasons": [
+      "Ambiguous source currencies",
+      "Parse error: currencies: separate de jure and de facto currency sections require review"
+    ]
+  },
+  {
+    "page_id": 588637,
+    "title_vi": "Nam Sudan",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 37560,
+    "title_vi": "Bénin",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 37561,
+    "title_vi": "Botswana",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 36702,
+    "title_vi": "Burkina Faso",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 37563,
+    "title_vi": "Burundi",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 37566,
+    "title_vi": "Comoros",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 37567,
+    "title_vi": "Cộng hòa Congo",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 37568,
+    "title_vi": "Cộng hòa Dân chủ Congo",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38170,
+    "title_vi": "Djibouti",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38176,
+    "title_vi": "Guinea Xích Đạo",
+    "status": "valid",
+    "reasons": []
+  },
+  {
+    "page_id": 38171,
+    "title_vi": "Eritrea",
+    "status": "warning",
+    "reasons": [
+      "Ambiguous source population_total",
+      "Parse error: population_total: numeric range has no single canonical value: [3500000, 6400000]"
+    ]
   }
 ]

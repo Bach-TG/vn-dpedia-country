@@ -1,3 +1,50 @@
 page_id,title_vi,field,status,raw_value,error
+856,Nga,population_total,ambiguous," {{plainlist|
+* {{DecreaseNeutral}} 146.028.325<ref>Bao gồm 2.459.276 người sống trên [[Liên bang Nga sáp nhập Krym|Bán đảo Crimea]]</ref>
+* {{nowrap|(bao gồm Crimea)<ref name=""gks.ru-popul"">{{cite web |url=https://rosstat.gov.ru/storage/mediabank/PrPopul2025_Site.xlsx |format=XLSX |script-title=ru:Предварительная оценка численности постоянного населения на 1 января 2025 года |trans-title=Preliminary estimate of the permanent population as of January 1, 2025 |language=ru |work=[[Federal State Statistics Service (Russia)|Russian Federal State Statistics Service]] |access-date=10 March 2025 |archive-date=7 April 2025 |archive-url=https://web.archive.org/web/20250407172042/https://rosstat.gov.ru/storage/mediabank/PrPopul2025_Site.xlsx |url-status=live }}</ref>}}
+* {{DecreaseNeutral}} 143.569.049
+* (không bao gồm Crimea)}}
+","population_total: ambiguous values [146028325, 143569049]"
 39575,Gruzia,population_total,ambiguous," {{DecreaseNeutral}} 3,694,608{{Ref label|population|a|}}<ref>{{cite web|access-date=2022-05-07|title=Demographic Portal|url=https://www.geostat.ge/en/modules/categories/41/population}}</ref><br />4,012,104{{Ref label|population2|b|}}
 ","population_total: ambiguous values [3694608, 4012104]"
+57,Hoa Kỳ,currencies,parse_failed," [[{{#property:p38}}]] ($)
+",currencies: cannot parse ' [[{{#property:p38}}]] ($)\n'
+33,Thụy Điển,official_languages,ambiguous," [[Tiếng Thụy Điển]] ''(de facto)'' ³<br>Ngôn ngữ thiểu số chính thức:{{ref label|ccc|c}}<br>[[Phần Lan]]<br>[[Ngữ chi Sami|Tiếng Sami]]<br>[[Tiếng Digan]]<br>[[Tiếng Yiddish]]
+",official_languages: de facto language and official minority-language scopes require review
+30948,Mauritius,official_languages,ambiguous," Không có (''de jure'')<br />{{nowrap|{{hlist|[[Tiếng Anh]]|[[Tiếng Pháp]]}} (''de facto'')<ref>The [[Constitution of Mauritius|Mauritian constitution]] makes no mention of an [[official language]]. The Constitution only mentions that the official language of the National Assembly is English; however, any member can also address the chair in French.</ref>}}
+",official_languages: de jure absence and de facto languages cannot be one unqualified field
+27668,Argentina,official_languages,ambiguous," Không có<br />
+[[Tiếng Tây Ban Nha]] <small>(de facto)</small>{{ref label|note-lang|a|}}
+",official_languages: de jure absence and de facto languages cannot be one unqualified field
+6323,Ấn Độ,population_total,parse_failed," {{IncreaseNeutral}} {{UN Population|India}}{{UN Population|ref}}
+",population_total: cannot parse ' {{IncreaseNeutral}} {{UN Population|India}}{{UN Population|ref}}\n'
+139934,Saint Kitts và Nevis,population_total,parse_failed," {{UN_Population|Saint Kitts and Nevis}}{{UN_Population|ref}}
+",population_total: cannot parse ' {{UN_Population|Saint Kitts and Nevis}}{{UN_Population|ref}}\n'
+38422,Haiti,official_languages,ambiguous," [[Creole Haiti]] {{collapsible list
+| titlestyle = background:transparent;text-align:left;font-weight:normal;
+| title = Ngôn ngữ khác
+ | [[Tiếng Pháp Haiti|Tiếng Pháp]]
+}}
+",official_languages: direct language plus collapsible list has unclear same-field membership
+3723,Israel,area_km2,ambiguous," 20.770–22.072
+","area_km2: numeric range has no single canonical value: [20770.0, 22072.0]"
+92303,Zimbabwe,currencies,ambiguous," {{plainlist| 
+''De jure'':
+* [[Vàng Zimbabwe]] ([[ISO 4217|ZWG]])<ref name=""https://apnews.com"">{{cite web|url=https://apnews.com/article/zimbabwe-new-currency-inflation-us-dollar-06a656260462d9651112e394e125c5e6 |title=Zimbabwe introduces new currency as depreciation and rising inflation stoke economic turmoil |website=[[Associated Press News]] |date=5 April 2024 }}</ref>
+}}
+
+{{plainlist|
+''De facto'':
+* [[Đô la Mỹ]] ([[ISO 4217|USD]])<ref name=Reuters.currency>{{cite web|url=https://www.reuters.com/world/africa/zimbabwe-adopts-new-inflation-rate-based-us-dollar-local-currency-2023-03-03/ |title=Zimbabwe adopts new inflation rate based on U.S. dollar, local currency |date=3 March 2023 |access-date=25 March 2023 |work=Reuters |location=Harare}}</ref>
+* [[Rand Nam Phi]] ([[ISO 4217|ZAR]]);<ref name=Reuters.currency /> 
+* Đơn vị tiền tệ khác{{notetag|Sau khi đô la Zimbabwe bị đình chỉ vô thời hạn vào ngày 12 tháng 4 năm 2009, các đồng [[euro]], [[đô la Mỹ]], [[bảng Anh]], [[rand Nam Phi]], [[pula Botswana]], [[đô la Úc]], [[nhân dân tệ]], [[rupee Ấn Độ]] và [[yên Nhật]] bắt đầu được sử dụng.}}
+}}
+",currencies: separate de jure and de facto currency sections require review
+38171,Eritrea,population_total,ambiguous," 3.500.000–6.400.000{{efn|name=Population | Eritrea has never conducted an official government census.<ref name=""PHS2010_full"">{{cite web | title= Eritrea – Population and Health Survey 2010 | website= [[National Statistics Office (Eritrea)|National Statistics Office]], [[Fafo Institute for Applied International Studies]] |year = 2010 | url =https://www.unicef.org/eritrea/ECO_resources_populationhealthsurvey2010.pdf | access-date = 2021-03-03 |archive-url= https://web.archive.org/web/20190606121847/https://www.unicef.org/eritrea/ECO_resources_populationhealthsurvey2010.pdf |archive-date= 2019-06-06 |url-status=live }}</ref> Sources disagree about the current population:
+* The UN gives an estimate of 3,502,000 for 2024.<ref name=""UN pop"">{{cite web |url = https://population.un.org/wpp/assets/Files/WPP2024_Summary-of-Results.pdf |title = World Population Prospects 2024 Summary of Results |at = p61 |website = un.org |access-date = 25 Jan 2025}}</ref>
+* The [[Cabinet of Ministers of Eritrea|Eritrea Ministry Of Information]] gives an estimate of 5.8 million for 2020.<ref>{{cite web |url=https://shabait.com/2020/11/04/the-role-of-insurance-in-a-developing-society-a-perspective-from-the-eritrean-insurance-profession/ |title=The Role of Insurance in a Developing Society a perspective from the Eritrean insurance profession |publisher=Eritrea Ministry Of Information |website=www.shabait.com |date=4 November 2020 |access-date=26 January 2025}}</ref>
+* The BBC gives an estimate of 6.2 million for 2023.<ref>{{cite web |url = https://www.bbc.com/news/world-africa-13349078 |title = Eritrea country profile |website = Internet |access-date = 25 Jan 2025}}</ref>
+* The [[US Census Bureau]] gives an estimate of 6.4 million for 2025.<ref name=""USCB pop"">{{cite web |url = https://www.census.gov/popclock/world/er |title = Eritrea |website = census.gov |access-date = 25 Jan 2025}}</ref>
+* [[Encyclopedia Britannica]] gives an estimate of 6,416,000 for 2025.<ref>{{cite web |url = https://www.britannica.com/facts/Eritrea |title = Eritrea: Facts & Stats |website = britannica.com |access-date = 25 Jan 2025}}</ref>
+All figures are mid-year.}}
+","population_total: numeric range has no single canonical value: [3500000, 6400000]"

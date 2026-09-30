@@ -30,6 +30,7 @@ class Settings(BaseModel):
     pilot_size: int = Field(gt=0)
     reference_titles: list[str]
     infobox_template_aliases: list[str]
+    infobox_evidence_keys: list[str] = Field(default_factory=list)
     candidate_infobox_template_aliases: list[str] = Field(default_factory=list)
 
 

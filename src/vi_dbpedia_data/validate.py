@@ -1,6 +1,7 @@
 """Non-destructive per-record validation, including collection/interim failures."""
 
 import json
+import re
 from collections import Counter, defaultdict
 from pathlib import Path
 
@@ -124,7 +125,10 @@ def validate_records(
         for field in ("capital", "currencies", "official_languages"):
             if any(not ref.label_vi.strip() for ref in getattr(record, field)):
                 errors.append(f"Empty {field} resource label")
-        if any(not code.startswith("+") or not code[1:].isdigit() for code in record.calling_codes):
+        if any(
+            not re.fullmatch(r"\+\d{1,4}(?:-\d{1,4}|-\dxx)?", code, re.I)
+            for code in record.calling_codes
+        ):
             warnings.append("Malformed calling code")
         if index < len(debug):
             warnings.extend(

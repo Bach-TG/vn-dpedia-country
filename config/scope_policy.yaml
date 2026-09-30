@@ -1,0 +1,13 @@
+# Dataset selection convention for this prototype, NOT a geopolitical judgement.
+# Discovery/audit always retain their complete Wikidata candidate universe.
+sovereign_instance_qid: Q3624078
+substitutions:
+  - include_qid: Q35
+    exclude_qid: Q756617
+    reason: Use the canonical Đan Mạch country article instead of the realm article.
+  - include_qid: Q55
+    exclude_qid: Q29999
+    reason: Use the canonical Hà Lan country article instead of the kingdom article.
+# Edit this list for reviewed decisions; generated CSVs are reproducible outputs.
+# Example: {wikidata_id: Q123, decision: review, reason: Awaiting source review}
+manual_overrides: []

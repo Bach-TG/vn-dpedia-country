@@ -1,0 +1,66 @@
+# Minimal structural excerpts inspected in the already-downloaded full-run infoboxes.
+capital:
+  Đức: '[[Tập tin:DEU Berlin COA.svg|24px]] [[Berlin]]<small>{{efn|Berlin là thủ đô, còn [[Bonn]] là cố đô}}</small>'
+  Hoa Kỳ: '[[Tập tin: Seal of the District of Columbia.svg|24px]] [[Washington, D.C.]]<br/>{{small|{{coord|38|53|N|77|01|W}}}}'
+  Kosovo: '{{nowrap|[[Priština]]}}<sup>a</sup>'
+  Cộng hòa Dân chủ Congo: '[[Kinshasa]]<br />{{small|{{tọa độ|4|19|S|15|19|E}}}}'
+  Thái Lan: '{{flagicon image|Seal Bangkok Metropolitan Admin.svg|link=Băng Cốc}} [[Băng Cốc]] (Krungthep)'
+  Sri Lanka: '{{ubl|[[Sri Jayawardenepura Kotte]] (Quốc hội)<ref>{{cite web|title=[[Citation city]]}}</ref>|[[Colombo]] (chính phủ)<ref>[[Other link]]</ref><br />{{Coord|6|56|N|79|52|E}}}}'
+  Thành Vatican: "{{nowrap|'''Thành Vatican''' {{small|([[Thành bang|thành quốc]])}}}}"
+currencies:
+  Pháp: |
+    {{ubl
+    |[[Euro]] (€) (<code>[[ISO 4217|EUR]]</code>)<wbr/>{{efn-ur|Lãnh thổ châu Âu [[Pháp]]}}
+    |[[Franc CFP]] (<code>[[ISO 4217|XPF]]</code>)<wbr/>{{efn-ur|Lãnh thổ hải ngoại}}
+    }}
+  Albania: '[[Lek Albania|Lek]] ({{code|L}}){{\}}{{lang|sq|Leku}}'
+  Panamá: 'Balboa (PAB)<br/>[[Đô la Mỹ]] (USD)'
+  Hoa Kỳ: '[[{{#property:p38}}]] ($)'
+  Zimbabwe: |
+    {{plainlist|
+    ''De jure'':
+    * [[Vàng Zimbabwe]] ([[ISO 4217|ZWG]])
+    }}
+    {{plainlist|
+    ''De facto'':
+    * [[Đô la Mỹ]] ([[ISO 4217|USD]])
+    * Đơn vị khác{{NoteTag|Ghi chú [[Euro]] và [[Bảng Anh]]}}
+    }}
+official_languages:
+  Na Uy: '{{hlist|[[Tiếng Na Uy]]{{NoteTag|Written [[Bokmål]] and [[Nynorsk]]}}|[[Nhóm ngôn ngữ Sámi]]<ref>[[Không phải giá trị]]</ref>{{NoteTag|[[Tiếng Bắc Sami]]}}}}'
+  Bắc Macedonia: |
+    {{plainlist|
+    * {{nowrap|[[Tiếng Macedonia]]}}{{efn|[[Ngôn ngữ vùng]]}}
+    * {{nowrap|[[Tiếng Albania]]}}{{efn|Phạm vi sử dụng}}
+    }}
+  Cộng hòa Ireland: '{{flatlist|* [[Tiếng Ireland]]{{ref label|national language|b}}<br/>* [[Tiếng Anh]]<ref>[[Citation language]]</ref>}}'
+  Tây Ban Nha: '[[Tiếng Tây Ban Nha]]{{efn|Một số vùng sử dụng [[tiếng Catalunya]] và [[tiếng Basque]]}}{{Infobox|child=yes|data1=[[Người Tây Ban Nha]]}}'
+  Ý: '[[Tiếng Ý]]<sup>a</sup>{{Infobox|child=yes|data1=[[người Ý]]|data2=[[Người Albania]]}}'
+  Madagascar: '[[Tiếng Malagasy]]{{*}}[[Tiếng Pháp]]'
+  Rwanda: '{{unbulleted list|[[Tiếng Kinyarwanda]]|[[Tiếng Anh]]|<!-- do not remove -->|[[Tiếng Pháp Bỉ|Tiếng Pháp]]|[[Tiếng Swahili]]}}'
+  Palau: '{{ubl|[[Tiếng Palau]]|[[Tiếng Anh]]}} <!--See the footnote about Japanese.-->'
+  Guinea Xích Đạo: |
+    {{Plain list|
+    * Tiếng Tây Ban Nha
+    * Tiếng Pháp<ref>{{cite web|title=Source}}</ref>
+    * Tiếng Bồ Đào Nha
+    }}
+  Argentina: 'Không có<br/>[[Tiếng Tây Ban Nha]] <small>(de facto)</small>{{ref label|note|a|}}'
+  Mauritius: 'Không có (de jure)<br/>{{nowrap|{{hlist|[[Tiếng Anh]]|[[Tiếng Pháp]]}} (de facto)<ref>[[Constitution]]</ref>}}'
+  Haiti: '[[Creole Haiti]] {{collapsible list|title=Ngôn ngữ khác|[[Tiếng Pháp Haiti|Tiếng Pháp]]}}'
+population:
+  Malta: '{{nowrap|519,562<ref>[[Other value]]</ref>}}'
+  Serbia: '{{DecreaseNeutral}} 6.567.783 (trừ Kosovo)<ref>[[Citation]]</ref>'
+  Palau: '17,663{{UN Population|ref}}'
+  Nga: |
+    {{plainlist|
+    * {{DecreaseNeutral}} 146.028.325<ref>[[Citation]]</ref>
+    * {{nowrap|(bao gồm Crimea)}}
+    * {{DecreaseNeutral}} 143.569.049
+    * (không bao gồm Crimea)}}
+  Eritrea: '3.500.000–6.400.000{{efn|Các ước tính từ [[Nguồn]] khác nhau}}'
+  Ấn Độ: '{{IncreaseNeutral}} {{UN Population|India}}{{UN Population|ref}}'
+  Saint Kitts và Nevis: '{{UN_Population|Saint Kitts and Nevis}}{{UN_Population|ref}}'
+area:
+  Đan Mạch: '42.931³<ref>[[Nguồn diện tích]]</ref>'
+  Israel: '20.770–22.072'

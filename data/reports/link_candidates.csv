@@ -1,21 +1,198 @@
 page_id,title_vi,wikidata_id,english_title,english_wikipedia_url,english_dbpedia_candidate
-151863,Việt Nam,Q881,Vietnam,https://en.wikipedia.org/wiki/Vietnam,http://dbpedia.org/resource/Vietnam
-362397,Nhật Bản,Q17,Japan,https://en.wikipedia.org/wiki/Japan,http://dbpedia.org/resource/Japan
-24477,Singapore,Q334,Singapore,https://en.wikipedia.org/wiki/Singapore,http://dbpedia.org/resource/Singapore
-17669,Cộng hòa Nam Phi,Q258,South Africa,https://en.wikipedia.org/wiki/South_Africa,http://dbpedia.org/resource/South_Africa
-5185,Thụy Sĩ,Q39,Switzerland,https://en.wikipedia.org/wiki/Switzerland,http://dbpedia.org/resource/Switzerland
-30160,Malaysia,Q833,Malaysia,https://en.wikipedia.org/wiki/Malaysia,http://dbpedia.org/resource/Malaysia
 38179,Kenya,Q114,Kenya,https://en.wikipedia.org/wiki/Kenya,http://dbpedia.org/resource/Kenya
-37564,Cabo Verde,Q1011,Cape Verde,https://en.wikipedia.org/wiki/Cape_Verde,http://dbpedia.org/resource/Cape_Verde
-38222,Zambia,Q953,Zambia,https://en.wikipedia.org/wiki/Zambia,http://dbpedia.org/resource/Zambia
-29600,Cuba,Q241,Cuba,https://en.wikipedia.org/wiki/Cuba,http://dbpedia.org/resource/Cuba
-39575,Gruzia,Q230,Georgia (country),https://en.wikipedia.org/wiki/Georgia_(country),http://dbpedia.org/resource/Georgia_(country)
-38772,Croatia,Q224,Croatia,https://en.wikipedia.org/wiki/Croatia,http://dbpedia.org/resource/Croatia
+37520,Ethiopia,Q115,Ethiopia,https://en.wikipedia.org/wiki/Ethiopia,http://dbpedia.org/resource/Ethiopia
+27737,Ghana,Q117,Ghana,https://en.wikipedia.org/wiki/Ghana,http://dbpedia.org/resource/Ghana
+2860,Pháp,Q142,France,https://en.wikipedia.org/wiki/France,http://dbpedia.org/resource/France
+577821,Vương quốc Liên hiệp Anh và Bắc Ireland,Q145,United Kingdom,https://en.wikipedia.org/wiki/United_Kingdom,http://dbpedia.org/resource/United_Kingdom
+1529,Trung Quốc,Q148,China,https://en.wikipedia.org/wiki/China,http://dbpedia.org/resource/China
 27667,Brasil,Q155,Brazil,https://en.wikipedia.org/wiki/Brazil,http://dbpedia.org/resource/Brazil
-45377,Tunisia,Q948,Tunisia,https://en.wikipedia.org/wiki/Tunisia,http://dbpedia.org/resource/Tunisia
-37121,Sudan,Q1049,Sudan,https://en.wikipedia.org/wiki/Sudan,http://dbpedia.org/resource/Sudan
-49103,Đài Loan,Q865,Taiwan,https://en.wikipedia.org/wiki/Taiwan,http://dbpedia.org/resource/Taiwan
-38325,Grenada,Q769,Grenada,https://en.wikipedia.org/wiki/Grenada,http://dbpedia.org/resource/Grenada
-51249,Sénégal,Q1041,Senegal,https://en.wikipedia.org/wiki/Senegal,http://dbpedia.org/resource/Senegal
-71,Iraq,Q796,Iraq,https://en.wikipedia.org/wiki/Iraq,http://dbpedia.org/resource/Iraq
+856,Nga,Q159,Russia,https://en.wikipedia.org/wiki/Russia,http://dbpedia.org/resource/Russia
+797,Canada,Q16,Canada,https://en.wikipedia.org/wiki/Canada,http://dbpedia.org/resource/Canada
+362397,Nhật Bản,Q17,Japan,https://en.wikipedia.org/wiki/Japan,http://dbpedia.org/resource/Japan
+741,Đức,Q183,Germany,https://en.wikipedia.org/wiki/Germany,http://dbpedia.org/resource/Germany
+28053,Belarus,Q184,Belarus,https://en.wikipedia.org/wiki/Belarus,http://dbpedia.org/resource/Belarus
+38776,Iceland,Q189,Iceland,https://en.wikipedia.org/wiki/Iceland,http://dbpedia.org/resource/Iceland
+10699,Estonia,Q191,Estonia,https://en.wikipedia.org/wiki/Estonia,http://dbpedia.org/resource/Estonia
+16790,Na Uy,Q20,Norway,https://en.wikipedia.org/wiki/Norway,http://dbpedia.org/resource/Norway
+10698,Latvia,Q211,Latvia,https://en.wikipedia.org/wiki/Latvia,http://dbpedia.org/resource/Latvia
+25197,Ukraina,Q212,Ukraine,https://en.wikipedia.org/wiki/Ukraine,http://dbpedia.org/resource/Ukraine
+4119,Séc,Q213,Czech Republic,https://en.wikipedia.org/wiki/Czech_Republic,http://dbpedia.org/resource/Czech_Republic
+5320,Slovakia,Q214,Slovakia,https://en.wikipedia.org/wiki/Slovakia,http://dbpedia.org/resource/Slovakia
+89842,Slovenia,Q215,Slovenia,https://en.wikipedia.org/wiki/Slovenia,http://dbpedia.org/resource/Slovenia
+93918,Moldova,Q217,Moldova,https://en.wikipedia.org/wiki/Moldova,http://dbpedia.org/resource/Moldova
+63966,România,Q218,Romania,https://en.wikipedia.org/wiki/Romania,http://dbpedia.org/resource/Romania
+38771,Bulgaria,Q219,Bulgaria,https://en.wikipedia.org/wiki/Bulgaria,http://dbpedia.org/resource/Bulgaria
+96096,Bắc Macedonia,Q221,North Macedonia,https://en.wikipedia.org/wiki/North_Macedonia,http://dbpedia.org/resource/North_Macedonia
+39312,Albania,Q222,Albania,https://en.wikipedia.org/wiki/Albania,http://dbpedia.org/resource/Albania
+38772,Croatia,Q224,Croatia,https://en.wikipedia.org/wiki/Croatia,http://dbpedia.org/resource/Croatia
+38767,Bosna và Hercegovina,Q225,Bosnia and Herzegovina,https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina,http://dbpedia.org/resource/Bosnia_and_Herzegovina
+38762,Azerbaijan,Q227,Azerbaijan,https://en.wikipedia.org/wiki/Azerbaijan,http://dbpedia.org/resource/Azerbaijan
+96100,Andorra,Q228,Andorra,https://en.wikipedia.org/wiki/Andorra,http://dbpedia.org/resource/Andorra
+38765,Síp,Q229,Cyprus,https://en.wikipedia.org/wiki/Cyprus,http://dbpedia.org/resource/Cyprus
+39575,Gruzia,Q230,Georgia (country),https://en.wikipedia.org/wiki/Georgia_(country),http://dbpedia.org/resource/Georgia_(country)
+39589,Kazakhstan,Q232,Kazakhstan,https://en.wikipedia.org/wiki/Kazakhstan,http://dbpedia.org/resource/Kazakhstan
+40918,Malta,Q233,Malta,https://en.wikipedia.org/wiki/Malta,http://dbpedia.org/resource/Malta
+73204,Monaco,Q235,Monaco,https://en.wikipedia.org/wiki/Monaco,http://dbpedia.org/resource/Monaco
+56099,Montenegro,Q236,Montenegro,https://en.wikipedia.org/wiki/Montenegro,http://dbpedia.org/resource/Montenegro
+15891,Thành Vatican,Q237,Vatican City,https://en.wikipedia.org/wiki/Vatican_City,http://dbpedia.org/resource/Vatican_City
+25823,San Marino,Q238,San Marino,https://en.wikipedia.org/wiki/San_Marino,http://dbpedia.org/resource/San_Marino
+29600,Cuba,Q241,Cuba,https://en.wikipedia.org/wiki/Cuba,http://dbpedia.org/resource/Cuba
+92637,Belize,Q242,Belize,https://en.wikipedia.org/wiki/Belize,http://dbpedia.org/resource/Belize
+54914,Barbados,Q244,Barbados,https://en.wikipedia.org/wiki/Barbados,http://dbpedia.org/resource/Barbados
+24175,Indonesia,Q252,Indonesia,https://en.wikipedia.org/wiki/Indonesia,http://dbpedia.org/resource/Indonesia
+23315,Cộng hòa Ireland,Q27,Republic of Ireland,https://en.wikipedia.org/wiki/Republic_of_Ireland,http://dbpedia.org/resource/Republic_of_Ireland
+33743,Hungary,Q28,Hungary,https://en.wikipedia.org/wiki/Hungary,http://dbpedia.org/resource/Hungary
+12586,Tây Ban Nha,Q29,Spain,https://en.wikipedia.org/wiki/Spain,http://dbpedia.org/resource/Spain
+57,Hoa Kỳ,Q30,United States,https://en.wikipedia.org/wiki/United_States,http://dbpedia.org/resource/United_States
+1351,Bỉ,Q31,Belgium,https://en.wikipedia.org/wiki/Belgium,http://dbpedia.org/resource/Belgium
+30751,Luxembourg,Q32,Luxembourg,https://en.wikipedia.org/wiki/Luxembourg,http://dbpedia.org/resource/Luxembourg
+25437,Phần Lan,Q33,Finland,https://en.wikipedia.org/wiki/Finland,http://dbpedia.org/resource/Finland
+33,Thụy Điển,Q34,Sweden,https://en.wikipedia.org/wiki/Sweden,http://dbpedia.org/resource/Sweden
+14921,Đan Mạch,Q35,Denmark,https://en.wikipedia.org/wiki/Denmark,http://dbpedia.org/resource/Denmark
+32562,Ba Lan,Q36,Poland,https://en.wikipedia.org/wiki/Poland,http://dbpedia.org/resource/Poland
+10697,Litva,Q37,Lithuania,https://en.wikipedia.org/wiki/Lithuania,http://dbpedia.org/resource/Lithuania
+25196,Ý,Q38,Italy,https://en.wikipedia.org/wiki/Italy,http://dbpedia.org/resource/Italy
+5185,Thụy Sĩ,Q39,Switzerland,https://en.wikipedia.org/wiki/Switzerland,http://dbpedia.org/resource/Switzerland
+2819,Áo,Q40,Austria,https://en.wikipedia.org/wiki/Austria,http://dbpedia.org/resource/Austria
+13605,Hy Lạp,Q41,Greece,https://en.wikipedia.org/wiki/Greece,http://dbpedia.org/resource/Greece
+39567,Thổ Nhĩ Kỳ,Q43,Turkey,https://en.wikipedia.org/wiki/Turkey,http://dbpedia.org/resource/Turkey
+8773,Bồ Đào Nha,Q45,Portugal,https://en.wikipedia.org/wiki/Portugal,http://dbpedia.org/resource/Portugal
 2093,Hà Lan,Q55,Netherlands,https://en.wikipedia.org/wiki/Netherlands,http://dbpedia.org/resource/Netherlands
+38303,Uruguay,Q77,Uruguay,https://en.wikipedia.org/wiki/Uruguay,http://dbpedia.org/resource/Uruguay
+26186,Ai Cập,Q79,Egypt,https://en.wikipedia.org/wiki/Egypt,http://dbpedia.org/resource/Egypt
+8685,México,Q96,Mexico,https://en.wikipedia.org/wiki/Mexico,http://dbpedia.org/resource/Mexico
+348832,Nhà nước Palestine,Q219060,Palestine,https://en.wikipedia.org/wiki/Palestine,http://dbpedia.org/resource/Palestine
+38172,Gabon,Q1000,Gabon,https://en.wikipedia.org/wiki/Gabon,http://dbpedia.org/resource/Gabon
+38173,Gambia,Q1005,The Gambia,https://en.wikipedia.org/wiki/The_Gambia,http://dbpedia.org/resource/The_Gambia
+36696,Guinée,Q1006,Guinea,https://en.wikipedia.org/wiki/Guinea,http://dbpedia.org/resource/Guinea
+38174,Guiné-Bissau,Q1007,Guinea-Bissau,https://en.wikipedia.org/wiki/Guinea-Bissau,http://dbpedia.org/resource/Guinea-Bissau
+29821,Bờ Biển Ngà,Q1008,Ivory Coast,https://en.wikipedia.org/wiki/Ivory_Coast,http://dbpedia.org/resource/Ivory_Coast
+37565,Cameroon,Q1009,Cameroon,https://en.wikipedia.org/wiki/Cameroon,http://dbpedia.org/resource/Cameroon
+37564,Cabo Verde,Q1011,Cape Verde,https://en.wikipedia.org/wiki/Cape_Verde,http://dbpedia.org/resource/Cape_Verde
+38181,Lesotho,Q1013,Lesotho,https://en.wikipedia.org/wiki/Lesotho,http://dbpedia.org/resource/Lesotho
+35835,Liberia,Q1014,Liberia,https://en.wikipedia.org/wiki/Liberia,http://dbpedia.org/resource/Liberia
+38184,Libya,Q1016,Libya,https://en.wikipedia.org/wiki/Libya,http://dbpedia.org/resource/Libya
+38186,Madagascar,Q1019,Madagascar,https://en.wikipedia.org/wiki/Madagascar,http://dbpedia.org/resource/Madagascar
+38199,Malawi,Q1020,Malawi,https://en.wikipedia.org/wiki/Malawi,http://dbpedia.org/resource/Malawi
+38202,Mauritanie,Q1025,Mauritania,https://en.wikipedia.org/wiki/Mauritania,http://dbpedia.org/resource/Mauritania
+30948,Mauritius,Q1027,Mauritius,https://en.wikipedia.org/wiki/Mauritius,http://dbpedia.org/resource/Mauritius
+38200,Maroc,Q1028,Morocco,https://en.wikipedia.org/wiki/Morocco,http://dbpedia.org/resource/Morocco
+38205,Mozambique,Q1029,Mozambique,https://en.wikipedia.org/wiki/Mozambique,http://dbpedia.org/resource/Mozambique
+38206,Namibia,Q1030,Namibia,https://en.wikipedia.org/wiki/Namibia,http://dbpedia.org/resource/Namibia
+35862,Niger,Q1032,Niger,https://en.wikipedia.org/wiki/Niger,http://dbpedia.org/resource/Niger
+35825,Nigeria,Q1033,Nigeria,https://en.wikipedia.org/wiki/Nigeria,http://dbpedia.org/resource/Nigeria
+38220,Uganda,Q1036,Uganda,https://en.wikipedia.org/wiki/Uganda,http://dbpedia.org/resource/Uganda
+38207,Rwanda,Q1037,Rwanda,https://en.wikipedia.org/wiki/Rwanda,http://dbpedia.org/resource/Rwanda
+38212,São Tomé và Príncipe,Q1039,São Tomé and Príncipe,https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe,http://dbpedia.org/resource/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe
+51249,Sénégal,Q1041,Senegal,https://en.wikipedia.org/wiki/Senegal,http://dbpedia.org/resource/Senegal
+120973,Seychelles,Q1042,Seychelles,https://en.wikipedia.org/wiki/Seychelles,http://dbpedia.org/resource/Seychelles
+35843,Sierra Leone,Q1044,Sierra Leone,https://en.wikipedia.org/wiki/Sierra_Leone,http://dbpedia.org/resource/Sierra_Leone
+38215,Somalia,Q1045,Somalia,https://en.wikipedia.org/wiki/Somalia,http://dbpedia.org/resource/Somalia
+37121,Sudan,Q1049,Sudan,https://en.wikipedia.org/wiki/Sudan,http://dbpedia.org/resource/Sudan
+38216,Eswatini,Q1050,Eswatini,https://en.wikipedia.org/wiki/Eswatini,http://dbpedia.org/resource/Eswatini
+143481,Kosovo,Q1246,Kosovo,https://en.wikipedia.org/wiki/Kosovo,http://dbpedia.org/resource/Kosovo
+17669,Cộng hòa Nam Phi,Q258,South Africa,https://en.wikipedia.org/wiki/South_Africa,http://dbpedia.org/resource/South_Africa
+37558,Algérie,Q262,Algeria,https://en.wikipedia.org/wiki/Algeria,http://dbpedia.org/resource/Algeria
+39600,Uzbekistan,Q265,Uzbekistan,https://en.wikipedia.org/wiki/Uzbekistan,http://dbpedia.org/resource/Uzbekistan
+38294,Chile,Q298,Chile,https://en.wikipedia.org/wiki/Chile,http://dbpedia.org/resource/Chile
+24477,Singapore,Q334,Singapore,https://en.wikipedia.org/wiki/Singapore,http://dbpedia.org/resource/Singapore
+42756,Liechtenstein,Q347,Liechtenstein,https://en.wikipedia.org/wiki/Liechtenstein,http://dbpedia.org/resource/Liechtenstein
+41492,Bahrain,Q398,Bahrain,https://en.wikipedia.org/wiki/Bahrain,http://dbpedia.org/resource/Bahrain
+39578,Armenia,Q399,Armenia,https://en.wikipedia.org/wiki/Armenia,http://dbpedia.org/resource/Armenia
+87980,Serbia,Q403,Serbia,https://en.wikipedia.org/wiki/Serbia,http://dbpedia.org/resource/Serbia
+2849,Úc,Q408,Australia,https://en.wikipedia.org/wiki/Australia,http://dbpedia.org/resource/Australia
+27668,Argentina,Q414,Argentina,https://en.wikipedia.org/wiki/Argentina,http://dbpedia.org/resource/Argentina
+27738,Perú,Q419,Peru,https://en.wikipedia.org/wiki/Peru,http://dbpedia.org/resource/Peru
+372816,Cộng hòa Dân chủ Nhân dân Triều Tiên,Q423,North Korea,https://en.wikipedia.org/wiki/North_Korea,http://dbpedia.org/resource/North_Korea
+81,Campuchia,Q424,Cambodia,https://en.wikipedia.org/wiki/Cambodia,http://dbpedia.org/resource/Cambodia
+36002,Đông Timor,Q574,Timor-Leste,https://en.wikipedia.org/wiki/Timor-Leste,http://dbpedia.org/resource/Timor-Leste
+36911,Tchad,Q657,Chad,https://en.wikipedia.org/wiki/Chad,http://dbpedia.org/resource/Chad
+27736,New Zealand,Q664,New Zealand,https://en.wikipedia.org/wiki/New_Zealand,http://dbpedia.org/resource/New_Zealand
+6323,Ấn Độ,Q668,India,https://en.wikipedia.org/wiki/India,http://dbpedia.org/resource/India
+128575,Tuvalu,Q672,Tuvalu,https://en.wikipedia.org/wiki/Tuvalu,http://dbpedia.org/resource/Tuvalu
+56760,Tonga,Q678,Tonga,https://en.wikipedia.org/wiki/Tonga,http://dbpedia.org/resource/Tonga
+133274,Samoa,Q683,Samoa,https://en.wikipedia.org/wiki/Samoa,http://dbpedia.org/resource/Samoa
+139860,Quần đảo Solomon,Q685,Solomon Islands,https://en.wikipedia.org/wiki/Solomon_Islands,http://dbpedia.org/resource/Solomon_Islands
+42299,Vanuatu,Q686,Vanuatu,https://en.wikipedia.org/wiki/Vanuatu,http://dbpedia.org/resource/Vanuatu
+48219,Papua New Guinea,Q691,Papua New Guinea,https://en.wikipedia.org/wiki/Papua_New_Guinea,http://dbpedia.org/resource/Papua_New_Guinea
+132698,Palau,Q695,Palau,https://en.wikipedia.org/wiki/Palau,http://dbpedia.org/resource/Palau
+46247,Nauru,Q697,Nauru,https://en.wikipedia.org/wiki/Nauru,http://dbpedia.org/resource/Nauru
+131067,Liên bang Micronesia,Q702,Federated States of Micronesia,https://en.wikipedia.org/wiki/Federated_States_of_Micronesia,http://dbpedia.org/resource/Federated_States_of_Micronesia
+135867,Quần đảo Marshall,Q709,Marshall Islands,https://en.wikipedia.org/wiki/Marshall_Islands,http://dbpedia.org/resource/Marshall_Islands
+39608,Kiribati,Q710,Kiribati,https://en.wikipedia.org/wiki/Kiribati,http://dbpedia.org/resource/Kiribati
+29500,Mông Cổ,Q711,Mongolia,https://en.wikipedia.org/wiki/Mongolia,http://dbpedia.org/resource/Mongolia
+39605,Fiji,Q712,Fiji,https://en.wikipedia.org/wiki/Fiji,http://dbpedia.org/resource/Fiji
+38304,Venezuela,Q717,Venezuela,https://en.wikipedia.org/wiki/Venezuela,http://dbpedia.org/resource/Venezuela
+38302,Suriname,Q730,Suriname,https://en.wikipedia.org/wiki/Suriname,http://dbpedia.org/resource/Suriname
+38301,Paraguay,Q733,Paraguay,https://en.wikipedia.org/wiki/Paraguay,http://dbpedia.org/resource/Paraguay
+38298,Guyana,Q734,Guyana,https://en.wikipedia.org/wiki/Guyana,http://dbpedia.org/resource/Guyana
+38297,Ecuador,Q736,Ecuador,https://en.wikipedia.org/wiki/Ecuador,http://dbpedia.org/resource/Ecuador
+38296,Colombia,Q739,Colombia,https://en.wikipedia.org/wiki/Colombia,http://dbpedia.org/resource/Colombia
+38290,Bolivia,Q750,Bolivia,https://en.wikipedia.org/wiki/Bolivia,http://dbpedia.org/resource/Bolivia
+42229,Trinidad và Tobago,Q754,Trinidad and Tobago,https://en.wikipedia.org/wiki/Trinidad_and_Tobago,http://dbpedia.org/resource/Trinidad_and_Tobago
+139754,Saint Vincent và Grenadines,Q757,Saint Vincent and the Grenadines,https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines,http://dbpedia.org/resource/Saint_Vincent_and_the_Grenadines
+135674,Saint Lucia,Q760,Saint Lucia,https://en.wikipedia.org/wiki/Saint_Lucia,http://dbpedia.org/resource/Saint_Lucia
+139934,Saint Kitts và Nevis,Q763,Saint Kitts and Nevis,https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis,http://dbpedia.org/resource/Saint_Kitts_and_Nevis
+38758,Jamaica,Q766,Jamaica,https://en.wikipedia.org/wiki/Jamaica,http://dbpedia.org/resource/Jamaica
+38325,Grenada,Q769,Grenada,https://en.wikipedia.org/wiki/Grenada,http://dbpedia.org/resource/Grenada
+38406,Guatemala,Q774,Guatemala,https://en.wikipedia.org/wiki/Guatemala,http://dbpedia.org/resource/Guatemala
+38308,Bahamas,Q778,The Bahamas,https://en.wikipedia.org/wiki/The_Bahamas,http://dbpedia.org/resource/The_Bahamas
+106126,Antigua và Barbuda,Q781,Antigua and Barbuda,https://en.wikipedia.org/wiki/Antigua_and_Barbuda,http://dbpedia.org/resource/Antigua_and_Barbuda
+38757,Honduras,Q783,Honduras,https://en.wikipedia.org/wiki/Honduras,http://dbpedia.org/resource/Honduras
+38323,Dominica,Q784,Dominica,https://en.wikipedia.org/wiki/Dominica,http://dbpedia.org/resource/Dominica
+38324,Cộng hòa Dominica,Q786,Dominican Republic,https://en.wikipedia.org/wiki/Dominican_Republic,http://dbpedia.org/resource/Dominican_Republic
+38422,Haiti,Q790,Haiti,https://en.wikipedia.org/wiki/Haiti,http://dbpedia.org/resource/Haiti
+38320,El Salvador,Q792,El Salvador,https://en.wikipedia.org/wiki/El_Salvador,http://dbpedia.org/resource/El_Salvador
+36688,Iran,Q794,Iran,https://en.wikipedia.org/wiki/Iran,http://dbpedia.org/resource/Iran
+71,Iraq,Q796,Iraq,https://en.wikipedia.org/wiki/Iraq,http://dbpedia.org/resource/Iraq
+38317,Costa Rica,Q800,Costa Rica,https://en.wikipedia.org/wiki/Costa_Rica,http://dbpedia.org/resource/Costa_Rica
+3723,Israel,Q801,Israel,https://en.wikipedia.org/wiki/Israel,http://dbpedia.org/resource/Israel
+38299,Panamá,Q804,Panama,https://en.wikipedia.org/wiki/Panama,http://dbpedia.org/resource/Panama
+39568,Yemen,Q805,Yemen,https://en.wikipedia.org/wiki/Yemen,http://dbpedia.org/resource/Yemen
+39559,Jordan,Q810,Jordan,https://en.wikipedia.org/wiki/Jordan,http://dbpedia.org/resource/Jordan
+38761,Nicaragua,Q811,Nicaragua,https://en.wikipedia.org/wiki/Nicaragua,http://dbpedia.org/resource/Nicaragua
+39591,Kyrgyzstan,Q813,Kyrgyzstan,https://en.wikipedia.org/wiki/Kyrgyzstan,http://dbpedia.org/resource/Kyrgyzstan
+39560,Kuwait,Q817,Kuwait,https://en.wikipedia.org/wiki/Kuwait,http://dbpedia.org/resource/Kuwait
+56,Lào,Q819,Laos,https://en.wikipedia.org/wiki/Laos,http://dbpedia.org/resource/Laos
+39555,Liban,Q822,Lebanon,https://en.wikipedia.org/wiki/Lebanon,http://dbpedia.org/resource/Lebanon
+39585,Maldives,Q826,Maldives,https://en.wikipedia.org/wiki/Maldives,http://dbpedia.org/resource/Maldives
+30160,Malaysia,Q833,Malaysia,https://en.wikipedia.org/wiki/Malaysia,http://dbpedia.org/resource/Malaysia
+24176,Myanmar,Q836,Myanmar,https://en.wikipedia.org/wiki/Myanmar,http://dbpedia.org/resource/Myanmar
+36776,Nepal,Q837,Nepal,https://en.wikipedia.org/wiki/Nepal,http://dbpedia.org/resource/Nepal
+39561,Oman,Q842,Oman,https://en.wikipedia.org/wiki/Oman,http://dbpedia.org/resource/Oman
+3724,Pakistan,Q843,Pakistan,https://en.wikipedia.org/wiki/Pakistan,http://dbpedia.org/resource/Pakistan
+39562,Qatar,Q846,Qatar,https://en.wikipedia.org/wiki/Qatar,http://dbpedia.org/resource/Qatar
+28157,Ả Rập Xê Út,Q851,Saudi Arabia,https://en.wikipedia.org/wiki/Saudi_Arabia,http://dbpedia.org/resource/Saudi_Arabia
+39586,Sri Lanka,Q854,Sri Lanka,https://en.wikipedia.org/wiki/Sri_Lanka,http://dbpedia.org/resource/Sri_Lanka
+39564,Syria,Q858,Syria,https://en.wikipedia.org/wiki/Syria,http://dbpedia.org/resource/Syria
+39596,Tajikistan,Q863,Tajikistan,https://en.wikipedia.org/wiki/Tajikistan,http://dbpedia.org/resource/Tajikistan
+49103,Đài Loan,Q865,Taiwan,https://en.wikipedia.org/wiki/Taiwan,http://dbpedia.org/resource/Taiwan
+4862,Thái Lan,Q869,Thailand,https://en.wikipedia.org/wiki/Thailand,http://dbpedia.org/resource/Thailand
+39598,Turkmenistan,Q874,Turkmenistan,https://en.wikipedia.org/wiki/Turkmenistan,http://dbpedia.org/resource/Turkmenistan
+41662,Các Tiểu vương quốc Ả Rập Thống nhất,Q878,United Arab Emirates,https://en.wikipedia.org/wiki/United_Arab_Emirates,http://dbpedia.org/resource/United_Arab_Emirates
+151863,Việt Nam,Q881,Vietnam,https://en.wikipedia.org/wiki/Vietnam,http://dbpedia.org/resource/Vietnam
+15383,Hàn Quốc,Q884,South Korea,https://en.wikipedia.org/wiki/South_Korea,http://dbpedia.org/resource/South_Korea
+6719,Afghanistan,Q889,Afghanistan,https://en.wikipedia.org/wiki/Afghanistan,http://dbpedia.org/resource/Afghanistan
+39580,Bangladesh,Q902,Bangladesh,https://en.wikipedia.org/wiki/Bangladesh,http://dbpedia.org/resource/Bangladesh
+29921,Mali,Q912,Mali,https://en.wikipedia.org/wiki/Mali,http://dbpedia.org/resource/Mali
+6267,Angola,Q916,Angola,https://en.wikipedia.org/wiki/Angola,http://dbpedia.org/resource/Angola
+36792,Bhutan,Q917,Bhutan,https://en.wikipedia.org/wiki/Bhutan,http://dbpedia.org/resource/Bhutan
+38039,Brunei,Q921,Brunei,https://en.wikipedia.org/wiki/Brunei,http://dbpedia.org/resource/Brunei
+29498,Tanzania,Q924,Tanzania,https://en.wikipedia.org/wiki/Tanzania,http://dbpedia.org/resource/Tanzania
+35811,Philippines,Q928,Philippines,https://en.wikipedia.org/wiki/Philippines,http://dbpedia.org/resource/Philippines
+38219,Cộng hòa Trung Phi,Q929,Central African Republic,https://en.wikipedia.org/wiki/Central_African_Republic,http://dbpedia.org/resource/Central_African_Republic
+45476,Togo,Q945,Togo,https://en.wikipedia.org/wiki/Togo,http://dbpedia.org/resource/Togo
+45377,Tunisia,Q948,Tunisia,https://en.wikipedia.org/wiki/Tunisia,http://dbpedia.org/resource/Tunisia
+38222,Zambia,Q953,Zambia,https://en.wikipedia.org/wiki/Zambia,http://dbpedia.org/resource/Zambia
+92303,Zimbabwe,Q954,Zimbabwe,https://en.wikipedia.org/wiki/Zimbabwe,http://dbpedia.org/resource/Zimbabwe
+588637,Nam Sudan,Q958,South Sudan,https://en.wikipedia.org/wiki/South_Sudan,http://dbpedia.org/resource/South_Sudan
+37560,Bénin,Q962,Benin,https://en.wikipedia.org/wiki/Benin,http://dbpedia.org/resource/Benin
+37561,Botswana,Q963,Botswana,https://en.wikipedia.org/wiki/Botswana,http://dbpedia.org/resource/Botswana
+36702,Burkina Faso,Q965,Burkina Faso,https://en.wikipedia.org/wiki/Burkina_Faso,http://dbpedia.org/resource/Burkina_Faso
+37563,Burundi,Q967,Burundi,https://en.wikipedia.org/wiki/Burundi,http://dbpedia.org/resource/Burundi
+37566,Comoros,Q970,Comoros,https://en.wikipedia.org/wiki/Comoros,http://dbpedia.org/resource/Comoros
+37567,Cộng hòa Congo,Q971,Republic of the Congo,https://en.wikipedia.org/wiki/Republic_of_the_Congo,http://dbpedia.org/resource/Republic_of_the_Congo
+37568,Cộng hòa Dân chủ Congo,Q974,Democratic Republic of the Congo,https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo,http://dbpedia.org/resource/Democratic_Republic_of_the_Congo
+38170,Djibouti,Q977,Djibouti,https://en.wikipedia.org/wiki/Djibouti,http://dbpedia.org/resource/Djibouti
+38176,Guinea Xích Đạo,Q983,Equatorial Guinea,https://en.wikipedia.org/wiki/Equatorial_Guinea,http://dbpedia.org/resource/Equatorial_Guinea
+38171,Eritrea,Q986,Eritrea,https://en.wikipedia.org/wiki/Eritrea,http://dbpedia.org/resource/Eritrea

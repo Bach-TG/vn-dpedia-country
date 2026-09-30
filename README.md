@@ -21,14 +21,16 @@ uv run ruff format --check .
 
 ## Pipeline and commands
 
-Discovery → collection → **raw** API JSON → infobox inspection/extraction →
+Discovery universe → candidate audit → scope decisions → approved countries →
+collection → **raw** API JSON → infobox inspection/extraction →
 **interim** values and parse statuses → normalization → **processed** canonical
 JSON/inspection CSV → validation → quality reports.
 
 ```sh
 uv run vi-dbpedia-data reference                 # five fixed titles, small network run
 uv run vi-dbpedia-data discover                  # candidate list, includes provenance
-uv run vi-dbpedia-data collect --limit 20        # first 20 candidates; --force refreshes cache
+uv run vi-dbpedia-data scope                     # offline: policy decisions + approved list
+uv run vi-dbpedia-data collect --limit 20        # first 20 approved; --force refreshes cache
 uv run vi-dbpedia-data inspect                   # last collection selection
 uv run vi-dbpedia-data inspect --reference-only  # cached reference set, even after another collect
 uv run vi-dbpedia-data inspect --all             # all cached raw pages, across runs
@@ -49,7 +51,10 @@ candidates selected from a stable sort with seed 42. Pilot first fetches the
 five references to cross-check redirected titles/QIDs before sampling the other
 15, avoiding the same known country twice. Individual failed collections
 appear in the manifest and validation; the pipeline continues. `collect --limit`
-uses candidate-file order, while `pilot` is sampled. `process` and default
+uses approved candidates in discovery-file order, while `pilot` samples the
+approved list after the reference QIDs have been cross-checked. `full`
+recomputes scope after discovery and collects **only approved candidates**.
+`process` and default
 `inspect` operate on the **most recent collection manifest**, not on unrelated
 cached raw pages (`inspect --all` explicitly inspects all cached pages). Run
 `collect` again before reprocessing a different selection. `--force` explicitly
@@ -60,6 +65,7 @@ refreshes raw pages; otherwise valid cached files are not overwritten.
 | Layer | Path | Contents |
 | --- | --- | --- |
 | Candidate | `data/candidates/countries.json`, `.csv` | QID, vi title/URL, English discovery *hint*, query provenance, optional Wikidata P31 type QIDs, deduplication conflicts |
+| Scope | `data/candidates/scope_decisions.csv`, `approved_countries.csv` | One decision per discovered candidate, and the subset approved for collection |
 | Raw | `data/raw/pages/<page_id>.json` | API extract and wikitext, final title/redirect, revision, pageprops QID, **vi Wikipedia English interlanguage link**, timestamp |
 | Manifest | `data/raw/collection_manifest.csv` | Attempt/skip/failure per requested title, including collisions/redirects |
 | Interim | `data/interim/extracted.jsonl` | Source infobox values, all source occurrences/colliding normalized keys, mapped raw values, field statuses/reasons/errors |
@@ -82,6 +88,47 @@ Vietnamese Wikipedia link target where present and is the preferred identity
 input for Member 2. `resource_ref_quality.csv` lists both values without
 guessing a target when `wiki_title` is null. `summary.json` includes its total,
 with-title/without-title counts and percentage.
+ResourceRef text decodes HTML entities (including `&nbsp;`) to ordinary Unicode
+spaces. File/Image/Tập tin/Hình namespaces are excluded even when whitespace
+appears before the colon. Currency-sign links and symbol-only labels are
+annotations, not additional currencies; parenthetical status links are not
+extra capitals; and links after an explicit language-location clause are not
+extra official languages. An immediately trailing parenthetical language link
+without a list separator is also treated as a qualifier, not a second official
+language. These filters preserve legitimate multi-value lists.
+
+### Safe markup and conservative interpretation
+
+`markup.py` applies an allowlisted, AST-based cleanup of reference/note tags,
+comments, File/Image links, coordinates, child infoboxes and decorative
+templates. It unwraps `nowrap` and reads only direct items of known `ubl`,
+`unbulleted list`, `plainlist`/`plain list`, `flatlist` and `hlist` templates.
+Nested links inside notes and unknown templates are **not** promoted to facts.
+Clear unlinked list items may have `wiki_title: null`; unresolved parser
+functions such as `{{#property:p38}}` are not evaluated. Superscript footnotes
+and basic currency symbols/dialling-code presentation can be removed safely;
+calling-code output keeps an explicit `+`, using `+1-758` for an unambiguous
+NANP-style `1 758`. A code explicitly written `+7-6xx` retains its wildcard
+instead of pretending to be a complete code.
+
+Scalar alternatives separated by `<br>` and number ranges stay `ambiguous`;
+legal-status distinctions such as “none de jure / some de facto” do not become
+an ordinary flat official-language or currency list. Template-only population
+expressions with no literal number remain `parse_failed` with raw provenance.
+Neither article prose nor Wikidata is used as a factual fallback.
+
+`sanity_issues.csv` flags suspect **processed** numbers, repeated/empty
+ResourceRefs, unresolved markup, File targets, and malformed/wildcard calling
+codes without modifying records or making an issue automatically invalid.
+It also flags pixel-size labels, currency-sign targets, status-like capital
+targets, detectable geographic language-scope links and unresolved HTML entities.
+For area QA, an unambiguous country-qualified km² figure in the abstract may
+flag an approximately thousandfold discrepancy; it is **never** used to fill
+or correct the infobox value. Different area definitions may coexist, so the
+flag requires an explicit area statement near the article title and remains a
+manual review signal.
+`summary.json` counts issues by category, field statuses, and parse failures by
+canonical field. Magnitude flags are review prompts, not automatic corrections.
 
 Each infobox domain field in interim `parse_status` is **present** (normalized
 value), **explicit_none** (source explicitly says none; canonical `[]`/`null`),
@@ -110,9 +157,16 @@ status/reason and source presence: `explicit_none` is not labeled source-missing
 templates in the article) from `selected_infobox_parameter_count` (the chosen
 country infobox's parameters). `normalized_key_collisions.csv` lists repeated
 normalized infobox keys and their original source occurrences for inspection.
-Numeric interpretation follows Vietnamese
-grouping for three digits after a separator: `41.285` km² means 41,285 km²,
-whereas `744.3` km² is decimal.
+Numeric interpretation follows Vietnamese grouping for three digits after a
+separator: `41.285` km² means 41,285 km², whereas `744.3` km² is decimal.
+For an ambiguous single group such as `2,084`, only an **independent, clearly
+fractional** `area_sq_mi` value from the *same infobox* may disambiguate the
+two scales: `0,805` sq mi supports `2.084` km² rather than `2084` km².
+`config/country_mapping.yaml` declares the square-mile cross-check aliases,
+and interim provenance preserves the actual source key/value. If the companion
+value is itself ambiguous or a differently defined area disagrees with both
+interpretations, the existing grouping convention remains; article abstract
+numbers are not a factual fallback.
 
 Inspect `data/reports/reference_infobox_keys.csv`,
 `data/reports/infobox_templates.csv`, and
@@ -142,6 +196,12 @@ having that template alone does not establish that a page is a country.
 `infobox_templates.csv` records `candidate_template_alias` separately from
 ordinary aliases, heuristics and `not_found`; the current-selection counts also
 appear in `summary.json`.
+Heuristic infobox selection requires actual country-field parameters: a
+zero-parameter navigation template with a country-like name is rejected.
+When malformed markup in a lead infobox prevents whole-page AST recognition,
+the parser can recover a bounded leading template with sufficient configured
+country-key evidence; the method is reported as `recovered_lead_infobox`.
+Unrecoverable pages stay `not_found`, without extracting article prose.
 
 The discovery query
 first uses direct country/sovereign-state classes and, if fewer than 150 results
@@ -157,15 +217,39 @@ candidate list and collection manifest before a full run.
 `candidate_audit.csv` lists every saved candidate's QID, vi/en sitlink hints,
 discovery query/method, inclusion reason, saved `instance_qids` and review
 flags. `candidate_summary.json` totals the candidates, query provenance,
-instance types, missing type evidence and review reasons. The existing pilot's
-candidate file was generated **before** instance QIDs were saved: its audit
-marks exact P31 type as unknown instead of inferring one from the query. A
-later user-run `discover` saves the P31 binding with each candidate for more
-precise auditing. Q6256 (“country”) alone does not prove sovereign-state
+instance types, missing type evidence and review reasons. If an older candidate
+file lacks P31 QIDs, the audit marks its exact type as unknown rather than
+inferring one from the query; current discovery saves the returned bindings.
+Q6256 (“country”) alone does not prove sovereign-state
 status; broad classes, subclass-path candidates, title cues (e.g. regions or
 realms) and conflicts are flagged for **human review**, not deleted or capped
 at 200. Wikidata supplies no population, area, language, capital, currency or
 phone-code facts in this pipeline.
+
+### Dataset scope after discovery
+
+The **discovery universe remains complete** in `countries.json`/`.csv` and
+`candidate_audit.csv`, even when a row is excluded from the final dataset.
+`config/scope_policy.yaml` applies a separate, reproducible selection rule:
+include candidates whose saved **direct P31** contains Q3624078 (sovereign
+state); exclude other Q6256-only candidates by default; mark missing/unclear
+type evidence `review`. `review` rows are not collected until explicitly
+approved. This is a **prototype dataset-scoping convention, not a geopolitical
+recognition judgment**. Audit review flags and scope `review` decisions are
+different: an auditable borderline candidate can have a policy decision.
+
+The documented canonical article substitutions are Q35 (Đan Mạch) for Q756617
+(Vương quốc Đan Mạch), and Q55 (Hà Lan) for Q29999 (Vương quốc Hà Lan). The
+canonical article is included even if it has only Q6256; the corresponding
+realm/kingdom article is excluded even if it has Q3624078. `replacement_for`
+identifies the counterpart QID in both decision rows. Configure deliberate
+manual exceptions under `manual_overrides` in `config/scope_policy.yaml` with
+QID, `include`/`exclude`/`review` and a reason. The generated CSV is a
+**snapshot**, not a hand-maintained override file; rerunning `scope` computes
+it from the current candidate universe and policy without an API request.
+No count of 208 or 197 is encoded. `data/reports/scope_summary.json` records
+counts, the policy and applied/unresolved substitutions. `discover` alone
+does not filter anything; `scope` makes the next dataset decision explicit.
 
 ### Manual link review
 
@@ -183,15 +267,15 @@ against DBpedia existence or approved as a semantic identity assertion.
 `uv.lock`, configuration, reference index and small candidates/processed/reports
 can be committed; large, redownloadable wikitext in `data/raw/pages/`, its
 manifest, and generated interim JSONL are ignored. Regenerate them using
-`reference`, or `discover` → `collect` (or `pilot` / explicit `full`), then
+`reference`, or `discover` → `scope` → `collect` (or `pilot` / explicit `full`), then
 `inspect` → `process` → `validate` → `report`. Published processed data should
 be regenerated after upstream edits; Wikipedia revisions can change over time,
 so `revision_id` and `retrieved_at` capture what was actually retrieved.
 
 Wikipedia infoboxes vary by template, aliases, language, and formatting; some
 fields are absent or ambiguous (especially numerical text, templates and
-units). The reference-informed mapping still requires refinement after
-inspecting pilot keys. Some pages have no English link. Uncertain
+units). Check unfamiliar infobox keys when expanding beyond the pilot. Some
+pages have no English link. Uncertain
 templates/values remain inspectable, not inferred. The full list of current
 sovereign states cannot be guaranteed by a single Wikidata class query; query
 provenance and gaps should be reviewed manually. No RDF, ontology, SPARQL
@@ -204,6 +288,10 @@ Run `uv sync`, `uv run pytest`, `uv run pytest --cov=vi_dbpedia_data
 `uv run ruff format --check .`. To regenerate reports **without a request**
 from the existing raw manifest, run `uv run vi-dbpedia-data inspect`, then
 `uv run vi-dbpedia-data process`, `uv run vi-dbpedia-data validate` and
-`uv run vi-dbpedia-data report`. When ready to fetch/refresh the deterministic
-20-country dataset yourself, run `uv run vi-dbpedia-data pilot`, then inspect
-the new reports and candidate audit before deciding on any full crawl.
+`uv run vi-dbpedia-data report`. Run `uv run vi-dbpedia-data scope` to
+recalculate approval offline from saved discovery, then review the five-column
+decisions CSV, candidate audit, approved CSV and scope summary. Once you
+explicitly decide to crawl the complete set, `uv run vi-dbpedia-data full`
+automatically rediscovers candidates, refreshes the audit and scope, and
+collects only the generated approved CSV. You may run `pilot` again separately
+if you want another 20-country smoke test; it also uses the approved set.

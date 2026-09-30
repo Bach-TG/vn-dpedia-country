@@ -1,6 +1,30 @@
 page_id,title_vi,field,status,reason,source_parameter_present
+2860,Pháp,population_total,source_missing,No configured source parameter in selected infobox,False
+577821,Vương quốc Liên hiệp Anh và Bắc Ireland,official_languages,explicit_none,Source explicitly states there is none,True
+856,Nga,population_total,ambiguous,"Multiple distinct plausible population values: [146028325, 143569049]",True
 362397,Nhật Bản,official_languages,explicit_none,Source explicitly states there is none,True
-24477,Singapore,capital,explicit_none,Source explicitly states there is no official capital,True
-37564,Cabo Verde,calling_codes,source_missing,No configured source parameter in selected infobox,False
+741,Đức,calling_codes,source_missing,No configured source parameter in selected infobox,False
+4119,Séc,currencies,source_missing,No configured source parameter in selected infobox,False
+4119,Séc,official_languages,source_missing,Language type does not clearly assert official status,False
+38767,Bosna và Hercegovina,official_languages,explicit_none,Source explicitly states there is none,True
 39575,Gruzia,population_total,ambiguous,"Multiple distinct plausible population values: [3694608, 4012104]",True
+57,Hoa Kỳ,currencies,parse_failed,Unresolved template or parser-function value in source,True
+33,Thụy Điển,official_languages,ambiguous,de facto language and official minority-language scopes require review,True
+37564,Cabo Verde,calling_codes,source_missing,No configured source parameter in selected infobox,False
+30948,Mauritius,official_languages,ambiguous,de jure absence and de facto languages cannot be one unqualified field,True
+38294,Chile,official_languages,source_missing,Configured source parameter is blank,True
+24477,Singapore,capital,explicit_none,Source explicitly states there is no official capital,True
+2849,Úc,official_languages,explicit_none,Source explicitly states there is none,True
+27668,Argentina,official_languages,ambiguous,de jure absence and de facto languages cannot be one unqualified field,True
+6323,Ấn Độ,population_total,parse_failed,Unresolved template or parser-function value in source,True
+46247,Nauru,capital,explicit_none,Source explicitly states there is no official capital,True
+139754,Saint Vincent và Grenadines,area_km2,source_missing,No configured source parameter in selected infobox,False
+139754,Saint Vincent và Grenadines,currencies,source_missing,No configured source parameter in selected infobox,False
+139934,Saint Kitts và Nevis,population_total,parse_failed,Unresolved template or parser-function value in source,True
+38422,Haiti,official_languages,ambiguous,direct language plus collapsible list has unclear same-field membership,True
+3723,Israel,area_km2,ambiguous,"numeric range has no single canonical value: [20770.0, 22072.0]",True
+39564,Syria,official_languages,source_missing,Language type does not clearly assert official status,False
 49103,Đài Loan,official_languages,source_missing,Language type does not clearly assert official status,False
+92303,Zimbabwe,currencies,ambiguous,separate de jure and de facto currency sections require review,True
+38171,Eritrea,population_total,ambiguous,"numeric range has no single canonical value: [3500000, 6400000]",True
+38171,Eritrea,official_languages,explicit_none,Source explicitly states there is none,True

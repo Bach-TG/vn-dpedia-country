@@ -1,201 +1,4 @@
 country_title,template_name,raw_key,normalized_key,raw_value
-Việt Nam,Hộp thông tin quốc gia, conventional_long_name                ,conventional_long_name," Cộng hòa xã hội chủ nghĩa<br/>Việt Nam<!--LƯU Ý: Không thay đổi câu dẫn thành ""Xã hội"" do [[WP:TEN]]. Cảm ơn.-->
-"
-Việt Nam,Hộp thông tin quốc gia, common_name                ,common_name," Việt Nam
-"
-Việt Nam,Hộp thông tin quốc gia, linking_name                ,linking_name," Việt Nam
-"
-Việt Nam,Hộp thông tin quốc gia, image_flag                ,image_flag," Flag of Vietnam.svg
-"
-Việt Nam,Hộp thông tin quốc gia, image_coat                ,image_coat," Emblem of Vietnam.svg
-"
-Việt Nam,Hộp thông tin quốc gia, national_motto                ,national_motto," <br>""Độc lập – Tự do – Hạnh phúc""
-"
-Việt Nam,Hộp thông tin quốc gia, national_anthem                ,national_anthem," ""[[Tiến quân ca]]""<div class=""center"" style=""margin-top:0.4em;"">
-[[Tập tin:Quoc ca Viet Nam.ogg|242px]]</div>
-"
-Việt Nam,Hộp thông tin quốc gia, image_map                ,image_map," {{Switcher|[[Tập tin:Vietnam (orthographic projection).svg|242px|frameless]]|Hiện Trái Đất|[[Tập tin:Location Vietnam ASEAN.svg|242px|upright=1.15|frameless]]|Hiện bản đồ ASEAN|default=1}}
-"
-Việt Nam,Hộp thông tin quốc gia, map_caption                ,map_caption," {{map caption|location_color=lục|region=[[ASEAN]]|region_color=lục|legend=Location Vietnam ASEAN.svg}}
-"
-Việt Nam,Hộp thông tin quốc gia, capital                ,capital," [[Tập_tin:Logo_Hanoi.png|22px]] [[Hà Nội]]
-"
-Việt Nam,Hộp thông tin quốc gia, coordinates                ,coordinates," {{coord|21|2|N|105|51|E|type:city}}
-"
-Việt Nam,Hộp thông tin quốc gia, largest_city                ,largest_city," [[Tập tin:Biểu trưng của TP HCM.svg|22px]] [[Thành phố Hồ Chí Minh]]
-"
-Việt Nam,Hộp thông tin quốc gia, official_languages                ,official_languages," [[Tiếng Việt]]{{efn|Hiến pháp Việt Nam 2013, điều 5.3<ref>{{chú thích web|url=http://www.chinhphu.vn/portal/page/portal/chinhphu/NuocCHXHCNVietNam/ThongTinTongHop?categoryId=920&articleId=10052990|title=CHƯƠNG I – CHẾ ĐỘ CHÍNH TRỊ – HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM.|last=|first=|date=|website=CỔNG THÔNG TIN ĐIỆN TỬ CHÍNH PHỦ|archive-url=https://web.archive.org/web/20201214155716/http://chinhphu.vn/portal/page/portal/chinhphu/NuocCHXHCNVietNam/ThongTinTongHop?categoryId=920&articleId=10052990|archive-date = ngày 14 tháng 12 năm 2020 |url-status=|access-date=Ngày 10 tháng 9 năm 2019}}</ref>}}
-"
-Việt Nam,Hộp thông tin quốc gia, languages_type                ,languages_type," Ngôn ngữ thiểu số
-"
-Việt Nam,Hộp thông tin quốc gia, languages                ,languages," {{hlist|[[Tiếng Tày|Tày]]|[[Tiếng Thái|Thái]]|[[Tiếng Mường|Mường]]|[[Tiếng Hmong|Hmong]]|[[Tiếng Khmer|Khmer]]|''[[Ngôn ngữ tại Việt Nam|nhiều thứ tiếng khác]]...''}}
-"
-Việt Nam,Hộp thông tin quốc gia, demonym                ,demonym," [[Người Việt Nam]]
-"
-Việt Nam,Hộp thông tin quốc gia, ethnic_groups                ,ethnic_groups," {{vunblist
- | 85,32% [[người Kinh|Kinh]]
- | 1,92% [[người Tày|Tày]]
- | 1,89% [[người Thái|Thái]]
- | 1,51% [[người Mường|Mường]]
- | 1,45% [[người H'Mông|Hmông]]
- | 1,37% [[người Khmer|Khmer]]
- | 6,54% [[Các dân tộc tại Việt Nam|khác]]{{sfn|Tổng cục Thống kê Việt Nam|2019}}}}
-"
-Việt Nam,Hộp thông tin quốc gia, ethnic_groups_year                ,ethnic_groups_year," 2019
-"
-Việt Nam,Hộp thông tin quốc gia, religion                ,religion," {{ublist|73,7% [[không tôn giáo]]/[[Tín ngưỡng dân gian Việt Nam|tín ngưỡng dân gian]] |14,9% [[Phật giáo Việt Nam|Phật giáo]] |8,5% [[Kitô giáo tại Việt Nam|Kitô giáo]] |1,5% [[Phật giáo Hòa Hảo|Hòa Hảo]] |1,2% [[Đạo Cao Đài|Cao Đài]] |0,2% [[Tôn giáo tại Việt Nam|khác]]<ref>{{chú thích web|url=https://www.state.gov/reports/2019-report-on-international-religious-freedom/vietnam/|title=2019 Report on International Religious Freedom: Vietnam|website=[[U.S. Department of State]]}}</ref>{{cần nguồn tốt hơn|t=trích nguồn thống kê của nhà nước ấy}}}}
-"
-Việt Nam,Hộp thông tin quốc gia, religion_year                ,religion_year," 2019
-"
-Việt Nam,Hộp thông tin quốc gia, government_type                ,government_type," [[Nhà nước cộng sản|Nhà nước Marxist-Leninist]] [[nhà nước đơn nhất|đơn nhất]]
-"
-Việt Nam,Hộp thông tin quốc gia, leader_title1                ,leader_title1," [[Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam|Tổng Bí thư]] và [[Chủ tịch nước Việt Nam|Chủ tịch nước]]
-"
-Việt Nam,Hộp thông tin quốc gia, leader_name1                ,leader_name1," [[Tô Lâm]]
-"
-Việt Nam,Hộp thông tin quốc gia, leader_title2                ,leader_title2," [[Thủ tướng Việt Nam|Thủ tướng Chính phủ]]
-"
-Việt Nam,Hộp thông tin quốc gia, leader_name2                ,leader_name2," [[Lê Minh Hưng]]
-"
-Việt Nam,Hộp thông tin quốc gia, leader_title4                ,leader_title4," [[Chủ tịch Quốc hội Việt Nam|Chủ tịch Quốc hội]]
-"
-Việt Nam,Hộp thông tin quốc gia, leader_name4                ,leader_name4," [[Trần Thanh Mẫn]]
-"
-Việt Nam,Hộp thông tin quốc gia, leader_title5                ,leader_title5," [[Thường trực Ban Bí thư Trung ương Đảng Cộng sản Việt Nam|Thường trực Ban Bí thư]]
-"
-Việt Nam,Hộp thông tin quốc gia, leader_name5                ,leader_name5," [[Trần Cẩm Tú]]
-"
-Việt Nam,Hộp thông tin quốc gia, legislature                ,legislature," [[Quốc hội Việt Nam]]
-"
-Việt Nam,Hộp thông tin quốc gia, sovereignty_type                ,sovereignty_type," [[Lịch sử Việt Nam|Thành lập]]
-"
-Việt Nam,Hộp thông tin quốc gia, established_event1                ,established_event1," [[Âu Lạc|Nhà nước đầu tiên được xác nhận]]
-"
-Việt Nam,Hộp thông tin quốc gia, established_date1                ,established_date1," {{khoảng}} 257 TCN
-"
-Việt Nam,Hộp thông tin quốc gia, established_event2                ,established_event2," [[Nhà Ngô|Độc lập khỏi Trung Hoa]]
-"
-Việt Nam,Hộp thông tin quốc gia, established_date2                ,established_date2," 939
-"
-Việt Nam,Hộp thông tin quốc gia, established_event3                ,established_event3," [[Nhà Nguyễn|Thống nhất bởi nhà Nguyễn]]
-"
-Việt Nam,Hộp thông tin quốc gia, established_date3                ,established_date3," 1802
-"
-Việt Nam,Hộp thông tin quốc gia, established_event4                ,established_event4," [[Hòa ước Quý Mùi, 1883|Hiệp ước bảo hộ]]
-"
-Việt Nam,Hộp thông tin quốc gia, established_date4                ,established_date4," 25 tháng 8 năm 1883
-"
-Việt Nam,Hộp thông tin quốc gia, established_event5                ,established_event5," [[Tuyên ngôn độc lập (Việt Nam Dân chủ Cộng hòa)|Tuyên ngôn độc lập]]
-"
-Việt Nam,Hộp thông tin quốc gia, established_date5                ,established_date5," 2 tháng 9 năm 1945
-"
-Việt Nam,Hộp thông tin quốc gia, established_event6                ,established_event6," [[Hiệp định Genève|Chia cắt hai miền]]
-"
-Việt Nam,Hộp thông tin quốc gia, established_date6                ,established_date6," 21 tháng 7 năm 1954
-"
-Việt Nam,Hộp thông tin quốc gia, established_event7                ,established_event7," [[Hiệp định Paris]]
-"
-Việt Nam,Hộp thông tin quốc gia, established_date7                ,established_date7," 27 tháng 1 năm 1973
-"
-Việt Nam,Hộp thông tin quốc gia, established_event8                ,established_event8," [[Sự kiện 30 tháng 4 năm 1975|Kết thúc Chiến tranh Việt Nam]]
-"
-Việt Nam,Hộp thông tin quốc gia, established_date8                ,established_date8," 30 tháng 4 năm 1975
-"
-Việt Nam,Hộp thông tin quốc gia, established_event9                ,established_event9," [[Quốc hội Việt Nam khóa VI|Tái thống nhất]]
-"
-Việt Nam,Hộp thông tin quốc gia, established_date9                ,established_date9," 2 tháng 7 năm 1976
-"
-Việt Nam,Hộp thông tin quốc gia, established_event10                ,established_event10," [[Đổi Mới]]
-"
-Việt Nam,Hộp thông tin quốc gia, established_date10                ,established_date10," 18 tháng 12 năm 1986
-"
-Việt Nam,Hộp thông tin quốc gia, established_event11                ,established_event11," [[Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 2013|Hiến pháp hiện hành]]
-"
-Việt Nam,Hộp thông tin quốc gia, established_date11                ,established_date11," 28 tháng 11 năm 2013
-"
-Việt Nam,Hộp thông tin quốc gia, area_rank                ,area_rank," 66{{efn|theo [[Danh sách quốc gia theo diện tích]]}}
-"
-Việt Nam,Hộp thông tin quốc gia, area_km2                ,area_km2," 331212
-"
-Việt Nam,Hộp thông tin quốc gia, area_sq_mi                ,area_sq_mi," 128565
-"
-Việt Nam,Hộp thông tin quốc gia, area_label2                ,area_label2," Đất liền
-"
-Việt Nam,Hộp thông tin quốc gia, area_data2                ,area_data2," 331.212 [[Kilômét vuông|km{{smallsup|2}}]]<br/>127.882 [[Dặm vuông|mi{{smallsup|2}}]]
-"
-Việt Nam,Hộp thông tin quốc gia, area_footnote                ,area_footnote," <ref name=""area_2022"">{{cite act|index=3048/QĐ-BTNMT|title=Phê duyệt và công bố kết quả thống kê diện tích đất đai năm 2022|language=vi|trans-title=Approval and announcement of land area statistics for 2022|url=https://monre.gov.vn/VanBan/Lists/VanBanChiDao/Attachments/3012/3048-qd-btnmt_Signed.pdf|legislature=[[Bộ Tài nguyên và Môi trường]]|year= 2022|type=Quyết định}}{{Dead link|date=Tháng 4 năm 2024 |bot=InternetArchiveBot |fix-attempted=yes}}</ref>{{efn|Diện tích của Việt Nam được đề cập ở đây dựa trên số liệu thống kê diện tích đất đai do chính phủ Việt Nam cung cấp. Hiện cũng tồn tại các con số thay thế khác. Theo CIA World Factbook, tổng diện tích của Việt Nam là 331.210 ki-lô-mét vuông,<ref name=""Vietnam"">{{Chú thích web |title=Việt Nam |date=17 tháng 1 năm 2024 |work=The World Factbook |url=https://www.cia.gov/the-world-factbook/countries/vietnam/ |access-date=23 tháng 1 năm 2024 |publisher=[[Cơ quan Tình báo Trung ương]]|language=en |archive-date=10 tháng 6 năm 2021 |archive-url=https://web.archive.org/web/20210610173010/https://www.cia.gov/the-world-factbook/countries/vietnam/ |url-status=dead}}</ref> trong khi BBC trích dẫn một phép đo là 331.699 ki-lô-mét vuông.<ref name=""Vietnam country profile"">{{Chú thích web |title=Hồ sơ quốc gia Việt Nam |url=https://www.bbc.com/news/world-asia-pacific-16567315 |website=BBC News |access-date=27 tháng 1 năm 2021 |date=24 tháng 2 năm 2020 |archive-date=28 tháng 5 năm 2020 |archive-url=https://web.archive.org/web/20200528080124/https://www.bbc.com/news/world-asia-pacific-16567315 |url-status=live|language=en}}</ref>}}
-"
-Việt Nam,Hộp thông tin quốc gia, percent_water                ,percent_water," 6,4<ref name=""IndexMundi_Geography_2011"">{{Chú thích web |title=Vietnam Geography Profile 2018 |url=https://www.indexmundi.com/vietnam/geography_profile.html |website=IndexMundi |date=2011-07-12 |access-date=2026-05-13 |archive-url=https://web.archive.org/web/20190119170940/https://www.indexmundi.com/vietnam/geography_profile.html |archive-date=2019-01-19 |url-status=live |language=en}}</ref>
-"
-Việt Nam,Hộp thông tin quốc gia, population_estimate                ,population_estimate," 102.300.000<ref name=""gso-pop"">{{cite report |date=January 2026 |title=Infographic social-economic situation in the 4th quarter and 2025 |url=https://www.nso.gov.vn/en/data-and-statistics/2026/01/infographic-social-economic-situation-in-the-4th-quarter-and-2025/ |publisher=[[Cục Thống kê (Việt Nam)|Cục Thống kê]] |access-date=}}</ref>
-"
-Việt Nam,Hộp thông tin quốc gia, population_estimate_rank                ,population_estimate_rank," 16
-"
-Việt Nam,Hộp thông tin quốc gia, population_estimate_year                ,population_estimate_year," 2025
-"
-Việt Nam,Hộp thông tin quốc gia, population_density_km2                ,population_density_km2," 309
-"
-Việt Nam,Hộp thông tin quốc gia, population_density_sq_mi                ,population_density_sq_mi," 800,3
-"
-Việt Nam,Hộp thông tin quốc gia, GDP_PPP                ,gdp_ppp," {{increase}}
- 2,025 nghìn tỷ đô la Mỹ<ref name=""IMFWEO.VN"" >{{Chú thích web |url=https://data.imf.org/en/Data-Explorer?datasetUrn=IMF.RES:WEO(9.0.0) |title=World Economic Outlook Database (April 2026 Edition) |publisher=[[Quỹ Tiền tệ Quốc tế]] |website=www.imf.org |date=14 April 2026 |access-date=19 April 2026}}</ref>
-"
-Việt Nam,Hộp thông tin quốc gia, GDP_PPP_rank                ,gdp_ppp_rank," 24
-"
-Việt Nam,Hộp thông tin quốc gia, GDP_PPP_year                ,gdp_ppp_year," 2026
-"
-Việt Nam,Hộp thông tin quốc gia, GDP_PPP_per_capita                ,gdp_ppp_per_capita," {{increase}} 19.649 đô la Mỹ<ref name=""IMFWEO.VN""/>
-"
-Việt Nam,Hộp thông tin quốc gia, GDP_PPP_per_capita_rank                ,gdp_ppp_per_capita_rank," 102
-"
-Việt Nam,Hộp thông tin quốc gia, GDP_nominal                ,gdp_nominal," {{increase}} 527,266 tỷ đô la Mỹ<ref name=""IMFWEO.VN""/>
-"
-Việt Nam,Hộp thông tin quốc gia, GDP_nominal_rank                ,gdp_nominal_rank," 33
-"
-Việt Nam,Hộp thông tin quốc gia, GDP_nominal_year                ,gdp_nominal_year," 2025
-"
-Việt Nam,Hộp thông tin quốc gia, GDP_nominal_per_capita                ,gdp_nominal_per_capita," {{increase}} 5.115 đô la Mỹ<ref name=""IMFWEO.VN""/>
-"
-Việt Nam,Hộp thông tin quốc gia, GDP_nominal_per_capita_rank                ,gdp_nominal_per_capita_rank," 121
-"
-Việt Nam,Hộp thông tin quốc gia, Gini                ,gini," 35
-"
-Việt Nam,Hộp thông tin quốc gia, Gini_year                ,gini_year," 2025
-"
-Việt Nam,Hộp thông tin quốc gia, Gini_ref                ,gini_ref," <ref>{{Chú thích web|url=https://www.statista.com/outlook/co/socioeconomic-indicators/vietnam|tiêu đề=Socioeconomic Indicators - Vietnam {{!}} Market Forecast|website=Statista|ngôn ngữ=en|ngày truy cập=2025-04-29}}</ref>
-"
-Việt Nam,Hộp thông tin quốc gia, HDI                ,hdi," 0,726
-"
-Việt Nam,Hộp thông tin quốc gia, HDI_year                ,hdi_year," 2023
-"
-Việt Nam,Hộp thông tin quốc gia, HDI_change                ,hdi_change," increase
-"
-Việt Nam,Hộp thông tin quốc gia, HDI_ref                ,hdi_ref," <ref name=""UNHDR"">{{Chú thích web |date=6 May 2025 |title=Human Development Report 2025 |url=https://hdr.undp.org/system/files/documents/global-report-document/hdr2025reporten.pdf|url-status=live |archive-url=https://web.archive.org/web/20250506051232/https://hdr.undp.org/system/files/documents/global-report-document/hdr2025reporten.pdf |archive-date=6 May 2025 |access-date=6 May 2025 |publisher=[[Chương trình Phát triển của Liên Hợp Quốc ]] |language=en}}</ref>
-"
-Việt Nam,Hộp thông tin quốc gia, HDI_rank                ,hdi_rank," 93
-"
-Việt Nam,Hộp thông tin quốc gia, currency                ,currency," [[Đồng (tiền)|Đồng]] (₫)
-"
-Việt Nam,Hộp thông tin quốc gia, currency_code                ,currency_code," VND
-"
-Việt Nam,Hộp thông tin quốc gia, time_zone                ,time_zone," [[UTC+07:00|Giờ Đông Dương]]
-"
-Việt Nam,Hộp thông tin quốc gia, utc_offset                ,utc_offset," +07:00
-"
-Việt Nam,Hộp thông tin quốc gia, iso3166code                ,iso3166code," VN
-"
-Việt Nam,Hộp thông tin quốc gia, date_format                ,date_format," dd.mm.yyyy
-"
-Việt Nam,Hộp thông tin quốc gia, cctld                ,cctld," [[.vn]]
-"
-Việt Nam,Hộp thông tin quốc gia, calling_code                ,calling_code," [[Mã điện thoại Việt Nam|+84]]
-"
-Việt Nam,Hộp thông tin quốc gia, electricity                ,electricity," [[Nguồn điện thương dụng|220 V – 50 Hz]]
-"
-Việt Nam,Hộp thông tin quốc gia, drives_on                ,drives_on," phải
-"
-Việt Nam,Hộp thông tin quốc gia, Languages type                ,languages_type," 
-"
 Nhật Bản,Infobox country, common_name                ,common_name," Nhật Bản
 "
 Nhật Bản,Infobox country, conventional_long_name                ,conventional_long_name," Nhật Bản Quốc
@@ -401,179 +204,169 @@ Nhật Bản,Infobox country, cctld                ,cctld," [[.jp]]
 "
 Nhật Bản,Infobox country, official_website                ,official_website," {{url|https://www.japan.go.jp/}}
 "
-Singapore,Infobox country, common_name                ,common_name," Singapore
+Thụy Sĩ,Tóm tắt về quốc gia, conventional_long_name                ,conventional_long_name," Liên bang Thụy Sĩ
 "
-Singapore,Infobox country, conventional_long_name                ,conventional_long_name," Cộng hòa Singapore
+Thụy Sĩ,Tóm tắt về quốc gia, native_name                ,native_name," {{Native name|de|Schweizerische Eidgenossenschaft}}<br>{{Native name|fr|Confédération suisse}}<br>{{Native name|it|Confederazione Svizzera}}<br>{{Native name|rm|Confederaziun svizra}}<br>{{Native name|la|Confoederatio Helvetica}}
 "
-Singapore,Infobox country, native_name                ,native_name," {{Infobox |subbox=yes |bodystyle=padding-top:0.5em; font-size:76%; font-weight:normal; |rowclass1 = mergedrow |label1=[[Tiếng Anh]]: |data1={{lang|ms|Republic of Singapore}} |rowclass2 = mergedrow |label2=[[Tiếng Mã Lai]]: |data2={{lang|ms|Republik Singapura}} |rowclass3 = mergedrow |label3=[[Quan thoại]]: |data3={{lang|zh-SG|新加坡共和国}} |rowclass4 = mergedrow |label4=[[Tiếng Tamil]]: |data4={{lang|ta|சிங்கப்பூர் குடியரசு}} }}
+Thụy Sĩ,Tóm tắt về quốc gia, common_name                ,common_name," Thụy Sĩ
 "
-Singapore,Infobox country, image_flag                ,image_flag," Flag of Singapore.svg
+Thụy Sĩ,Tóm tắt về quốc gia, image_flag                ,image_flag," Flag of Switzerland.svg
 "
-Singapore,Infobox country, image_coat                ,image_coat," Coat of arms of Singapore.svg
+Thụy Sĩ,Tóm tắt về quốc gia, image_coat                ,image_coat," Coat of Arms of Switzerland.svg
 "
-Singapore,Infobox country, other_symbol                ,other_symbol," 
+Thụy Sĩ,Tóm tắt về quốc gia, national_motto                ,national_motto," ''Unus pro omnibus, omnes pro uno''<br /> (Một người vì mọi người, mọi người vì một người)
 "
-Singapore,Infobox country, national_motto                ,national_motto," {{native phrase|ms|Majulah Singapura|italics=on|nolink=on}}<br />(""Tiến lên, Singapore"")
+Thụy Sĩ,Tóm tắt về quốc gia, national_anthem                ,national_anthem," ''[[Thánh ca Thụy Sĩ]]''
+<br /><center>[[Tập tin: Swiss Psalm.ogg ]]</center>
 "
-Singapore,Infobox country, national_anthem                ,national_anthem," ''[[Majulah Singapura]]''<br />(""Tiến lên, Singapore"")<br /><div style=""padding-top;"">[[Tập tin:Majulah Singapura.ogg|center]]</div>
+Thụy Sĩ,Tóm tắt về quốc gia, image_map                ,image_map," Switzerland (orthographic projection).svg
 "
-Singapore,Infobox country, image_map                ,image_map," Singapore on the globe (Southeast Asia centered) zoom.svg
+Thụy Sĩ,Tóm tắt về quốc gia, image_map2                ,image_map2," Europe-Switzerland.svg
 "
-Singapore,Infobox country, map_width                ,map_width," 275px
+Thụy Sĩ,Tóm tắt về quốc gia, image_map_caption                ,image_map_caption," Vị trí ''""Thụy Sĩ""'' (xanh) trên thế giới
 "
-Singapore,Infobox country, capital                ,capital," '''Singapore'''{{efn|Singapore không có thủ đô chính thức vì quốc gia này là một [[thành bang]].<ref name=""City-state"">{{chú thích web |title = Singapore |quote = The city, once a distinct entity, so came to dominate the island that the Republic of Singapore essentially became a city-state. |url = https://www.britannica.com/place/Singapore-capital |access-date = ngày 29 tháng 8 năm 2019 }}</ref>}} ([[Thành bang]])
+Thụy Sĩ,Tóm tắt về quốc gia, official_languages                ,official_languages," [[Tiếng Đức]], [[tiếng Pháp|Pháp]], [[tiếng Ý|Ý]], và [[tiếng Romansh|Romansh]]
 "
-Singapore,Infobox country, largest_settlement                ,largest_settlement," [[Bedok]]<ref>{{chú thích web|url=https://www.singstat.gov.sg/find-data/search-by-theme/population/geographic-distribution/visualising-data/geographical-distribution-dashboard|title=Singapore Department of Statistics population report for 2022|publisher=Singstat|access-date=June 7, 2023|archive-date=24 December 2022|archive-url=https://web.archive.org/web/20221224122208/https://www.singstat.gov.sg/find-data/search-by-theme/population/geographic-distribution/visualising-data/geographical-distribution-dashboard|url-status=live}}</ref>
+Thụy Sĩ,Tóm tắt về quốc gia, capital                ,capital," [[Tập tin:CHE Bern COA.svg|18px]] [[Bern]] ([[de facto]])<ref group=""Phụ chú"">""Thành phố liên bang"" về pháp lí, thủ đô trên thực tế. Do tính nhạy cảm chủ nghĩa liên bang lịch sử, pháp luật Thụy Sĩ không xác định một thủ đô chính thức; và một số tổ chức liên bang như các tòa án nằm tại các thành phố khác.</ref><ref name=Bundesstadt/><ref name=""deFacto"">{{Chú thích tạp chí |title=Die Hauptstadt existiert nicht |url=http://boris.unibe.ch/id/eprint/41280 |type=scientific article |format=PDF |last=Holenstein |first=André |issue=152: Sonderfall Hauptstatdtregion |series=UniPress – Forschung und Wissenschaft an der Universität Bern |publisher=Department Communication, University of Berne |location=Berne |year=2012 |pages=16–19 |language=de |doi=10.7892/boris.41280 |quote=Als 1848 ein politisch-administratives Zentrum für den neuen Bundesstaat zu bestimmen war, verzichteten die Verfassungsväter daraufpl, eine Hauptstadt der Schweiz zu bezopnleichnen und formulierten stattdessen in Artikel 108: «Alles, was sich auf den Sitz der Bundesbehörden bezieht, ist Gegenstand der Bundesgesetzgebung.» Die Bundesstadt ist also nicht mehr und nicht weniger als der Sitz der Bundesbehörden. |access-date =ngày 20 tháng 12 năm 2015}}</ref>
 "
-Singapore,Infobox country, coordinates                ,coordinates," {{Coord|1|17|N|103|50|E|type:city|display=inline,title}}
+Thụy Sĩ,Tóm tắt về quốc gia, coordinates                ,coordinates," {{Coord|46|57|N|7|27|E|type:city}}
 "
-Singapore,Infobox country, largest_settlement_type                ,largest_settlement_type," [[Khu vực quy hoạch của Singapore|khu vực quy hoạch]] {{nobold|theo dân số}}
+Thụy Sĩ,Tóm tắt về quốc gia, largest_city                ,largest_city," [[Tập tin:Wappen Zürich matt.svg|18px]] [[Zürich]]
 "
-Singapore,Infobox country, official_languages                ,official_languages," [[Tiếng Anh Singapore|Tiếng Anh]]<br>[[Tiếng Mã Lai]]<br>[[Tiếng Hoa Singapore|Tiếng Hoa]]<br>[[Tiếng Tamil]]
+Thụy Sĩ,Tóm tắt về quốc gia, government_type                ,government_type," [[Chế độ đốc chính|Cộng hoà đốc chính]] [[liên bang]]
 "
-Singapore,Infobox country, languages_type                ,languages_type," [[quốc ngữ]]
+Thụy Sĩ,Tóm tắt về quốc gia, leader_title1                ,leader_title1," [[Hội đồng Liên bang (Thụy Sĩ)|Hội đồng Liên bang]]
 "
-Singapore,Infobox country, languages                ,languages," [[tiếng Mã Lai]]
+Thụy Sĩ,Tóm tắt về quốc gia, leader_name1                ,leader_name1," {{unbulleted list
+ | [[Guy Parmelin]] {{small|([[Tổng thống Liên bang Thụy Sĩ|Tổng thống]])}}
+ | [[Ignazio Cassis]] {{small|([[Phó Tổng thống Liên bang Thụy Sĩ|Phó Tổng thống]])}}
+ | [[Guy Parmelin]]
+| [[Ignazio Cassis]]
+| [[Albert Rösti]]
+| [[Elisabeth Baume-Schneider]]
+| [[Beat Jans]]
+| [[Martin Pfister]]
+}}
 "
-Singapore,Infobox country, ethnic_groups                ,ethnic_groups," {{Collapsible list | titlestyle = background:transparent; text-align:left; font-weight:normal; font-size:100%; | title = Danh sách [[Nhân khẩu học Singapore#Nhóm dân tộc|sắc tộc]]|75,9% [[người Singapore gốc Hoa|Hoa]]|15% [[người Singapore gốc Malaysia|Mã Lai]]|7,5% [[người Singapore gốc Ấn|Ấn]]|1,6% khác}}
+Thụy Sĩ,Tóm tắt về quốc gia, leader_title2                ,leader_title2," {{nowrap|[[Tổng Thư ký Liên bang Thụy Sĩ|Tổng Thư kí Liên bang]]}}
 "
-Singapore,Infobox country, ethnic_groups_ref                ,ethnic_groups_ref," <ref>[https://www.gov.sg/article/what-are-the-racial-proportions-among-singapore-citizens Population in Brief 2020]</ref>
+Thụy Sĩ,Tóm tắt về quốc gia, leader_name2                ,leader_name2," [[Viktor Rossi]]
 "
-Singapore,Infobox country, ethnic_groups_year                ,ethnic_groups_year," 2020
+Thụy Sĩ,Tóm tắt về quốc gia, legislature                ,legislature," [[Quốc hội Liên bang (Thụy Sĩ)|Quốc hội Liên bang]]
 "
-Singapore,Infobox country, demonym                ,demonym," [[người Singapore]]
+Thụy Sĩ,Tóm tắt về quốc gia, upper_house                ,upper_house," [[Viện Liên bang (Thụy Sĩ)|Viện Liên bang]]
 "
-Singapore,Infobox country, government_type                ,government_type," [[Cộng hòa lập hiến]] [[Thể chế Đại nghị|đại nghị]] [[Hệ thống đảng chiếm ưu thế|Đảng chiếm ưu thế]] [[đơn nhất]]
+Thụy Sĩ,Tóm tắt về quốc gia, lower_house                ,lower_house," [[Viện Quốc dân (Thụy Sĩ)|Viện Quốc dân]]
 "
-Singapore,Infobox country, leader_title1                ,leader_title1," [[Tổng thống Singapore|Tổng thống]]
+Thụy Sĩ,Tóm tắt về quốc gia, sovereignty_type                ,sovereignty_type," [[Lịch sử Thụy Sỹ|Độc lập]]
 "
-Singapore,Infobox country, leader_name1                ,leader_name1," [[Tharman Shanmugaratnam]]
+Thụy Sĩ,Tóm tắt về quốc gia, established_event1                ,established_event1," Quốc gia hình thành
 "
-Singapore,Infobox country, leader_title2                ,leader_title2," [[Thủ tướng Singapore|Thủ tướng]]
+Thụy Sĩ,Tóm tắt về quốc gia, established_date1                ,established_date1," {{Khoảng|1300}}<ref group=""Phụ chú"">Mốc đầu tiên của lời tuyên thệ [[Rütlischwur]] là vào năm 1307 ([[Aegidius Tschudi]] ghi nhận vào thế kỉ XVI) và chỉ là một trong một số các hiệp ước trong giai đoạn này. Mốc hiến chương liên bang 1291 được lựa chọn vào năm 1891 nhằm kỷ niệm chính thức liên bang 600 năm.</ref> (1 tháng 8 năm 1291 theo truyền thống)
 "
-Singapore,Infobox country, leader_name2                ,leader_name2," [[Hoàng Tuần Tài]]
+Thụy Sĩ,Tóm tắt về quốc gia, established_event2                ,established_event2," [[Hòa ước Westfalen]]
 "
-Singapore,Infobox country, leader_title3                ,leader_title3," [[Chánh án Tòa án Tối cao Singapore|Chánh án Tòa án Tối cao]]
+Thụy Sĩ,Tóm tắt về quốc gia, established_date2                ,established_date2," 24 tháng 10 năm 1648
 "
-Singapore,Infobox country, leader_name3                ,leader_name3," [[Sundaresh Menon]]
+Thụy Sĩ,Tóm tắt về quốc gia, established_event3                ,established_event3," Khôi phục
 "
-Singapore,Infobox country, leader_title4                ,leader_title4," [[Chủ tịch Quốc hội Singapore|Chủ tịch Quốc hội]]
+Thụy Sĩ,Tóm tắt về quốc gia, established_date3                ,established_date3," 7 tháng 8 năm 1815
 "
-Singapore,Infobox country, leader_name4                ,leader_name4," [[Tạ Kiện Bình]]
+Thụy Sĩ,Tóm tắt về quốc gia, established_event4                ,established_event4," Quốc gia liên bang
 "
-Singapore,Infobox country, legislature                ,legislature," [[Quốc hội Singapore|Quốc hội]]
+Thụy Sĩ,Tóm tắt về quốc gia, established_date4                ,established_date4," 12 tháng 9 năm 1848<ref group=""Phụ chú"">Một tuyên ngôn trọng thể của [[Tagsatzung]] tuyên bố Hiến pháp Liên bang được thông qua vào ngày 12 tháng 9 năm 1848. Một nghị quyết của ''Tagsatzung'' vào ngày 14 tháng 9 năm 1848 xác định rằng quyền lực của các thể chế được cấp theo Hiệp định Liên bang 1815 kết thúc vào thời điểm hiến pháp của Hội đồng Liên bang có hiệu lực vào ngày 16 tháng 11 năm 1848.</ref><ref>{{HDS|9811|Federal constitution|date = ngày 3 tháng 5 năm 2011 |author=Andreas Kley}}</ref>
 "
-Singapore,Infobox country, upper_house                ,upper_house," 
+Thụy Sĩ,Tóm tắt về quốc gia, area_km2                ,area_km2," 41.285
 "
-Singapore,Infobox country, lower_house                ,lower_house," 
+Thụy Sĩ,Tóm tắt về quốc gia, area_rank                ,area_rank," 132
 "
-Singapore,Infobox country, sovereignty_type                ,sovereignty_type," Độc lập
+Thụy Sĩ,Tóm tắt về quốc gia, area_magnitude                ,area_magnitude," 1 E10
 "
-Singapore,Infobox country, sovereignty_note                ,sovereignty_note," Từ Vương quốc Anh và Malaysia
+Thụy Sĩ,Tóm tắt về quốc gia, percent_water                ,percent_water," 4,2
 "
-Singapore,Infobox country, established_event1                ,established_event1," {{nowrap|[[Chính phủ tự trị của Singapore|Chính phủ tự trị]]}}
+Thụy Sĩ,Tóm tắt về quốc gia, population_estimate                ,population_estimate," {{IncreaseNeutral}} {{formatnum:9060598}}<ref>{{Cite web |title=Switzerland {{!}} Population counter (real-time estimate) |date=1 February 2025 |url=https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.32175841.html |url-status=live |archive-url=https://web.archive.org/web/20250205175840/https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.32175841.html |archive-date=5 February 2025 |access-date=5 February 2025}}</ref>
 "
-Singapore,Infobox country, established_date1                ,established_date1," 3 tháng 6, 1959
+Thụy Sĩ,Tóm tắt về quốc gia, population_census                ,population_census," {{IncreaseNeutral}} 8,327,126<ref>{{Cite report |url=https://www.bfs.admin.ch/bfs/en/home/statistics/population.assetdetail.1401565.html |title=Switzerland's population 2015 |date=22 November 2016 |publisher=Swiss Federal Statistical Office (FSO), Swiss Confederation |issue=1 Population |location=Neuchâtel, Switzerland |access-date=7 December 2016 |archive-url=https://web.archive.org/web/20161220075134/https://www.bfs.admin.ch/bfs/en/home/statistics/population.assetdetail.1401565.html |archive-date=20 December 2016 |format=PDF |url-status=live |editor=Jacqueline Kucera |editor2=Athena Krummenacher |series=Swiss Statistics}}</ref>
 "
-Singapore,Infobox country, established_event2                ,established_event2," {{nowrap|[[Hiệp định Malaysia]]}}
+Thụy Sĩ,Tóm tắt về quốc gia, population_estimate_year                ,population_estimate_year," 2025
 "
-Singapore,Infobox country, established_date2                ,established_date2," 16 tháng 9, 1963
+Thụy Sĩ,Tóm tắt về quốc gia, population_estimate_rank                ,population_estimate_rank," 99
 "
-Singapore,Infobox country, established_event3                ,established_event3," [[Tuyên ngôn Singapore]]
+Thụy Sĩ,Tóm tắt về quốc gia, population_census_year                ,population_census_year," 2015
 "
-Singapore,Infobox country, established_date3                ,established_date3," 9 tháng 8, 1965
+Thụy Sĩ,Tóm tắt về quốc gia, population_density_km2                ,population_density_km2," 207
 "
-Singapore,Infobox country, established_event4                ,established_event4," [[Tuyên bố ASEAN]]
+Thụy Sĩ,Tóm tắt về quốc gia, population_density_rank                ,population_density_rank," 67
 "
-Singapore,Infobox country, established_date4                ,established_date4," 8 tháng 8, 1967
+Thụy Sĩ,Tóm tắt về quốc gia, GDP_PPP                ,gdp_ppp," {{increase}} 960,599 tỷ đô la Mỹ<ref name=""IMFWEO.CH"">{{cite web |url=https://data.imf.org/en/Data-Explorer?datasetUrn=IMF.RES:WEO(9.0.0) |title=World Economic Outlook Database (April 2026 Edition) |publisher=[[Quỹ Tiền tệ Quốc tế]] |website=www.imf.org |date=14 April 2026 |access-date=18 April 2026}}</ref>
 "
-Singapore,Infobox country, area_km2                ,area_km2," 744.3
+Thụy Sĩ,Tóm tắt về quốc gia, GDP_PPP_year                ,gdp_ppp_year," 2026
 "
-Singapore,Infobox country, area_footnote                ,area_footnote," <ref name=""total area of Singapore"">{{chú thích web |title=Environment – Latest Data |publisher=Singapore Department of Statistics |url=https://www.singstat.gov.sg/find-data/search-by-theme/society/environment/latest-data |access-date=30 July 2025 |archive-date=2 April 2025 |archive-url=https://web.archive.org/web/20250402134115/https://www.singstat.gov.sg/find-data/search-by-theme/society/environment/latest-data |url-status=live}}</ref>
+Thụy Sĩ,Tóm tắt về quốc gia, GDP_PPP_rank                ,gdp_ppp_rank," 37
 "
-Singapore,Infobox country, area_rank                ,area_rank," 176
+Thụy Sĩ,Tóm tắt về quốc gia, GDP_PPP_per_capita                ,gdp_ppp_per_capita," {{increase}} 105.680 đô la Mỹ<ref name=""IMFWEO.CH"" />
 "
-Singapore,Infobox country, population_estimate                ,population_estimate," {{IncreaseNeutral}} 6,110,200{{efn|Dân số Singapore gồm:<br>–Công dân Singapore (SC): 3.640.000 người<br>–Thường trú nhân (PR): 544.900 người<br>–Người nước ngoài/không có quyền cư trú vĩnh viễn: 1.860.000 người<ref name=""Population in Brief 2024"">{{cite web |title=Population in Brief 2024 |publisher=Singapore Department of Statistics |url=https://www.population.gov.sg/files/media-centre/publications/Population_in_Brief_2024.pdf|access-date=25 September 2024 |archive-url=https://web.archive.org/web/20240925140255/https://www.population.gov.sg/files/media-centre/publications/Population_in_Brief_2024.pdf |archive-date=25 September 2024}}</ref>}}
+Thụy Sĩ,Tóm tắt về quốc gia, GDP_PPP_per_capita_rank                ,gdp_ppp_per_capita_rank," 6
 "
-Singapore,Infobox country, population_estimate_year                ,population_estimate_year," 2025
+Thụy Sĩ,Tóm tắt về quốc gia, GDP_nominal                ,gdp_nominal," {{increase}} 1,147 nghìn tỷ đô la Mỹ<ref name=""IMFWEO.CH"" />
 "
-Singapore,Infobox country, population_estimate_rank                ,population_estimate_rank," 111
+Thụy Sĩ,Tóm tắt về quốc gia, GDP_nominal_year                ,gdp_nominal_year," 2026
 "
-Singapore,Infobox country, population_density_km2                ,population_density_km2," 8,290
+Thụy Sĩ,Tóm tắt về quốc gia, GDP_nominal_rank                ,gdp_nominal_rank," 20
 "
-Singapore,Infobox country, population_density_sq_mi                ,population_density_sq_mi," 21,471,0
+Thụy Sĩ,Tóm tắt về quốc gia, GDP_nominal_per_capita                ,gdp_nominal_per_capita," {{increase}} 126.177 đô la Mỹ<ref name=""IMFWEO.CH"" />
 "
-Singapore,Infobox country, population_density_rank                ,population_density_rank," 3
+Thụy Sĩ,Tóm tắt về quốc gia, GDP_nominal_per_capita_rank                ,gdp_nominal_per_capita_rank," 3
 "
-Singapore,Infobox country, GDP_PPP                ,gdp_ppp," {{increase}} 1,063 nghìn tỷ đô la Mỹ<ref name=""IMFWEO.SG"">{{chú thích web |url=https://www.imf.org/en/Publications/WEO/weo-database/2025/April/weo-report?c=576,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2022&ey=2029&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1|title=World Economic Outlook Database, April 2025 Edition. (Singapore) |publisher=[[Quỹ Tiền tệ Quốc tế]] |website=www.imf.org |date=April 2025|access-date=27 April 2025}}</ref>
+Thụy Sĩ,Tóm tắt về quốc gia, Gini                ,gini," 31,5 <!--number only-->
 "
-Singapore,Infobox country, GDP_PPP_year                ,gdp_ppp_year," 2026
+Thụy Sĩ,Tóm tắt về quốc gia, Gini_year                ,gini_year," 2023
 "
-Singapore,Infobox country, GDP_PPP_rank                ,gdp_ppp_rank," 34
+Thụy Sĩ,Tóm tắt về quốc gia, Gini_change                ,gini_change," increase <!--increase/decrease/steady-->
 "
-Singapore,Infobox country, GDP_PPP_per_capita                ,gdp_ppp_per_capita," {{increase}} 173,708 đô la Mỹ<ref name=IMFWEO.SG />
+Thụy Sĩ,Tóm tắt về quốc gia, Gini_ref                ,gini_ref," <ref>{{cite web |url=https://ec.europa.eu/eurostat/databrowser/view/tessi190/default/table?lang=en |title=Gini coefficient of equivalised disposable income – EU-SILC survey |publisher=[[Eurostat]] |website=ec.europa.eu |access-date=31 March 2024 |archive-date=9 October 2020 |archive-url=https://web.archive.org/web/20201009091832/https://ec.europa.eu/eurostat/databrowser/view/tessi190/default/table?lang=en |url-status=live }}</ref>
 "
-Singapore,Infobox country, GDP_PPP_per_capita_rank                ,gdp_ppp_per_capita_rank," 1
+Thụy Sĩ,Tóm tắt về quốc gia, HDI                ,hdi," 0,970 <!--number only-->
 "
-Singapore,Infobox country, GDP_nominal                ,gdp_nominal," {{increase}} 659,572 tỷ đô la Mỹ<ref name=IMFWEO.SG />
+Thụy Sĩ,Tóm tắt về quốc gia, HDI_year                ,hdi_year," 2023<!-- Please use the year to which the data refers, not the publication year-->
 "
-Singapore,Infobox country, GDP_nominal_year                ,gdp_nominal_year," 2026
+Thụy Sĩ,Tóm tắt về quốc gia, HDI_change                ,hdi_change," increase <!--increase/decrease/steady-->
 "
-Singapore,Infobox country, GDP_nominal_rank                ,gdp_nominal_rank," 27
+Thụy Sĩ,Tóm tắt về quốc gia, HDI_ref                ,hdi_ref," <ref name=""HDI"">{{Cite web |date=6 May 2025 |title=Human Development Report 2025 |url=https://hdr.undp.org/system/files/documents/global-report-document/hdr2025reporten.pdf|url-status=live |archive-url=https://web.archive.org/web/20250506051232/https://hdr.undp.org/system/files/documents/global-report-document/hdr2025reporten.pdf |archive-date=6 May 2025 |access-date=6 May 2025 |publisher=[[United Nations Development Programme]] |language=en}}</ref>
 "
-Singapore,Infobox country, GDP_nominal_per_capita                ,gdp_nominal_per_capita," {{increase}} 107,758 đô la Mỹ<ref name=IMFWEO.SG />
+Thụy Sĩ,Tóm tắt về quốc gia, HDI_rank                ,hdi_rank," 2
 "
-Singapore,Infobox country, GDP_nominal_per_capita_rank                ,gdp_nominal_per_capita_rank," 4
+Thụy Sĩ,Tóm tắt về quốc gia, currency                ,currency," [[Franc Thụy Sĩ]] (SFr.)
 "
-Singapore,Infobox country, Gini                ,gini," 43.3
+Thụy Sĩ,Tóm tắt về quốc gia, currency_code                ,currency_code," CHF
 "
-Singapore,Infobox country, Gini_year                ,gini_year," 2023
+Thụy Sĩ,Tóm tắt về quốc gia, time_zone                ,time_zone," [[Giờ chuẩn Trung Âu|CET]]
 "
-Singapore,Infobox country, Gini_change                ,gini_change," steady
+Thụy Sĩ,Tóm tắt về quốc gia, utc_offset                ,utc_offset," [[Giờ Mùa hè Trung Âu|CEST]]
 "
-Singapore,Infobox country, Gini_ref                ,gini_ref," <ref>{{chú thích web |title=Key Household Income Trends, 2023 |url=https://www.singstat.gov.sg/-/media/files/publications/households/pp-s30.ashx#:~:text=7%20The%20Gini%20coefficient5%20based,fell%20from%200.433%20to%200.371 |website=singstat.gov.sg |publisher=Singapore Department of Statistics |access-date=14 August 2024 |archive-date=13 July 2024 |archive-url=https://web.archive.org/web/20240713170530/https://www.singstat.gov.sg/-/media/files/publications/households/pp-s30.ashx#:~:text=7%20The%20Gini%20coefficient5%20based,fell%20from%200.433%20to%200.371 |url-status=live }}</ref>
+Thụy Sĩ,Tóm tắt về quốc gia, utc_offset_DST                ,utc_offset_dst," +2
 "
-Singapore,Infobox country, HDI                ,hdi," 0.946
+Thụy Sĩ,Tóm tắt về quốc gia, drives_on                ,drives_on," phải
 "
-Singapore,Infobox country, HDI_year                ,hdi_year," 2023
+Thụy Sĩ,Tóm tắt về quốc gia, cctld                ,cctld," [[.ch]], [[.swiss]]
 "
-Singapore,Infobox country, HDI_change                ,hdi_change," steady
+Thụy Sĩ,Tóm tắt về quốc gia, calling_code                ,calling_code," +41
 "
-Singapore,Infobox country, HDI_ref                ,hdi_ref," <ref name=""HDI"">{{chú thích web |date=6 May 2025 |title=Human Development Report 2025 |url=https://hdr.undp.org/system/files/documents/global-report-document/hdr2025reporten.pdf|url-status=live |archive-url=https://web.archive.org/web/20250506051232/https://hdr.undp.org/system/files/documents/global-report-document/hdr2025reporten.pdf |archive-date=6 May 2025 |access-date=6 May 2025 |publisher=[[Chương trình Phát triển của Liên Hợp Quốc]] |language=en}}</ref>
+Thụy Sĩ,Tóm tắt về quốc gia, iso3166code                ,iso3166code," CH
 "
-Singapore,Infobox country, HDI_rank                ,hdi_rank," 13
+Thụy Sĩ,Tóm tắt về quốc gia, ISO_3166–1_alpha2                ,iso_3166–1_alpha2," 
 "
-Singapore,Infobox country, currency                ,currency," [[Đô la Singapore]] (S$)
+Thụy Sĩ,Tóm tắt về quốc gia, ISO_3166–1_alpha3                ,iso_3166–1_alpha3," 
 "
-Singapore,Infobox country, currency_code                ,currency_code," SGD
+Thụy Sĩ,Tóm tắt về quốc gia, sport_code                ,sport_code," 
 "
-Singapore,Infobox country, time_zone                ,time_zone," [[Giờ chuẩn Singapore]]
+Thụy Sĩ,Tóm tắt về quốc gia, vehicle_code                ,vehicle_code," 
 "
-Singapore,Infobox country, utc_offset                ,utc_offset," +8
+Thụy Sĩ,Tóm tắt về quốc gia, footnotes                ,footnotes," 
 "
-Singapore,Infobox country, antipodes                ,antipodes," 
+Thụy Sĩ,Tóm tắt về quốc gia, demonym                ,demonym," 
 "
-Singapore,Infobox country, date_format                ,date_format," {{abbr|dd|day}}/{{abbr|mm|month}}/{{abbr|yyyy|year}}
-"
-Singapore,Infobox country, drives_on                ,drives_on," [[Giao thông bên phải và bên|trái]]
-"
-Singapore,Infobox country, calling_code                ,calling_code," [[+65]]
-"
-Singapore,Infobox country, iso3166code                ,iso3166code," SG
-"
-Singapore,Infobox country, cctld                ,cctld," [[.sg]]
-"
-Singapore,Infobox country, today                ,today," 
-"
-Singapore,Infobox country, electricity                ,electricity," 230 V–50 Hz
-"
-Singapore,Infobox country, religion_year                ,religion_year," 2020
-"
-Singapore,Infobox country, religion_ref                ,religion_ref," <ref>[https://web.archive.org/web/20240706140335/https://www.singstat.gov.sg/-/media/files/publications/population/population2023.ashx]</ref>
-"
-Singapore,Infobox country, religion                ,religion," {{ublist|31.1% [[Phật giáo]]|20.0% [[không tôn giáo]]|18.9% [[Kitô giáo]]|15.6% [[Hồi giáo]]|8.8% [[Đạo giáo]]| 5.0% [[Hindu giáo]]| 0.6% khác}}
-"
-Singapore,Infobox country, percent_water                ,percent_water," 1,43%
+Thụy Sĩ,Tóm tắt về quốc gia, today                ,today," 
 "
 Cộng hòa Nam Phi,Infobox country, conventional_long_name                ,conventional_long_name," Cộng hòa Nam Phi
 "
@@ -847,167 +640,374 @@ Cộng hòa Nam Phi,Infobox country, cctld                ,cctld," [[.za]]
 "
 Cộng hòa Nam Phi,Infobox country, today                ,today," 
 "
-Thụy Sĩ,Tóm tắt về quốc gia, conventional_long_name                ,conventional_long_name," Liên bang Thụy Sĩ
+Singapore,Infobox country, common_name                ,common_name," Singapore
 "
-Thụy Sĩ,Tóm tắt về quốc gia, native_name                ,native_name," {{Native name|de|Schweizerische Eidgenossenschaft}}<br>{{Native name|fr|Confédération suisse}}<br>{{Native name|it|Confederazione Svizzera}}<br>{{Native name|rm|Confederaziun svizra}}<br>{{Native name|la|Confoederatio Helvetica}}
+Singapore,Infobox country, conventional_long_name                ,conventional_long_name," Cộng hòa Singapore
 "
-Thụy Sĩ,Tóm tắt về quốc gia, common_name                ,common_name," Thụy Sĩ
+Singapore,Infobox country, native_name                ,native_name," {{Infobox |subbox=yes |bodystyle=padding-top:0.5em; font-size:76%; font-weight:normal; |rowclass1 = mergedrow |label1=[[Tiếng Anh]]: |data1={{lang|ms|Republic of Singapore}} |rowclass2 = mergedrow |label2=[[Tiếng Mã Lai]]: |data2={{lang|ms|Republik Singapura}} |rowclass3 = mergedrow |label3=[[Quan thoại]]: |data3={{lang|zh-SG|新加坡共和国}} |rowclass4 = mergedrow |label4=[[Tiếng Tamil]]: |data4={{lang|ta|சிங்கப்பூர் குடியரசு}} }}
 "
-Thụy Sĩ,Tóm tắt về quốc gia, image_flag                ,image_flag," Flag of Switzerland.svg
+Singapore,Infobox country, image_flag                ,image_flag," Flag of Singapore.svg
 "
-Thụy Sĩ,Tóm tắt về quốc gia, image_coat                ,image_coat," Coat of Arms of Switzerland.svg
+Singapore,Infobox country, image_coat                ,image_coat," Coat of arms of Singapore.svg
 "
-Thụy Sĩ,Tóm tắt về quốc gia, national_motto                ,national_motto," ''Unus pro omnibus, omnes pro uno''<br /> (Một người vì mọi người, mọi người vì một người)
+Singapore,Infobox country, other_symbol                ,other_symbol," 
 "
-Thụy Sĩ,Tóm tắt về quốc gia, national_anthem                ,national_anthem," ''[[Thánh ca Thụy Sĩ]]''
-<br /><center>[[Tập tin: Swiss Psalm.ogg ]]</center>
+Singapore,Infobox country, national_motto                ,national_motto," {{native phrase|ms|Majulah Singapura|italics=on|nolink=on}}<br />(""Tiến lên, Singapore"")
 "
-Thụy Sĩ,Tóm tắt về quốc gia, image_map                ,image_map," Switzerland (orthographic projection).svg
+Singapore,Infobox country, national_anthem                ,national_anthem," ''[[Majulah Singapura]]''<br />(""Tiến lên, Singapore"")<br /><div style=""padding-top;"">[[Tập tin:Majulah Singapura.ogg|center]]</div>
 "
-Thụy Sĩ,Tóm tắt về quốc gia, image_map2                ,image_map2," Europe-Switzerland.svg
+Singapore,Infobox country, image_map                ,image_map," Singapore on the globe (Southeast Asia centered) zoom.svg
 "
-Thụy Sĩ,Tóm tắt về quốc gia, image_map_caption                ,image_map_caption," Vị trí ''""Thụy Sĩ""'' (xanh) trên thế giới
+Singapore,Infobox country, map_width                ,map_width," 275px
 "
-Thụy Sĩ,Tóm tắt về quốc gia, official_languages                ,official_languages," [[Tiếng Đức]], [[tiếng Pháp|Pháp]], [[tiếng Ý|Ý]], và [[tiếng Romansh|Romansh]]
+Singapore,Infobox country, capital                ,capital," '''Singapore'''{{efn|Singapore không có thủ đô chính thức vì quốc gia này là một [[thành bang]].<ref name=""City-state"">{{chú thích web |title = Singapore |quote = The city, once a distinct entity, so came to dominate the island that the Republic of Singapore essentially became a city-state. |url = https://www.britannica.com/place/Singapore-capital |access-date = ngày 29 tháng 8 năm 2019 }}</ref>}} ([[Thành bang]])
 "
-Thụy Sĩ,Tóm tắt về quốc gia, capital                ,capital," [[Tập tin:CHE Bern COA.svg|18px]] [[Bern]] ([[de facto]])<ref group=""Phụ chú"">""Thành phố liên bang"" về pháp lí, thủ đô trên thực tế. Do tính nhạy cảm chủ nghĩa liên bang lịch sử, pháp luật Thụy Sĩ không xác định một thủ đô chính thức; và một số tổ chức liên bang như các tòa án nằm tại các thành phố khác.</ref><ref name=Bundesstadt/><ref name=""deFacto"">{{Chú thích tạp chí |title=Die Hauptstadt existiert nicht |url=http://boris.unibe.ch/id/eprint/41280 |type=scientific article |format=PDF |last=Holenstein |first=André |issue=152: Sonderfall Hauptstatdtregion |series=UniPress – Forschung und Wissenschaft an der Universität Bern |publisher=Department Communication, University of Berne |location=Berne |year=2012 |pages=16–19 |language=de |doi=10.7892/boris.41280 |quote=Als 1848 ein politisch-administratives Zentrum für den neuen Bundesstaat zu bestimmen war, verzichteten die Verfassungsväter daraufpl, eine Hauptstadt der Schweiz zu bezopnleichnen und formulierten stattdessen in Artikel 108: «Alles, was sich auf den Sitz der Bundesbehörden bezieht, ist Gegenstand der Bundesgesetzgebung.» Die Bundesstadt ist also nicht mehr und nicht weniger als der Sitz der Bundesbehörden. |access-date =ngày 20 tháng 12 năm 2015}}</ref>
+Singapore,Infobox country, largest_settlement                ,largest_settlement," [[Bedok]]<ref>{{chú thích web|url=https://www.singstat.gov.sg/find-data/search-by-theme/population/geographic-distribution/visualising-data/geographical-distribution-dashboard|title=Singapore Department of Statistics population report for 2022|publisher=Singstat|access-date=June 7, 2023|archive-date=24 December 2022|archive-url=https://web.archive.org/web/20221224122208/https://www.singstat.gov.sg/find-data/search-by-theme/population/geographic-distribution/visualising-data/geographical-distribution-dashboard|url-status=live}}</ref>
 "
-Thụy Sĩ,Tóm tắt về quốc gia, coordinates                ,coordinates," {{Coord|46|57|N|7|27|E|type:city}}
+Singapore,Infobox country, coordinates                ,coordinates," {{Coord|1|17|N|103|50|E|type:city|display=inline,title}}
 "
-Thụy Sĩ,Tóm tắt về quốc gia, largest_city                ,largest_city," [[Tập tin:Wappen Zürich matt.svg|18px]] [[Zürich]]
+Singapore,Infobox country, largest_settlement_type                ,largest_settlement_type," [[Khu vực quy hoạch của Singapore|khu vực quy hoạch]] {{nobold|theo dân số}}
 "
-Thụy Sĩ,Tóm tắt về quốc gia, government_type                ,government_type," [[Chế độ đốc chính|Cộng hoà đốc chính]] [[liên bang]]
+Singapore,Infobox country, official_languages                ,official_languages," [[Tiếng Anh Singapore|Tiếng Anh]]<br>[[Tiếng Mã Lai]]<br>[[Tiếng Hoa Singapore|Tiếng Hoa]]<br>[[Tiếng Tamil]]
 "
-Thụy Sĩ,Tóm tắt về quốc gia, leader_title1                ,leader_title1," [[Hội đồng Liên bang (Thụy Sĩ)|Hội đồng Liên bang]]
+Singapore,Infobox country, languages_type                ,languages_type," [[quốc ngữ]]
 "
-Thụy Sĩ,Tóm tắt về quốc gia, leader_name1                ,leader_name1," {{unbulleted list
- | [[Guy Parmelin]] {{small|([[Tổng thống Liên bang Thụy Sĩ|Tổng thống]])}}
- | [[Ignazio Cassis]] {{small|([[Phó Tổng thống Liên bang Thụy Sĩ|Phó Tổng thống]])}}
- | [[Guy Parmelin]]
-| [[Ignazio Cassis]]
-| [[Albert Rösti]]
-| [[Elisabeth Baume-Schneider]]
-| [[Beat Jans]]
-| [[Martin Pfister]]
-}}
+Singapore,Infobox country, languages                ,languages," [[tiếng Mã Lai]]
 "
-Thụy Sĩ,Tóm tắt về quốc gia, leader_title2                ,leader_title2," {{nowrap|[[Tổng Thư ký Liên bang Thụy Sĩ|Tổng Thư kí Liên bang]]}}
+Singapore,Infobox country, ethnic_groups                ,ethnic_groups," {{Collapsible list | titlestyle = background:transparent; text-align:left; font-weight:normal; font-size:100%; | title = Danh sách [[Nhân khẩu học Singapore#Nhóm dân tộc|sắc tộc]]|75,9% [[người Singapore gốc Hoa|Hoa]]|15% [[người Singapore gốc Malaysia|Mã Lai]]|7,5% [[người Singapore gốc Ấn|Ấn]]|1,6% khác}}
 "
-Thụy Sĩ,Tóm tắt về quốc gia, leader_name2                ,leader_name2," [[Viktor Rossi]]
+Singapore,Infobox country, ethnic_groups_ref                ,ethnic_groups_ref," <ref>[https://www.gov.sg/article/what-are-the-racial-proportions-among-singapore-citizens Population in Brief 2020]</ref>
 "
-Thụy Sĩ,Tóm tắt về quốc gia, legislature                ,legislature," [[Quốc hội Liên bang (Thụy Sĩ)|Quốc hội Liên bang]]
+Singapore,Infobox country, ethnic_groups_year                ,ethnic_groups_year," 2020
 "
-Thụy Sĩ,Tóm tắt về quốc gia, upper_house                ,upper_house," [[Viện Liên bang (Thụy Sĩ)|Viện Liên bang]]
+Singapore,Infobox country, demonym                ,demonym," [[người Singapore]]
 "
-Thụy Sĩ,Tóm tắt về quốc gia, lower_house                ,lower_house," [[Viện Quốc dân (Thụy Sĩ)|Viện Quốc dân]]
+Singapore,Infobox country, government_type                ,government_type," [[Cộng hòa lập hiến]] [[Thể chế Đại nghị|đại nghị]] [[Hệ thống đảng chiếm ưu thế|Đảng chiếm ưu thế]] [[đơn nhất]]
 "
-Thụy Sĩ,Tóm tắt về quốc gia, sovereignty_type                ,sovereignty_type," [[Lịch sử Thụy Sỹ|Độc lập]]
+Singapore,Infobox country, leader_title1                ,leader_title1," [[Tổng thống Singapore|Tổng thống]]
 "
-Thụy Sĩ,Tóm tắt về quốc gia, established_event1                ,established_event1," Quốc gia hình thành
+Singapore,Infobox country, leader_name1                ,leader_name1," [[Tharman Shanmugaratnam]]
 "
-Thụy Sĩ,Tóm tắt về quốc gia, established_date1                ,established_date1," {{Khoảng|1300}}<ref group=""Phụ chú"">Mốc đầu tiên của lời tuyên thệ [[Rütlischwur]] là vào năm 1307 ([[Aegidius Tschudi]] ghi nhận vào thế kỉ XVI) và chỉ là một trong một số các hiệp ước trong giai đoạn này. Mốc hiến chương liên bang 1291 được lựa chọn vào năm 1891 nhằm kỷ niệm chính thức liên bang 600 năm.</ref> (1 tháng 8 năm 1291 theo truyền thống)
+Singapore,Infobox country, leader_title2                ,leader_title2," [[Thủ tướng Singapore|Thủ tướng]]
 "
-Thụy Sĩ,Tóm tắt về quốc gia, established_event2                ,established_event2," [[Hòa ước Westfalen]]
+Singapore,Infobox country, leader_name2                ,leader_name2," [[Hoàng Tuần Tài]]
 "
-Thụy Sĩ,Tóm tắt về quốc gia, established_date2                ,established_date2," 24 tháng 10 năm 1648
+Singapore,Infobox country, leader_title3                ,leader_title3," [[Chánh án Tòa án Tối cao Singapore|Chánh án Tòa án Tối cao]]
 "
-Thụy Sĩ,Tóm tắt về quốc gia, established_event3                ,established_event3," Khôi phục
+Singapore,Infobox country, leader_name3                ,leader_name3," [[Sundaresh Menon]]
 "
-Thụy Sĩ,Tóm tắt về quốc gia, established_date3                ,established_date3," 7 tháng 8 năm 1815
+Singapore,Infobox country, leader_title4                ,leader_title4," [[Chủ tịch Quốc hội Singapore|Chủ tịch Quốc hội]]
 "
-Thụy Sĩ,Tóm tắt về quốc gia, established_event4                ,established_event4," Quốc gia liên bang
+Singapore,Infobox country, leader_name4                ,leader_name4," [[Tạ Kiện Bình]]
 "
-Thụy Sĩ,Tóm tắt về quốc gia, established_date4                ,established_date4," 12 tháng 9 năm 1848<ref group=""Phụ chú"">Một tuyên ngôn trọng thể của [[Tagsatzung]] tuyên bố Hiến pháp Liên bang được thông qua vào ngày 12 tháng 9 năm 1848. Một nghị quyết của ''Tagsatzung'' vào ngày 14 tháng 9 năm 1848 xác định rằng quyền lực của các thể chế được cấp theo Hiệp định Liên bang 1815 kết thúc vào thời điểm hiến pháp của Hội đồng Liên bang có hiệu lực vào ngày 16 tháng 11 năm 1848.</ref><ref>{{HDS|9811|Federal constitution|date = ngày 3 tháng 5 năm 2011 |author=Andreas Kley}}</ref>
+Singapore,Infobox country, legislature                ,legislature," [[Quốc hội Singapore|Quốc hội]]
 "
-Thụy Sĩ,Tóm tắt về quốc gia, area_km2                ,area_km2," 41.285
+Singapore,Infobox country, upper_house                ,upper_house," 
 "
-Thụy Sĩ,Tóm tắt về quốc gia, area_rank                ,area_rank," 132
+Singapore,Infobox country, lower_house                ,lower_house," 
 "
-Thụy Sĩ,Tóm tắt về quốc gia, area_magnitude                ,area_magnitude," 1 E10
+Singapore,Infobox country, sovereignty_type                ,sovereignty_type," Độc lập
 "
-Thụy Sĩ,Tóm tắt về quốc gia, percent_water                ,percent_water," 4,2
+Singapore,Infobox country, sovereignty_note                ,sovereignty_note," Từ Vương quốc Anh và Malaysia
 "
-Thụy Sĩ,Tóm tắt về quốc gia, population_estimate                ,population_estimate," {{IncreaseNeutral}} {{formatnum:9060598}}<ref>{{Cite web |title=Switzerland {{!}} Population counter (real-time estimate) |date=1 February 2025 |url=https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.32175841.html |url-status=live |archive-url=https://web.archive.org/web/20250205175840/https://www.bfs.admin.ch/bfs/en/home/statistics/population/effectif-change.assetdetail.32175841.html |archive-date=5 February 2025 |access-date=5 February 2025}}</ref>
+Singapore,Infobox country, established_event1                ,established_event1," {{nowrap|[[Chính phủ tự trị của Singapore|Chính phủ tự trị]]}}
 "
-Thụy Sĩ,Tóm tắt về quốc gia, population_census                ,population_census," {{IncreaseNeutral}} 8,327,126<ref>{{Cite report |url=https://www.bfs.admin.ch/bfs/en/home/statistics/population.assetdetail.1401565.html |title=Switzerland's population 2015 |date=22 November 2016 |publisher=Swiss Federal Statistical Office (FSO), Swiss Confederation |issue=1 Population |location=Neuchâtel, Switzerland |access-date=7 December 2016 |archive-url=https://web.archive.org/web/20161220075134/https://www.bfs.admin.ch/bfs/en/home/statistics/population.assetdetail.1401565.html |archive-date=20 December 2016 |format=PDF |url-status=live |editor=Jacqueline Kucera |editor2=Athena Krummenacher |series=Swiss Statistics}}</ref>
+Singapore,Infobox country, established_date1                ,established_date1," 3 tháng 6, 1959
 "
-Thụy Sĩ,Tóm tắt về quốc gia, population_estimate_year                ,population_estimate_year," 2025
+Singapore,Infobox country, established_event2                ,established_event2," {{nowrap|[[Hiệp định Malaysia]]}}
 "
-Thụy Sĩ,Tóm tắt về quốc gia, population_estimate_rank                ,population_estimate_rank," 99
+Singapore,Infobox country, established_date2                ,established_date2," 16 tháng 9, 1963
 "
-Thụy Sĩ,Tóm tắt về quốc gia, population_census_year                ,population_census_year," 2015
+Singapore,Infobox country, established_event3                ,established_event3," [[Tuyên ngôn Singapore]]
 "
-Thụy Sĩ,Tóm tắt về quốc gia, population_density_km2                ,population_density_km2," 207
+Singapore,Infobox country, established_date3                ,established_date3," 9 tháng 8, 1965
 "
-Thụy Sĩ,Tóm tắt về quốc gia, population_density_rank                ,population_density_rank," 67
+Singapore,Infobox country, established_event4                ,established_event4," [[Tuyên bố ASEAN]]
 "
-Thụy Sĩ,Tóm tắt về quốc gia, GDP_PPP                ,gdp_ppp," {{increase}} 960,599 tỷ đô la Mỹ<ref name=""IMFWEO.CH"">{{cite web |url=https://data.imf.org/en/Data-Explorer?datasetUrn=IMF.RES:WEO(9.0.0) |title=World Economic Outlook Database (April 2026 Edition) |publisher=[[Quỹ Tiền tệ Quốc tế]] |website=www.imf.org |date=14 April 2026 |access-date=18 April 2026}}</ref>
+Singapore,Infobox country, established_date4                ,established_date4," 8 tháng 8, 1967
 "
-Thụy Sĩ,Tóm tắt về quốc gia, GDP_PPP_year                ,gdp_ppp_year," 2026
+Singapore,Infobox country, area_km2                ,area_km2," 744.3
 "
-Thụy Sĩ,Tóm tắt về quốc gia, GDP_PPP_rank                ,gdp_ppp_rank," 37
+Singapore,Infobox country, area_footnote                ,area_footnote," <ref name=""total area of Singapore"">{{chú thích web |title=Environment – Latest Data |publisher=Singapore Department of Statistics |url=https://www.singstat.gov.sg/find-data/search-by-theme/society/environment/latest-data |access-date=30 July 2025 |archive-date=2 April 2025 |archive-url=https://web.archive.org/web/20250402134115/https://www.singstat.gov.sg/find-data/search-by-theme/society/environment/latest-data |url-status=live}}</ref>
 "
-Thụy Sĩ,Tóm tắt về quốc gia, GDP_PPP_per_capita                ,gdp_ppp_per_capita," {{increase}} 105.680 đô la Mỹ<ref name=""IMFWEO.CH"" />
+Singapore,Infobox country, area_rank                ,area_rank," 176
 "
-Thụy Sĩ,Tóm tắt về quốc gia, GDP_PPP_per_capita_rank                ,gdp_ppp_per_capita_rank," 6
+Singapore,Infobox country, population_estimate                ,population_estimate," {{IncreaseNeutral}} 6,110,200{{efn|Dân số Singapore gồm:<br>–Công dân Singapore (SC): 3.640.000 người<br>–Thường trú nhân (PR): 544.900 người<br>–Người nước ngoài/không có quyền cư trú vĩnh viễn: 1.860.000 người<ref name=""Population in Brief 2024"">{{cite web |title=Population in Brief 2024 |publisher=Singapore Department of Statistics |url=https://www.population.gov.sg/files/media-centre/publications/Population_in_Brief_2024.pdf|access-date=25 September 2024 |archive-url=https://web.archive.org/web/20240925140255/https://www.population.gov.sg/files/media-centre/publications/Population_in_Brief_2024.pdf |archive-date=25 September 2024}}</ref>}}
 "
-Thụy Sĩ,Tóm tắt về quốc gia, GDP_nominal                ,gdp_nominal," {{increase}} 1,147 nghìn tỷ đô la Mỹ<ref name=""IMFWEO.CH"" />
+Singapore,Infobox country, population_estimate_year                ,population_estimate_year," 2025
 "
-Thụy Sĩ,Tóm tắt về quốc gia, GDP_nominal_year                ,gdp_nominal_year," 2026
+Singapore,Infobox country, population_estimate_rank                ,population_estimate_rank," 111
 "
-Thụy Sĩ,Tóm tắt về quốc gia, GDP_nominal_rank                ,gdp_nominal_rank," 20
+Singapore,Infobox country, population_density_km2                ,population_density_km2," 8,290
 "
-Thụy Sĩ,Tóm tắt về quốc gia, GDP_nominal_per_capita                ,gdp_nominal_per_capita," {{increase}} 126.177 đô la Mỹ<ref name=""IMFWEO.CH"" />
+Singapore,Infobox country, population_density_sq_mi                ,population_density_sq_mi," 21,471,0
 "
-Thụy Sĩ,Tóm tắt về quốc gia, GDP_nominal_per_capita_rank                ,gdp_nominal_per_capita_rank," 3
+Singapore,Infobox country, population_density_rank                ,population_density_rank," 3
 "
-Thụy Sĩ,Tóm tắt về quốc gia, Gini                ,gini," 31,5 <!--number only-->
+Singapore,Infobox country, GDP_PPP                ,gdp_ppp," {{increase}} 1,063 nghìn tỷ đô la Mỹ<ref name=""IMFWEO.SG"">{{chú thích web |url=https://www.imf.org/en/Publications/WEO/weo-database/2025/April/weo-report?c=576,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2022&ey=2029&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1|title=World Economic Outlook Database, April 2025 Edition. (Singapore) |publisher=[[Quỹ Tiền tệ Quốc tế]] |website=www.imf.org |date=April 2025|access-date=27 April 2025}}</ref>
 "
-Thụy Sĩ,Tóm tắt về quốc gia, Gini_year                ,gini_year," 2023
+Singapore,Infobox country, GDP_PPP_year                ,gdp_ppp_year," 2026
 "
-Thụy Sĩ,Tóm tắt về quốc gia, Gini_change                ,gini_change," increase <!--increase/decrease/steady-->
+Singapore,Infobox country, GDP_PPP_rank                ,gdp_ppp_rank," 34
 "
-Thụy Sĩ,Tóm tắt về quốc gia, Gini_ref                ,gini_ref," <ref>{{cite web |url=https://ec.europa.eu/eurostat/databrowser/view/tessi190/default/table?lang=en |title=Gini coefficient of equivalised disposable income – EU-SILC survey |publisher=[[Eurostat]] |website=ec.europa.eu |access-date=31 March 2024 |archive-date=9 October 2020 |archive-url=https://web.archive.org/web/20201009091832/https://ec.europa.eu/eurostat/databrowser/view/tessi190/default/table?lang=en |url-status=live }}</ref>
+Singapore,Infobox country, GDP_PPP_per_capita                ,gdp_ppp_per_capita," {{increase}} 173,708 đô la Mỹ<ref name=IMFWEO.SG />
 "
-Thụy Sĩ,Tóm tắt về quốc gia, HDI                ,hdi," 0,970 <!--number only-->
+Singapore,Infobox country, GDP_PPP_per_capita_rank                ,gdp_ppp_per_capita_rank," 1
 "
-Thụy Sĩ,Tóm tắt về quốc gia, HDI_year                ,hdi_year," 2023<!-- Please use the year to which the data refers, not the publication year-->
+Singapore,Infobox country, GDP_nominal                ,gdp_nominal," {{increase}} 659,572 tỷ đô la Mỹ<ref name=IMFWEO.SG />
 "
-Thụy Sĩ,Tóm tắt về quốc gia, HDI_change                ,hdi_change," increase <!--increase/decrease/steady-->
+Singapore,Infobox country, GDP_nominal_year                ,gdp_nominal_year," 2026
 "
-Thụy Sĩ,Tóm tắt về quốc gia, HDI_ref                ,hdi_ref," <ref name=""HDI"">{{Cite web |date=6 May 2025 |title=Human Development Report 2025 |url=https://hdr.undp.org/system/files/documents/global-report-document/hdr2025reporten.pdf|url-status=live |archive-url=https://web.archive.org/web/20250506051232/https://hdr.undp.org/system/files/documents/global-report-document/hdr2025reporten.pdf |archive-date=6 May 2025 |access-date=6 May 2025 |publisher=[[United Nations Development Programme]] |language=en}}</ref>
+Singapore,Infobox country, GDP_nominal_rank                ,gdp_nominal_rank," 27
 "
-Thụy Sĩ,Tóm tắt về quốc gia, HDI_rank                ,hdi_rank," 2
+Singapore,Infobox country, GDP_nominal_per_capita                ,gdp_nominal_per_capita," {{increase}} 107,758 đô la Mỹ<ref name=IMFWEO.SG />
 "
-Thụy Sĩ,Tóm tắt về quốc gia, currency                ,currency," [[Franc Thụy Sĩ]] (SFr.)
+Singapore,Infobox country, GDP_nominal_per_capita_rank                ,gdp_nominal_per_capita_rank," 4
 "
-Thụy Sĩ,Tóm tắt về quốc gia, currency_code                ,currency_code," CHF
+Singapore,Infobox country, Gini                ,gini," 43.3
 "
-Thụy Sĩ,Tóm tắt về quốc gia, time_zone                ,time_zone," [[Giờ chuẩn Trung Âu|CET]]
+Singapore,Infobox country, Gini_year                ,gini_year," 2023
 "
-Thụy Sĩ,Tóm tắt về quốc gia, utc_offset                ,utc_offset," [[Giờ Mùa hè Trung Âu|CEST]]
+Singapore,Infobox country, Gini_change                ,gini_change," steady
 "
-Thụy Sĩ,Tóm tắt về quốc gia, utc_offset_DST                ,utc_offset_dst," +2
+Singapore,Infobox country, Gini_ref                ,gini_ref," <ref>{{chú thích web |title=Key Household Income Trends, 2023 |url=https://www.singstat.gov.sg/-/media/files/publications/households/pp-s30.ashx#:~:text=7%20The%20Gini%20coefficient5%20based,fell%20from%200.433%20to%200.371 |website=singstat.gov.sg |publisher=Singapore Department of Statistics |access-date=14 August 2024 |archive-date=13 July 2024 |archive-url=https://web.archive.org/web/20240713170530/https://www.singstat.gov.sg/-/media/files/publications/households/pp-s30.ashx#:~:text=7%20The%20Gini%20coefficient5%20based,fell%20from%200.433%20to%200.371 |url-status=live }}</ref>
 "
-Thụy Sĩ,Tóm tắt về quốc gia, drives_on                ,drives_on," phải
+Singapore,Infobox country, HDI                ,hdi," 0.946
 "
-Thụy Sĩ,Tóm tắt về quốc gia, cctld                ,cctld," [[.ch]], [[.swiss]]
+Singapore,Infobox country, HDI_year                ,hdi_year," 2023
 "
-Thụy Sĩ,Tóm tắt về quốc gia, calling_code                ,calling_code," +41
+Singapore,Infobox country, HDI_change                ,hdi_change," steady
 "
-Thụy Sĩ,Tóm tắt về quốc gia, iso3166code                ,iso3166code," CH
+Singapore,Infobox country, HDI_ref                ,hdi_ref," <ref name=""HDI"">{{chú thích web |date=6 May 2025 |title=Human Development Report 2025 |url=https://hdr.undp.org/system/files/documents/global-report-document/hdr2025reporten.pdf|url-status=live |archive-url=https://web.archive.org/web/20250506051232/https://hdr.undp.org/system/files/documents/global-report-document/hdr2025reporten.pdf |archive-date=6 May 2025 |access-date=6 May 2025 |publisher=[[Chương trình Phát triển của Liên Hợp Quốc]] |language=en}}</ref>
 "
-Thụy Sĩ,Tóm tắt về quốc gia, ISO_3166–1_alpha2                ,iso_3166–1_alpha2," 
+Singapore,Infobox country, HDI_rank                ,hdi_rank," 13
 "
-Thụy Sĩ,Tóm tắt về quốc gia, ISO_3166–1_alpha3                ,iso_3166–1_alpha3," 
+Singapore,Infobox country, currency                ,currency," [[Đô la Singapore]] (S$)
 "
-Thụy Sĩ,Tóm tắt về quốc gia, sport_code                ,sport_code," 
+Singapore,Infobox country, currency_code                ,currency_code," SGD
 "
-Thụy Sĩ,Tóm tắt về quốc gia, vehicle_code                ,vehicle_code," 
+Singapore,Infobox country, time_zone                ,time_zone," [[Giờ chuẩn Singapore]]
 "
-Thụy Sĩ,Tóm tắt về quốc gia, footnotes                ,footnotes," 
+Singapore,Infobox country, utc_offset                ,utc_offset," +8
 "
-Thụy Sĩ,Tóm tắt về quốc gia, demonym                ,demonym," 
+Singapore,Infobox country, antipodes                ,antipodes," 
 "
-Thụy Sĩ,Tóm tắt về quốc gia, today                ,today," 
+Singapore,Infobox country, date_format                ,date_format," {{abbr|dd|day}}/{{abbr|mm|month}}/{{abbr|yyyy|year}}
+"
+Singapore,Infobox country, drives_on                ,drives_on," [[Giao thông bên phải và bên|trái]]
+"
+Singapore,Infobox country, calling_code                ,calling_code," [[+65]]
+"
+Singapore,Infobox country, iso3166code                ,iso3166code," SG
+"
+Singapore,Infobox country, cctld                ,cctld," [[.sg]]
+"
+Singapore,Infobox country, today                ,today," 
+"
+Singapore,Infobox country, electricity                ,electricity," 230 V–50 Hz
+"
+Singapore,Infobox country, religion_year                ,religion_year," 2020
+"
+Singapore,Infobox country, religion_ref                ,religion_ref," <ref>[https://web.archive.org/web/20240706140335/https://www.singstat.gov.sg/-/media/files/publications/population/population2023.ashx]</ref>
+"
+Singapore,Infobox country, religion                ,religion," {{ublist|31.1% [[Phật giáo]]|20.0% [[không tôn giáo]]|18.9% [[Kitô giáo]]|15.6% [[Hồi giáo]]|8.8% [[Đạo giáo]]| 5.0% [[Hindu giáo]]| 0.6% khác}}
+"
+Singapore,Infobox country, percent_water                ,percent_water," 1,43%
+"
+Việt Nam,Hộp thông tin quốc gia, conventional_long_name                ,conventional_long_name," Cộng hòa xã hội chủ nghĩa<br/>Việt Nam<!--LƯU Ý: Không thay đổi câu dẫn thành ""Xã hội"" do [[WP:TEN]]. Cảm ơn.-->
+"
+Việt Nam,Hộp thông tin quốc gia, common_name                ,common_name," Việt Nam
+"
+Việt Nam,Hộp thông tin quốc gia, linking_name                ,linking_name," Việt Nam
+"
+Việt Nam,Hộp thông tin quốc gia, image_flag                ,image_flag," Flag of Vietnam.svg
+"
+Việt Nam,Hộp thông tin quốc gia, image_coat                ,image_coat," Emblem of Vietnam.svg
+"
+Việt Nam,Hộp thông tin quốc gia, national_motto                ,national_motto," <br>""Độc lập – Tự do – Hạnh phúc""
+"
+Việt Nam,Hộp thông tin quốc gia, national_anthem                ,national_anthem," ""[[Tiến quân ca]]""<div class=""center"" style=""margin-top:0.4em;"">
+[[Tập tin:Quoc ca Viet Nam.ogg|242px]]</div>
+"
+Việt Nam,Hộp thông tin quốc gia, image_map                ,image_map," {{Switcher|[[Tập tin:Vietnam (orthographic projection).svg|242px|frameless]]|Hiện Trái Đất|[[Tập tin:Location Vietnam ASEAN.svg|242px|upright=1.15|frameless]]|Hiện bản đồ ASEAN|default=1}}
+"
+Việt Nam,Hộp thông tin quốc gia, map_caption                ,map_caption," {{map caption|location_color=lục|region=[[ASEAN]]|region_color=lục|legend=Location Vietnam ASEAN.svg}}
+"
+Việt Nam,Hộp thông tin quốc gia, capital                ,capital," [[Tập_tin:Logo_Hanoi.png|22px]] [[Hà Nội]]
+"
+Việt Nam,Hộp thông tin quốc gia, coordinates                ,coordinates," {{coord|21|2|N|105|51|E|type:city}}
+"
+Việt Nam,Hộp thông tin quốc gia, largest_city                ,largest_city," [[Tập tin:Biểu trưng của TP HCM.svg|22px]] [[Thành phố Hồ Chí Minh]]
+"
+Việt Nam,Hộp thông tin quốc gia, official_languages                ,official_languages," [[Tiếng Việt]]{{efn|Hiến pháp Việt Nam 2013, điều 5.3<ref>{{chú thích web|url=http://www.chinhphu.vn/portal/page/portal/chinhphu/NuocCHXHCNVietNam/ThongTinTongHop?categoryId=920&articleId=10052990|title=CHƯƠNG I – CHẾ ĐỘ CHÍNH TRỊ – HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM.|last=|first=|date=|website=CỔNG THÔNG TIN ĐIỆN TỬ CHÍNH PHỦ|archive-url=https://web.archive.org/web/20201214155716/http://chinhphu.vn/portal/page/portal/chinhphu/NuocCHXHCNVietNam/ThongTinTongHop?categoryId=920&articleId=10052990|archive-date = ngày 14 tháng 12 năm 2020 |url-status=|access-date=Ngày 10 tháng 9 năm 2019}}</ref>}}
+"
+Việt Nam,Hộp thông tin quốc gia, languages_type                ,languages_type," Ngôn ngữ thiểu số
+"
+Việt Nam,Hộp thông tin quốc gia, languages                ,languages," {{hlist|[[Tiếng Tày|Tày]]|[[Tiếng Thái|Thái]]|[[Tiếng Mường|Mường]]|[[Tiếng Hmong|Hmong]]|[[Tiếng Khmer|Khmer]]|''[[Ngôn ngữ tại Việt Nam|nhiều thứ tiếng khác]]...''}}
+"
+Việt Nam,Hộp thông tin quốc gia, demonym                ,demonym," [[Người Việt Nam]]
+"
+Việt Nam,Hộp thông tin quốc gia, ethnic_groups                ,ethnic_groups," {{vunblist
+ | 85,32% [[người Kinh|Kinh]]
+ | 1,92% [[người Tày|Tày]]
+ | 1,89% [[người Thái|Thái]]
+ | 1,51% [[người Mường|Mường]]
+ | 1,45% [[người H'Mông|Hmông]]
+ | 1,37% [[người Khmer|Khmer]]
+ | 6,54% [[Các dân tộc tại Việt Nam|khác]]{{sfn|Tổng cục Thống kê Việt Nam|2019}}}}
+"
+Việt Nam,Hộp thông tin quốc gia, ethnic_groups_year                ,ethnic_groups_year," 2019
+"
+Việt Nam,Hộp thông tin quốc gia, religion                ,religion," {{ublist|73,7% [[không tôn giáo]]/[[Tín ngưỡng dân gian Việt Nam|tín ngưỡng dân gian]] |14,9% [[Phật giáo Việt Nam|Phật giáo]] |8,5% [[Kitô giáo tại Việt Nam|Kitô giáo]] |1,5% [[Phật giáo Hòa Hảo|Hòa Hảo]] |1,2% [[Đạo Cao Đài|Cao Đài]] |0,2% [[Tôn giáo tại Việt Nam|khác]]<ref>{{chú thích web|url=https://www.state.gov/reports/2019-report-on-international-religious-freedom/vietnam/|title=2019 Report on International Religious Freedom: Vietnam|website=[[U.S. Department of State]]}}</ref>{{cần nguồn tốt hơn|t=trích nguồn thống kê của nhà nước ấy}}}}
+"
+Việt Nam,Hộp thông tin quốc gia, religion_year                ,religion_year," 2019
+"
+Việt Nam,Hộp thông tin quốc gia, government_type                ,government_type," [[Nhà nước cộng sản|Nhà nước Marxist-Leninist]] [[nhà nước đơn nhất|đơn nhất]]
+"
+Việt Nam,Hộp thông tin quốc gia, leader_title1                ,leader_title1," [[Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam|Tổng Bí thư]] và [[Chủ tịch nước Việt Nam|Chủ tịch nước]]
+"
+Việt Nam,Hộp thông tin quốc gia, leader_name1                ,leader_name1," [[Tô Lâm]]
+"
+Việt Nam,Hộp thông tin quốc gia, leader_title2                ,leader_title2," [[Thủ tướng Việt Nam|Thủ tướng Chính phủ]]
+"
+Việt Nam,Hộp thông tin quốc gia, leader_name2                ,leader_name2," [[Lê Minh Hưng]]
+"
+Việt Nam,Hộp thông tin quốc gia, leader_title4                ,leader_title4," [[Chủ tịch Quốc hội Việt Nam|Chủ tịch Quốc hội]]
+"
+Việt Nam,Hộp thông tin quốc gia, leader_name4                ,leader_name4," [[Trần Thanh Mẫn]]
+"
+Việt Nam,Hộp thông tin quốc gia, leader_title5                ,leader_title5," [[Thường trực Ban Bí thư Trung ương Đảng Cộng sản Việt Nam|Thường trực Ban Bí thư]]
+"
+Việt Nam,Hộp thông tin quốc gia, leader_name5                ,leader_name5," [[Trần Cẩm Tú]]
+"
+Việt Nam,Hộp thông tin quốc gia, legislature                ,legislature," [[Quốc hội Việt Nam]]
+"
+Việt Nam,Hộp thông tin quốc gia, sovereignty_type                ,sovereignty_type," [[Lịch sử Việt Nam|Thành lập]]
+"
+Việt Nam,Hộp thông tin quốc gia, established_event1                ,established_event1," [[Âu Lạc|Nhà nước đầu tiên được xác nhận]]
+"
+Việt Nam,Hộp thông tin quốc gia, established_date1                ,established_date1," {{khoảng}} 257 TCN
+"
+Việt Nam,Hộp thông tin quốc gia, established_event2                ,established_event2," [[Nhà Ngô|Độc lập khỏi Trung Hoa]]
+"
+Việt Nam,Hộp thông tin quốc gia, established_date2                ,established_date2," 939
+"
+Việt Nam,Hộp thông tin quốc gia, established_event3                ,established_event3," [[Nhà Nguyễn|Thống nhất bởi nhà Nguyễn]]
+"
+Việt Nam,Hộp thông tin quốc gia, established_date3                ,established_date3," 1802
+"
+Việt Nam,Hộp thông tin quốc gia, established_event4                ,established_event4," [[Hòa ước Quý Mùi, 1883|Hiệp ước bảo hộ]]
+"
+Việt Nam,Hộp thông tin quốc gia, established_date4                ,established_date4," 25 tháng 8 năm 1883
+"
+Việt Nam,Hộp thông tin quốc gia, established_event5                ,established_event5," [[Tuyên ngôn độc lập (Việt Nam Dân chủ Cộng hòa)|Tuyên ngôn độc lập]]
+"
+Việt Nam,Hộp thông tin quốc gia, established_date5                ,established_date5," 2 tháng 9 năm 1945
+"
+Việt Nam,Hộp thông tin quốc gia, established_event6                ,established_event6," [[Hiệp định Genève|Chia cắt hai miền]]
+"
+Việt Nam,Hộp thông tin quốc gia, established_date6                ,established_date6," 21 tháng 7 năm 1954
+"
+Việt Nam,Hộp thông tin quốc gia, established_event7                ,established_event7," [[Hiệp định Paris]]
+"
+Việt Nam,Hộp thông tin quốc gia, established_date7                ,established_date7," 27 tháng 1 năm 1973
+"
+Việt Nam,Hộp thông tin quốc gia, established_event8                ,established_event8," [[Sự kiện 30 tháng 4 năm 1975|Kết thúc Chiến tranh Việt Nam]]
+"
+Việt Nam,Hộp thông tin quốc gia, established_date8                ,established_date8," 30 tháng 4 năm 1975
+"
+Việt Nam,Hộp thông tin quốc gia, established_event9                ,established_event9," [[Quốc hội Việt Nam khóa VI|Tái thống nhất]]
+"
+Việt Nam,Hộp thông tin quốc gia, established_date9                ,established_date9," 2 tháng 7 năm 1976
+"
+Việt Nam,Hộp thông tin quốc gia, established_event10                ,established_event10," [[Đổi Mới]]
+"
+Việt Nam,Hộp thông tin quốc gia, established_date10                ,established_date10," 18 tháng 12 năm 1986
+"
+Việt Nam,Hộp thông tin quốc gia, established_event11                ,established_event11," [[Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 2013|Hiến pháp hiện hành]]
+"
+Việt Nam,Hộp thông tin quốc gia, established_date11                ,established_date11," 28 tháng 11 năm 2013
+"
+Việt Nam,Hộp thông tin quốc gia, area_rank                ,area_rank," 66{{efn|theo [[Danh sách quốc gia theo diện tích]]}}
+"
+Việt Nam,Hộp thông tin quốc gia, area_km2                ,area_km2," 331212
+"
+Việt Nam,Hộp thông tin quốc gia, area_sq_mi                ,area_sq_mi," 128565
+"
+Việt Nam,Hộp thông tin quốc gia, area_label2                ,area_label2," Đất liền
+"
+Việt Nam,Hộp thông tin quốc gia, area_data2                ,area_data2," 331.212 [[Kilômét vuông|km{{smallsup|2}}]]<br/>127.882 [[Dặm vuông|mi{{smallsup|2}}]]
+"
+Việt Nam,Hộp thông tin quốc gia, area_footnote                ,area_footnote," <ref name=""area_2022"">{{cite act|index=3048/QĐ-BTNMT|title=Phê duyệt và công bố kết quả thống kê diện tích đất đai năm 2022|language=vi|trans-title=Approval and announcement of land area statistics for 2022|url=https://monre.gov.vn/VanBan/Lists/VanBanChiDao/Attachments/3012/3048-qd-btnmt_Signed.pdf|legislature=[[Bộ Tài nguyên và Môi trường]]|year= 2022|type=Quyết định}}{{Dead link|date=Tháng 4 năm 2024 |bot=InternetArchiveBot |fix-attempted=yes}}</ref>{{efn|Diện tích của Việt Nam được đề cập ở đây dựa trên số liệu thống kê diện tích đất đai do chính phủ Việt Nam cung cấp. Hiện cũng tồn tại các con số thay thế khác. Theo CIA World Factbook, tổng diện tích của Việt Nam là 331.210 ki-lô-mét vuông,<ref name=""Vietnam"">{{Chú thích web |title=Việt Nam |date=17 tháng 1 năm 2024 |work=The World Factbook |url=https://www.cia.gov/the-world-factbook/countries/vietnam/ |access-date=23 tháng 1 năm 2024 |publisher=[[Cơ quan Tình báo Trung ương]]|language=en |archive-date=10 tháng 6 năm 2021 |archive-url=https://web.archive.org/web/20210610173010/https://www.cia.gov/the-world-factbook/countries/vietnam/ |url-status=dead}}</ref> trong khi BBC trích dẫn một phép đo là 331.699 ki-lô-mét vuông.<ref name=""Vietnam country profile"">{{Chú thích web |title=Hồ sơ quốc gia Việt Nam |url=https://www.bbc.com/news/world-asia-pacific-16567315 |website=BBC News |access-date=27 tháng 1 năm 2021 |date=24 tháng 2 năm 2020 |archive-date=28 tháng 5 năm 2020 |archive-url=https://web.archive.org/web/20200528080124/https://www.bbc.com/news/world-asia-pacific-16567315 |url-status=live|language=en}}</ref>}}
+"
+Việt Nam,Hộp thông tin quốc gia, percent_water                ,percent_water," 6,4<ref name=""IndexMundi_Geography_2011"">{{Chú thích web |title=Vietnam Geography Profile 2018 |url=https://www.indexmundi.com/vietnam/geography_profile.html |website=IndexMundi |date=2011-07-12 |access-date=2026-05-13 |archive-url=https://web.archive.org/web/20190119170940/https://www.indexmundi.com/vietnam/geography_profile.html |archive-date=2019-01-19 |url-status=live |language=en}}</ref>
+"
+Việt Nam,Hộp thông tin quốc gia, population_estimate                ,population_estimate," 102.300.000<ref name=""gso-pop"">{{cite report |date=January 2026 |title=Infographic social-economic situation in the 4th quarter and 2025 |url=https://www.nso.gov.vn/en/data-and-statistics/2026/01/infographic-social-economic-situation-in-the-4th-quarter-and-2025/ |publisher=[[Cục Thống kê (Việt Nam)|Cục Thống kê]] |access-date=}}</ref>
+"
+Việt Nam,Hộp thông tin quốc gia, population_estimate_rank                ,population_estimate_rank," 16
+"
+Việt Nam,Hộp thông tin quốc gia, population_estimate_year                ,population_estimate_year," 2025
+"
+Việt Nam,Hộp thông tin quốc gia, population_density_km2                ,population_density_km2," 309
+"
+Việt Nam,Hộp thông tin quốc gia, population_density_sq_mi                ,population_density_sq_mi," 800,3
+"
+Việt Nam,Hộp thông tin quốc gia, GDP_PPP                ,gdp_ppp," {{increase}}
+ 2,025 nghìn tỷ đô la Mỹ<ref name=""IMFWEO.VN"" >{{Chú thích web |url=https://data.imf.org/en/Data-Explorer?datasetUrn=IMF.RES:WEO(9.0.0) |title=World Economic Outlook Database (April 2026 Edition) |publisher=[[Quỹ Tiền tệ Quốc tế]] |website=www.imf.org |date=14 April 2026 |access-date=19 April 2026}}</ref>
+"
+Việt Nam,Hộp thông tin quốc gia, GDP_PPP_rank                ,gdp_ppp_rank," 24
+"
+Việt Nam,Hộp thông tin quốc gia, GDP_PPP_year                ,gdp_ppp_year," 2026
+"
+Việt Nam,Hộp thông tin quốc gia, GDP_PPP_per_capita                ,gdp_ppp_per_capita," {{increase}} 19.649 đô la Mỹ<ref name=""IMFWEO.VN""/>
+"
+Việt Nam,Hộp thông tin quốc gia, GDP_PPP_per_capita_rank                ,gdp_ppp_per_capita_rank," 102
+"
+Việt Nam,Hộp thông tin quốc gia, GDP_nominal                ,gdp_nominal," {{increase}} 527,266 tỷ đô la Mỹ<ref name=""IMFWEO.VN""/>
+"
+Việt Nam,Hộp thông tin quốc gia, GDP_nominal_rank                ,gdp_nominal_rank," 33
+"
+Việt Nam,Hộp thông tin quốc gia, GDP_nominal_year                ,gdp_nominal_year," 2025
+"
+Việt Nam,Hộp thông tin quốc gia, GDP_nominal_per_capita                ,gdp_nominal_per_capita," {{increase}} 5.115 đô la Mỹ<ref name=""IMFWEO.VN""/>
+"
+Việt Nam,Hộp thông tin quốc gia, GDP_nominal_per_capita_rank                ,gdp_nominal_per_capita_rank," 121
+"
+Việt Nam,Hộp thông tin quốc gia, Gini                ,gini," 35
+"
+Việt Nam,Hộp thông tin quốc gia, Gini_year                ,gini_year," 2025
+"
+Việt Nam,Hộp thông tin quốc gia, Gini_ref                ,gini_ref," <ref>{{Chú thích web|url=https://www.statista.com/outlook/co/socioeconomic-indicators/vietnam|tiêu đề=Socioeconomic Indicators - Vietnam {{!}} Market Forecast|website=Statista|ngôn ngữ=en|ngày truy cập=2025-04-29}}</ref>
+"
+Việt Nam,Hộp thông tin quốc gia, HDI                ,hdi," 0,726
+"
+Việt Nam,Hộp thông tin quốc gia, HDI_year                ,hdi_year," 2023
+"
+Việt Nam,Hộp thông tin quốc gia, HDI_change                ,hdi_change," increase
+"
+Việt Nam,Hộp thông tin quốc gia, HDI_ref                ,hdi_ref," <ref name=""UNHDR"">{{Chú thích web |date=6 May 2025 |title=Human Development Report 2025 |url=https://hdr.undp.org/system/files/documents/global-report-document/hdr2025reporten.pdf|url-status=live |archive-url=https://web.archive.org/web/20250506051232/https://hdr.undp.org/system/files/documents/global-report-document/hdr2025reporten.pdf |archive-date=6 May 2025 |access-date=6 May 2025 |publisher=[[Chương trình Phát triển của Liên Hợp Quốc ]] |language=en}}</ref>
+"
+Việt Nam,Hộp thông tin quốc gia, HDI_rank                ,hdi_rank," 93
+"
+Việt Nam,Hộp thông tin quốc gia, currency                ,currency," [[Đồng (tiền)|Đồng]] (₫)
+"
+Việt Nam,Hộp thông tin quốc gia, currency_code                ,currency_code," VND
+"
+Việt Nam,Hộp thông tin quốc gia, time_zone                ,time_zone," [[UTC+07:00|Giờ Đông Dương]]
+"
+Việt Nam,Hộp thông tin quốc gia, utc_offset                ,utc_offset," +07:00
+"
+Việt Nam,Hộp thông tin quốc gia, iso3166code                ,iso3166code," VN
+"
+Việt Nam,Hộp thông tin quốc gia, date_format                ,date_format," dd.mm.yyyy
+"
+Việt Nam,Hộp thông tin quốc gia, cctld                ,cctld," [[.vn]]
+"
+Việt Nam,Hộp thông tin quốc gia, calling_code                ,calling_code," [[Mã điện thoại Việt Nam|+84]]
+"
+Việt Nam,Hộp thông tin quốc gia, electricity                ,electricity," [[Nguồn điện thương dụng|220 V – 50 Hz]]
+"
+Việt Nam,Hộp thông tin quốc gia, drives_on                ,drives_on," phải
+"
+Việt Nam,Hộp thông tin quốc gia, Languages type                ,languages_type," 
 "
