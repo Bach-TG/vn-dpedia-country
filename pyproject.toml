@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Vietnamese Wikipedia country data pipeline for a Semantic Web prototype"
 readme = "README.md"
 requires-python = ">=3.12,<3.13"
-dependencies = ["requests", "mwparserfromhell", "pandas", "pydantic", "PyYAML", "tqdm"]
+dependencies = ["requests", "mwparserfromhell", "pandas", "pydantic", "PyYAML", "tqdm", "rdflib"]
 
 [project.scripts]
 vi-dbpedia-data = "vi_dbpedia_data.cli:main"

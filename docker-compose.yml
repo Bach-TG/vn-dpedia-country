@@ -1,0 +1,16 @@
+services:
+  fuseki:
+    image: stain/jena-fuseki:latest
+    ports:
+      - "3030:3030"
+    environment:
+      - ADMIN_PASSWORD=admin
+    volumes:
+      - ./data/rdf/countries.ttl:/staging/countries.ttl:ro
+    command: /jena-fuseki/fuseki-server --file=/staging/countries.ttl /vi-dbpedia
+
+# Usage: 
+# 1. Run `uv run vi-dbpedia-data rdf` to generate data/rdf/countries.ttl
+# 2. Run `docker-compose up -d`
+# 3. Access SPARQL endpoint at http://localhost:3030
+
