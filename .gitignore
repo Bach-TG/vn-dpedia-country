@@ -10,3 +10,4 @@ htmlcov/
 data/raw/pages/*.json
 data/raw/collection_manifest.csv
 data/interim/*.jsonl
+video_*

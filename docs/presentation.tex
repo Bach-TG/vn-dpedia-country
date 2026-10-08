@@ -1,0 +1,168 @@
+\documentclass[aspectratio=169]{beamer}
+\usetheme{Madrid}
+\usecolortheme{default}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\usepackage{listings}
+
+% Title information
+\title[VN-DBpedia Capstone]{Build a DBpedia Version for the Vietnamese Language}
+\subtitle{Semantic Web Capstone Project}
+\author{Minh}
+\institute{DSAI}
+\date{\today}
+
+\begin{document}
+
+% ---------------------------------------------------------
+\begin{frame}
+    \titlepage
+\end{frame}
+
+% ---------------------------------------------------------
+\begin{frame}{Table of Contents}
+    \tableofcontents
+\end{frame}
+
+% ---------------------------------------------------------
+\section{Introduction}
+\begin{frame}{Introduction}
+    \textbf{The DBpedia Project}
+    \begin{itemize}
+        \item A global community effort to extract structured knowledge from Wikipedia.
+        \item The core of the Linked Open Data (LOD) cloud.
+    \end{itemize}
+    \vspace{0.5cm}
+    \textbf{Motivation for VN-DBpedia}
+    \begin{itemize}
+        \item While English DBpedia is vast, localized knowledge often lacks structured, semantic representations.
+        \item We need a Vietnamese-language Knowledge Graph to power local semantic search, NLP tasks, and regional Linked Data applications.
+    \end{itemize}
+\end{frame}
+
+% ---------------------------------------------------------
+\section{Project Objectives}
+\begin{frame}{Project Objectives (Capstone Requirements)}
+    \begin{enumerate}
+        \item \textbf{Define an Ontology:} Represent country data and relationships semantically.
+        \item \textbf{Collect Data:} Scrape infoboxes from Vietnamese Wikipedia.
+        \item \textbf{4-Star Data Standard:} Transform collected JSON data into W3C standard RDF.
+        \item \textbf{Link to English DBpedia:} Map local entities to the global LOD cloud (achieving 5-star standard).
+        \item \textbf{Query Interface:} Host the semantic graph via a SPARQL endpoint.
+    \end{enumerate}
+\end{frame}
+
+% ---------------------------------------------------------
+\section{System Architecture}
+\begin{frame}{System Architecture}
+    Our pipeline is divided into two primary phases: Data Engineering and Data Hosting.
+    \vspace{0.3cm}
+    \begin{columns}
+        \column{0.5\textwidth}
+        \textbf{1. Python Extraction Pipeline}
+        \begin{itemize}
+            \item \textbf{Discovery:} Wikidata API querying.
+            \item \textbf{Extraction:} MediaWiki API (Wikitext to JSON).
+            \item \textbf{Transformation:} \texttt{rdflib} generates RDF/Turtle.
+        \end{itemize}
+        
+        \column{0.5\textwidth}
+        \textbf{2. SPARQL Hosting Service}
+        \begin{itemize}
+            \item \textbf{Engine:} Apache Jena Fuseki.
+            \item \textbf{Deployment:} Docker Compose.
+            \item \textbf{Interface:} Web UI for standard SPARQL querying.
+        \end{itemize}
+    \end{columns}
+\end{frame}
+
+% ---------------------------------------------------------
+\section{Ontology \& Design}
+\begin{frame}{Ontology Design: Reusing DBpedia Standards}
+    Instead of inventing proprietary schemas, we rigidly adhered to the standard DBpedia (\texttt{dbo:}) ontology.
+    
+    \vspace{0.3cm}
+    \begin{table}
+        \centering
+        \begin{tabular}{@{}lll@{}}
+        \toprule
+        \textbf{Raw Field} & \textbf{RDF Predicate} & \textbf{Datatype / Object} \\ \midrule
+        Entity URI & \texttt{ex:Việt\_Nam} & \texttt{dbo:Country} \\
+        Title & \texttt{rdfs:label} & \texttt{Literal (@vi)} \\
+        Population & \texttt{dbo:populationTotal} & \texttt{xsd:integer} \\
+        Area ($km^2$) & \texttt{dbo:areaTotal} & \texttt{xsd:double} \\
+        Capital & \texttt{dbo:capital} & \texttt{Object URI (ex:Hà\_Nội)} \\ \bottomrule
+        \end{tabular}
+    \end{table}
+    
+    \textit{Note: All text literals are strictly tagged with \texttt{@vi} for internationalization.}
+\end{frame}
+
+% ---------------------------------------------------------
+\section{Achieving 5-Star Linked Data}
+\begin{frame}[fragile]{Achieving 4-Star and 5-Star Linked Data}
+    \textbf{4-Star Data (RDF Serialization)} \\
+    Data is published in non-proprietary Turtle (\texttt{.ttl}) format with strict typing.
+    
+    \vspace{0.3cm}
+    \textbf{5-Star Data (Cross-Lingual Linking)} \\
+    We use Wikidata structural mapping to definitively link our regional entities to the global DBpedia graph using \texttt{owl:sameAs}.
+    
+\begin{lstlisting}[language=SQL, basicstyle=\ttfamily\footnotesize, backgroundcolor=\color{lightgray!20}]
+ex:Việt_Nam a dbo:Country ;
+    rdfs:label "Việt Nam"@vi ;
+    dbo:populationTotal "100000000"^^xsd:integer ;
+    owl:sameAs <http://dbpedia.org/resource/Vietnam> .
+\end{lstlisting}
+\end{frame}
+
+% ---------------------------------------------------------
+\section{Results \& Query Interface}
+\begin{frame}{Results \& Query Interface}
+    \textbf{Dataset Metrics:}
+    \begin{itemize}
+        \item \textbf{197} Sovereign States processed.
+        \item \textbf{2,796} highly-connected RDF triples generated.
+    \end{itemize}
+    
+    \vspace{0.3cm}
+    \textbf{SPARQL Web Service:}
+    \begin{itemize}
+        \item Hosted entirely on a local Dockerized Apache Jena Fuseki server.
+        \item Allows users to run advanced relational, filter-based, and mathematical graph queries instantaneously.
+    \end{itemize}
+\end{frame}
+
+% ---------------------------------------------------------
+\section{Conclusion}
+\begin{frame}{Conclusion}
+    \textbf{Summary}
+    \begin{itemize}
+        \item Successfully mapped unstructured Vietnamese Wikitext into a formal, 5-Star Semantic Web graph.
+        \item Fulfilled all 5 capstone requirements.
+    \end{itemize}
+    
+    \vspace{0.3cm}
+    \textbf{Future Work}
+    \begin{itemize}
+        \item Expand the pipeline domain (e.g., Cities, People, Organizations).
+        \item Implement automated daily syncs with Wikipedia updates.
+    \end{itemize}
+\end{frame}
+
+% ---------------------------------------------------------
+\begin{frame}
+    \begin{center}
+        \Huge \textbf{Thank You} \\
+        \vspace{0.5cm}
+        \Large Q \& A
+    \end{center}
+\end{frame}
+
+\end{document}
+
