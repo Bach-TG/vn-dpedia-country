@@ -1,16 +1,26 @@
 services:
   fuseki:
-    image: stain/jena-fuseki:latest
+    # Pinned: `latest` can change under the demo. 5.1.0 = Apache Jena Fuseki 5.1.0.
+    image: stain/jena-fuseki:5.1.0
     ports:
       - "3030:3030"
     environment:
       - ADMIN_PASSWORD=admin
     volumes:
-      - ./data/rdf/countries.ttl:/staging/countries.ttl:ro
-    command: /jena-fuseki/fuseki-server --file=/staging/countries.ttl /vi-dbpedia
+      - ./ontology:/staging/ontology:ro
+      - ./data/rdf:/staging/rdf:ro
+    # In-memory, read-only dataset /vi-dbpedia with the ontology (T-Box),
+    # the country data and its VoID description.
+    command: >
+      /jena-fuseki/fuseki-server
+      --file=/staging/ontology/vi-dbpedia.ttl
+      --file=/staging/rdf/countries.ttl
+      --file=/staging/rdf/void.ttl
+      /vi-dbpedia
 
-# Usage: 
-# 1. Run `uv run vi-dbpedia-data rdf` to generate data/rdf/countries.ttl
-# 2. Run `docker-compose up -d`
-# 3. Access SPARQL endpoint at http://localhost:3030
-
+# Usage:
+# 1. uv run vi-dbpedia-data link-check   (verifies English DBpedia links)
+# 2. uv run vi-dbpedia-data rdf          (writes data/rdf/countries.ttl and void.ttl)
+# 3. docker compose up -d
+# 4. Open http://localhost:3030 (dataset /vi-dbpedia) or query
+#    http://localhost:3030/vi-dbpedia/sparql with the files in data/queries/

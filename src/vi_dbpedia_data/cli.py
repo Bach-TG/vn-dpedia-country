@@ -1,14 +1,17 @@
-"""Command-line orchestration for the Member-1-only country data pipeline."""
+"""Command-line orchestration: country data pipeline, link checks and RDF output."""
 
 import argparse
 import json
 import logging
+from collections import Counter
 from pathlib import Path
 
 from vi_dbpedia_data.collect import collect, collect_reference
 from vi_dbpedia_data.discover import discover, pilot_candidates
 from vi_dbpedia_data.extract import process
 from vi_dbpedia_data.inspect_infobox import inspect
+from vi_dbpedia_data.links import LINK_CHECK_PATH, LINKED_STATUSES, check_dbpedia_links
+from vi_dbpedia_data.rdf import generate_rdf
 from vi_dbpedia_data.reports import (
     generate_candidate_audit,
     generate_reports,
@@ -51,6 +54,8 @@ def _parser() -> argparse.ArgumentParser:
         "review-summary",
     ):
         commands.add_parser(name)
+    commands.add_parser("link-check", help="Verify English DBpedia links via DBpedia SPARQL")
+    commands.add_parser("rdf", help="Write the Turtle dataset and its VoID description")
     return parser
 
 
@@ -79,6 +84,22 @@ def _finish(root: Path) -> None:
     )
     summary = generate_reports(root)
     print(f"report: {json.dumps(summary, ensure_ascii=False)} | {root / 'data/reports'}")
+    _link_check(root)
+    _rdf(root)
+
+
+def _link_check(root: Path) -> None:
+    rows = check_dbpedia_links(load_settings(root), root)
+    linked = sum(row["status"] in LINKED_STATUSES for row in rows)
+    _print_counts(len(rows), linked, str(root / LINK_CHECK_PATH))
+    print(json.dumps(Counter(row["status"] for row in rows), ensure_ascii=False))
+
+
+def _rdf(root: Path) -> None:
+    summary = generate_rdf(root)
+    print(f"rdf: {json.dumps(summary, ensure_ascii=False)} | {root / 'data/rdf'}")
+    if summary["dbpedia_link_status"].get("unverified"):
+        print("note: unverified English DBpedia links; run `link-check` before `rdf`")
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -167,6 +188,10 @@ def main(argv: list[str] | None = None) -> int:
             str(root / "data/reports/manual_link_review.csv"),
         )
         print(json.dumps(summary, ensure_ascii=False))
+    elif args.command == "link-check":
+        _link_check(root)
+    elif args.command == "rdf":
+        _rdf(root)
     return 0
 
 

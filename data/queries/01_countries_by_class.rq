@@ -1,0 +1,18 @@
+# Entities by class: countries (dbo:Country) with their capitals.
+# A capital without a linked article is only available as text (vio:capitalName).
+PREFIX dbo:  <http://dbpedia.org/ontology/>
+PREFIX vio:  <http://vi.dbpedia.org/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?country ?countryLabel ?capitalLabel
+WHERE {
+  ?country a dbo:Country ;
+           rdfs:label ?countryLabel .
+  OPTIONAL {
+    { ?country dbo:capital ?capital . ?capital rdfs:label ?capitalLabel . }
+    UNION
+    { ?country vio:capitalName ?capitalLabel . }
+  }
+}
+ORDER BY ?countryLabel
+LIMIT 50

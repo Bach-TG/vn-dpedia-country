@@ -1,0 +1,29 @@
+# Federated query (needs Internet access): follow owl:sameAs into English DBpedia and
+# compare the Vietnamese Wikipedia population with the English DBpedia value.
+# One remote call per country: the sub-select keeps it to the 5 most populous, since
+# the public DBpedia endpoint takes seconds per call. Run it once before a demo.
+PREFIX dbo:  <http://dbpedia.org/ontology/>
+PREFIX owl:  <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?countryLabel ?englishLabel ?populationVi ?populationEn
+WHERE {
+  {
+    SELECT ?country ?countryLabel ?populationVi ?dbpedia
+    WHERE {
+      ?country a dbo:Country ;
+               rdfs:label ?countryLabel ;
+               dbo:populationTotal ?populationVi ;
+               owl:sameAs ?dbpedia .
+      FILTER(STRSTARTS(STR(?dbpedia), "http://dbpedia.org/resource/"))
+    }
+    ORDER BY DESC(?populationVi)
+    LIMIT 5
+  }
+  SERVICE <https://dbpedia.org/sparql> {
+    ?dbpedia rdfs:label ?englishLabel .
+    FILTER(LANG(?englishLabel) = "en")
+    OPTIONAL { ?dbpedia dbo:populationTotal ?populationEn }
+  }
+}
+ORDER BY DESC(?populationVi)

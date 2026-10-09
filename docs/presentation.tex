@@ -1,14 +1,15 @@
+% !TEX program = xelatex
+% Compile with XeLaTeX (or LuaLaTeX): pdfLaTeX's T1 fonts have no Vietnamese
+% letters such as "ệ" (Việt_Nam, Hà_Nội).
 \documentclass[aspectratio=169]{beamer}
 \usetheme{Madrid}
 \usecolortheme{default}
 
 % Packages
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
+\usepackage{fontspec}
 \usepackage{graphicx}
 \usepackage{booktabs}
 \usepackage{hyperref}
-\usepackage{listings}
 
 % Title information
 \title[VN-DBpedia Capstone]{Build a DBpedia Version for the Vietnamese Language}
@@ -84,7 +85,7 @@
 % ---------------------------------------------------------
 \section{Ontology \& Design}
 \begin{frame}{Ontology Design: Reusing DBpedia Standards}
-    Instead of inventing proprietary schemas, we rigidly adhered to the standard DBpedia (\texttt{dbo:}) ontology.
+    Instead of inventing proprietary schemas, we reuse the standard DBpedia (\texttt{dbo:}) ontology and add \texttt{vio:} terms only where DBpedia has none (\texttt{ontology/vi-dbpedia.ttl}).
     
     \vspace{0.3cm}
     \begin{table}
@@ -92,11 +93,12 @@
         \begin{tabular}{@{}lll@{}}
         \toprule
         \textbf{Raw Field} & \textbf{RDF Predicate} & \textbf{Datatype / Object} \\ \midrule
-        Entity URI & \texttt{ex:Việt\_Nam} & \texttt{dbo:Country} \\
+        Entity URI & \texttt{vir:Việt\_Nam} & \texttt{dbo:Country} \\
         Title & \texttt{rdfs:label} & \texttt{Literal (@vi)} \\
-        Population & \texttt{dbo:populationTotal} & \texttt{xsd:integer} \\
-        Area ($km^2$) & \texttt{dbo:areaTotal} & \texttt{xsd:double} \\
-        Capital & \texttt{dbo:capital} & \texttt{Object URI (ex:Hà\_Nội)} \\ \bottomrule
+        Population & \texttt{dbo:populationTotal} & \texttt{xsd:nonNegativeInteger} \\
+        Area ($m^2$) & \texttt{dbo:areaTotal} & \texttt{xsd:double} \\
+        Capital & \texttt{dbo:capital} & \texttt{Object URI (vir:Hà\_Nội, dbo:City)} \\
+        Calling code & \texttt{vio:callingCode} & \texttt{xsd:string} (new term) \\ \bottomrule
         \end{tabular}
     \end{table}
     
@@ -111,14 +113,18 @@
     
     \vspace{0.3cm}
     \textbf{5-Star Data (Cross-Lingual Linking)} \\
-    We use Wikidata structural mapping to definitively link our regional entities to the global DBpedia graph using \texttt{owl:sameAs}.
-    
-\begin{lstlisting}[language=SQL, basicstyle=\ttfamily\footnotesize, backgroundcolor=\color{lightgray!20}]
-ex:Việt_Nam a dbo:Country ;
+    English DBpedia links come from Wikipedia interlanguage links, verified against the DBpedia SPARQL endpoint (redirects resolved, disambiguation pages dropped); every country is also linked to Wikidata.
+
+    % semiverbatim, not listings: listings garbles Vietnamese letters such as "ệ".
+    \begin{exampleblock}{Turtle (\texttt{data/rdf/countries.ttl})}
+    \footnotesize
+\begin{semiverbatim}
+vir:Việt_Nam a dbo:Country ;
     rdfs:label "Việt Nam"@vi ;
-    dbo:populationTotal "100000000"^^xsd:integer ;
-    owl:sameAs <http://dbpedia.org/resource/Vietnam> .
-\end{lstlisting}
+    dbo:populationTotal "102300000"^^xsd:nonNegativeInteger ;
+    owl:sameAs dbr:Vietnam , wd:Q881 .
+\end{semiverbatim}
+    \end{exampleblock}
 \end{frame}
 
 % ---------------------------------------------------------
@@ -127,7 +133,8 @@ ex:Việt_Nam a dbo:Country ;
     \textbf{Dataset Metrics:}
     \begin{itemize}
         \item \textbf{197} Sovereign States processed.
-        \item \textbf{2,796} highly-connected RDF triples generated.
+        \item \textbf{4,082} RDF triples describing \textbf{704} typed entities.
+        \item \textbf{196/197} verified links to English DBpedia, \textbf{197/197} to Wikidata.
     \end{itemize}
     
     \vspace{0.3cm}

@@ -3,7 +3,7 @@ from unittest.mock import Mock
 import pytest
 import requests
 
-from vi_dbpedia_data.utils import HttpClient, load_settings
+from vi_dbpedia_data.utils import HttpClient, load_settings, wiki_iri_name
 
 
 def test_http_retry_timeout_user_agent_and_backoff(monkeypatch):
@@ -39,3 +39,14 @@ def test_http_non_retryable_api_error(monkeypatch):
             "https://vi.wikipedia.org/w/api.php", {}
         )
     assert session.get.call_count == 1
+
+
+def test_wiki_iri_name_matches_mediawiki_and_dbpedia_conventions():
+    # Same page, same IRI: first letter and underscores are not significant.
+    assert wiki_iri_name("tiếng_Pháp") == wiki_iri_name(" Tiếng  Pháp ") == "Tiếng_Pháp"
+    # IRIs keep Unicode, apostrophes and commas; only IRI-unsafe characters are escaped.
+    assert wiki_iri_name("Côte d'Ivoire") == "Côte_d'Ivoire"
+    assert wiki_iri_name("Bonaire, Sint Eustatius and Saba") == "Bonaire,_Sint_Eustatius_and_Saba"
+    assert wiki_iri_name('A "b" ?') == "A_%22b%22_%3F"
+    with pytest.raises(ValueError):
+        wiki_iri_name(" _ ")

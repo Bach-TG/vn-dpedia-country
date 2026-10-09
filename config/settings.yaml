@@ -1,5 +1,7 @@
 wikidata_sparql_url: https://query.wikidata.org/sparql
 wikipedia_api_url: https://vi.wikipedia.org/w/api.php
+# Used only by `link-check` to verify English DBpedia owl:sameAs targets.
+dbpedia_sparql_url: https://dbpedia.org/sparql
 user_agent: "HUST-ViDBpediaCountryData/0.1 (academic research; contact: data-team@example.org)"
 request_timeout: 25
 retry_count: 3

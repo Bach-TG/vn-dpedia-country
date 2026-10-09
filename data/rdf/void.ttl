@@ -1,0 +1,68 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix vio: <http://vi.dbpedia.org/ontology/> .
+@prefix vir: <http://vi.dbpedia.org/resource/> .
+@prefix viv: <http://vi.dbpedia.org/void/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+viv:Dataset_class_City void:class dbo:City ;
+    void:entities 199 .
+
+viv:Dataset_class_Country void:class dbo:Country ;
+    void:entities 197 .
+
+viv:Dataset_class_Currency void:class dbo:Currency ;
+    void:entities 139 .
+
+viv:Dataset_class_Language void:class dbo:Language ;
+    void:entities 169 .
+
+viv:Linkset_dbpedia_en a void:Linkset ;
+    void:linkPredicate owl:sameAs ;
+    void:objectsTarget viv:dbpedia_en ;
+    void:subjectsTarget viv:Dataset ;
+    void:triples 196 .
+
+viv:Linkset_wikidata a void:Linkset ;
+    void:linkPredicate owl:sameAs ;
+    void:objectsTarget viv:wikidata ;
+    void:subjectsTarget viv:Dataset ;
+    void:triples 197 .
+
+viv:dbpedia_en a void:Dataset ;
+    void:sparqlEndpoint <https://dbpedia.org/sparql> ;
+    void:uriSpace "http://dbpedia.org/resource/" ;
+    foaf:homepage <https://dbpedia.org/> .
+
+viv:wikidata a void:Dataset ;
+    void:sparqlEndpoint <https://query.wikidata.org/sparql> ;
+    void:uriSpace "http://www.wikidata.org/entity/" ;
+    foaf:homepage <https://www.wikidata.org/> .
+
+viv:Dataset a void:Dataset ;
+    dct:description "Dữ liệu quốc gia trích xuất từ hộp thông tin Wikipedia tiếng Việt, liên kết tới English DBpedia và Wikidata."@vi ;
+    dct:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+    dct:modified "2026-09-29"^^xsd:date ;
+    dct:source <https://vi.wikipedia.org/> ;
+    dct:title "Vietnamese DBpedia: countries"@en,
+        "Vietnamese DBpedia: quốc gia"@vi ;
+    void:classPartition viv:Dataset_class_City,
+        viv:Dataset_class_Country,
+        viv:Dataset_class_Currency,
+        viv:Dataset_class_Language ;
+    void:classes 4 ;
+    void:distinctSubjects 704 ;
+    void:entities 704 ;
+    void:exampleResource vir:Việt_Nam ;
+    void:properties 17 ;
+    void:sparqlEndpoint <http://localhost:3030/vi-dbpedia/sparql> ;
+    void:subset viv:Linkset_dbpedia_en,
+        viv:Linkset_wikidata ;
+    void:triples 4082 ;
+    void:uriSpace "http://vi.dbpedia.org/resource/" ;
+    void:vocabulary dbo:,
+        vio: .
+

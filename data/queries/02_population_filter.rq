@@ -1,0 +1,17 @@
+# Entities filtered by a domain field: countries with more than 50 million people,
+# with population density computed from dbo:areaTotal (stored in m²).
+PREFIX dbo:  <http://dbpedia.org/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd:  <http://www.w3.org/2001/XMLSchema#>
+
+SELECT ?countryLabel ?population ?areaKm2 ?density
+WHERE {
+  ?country a dbo:Country ;
+           rdfs:label ?countryLabel ;
+           dbo:populationTotal ?population .
+  FILTER (?population > 50000000)
+  OPTIONAL { ?country dbo:areaTotal ?area }
+  BIND(xsd:decimal(?area / 1000000) AS ?areaKm2)
+  BIND(xsd:integer(ROUND(?population / ?areaKm2)) AS ?density)
+}
+ORDER BY DESC(?population)

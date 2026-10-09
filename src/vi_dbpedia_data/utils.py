@@ -5,6 +5,7 @@ import json
 import logging
 import re
 import time
+import unicodedata
 from datetime import UTC, datetime
 from pathlib import Path
 from urllib.parse import quote, urlparse
@@ -20,6 +21,7 @@ ROOT = Path(__file__).resolve().parents[2]
 class Settings(BaseModel):
     wikidata_sparql_url: str
     wikipedia_api_url: str
+    dbpedia_sparql_url: str = "https://dbpedia.org/sparql"
     user_agent: str
     request_timeout: float = Field(gt=0)
     retry_count: int = Field(ge=0)
@@ -104,11 +106,38 @@ def read_csv(path: Path) -> list[dict[str, str]]:
         return list(csv.DictReader(stream))
 
 
+#: Characters DBpedia escapes in resource IRIs; everything else, including
+#: Vietnamese letters, apostrophes and commas, is kept as-is.
+_IRI_ESCAPES = {char: f"%{ord(char):02X}" for char in '"#%<>?[\\]^`{|}'}
+
+
+def canonical_title(title: str) -> str:
+    """MediaWiki page title as displayed: `tiếng_Pháp` -> `Tiếng Pháp`.
+
+    MediaWiki treats the first letter as case-insensitive and underscores as
+    spaces, so both spellings name the same page.
+    """
+    title = re.sub(r"[\s_]+", " ", unicodedata.normalize("NFC", title)).strip()
+    if not title:
+        raise ValueError("Empty MediaWiki title")
+    return title[:1].upper() + title[1:]
+
+
+def wiki_iri_name(title: str) -> str:
+    """DBpedia-style IRI local name for a MediaWiki title (both vi and en wikis).
+
+    Spellings of the same page give the same IRI. Non-ASCII characters stay
+    unencoded, as in DBpedia IRIs.
+    """
+    name = canonical_title(title).replace(" ", "_")
+    return "".join(_IRI_ESCAPES.get(char, char) for char in name)
+
+
 def article_url(title: str, *, lang: str = "vi", dbpedia: bool = False) -> str:
     """Encode a MediaWiki article title, without encoding the path separators."""
-    title = title.strip().replace(" ", "_")
     if dbpedia:
-        return f"http://dbpedia.org/resource/{quote(title, safe='()_-')}"
+        return f"http://dbpedia.org/resource/{wiki_iri_name(title)}"
+    title = title.strip().replace(" ", "_")
     if lang not in {"vi", "en"}:
         raise ValueError(f"Unexpected Wikipedia language: {lang}")
     return f"https://{lang}.wikipedia.org/wiki/{quote(title, safe='()_-')}"
@@ -127,7 +156,7 @@ class HttpClient:
         self.session = session or requests.Session()
         self.session.headers.update({"User-Agent": settings.user_agent})
 
-    def get_json(self, url: str, params: dict) -> dict:
+    def get_json(self, url: str, params: dict, *, accept: str = "application/json") -> dict:
         for attempt in range(self.settings.retry_count + 1):
             try:
                 if self.settings.polite_delay:
@@ -136,7 +165,7 @@ class HttpClient:
                     url,
                     params=params,
                     timeout=self.settings.request_timeout,
-                    headers={"Accept": "application/json"},
+                    headers={"Accept": accept},
                 )
                 response.raise_for_status()
                 result = response.json()

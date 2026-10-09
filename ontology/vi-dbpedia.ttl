@@ -1,0 +1,160 @@
+# Vietnamese DBpedia ontology for the country domain (T-Box).
+#
+# Design policy:
+# - Reuse DBpedia Ontology (dbo:) classes and properties wherever their meaning
+#   matches, so the data stays queryable with the same terms as English DBpedia.
+# - Reused terms are re-declared here following the MIREOT principle (minimum
+#   information to reference an external ontology term): the domain, range and
+#   class hierarchy are copied from the DBpedia Ontology itself (checked against
+#   https://dbpedia.org/sparql), and Vietnamese labels are added.
+# - New terms (vio:) are defined only where DBpedia has no suitable term.
+# The instance data is data/rdf/countries.ttl; its VoID description is data/rdf/void.ttl.
+
+@prefix vio:  <http://vi.dbpedia.org/ontology/> .
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct:  <http://purl.org/dc/terms/> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+
+<http://vi.dbpedia.org/ontology/> a owl:Ontology ;
+    dct:title "Ontology Vietnamese DBpedia: miền quốc gia"@vi ,
+        "Vietnamese DBpedia ontology: country domain"@en ;
+    dct:description "Ontology cho dữ liệu quốc gia trích xuất từ hộp thông tin Wikipedia tiếng Việt. Tái sử dụng DBpedia Ontology và chỉ bổ sung thuật ngữ mới khi DBpedia không có."@vi ,
+        "Ontology for country data extracted from Vietnamese Wikipedia infoboxes. It reuses the DBpedia Ontology and adds new terms only where DBpedia has none."@en ;
+    owl:versionInfo "1.0.0" ;
+    dct:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+    vann:preferredNamespacePrefix "vio" ;
+    vann:preferredNamespaceUri "http://vi.dbpedia.org/ontology/" ;
+    rdfs:seeAlso <http://dbpedia.org/ontology/> .
+
+# ---------------------------------------------------------------------------
+# Classes (reused from the DBpedia Ontology, with its subclass hierarchy)
+# ---------------------------------------------------------------------------
+
+dbo:Place a owl:Class ;
+    rdfs:label "địa điểm"@vi , "place"@en ;
+    rdfs:isDefinedBy <http://dbpedia.org/ontology/> .
+
+dbo:PopulatedPlace a owl:Class ;
+    rdfs:subClassOf dbo:Place ;
+    rdfs:label "nơi có dân cư"@vi , "populated place"@en ;
+    rdfs:isDefinedBy <http://dbpedia.org/ontology/> .
+
+dbo:Country a owl:Class ;
+    rdfs:subClassOf dbo:PopulatedPlace ;
+    rdfs:label "quốc gia"@vi , "country"@en ;
+    rdfs:isDefinedBy <http://dbpedia.org/ontology/> .
+
+dbo:Settlement a owl:Class ;
+    rdfs:subClassOf dbo:PopulatedPlace ;
+    rdfs:label "khu dân cư"@vi , "settlement"@en ;
+    rdfs:isDefinedBy <http://dbpedia.org/ontology/> .
+
+dbo:City a owl:Class ;
+    rdfs:subClassOf dbo:Settlement ;
+    rdfs:label "thành phố"@vi , "city"@en ;
+    rdfs:isDefinedBy <http://dbpedia.org/ontology/> .
+
+dbo:Currency a owl:Class ;
+    rdfs:label "tiền tệ"@vi , "currency"@en ;
+    rdfs:isDefinedBy <http://dbpedia.org/ontology/> .
+
+dbo:Language a owl:Class ;
+    rdfs:label "ngôn ngữ"@vi , "language"@en ;
+    rdfs:isDefinedBy <http://dbpedia.org/ontology/> .
+
+# ---------------------------------------------------------------------------
+# Object properties (reused): used when the infobox links to an article
+# ---------------------------------------------------------------------------
+
+dbo:capital a owl:ObjectProperty ;
+    rdfs:label "thủ đô"@vi , "capital"@en ;
+    rdfs:domain dbo:PopulatedPlace ;
+    rdfs:range dbo:City ;
+    rdfs:isDefinedBy <http://dbpedia.org/ontology/> .
+
+dbo:currency a owl:ObjectProperty ;
+    rdfs:label "tiền tệ"@vi , "currency"@en ;
+    rdfs:range dbo:Currency ;
+    rdfs:isDefinedBy <http://dbpedia.org/ontology/> .
+
+dbo:officialLanguage a owl:ObjectProperty ;
+    rdfs:label "ngôn ngữ chính thức"@vi , "official language"@en ;
+    rdfs:domain dbo:PopulatedPlace ;
+    rdfs:range dbo:Language ;
+    rdfs:isDefinedBy <http://dbpedia.org/ontology/> .
+
+# ---------------------------------------------------------------------------
+# Datatype properties (reused)
+# ---------------------------------------------------------------------------
+
+dbo:abstract a owl:DatatypeProperty ;
+    rdfs:label "tóm tắt"@vi , "abstract"@en ;
+    rdfs:range rdf:langString ;
+    rdfs:isDefinedBy <http://dbpedia.org/ontology/> .
+
+dbo:populationTotal a owl:DatatypeProperty , owl:FunctionalProperty ;
+    rdfs:label "tổng dân số"@vi , "population total"@en ;
+    rdfs:range xsd:nonNegativeInteger ;
+    rdfs:isDefinedBy <http://dbpedia.org/ontology/> .
+
+dbo:areaTotal a owl:DatatypeProperty ;
+    rdfs:label "tổng diện tích"@vi , "area total"@en ;
+    rdfs:comment "Đơn vị mét vuông (m²) theo quy ước của DBpedia; giá trị km² trong hộp thông tin được nhân 1.000.000."@vi ;
+    rdfs:domain dbo:Place ;
+    rdfs:range xsd:double ;
+    rdfs:isDefinedBy <http://dbpedia.org/ontology/> .
+
+dbo:wikiPageID a owl:DatatypeProperty ;
+    rdfs:label "ID trang Wikipedia"@vi , "Wikipedia page ID"@en ;
+    rdfs:range xsd:integer ;
+    rdfs:isDefinedBy <http://dbpedia.org/ontology/> .
+
+dbo:wikiPageRevisionID a owl:DatatypeProperty ;
+    rdfs:label "ID phiên bản trang Wikipedia"@vi , "Wikipedia revision ID"@en ;
+    rdfs:range xsd:integer ;
+    rdfs:isDefinedBy <http://dbpedia.org/ontology/> .
+
+# ---------------------------------------------------------------------------
+# New terms (vio:)
+# ---------------------------------------------------------------------------
+
+vio:callingCode a owl:DatatypeProperty ;
+    rdfs:label "mã điện thoại quốc gia"@vi , "country calling code"@en ;
+    rdfs:comment "Mã gọi quốc tế của quốc gia theo ITU-T E.164, có dấu '+' (ví dụ \"+84\"). DBpedia Ontology không có thuộc tính tương ứng; English DBpedia chỉ có thuộc tính thô dbp:callingCode."@vi ,
+        "Country calling code (ITU-T E.164) with a leading '+', e.g. \"+84\". The DBpedia Ontology has no matching property; English DBpedia only has the raw infobox property dbp:callingCode."@en ;
+    rdfs:domain dbo:Country ;
+    rdfs:range xsd:string ;
+    rdfs:seeAlso dbp:callingCode ;
+    rdfs:isDefinedBy <http://vi.dbpedia.org/ontology/> .
+
+vio:capitalName a owl:DatatypeProperty ;
+    rdfs:label "tên thủ đô (văn bản)"@vi , "capital name (text)"@en ;
+    rdfs:comment "Tên thủ đô khi hộp thông tin không liên kết tới bài viết nào, nên không xác định được tài nguyên. Khi có liên kết, dùng dbo:capital."@vi ,
+        "Capital name when the infobox does not link to an article, so no resource can be identified. With a link, dbo:capital is used."@en ;
+    rdfs:domain dbo:Country ;
+    rdfs:range rdf:langString ;
+    rdfs:seeAlso dbo:capital ;
+    rdfs:isDefinedBy <http://vi.dbpedia.org/ontology/> .
+
+vio:currencyName a owl:DatatypeProperty ;
+    rdfs:label "tên tiền tệ (văn bản)"@vi , "currency name (text)"@en ;
+    rdfs:comment "Tên tiền tệ khi hộp thông tin không liên kết tới bài viết nào. Khi có liên kết, dùng dbo:currency."@vi ,
+        "Currency name when the infobox does not link to an article. With a link, dbo:currency is used."@en ;
+    rdfs:domain dbo:Country ;
+    rdfs:range rdf:langString ;
+    rdfs:seeAlso dbo:currency ;
+    rdfs:isDefinedBy <http://vi.dbpedia.org/ontology/> .
+
+vio:officialLanguageName a owl:DatatypeProperty ;
+    rdfs:label "tên ngôn ngữ chính thức (văn bản)"@vi , "official language name (text)"@en ;
+    rdfs:comment "Tên ngôn ngữ chính thức khi hộp thông tin không liên kết tới bài viết nào. Khi có liên kết, dùng dbo:officialLanguage."@vi ,
+        "Official language name when the infobox does not link to an article. With a link, dbo:officialLanguage is used."@en ;
+    rdfs:domain dbo:Country ;
+    rdfs:range rdf:langString ;
+    rdfs:seeAlso dbo:officialLanguage ;
+    rdfs:isDefinedBy <http://vi.dbpedia.org/ontology/> .

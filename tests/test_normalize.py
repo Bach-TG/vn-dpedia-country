@@ -109,9 +109,13 @@ def test_english_link_urls():
         "https://en.wikipedia.org/wiki/New_York_City",
         "http://dbpedia.org/resource/New_York_City",
     )
+    # DBpedia resources are IRIs: the percent-encoded form is a different resource.
     assert english_links("Côte_d'Ivoire") == (
         "Côte d'Ivoire",
         "https://en.wikipedia.org/wiki/C%C3%B4te_d%27Ivoire",
-        "http://dbpedia.org/resource/C%C3%B4te_d%27Ivoire",
+        "http://dbpedia.org/resource/Côte_d'Ivoire",
+    )
+    assert english_links("São Tomé and Príncipe")[2] == (
+        "http://dbpedia.org/resource/São_Tomé_and_Príncipe"
     )
     assert english_links(None) == (None, None, None)

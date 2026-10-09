@@ -29,27 +29,28 @@ The system is designed as an end-to-end data pipeline, split into a Python-based
 The data extraction is orchestrated via a bespoke CLI tool (`vi-dbpedia-data`). It queries the Wikidata API to discover all existing entities classified as countries, subsequently mapping them to their localized Vietnamese Wikipedia counterparts. The raw Wikitext is then extracted using the MediaWiki API.
 
 ### 3.2. Ontology and Schema Design
-Following Linked Open Data best practices, the project avoided inventing redundant vocabularies and instead aggressively reused the **DBpedia Ontology (`dbo:`)** and W3C standard vocabularies (`rdfs:`, `owl:`, `foaf:`).
+Following Linked Open Data best practices, the project avoided inventing redundant vocabularies and instead reused the **DBpedia Ontology (`dbo:`)** and W3C standard vocabularies (`rdfs:`, `owl:`, `foaf:`, `prov:`). The ontology file `ontology/vi-dbpedia.ttl` declares every term used, with the DBpedia domain/range and Vietnamese labels, and defines new `vio:` terms only where DBpedia has none (`vio:callingCode`, and text fallbacks such as `vio:capitalName` for unlinked infobox values).
 
-*   **Namespace (`ex:`):** `http://vi.dbpedia.org/resource/` is used for all canonical entities (e.g., `ex:Việt_Nam`).
+*   **Namespace (`vir:`):** `http://vi.dbpedia.org/resource/` is used for all canonical entities (e.g., `vir:Việt_Nam`).
+*   **Classes:** `dbo:Country` for countries; linked capitals, currencies and languages are typed `dbo:City`, `dbo:Currency` and `dbo:Language`.
 *   **Properties:** Mapped standard demographic data to strictly-typed RDF properties.
     *   `title_vi` → `rdfs:label` (Literal with `@vi` language tag)
-    *   `population_total` → `dbo:populationTotal` (Typed as `xsd:integer`)
-    *   `area_km2` → `dbo:areaTotal` (Typed as `xsd:double`)
-    *   `capital` → `dbo:capital` (Object property linking to a new URI, e.g., `ex:Hà_Nội`)
+    *   `population_total` → `dbo:populationTotal` (Typed as `xsd:nonNegativeInteger`, the DBpedia range)
+    *   `area_km2` → `dbo:areaTotal` (Typed as `xsd:double`, in m²)
+    *   `capital` → `dbo:capital` (Object property linking to a new URI, e.g., `vir:Hà_Nội`)
 
 ## 4. Implementation and Fulfillment of Requirements
 
 ### 4.1. Transforming to the 4-Star Standard (Req 3)
 To achieve the 4-star Linked Data classification, data must be structured in a non-proprietary format using open W3C standards like RDF.
-*   **Implementation:** The Python `rdflib` library is used to transform the cleaned JSON extracts into a directed RDF graph. The data is serialized into the **Turtle (`.ttl`)** format, outputting strictly typed literals and well-formed URIs rather than strings. 
+*   **Implementation:** The Python `rdflib` library is used to transform the cleaned JSON extracts into a directed RDF graph. The data is serialized into the **Turtle (`.ttl`)** format, outputting strictly typed literals and well-formed URIs rather than strings. A VoID description (`data/rdf/void.ttl`) states the open licence (CC BY-SA 4.0, inherited from Wikipedia), source and dataset statistics.
 
 ### 4.2. Establishing Links to English DBpedia (Req 4)
 Fulfilling this requirement officially pushes the dataset into the **5-Star Open Data** tier, as it provides context by linking to other people's data.
-*   **Implementation:** The pipeline cross-references the Vietnamese article's underlying Wikidata QID with the English DBpedia database. When an exact structural match is found, the script generates an `owl:sameAs` triple (e.g., `ex:Việt_Nam owl:sameAs <http://dbpedia.org/resource/Vietnam>`). This asserts strict logical equivalence between the regional node and the global node.
+*   **Implementation:** The English DBpedia candidate is derived from the Vietnamese article's English **interlanguage link**, a structural link maintained by Wikipedia editors. The `link-check` command then verifies each candidate against the DBpedia SPARQL endpoint: DBpedia redirects are replaced by their target (`Timor-Leste` → `East_Timor`), and disambiguation pages or missing resources are not linked (`Palestine`). The script then generates an `owl:sameAs` triple (e.g., `vir:Việt_Nam owl:sameAs <http://dbpedia.org/resource/Vietnam>`). Each country is also linked to its Wikidata item (`owl:sameAs wd:Q881`), using the QID of the Vietnamese article itself.
 
 ### 4.3. Providing a Query Interface (Req 5)
-*   **Implementation:** A `docker-compose.yml` file is provided to orchestrate an instance of **Apache Jena Fuseki** (`stain/jena-fuseki:latest`). The finalized `countries.ttl` file is mounted into the container as a read-only volume. This provides a robust, industry-standard SPARQL endpoint at `http://localhost:3030/vi-dbpedia`, complete with a web GUI for end-users to execute relational graph queries.
+*   **Implementation:** A `docker-compose.yml` file is provided to orchestrate an instance of **Apache Jena Fuseki** (`stain/jena-fuseki:5.1.0`). The ontology, `countries.ttl` and `void.ttl` are mounted into the container as read-only volumes and loaded into one dataset. Four saved queries are provided in `data/queries/`, including a federated query that follows `owl:sameAs` into the live English DBpedia endpoint. This provides a robust, industry-standard SPARQL endpoint at `http://localhost:3030/vi-dbpedia`, complete with a web GUI for end-users to execute relational graph queries.
 
 ## 5. Project Structure
 
@@ -75,8 +76,8 @@ vn-dpedia-country/
 ## 6. Achievements and Results
 
 1.  **High-Fidelity Extraction:** Successfully harvested and processed 197 sovereign state records from Vietnamese Wikipedia.
-2.  **Semantic Graph Generation:** Synthesized a dense, highly connected RDF graph containing exactly **2,796 triples**.
-3.  **Cross-Lingual Identity:** Established robust interlanguage links (`owl:sameAs`) for nearly all entries, allowing queries to easily traverse between the Vietnamese dataset and the English DBpedia dataset.
+2.  **Semantic Graph Generation:** Synthesized an RDF graph of **4,082 triples** describing **704 typed entities** (197 countries, 199 cities, 139 currencies, 169 languages).
+3.  **Cross-Lingual Identity:** Established verified `owl:sameAs` links to English DBpedia for **196 of 197** countries (195 verified, 1 redirect resolved; 1 disambiguation page left unlinked) and to Wikidata for all 197, allowing queries to traverse between the Vietnamese dataset and the LOD cloud.
 4.  **Operational Web Service:** Deployed a fully functional SPARQL endpoint that can instantaneously process complex mathematical, string, and relational graph queries (e.g., "Find all countries using the Euro with a population over 10 million").
 
 ## 7. Conclusion

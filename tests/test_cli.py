@@ -52,3 +52,25 @@ def test_pilot_orchestration_avoids_reference_redirect_duplicate(tmp_path, monke
     monkeypatch.setattr(cli, "_finish", lambda _: calls.append("finish"))
     assert cli.main(["--root", str(tmp_path), "pilot"]) == 0
     assert calls == ["reference", "collect", "finish"]
+
+
+def test_rdf_command_writes_dataset_and_void(tmp_path, capsys):
+    (tmp_path / "config").mkdir()
+    (tmp_path / "config/settings.yaml").write_text(
+        (ROOT / "config/settings.yaml").read_text("utf-8"), encoding="utf-8"
+    )
+    write_json(
+        tmp_path / "data/processed/countries.json",
+        [
+            {
+                "page_id": 1,
+                "title_vi": "Việt Nam",
+                "source_url": "https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Nam",
+                "retrieved_at": "2024-01-02T00:00:00Z",
+            }
+        ],
+    )
+    assert cli.main(["--root", str(tmp_path), "rdf"]) == 0
+    assert (tmp_path / "data/rdf/countries.ttl").exists()
+    assert (tmp_path / "data/rdf/void.ttl").exists()
+    assert '"countries": 1' in capsys.readouterr().out
