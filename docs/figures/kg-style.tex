@@ -1,0 +1,42 @@
+% Shared style for the project figures. Compile each figure with XeLaTeX.
+% Notation follows the IE650 Knowledge Graphs slides (University of Mannheim):
+%   resource (IRI) = ellipse, literal = rectangle, labelled arrow = property,
+%   unlabelled arrow = rdfs:subClassOf ("convention for this course").
+\usepackage{fontspec}
+% TeX Gyre Heros/Cursor: Helvetica/Courier clones with Vietnamese letters.
+\setmainfont{texgyreheros}[
+  Extension=.otf, UprightFont=*-regular, BoldFont=*-bold,
+  ItalicFont=*-italic, BoldItalicFont=*-bolditalic]
+\setmonofont{texgyrecursor}[
+  Extension=.otf, UprightFont=*-regular, BoldFont=*-bold,
+  ItalicFont=*-italic, BoldItalicFont=*-bolditalic]
+\renewcommand{\familydefault}{\sfdefault}
+\usetikzlibrary{arrows.meta, calc, fit, positioning, backgrounds,
+  shapes.geometric, shapes.misc}
+
+\definecolor{kgfill}{HTML}{FCD5B0}     % node fill used in the lecture slides
+\definecolor{kgline}{HTML}{8C8C8C}
+\definecolor{kgnavy}{HTML}{0B2D50}     % arrows and dbo:/W3C property labels
+\definecolor{kgnew}{HTML}{C0392B}      % new terms of this project (vio:)
+\definecolor{kgextfill}{HTML}{D9E8F6}  % resources of other datasets (5th star)
+\definecolor{kgext}{HTML}{2E75B6}
+\definecolor{kgbox}{HTML}{F4F6F8}
+\definecolor{kgmuted}{HTML}{5F6B76}
+
+\tikzset{
+  every picture/.style={line join=round},
+  res/.style={ellipse, draw=kgline, fill=kgfill, font=\ttfamily,
+    inner xsep=1pt, inner ysep=2pt, minimum height=9.5mm},
+  cls/.style={res},
+  lit/.style={rectangle, draw=kgline, fill=kgfill, font=\ttfamily,
+    inner xsep=5pt, minimum height=8.5mm},
+  ext/.style={res, draw=kgext, fill=kgextfill},
+  rel/.style={-{Stealth[length=3mm, width=2.4mm]}, draw=kgnavy, line width=1pt},
+  sub/.style={rel},
+  nodomain/.style={rel, dash pattern=on 4.5pt off 2.5pt},
+  lbl/.style={font=\ttfamily, text=kgnavy, fill=white, inner sep=1.2pt},
+  newlbl/.style={lbl, text=kgnew},
+  note/.style={font=\small, text=kgmuted, align=left},
+  panel/.style={draw=kgline, fill=kgbox, rounded corners=2pt, inner sep=6pt},
+  heading/.style={font=\bfseries, text=kgnavy, anchor=north west},
+}

@@ -8,22 +8,64 @@
 % Packages
 \usepackage{fontspec}
 \usepackage{graphicx}
+% Figures from docs/figures/, whether compiled from docs/ or the repository root.
+\graphicspath{{figures/}{docs/figures/}}
 \usepackage{booktabs}
 \usepackage{hyperref}
 
-% Title information
+% Title information (the short forms appear in the footline of every slide)
 \title[VN-DBpedia Capstone]{Build a DBpedia Version for the Vietnamese Language}
-\subtitle{Semantic Web Capstone Project}
-\author{Minh}
-\institute{DSAI}
+\author[Group 18]{Group 18}
+\institute[IT6390E]{Hanoi University of Science and Technology}
 \date{\today}
+
+% Title slide colours
+\definecolor{titlebg}{HTML}{F8F9F9}
+\definecolor{titleink}{HTML}{22343C}
+\definecolor{titlemuted}{HTML}{3D4F57}
+\newcommand{\monthyear}{\ifcase\month\or January\or February\or March\or April\or May\or
+  June\or July\or August\or September\or October\or November\or December\fi\ \number\year}
 
 \begin{document}
 
 % ---------------------------------------------------------
-\begin{frame}
-    \titlepage
+% Title slide: own layout, without the Madrid header and footline
+{
+\setbeamercolor{background canvas}{bg=titlebg}
+\setbeamertemplate{navigation symbols}{}
+\begin{frame}[plain, t]
+    \color{titleink}
+    \vspace*{0.45cm}
+    {\fontsize{16.5}{20}\selectfont\bfseries Build a DBpedia Version for the Vietnamese Language\par}
+    \vspace{0.3cm}
+    {\large\color{titlemuted} Countries from Vietnamese Wikipedia as 5-Star Linked Open Data\par}
+    \vspace{0.4cm}
+    {\usebeamercolor[fg]{structure}\rule{\linewidth}{1.2pt}}
+    \vspace{0.3cm}
+
+    \begin{columns}[T, onlytextwidth]
+        \column{0.55\textwidth}
+            \textbf{Group 18 members}\par\vspace{0.12cm}
+            {\renewcommand{\arraystretch}{1.12}%
+            \begin{tabular}{@{}l@{\hspace{1.5em}}l@{}}
+                Cao Thi Thu Ha    & 20252264M \\
+                Vuong Hoang Minh  & 20252635M \\
+                Truong Gia Bach   & 20252277M \\
+                Nguyen Thang Phuc & 20252263M \\
+            \end{tabular}}
+        \column{0.42\textwidth}
+            \textbf{Course}\par\vspace{0.12cm}
+            IT6390E --- Semantic Web\par
+            \vspace{0.35cm}
+            \textbf{Supervisor}\par\vspace{0.12cm}
+            Dr. Do Ba Lam
+    \end{columns}
+
+    \vfill
+    Hanoi University of Science and Technology\quad$\cdot$\quad\monthyear
+    \vspace*{0.35cm}
 \end{frame}
+}
 
 % ---------------------------------------------------------
 \begin{frame}{Table of Contents}
@@ -82,6 +124,11 @@
     \end{columns}
 \end{frame}
 
+\begin{frame}{Service Architecture}
+    \centering
+    \includegraphics[width=\linewidth, height=0.86\textheight, keepaspectratio]{fig_architecture.pdf}
+\end{frame}
+
 % ---------------------------------------------------------
 \section{Ontology \& Design}
 \begin{frame}{Ontology Design: Reusing DBpedia Standards}
@@ -103,6 +150,16 @@
     \end{table}
     
     \textit{Note: All text literals are strictly tagged with \texttt{@vi} for internationalization.}
+\end{frame}
+
+\begin{frame}{Ontology (T-Box): \texttt{ontology/vi-dbpedia.ttl}}
+    \centering
+    \includegraphics[width=\linewidth, height=0.86\textheight, keepaspectratio]{fig_ontology.pdf}
+\end{frame}
+
+\begin{frame}{Data Schema (A-Box): One Country Record}
+    \centering
+    \includegraphics[width=\linewidth, height=0.86\textheight, keepaspectratio]{fig_data_schema.pdf}
 \end{frame}
 
 % ---------------------------------------------------------

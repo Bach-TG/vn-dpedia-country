@@ -12,14 +12,17 @@ data/raw/collection_manifest.csv
 data/interim/*.jsonl
 video_*
 # LaTeX build files (compile docs/presentation.tex with XeLaTeX)
-docs/*.aux
-docs/*.log
-docs/*.nav
-docs/*.out
-docs/*.snm
-docs/*.toc
-docs/*.vrb
-docs/*.synctex.gz
-docs/*.fls
-docs/*.fdb_latexmk
-docs/*.xdv
+docs/**/*.aux
+docs/**/*.log
+docs/**/*.nav
+docs/**/*.out
+docs/**/*.snm
+docs/**/*.toc
+docs/**/*.vrb
+docs/**/*.synctex.gz
+docs/**/*.fls
+docs/**/*.fdb_latexmk
+docs/**/*.xdv
+
+# Course reference slides (third-party material, 32 MB): local only, never commit
+slides/

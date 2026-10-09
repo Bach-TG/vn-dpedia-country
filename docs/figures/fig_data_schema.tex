@@ -1,0 +1,108 @@
+% Figure: data schema (A-Box) -- every triple of one country record in
+% data/rdf/countries.ttl, with the exact lexical forms of the file.
+\documentclass[tikz, border=4mm]{standalone}
+\input{kg-style}
+\tikzset{
+  doc/.style={res, fill=white, draw=kgline, align=center, font=\ttfamily\small},
+  % As in the lecture slides, literal values are set in the text font.
+  lit/.append style={font=\small},
+  lbl/.append style={font=\ttfamily\small},
+}
+\newcommand{\dt}[1]{\texttt{\^{}\^{}#1}}  % ^^datatype
+\begin{document}
+\begin{tikzpicture}
+
+% ---- The country resource and its class
+\node[res, line width=1.3pt, minimum height=11mm, font=\ttfamily\bfseries] (vn) at (0, 0)
+  {vir:Việt\_Nam};
+\node[cls] (country) at (0, 3.1) {dbo:Country};
+\draw[rel] (vn) -- node[lbl, right=2pt] {rdf:type} (country);
+
+% ---- Literals (left): infobox values and Wikipedia identifiers
+\foreach \y/\name/\value in {
+   4.0/label/{"Việt Nam"@vi},
+   3.0/abstract/{"Việt Nam, quốc hiệu đầy đủ là …"@vi},
+   2.0/population/{"102300000"\dt{xsd:nonNegativeInteger}},
+   1.0/area/{"3.31212e+11"\dt{xsd:double}},
+   0.0/calling/{"+84"\dt{xsd:string}},
+  -1.0/pageid/{"151863"\dt{xsd:integer}},
+  -2.0/revision/{"75589624"\dt{xsd:integer}}} {
+  \node[lit, anchor=east] (\name) at (-7.6, \y) {\value};
+}
+\foreach \name/\prop in {label/rdfs:label, abstract/dbo:abstract,
+    population/dbo:populationTotal, area/dbo:areaTotal,
+    pageid/dbo:wikiPageID, revision/dbo:wikiPageRevisionID} {
+  \draw[rel] (vn.west) -- (\name.east -| -3.0, 0) -- node[lbl, above=1pt] {\prop} (\name.east);
+}
+\draw[rel] (vn.west) -- (-3.0, 0) -- node[newlbl, above=1pt] {vio:callingCode} (calling.east);
+
+% ---- Links to other datasets (5th star) and provenance (right)
+\node[ext, anchor=west] (dbr) at (7.2, 3.4) {dbr:Vietnam};
+\node[ext, anchor=west] (wd)  at (7.2, 1.7) {wd:Q881};
+\node[doc, anchor=west] (page) at (7.2, 0.0)
+  {https://vi.wikipedia.org/\\wiki/Vi\%E1\%BB\%87t\_Nam};
+\node[doc, anchor=west] (rev) at (7.2, -2.0)
+  {https://vi.wikipedia.org/w/\\index.php?oldid=75589624};
+\foreach \name/\prop in {dbr/owl:sameAs, wd/owl:sameAs,
+    page/foaf:isPrimaryTopicOf, rev/prov:wasDerivedFrom} {
+  \draw[rel] (vn.east) -- (\name.west -| 3.0, 0) -- node[lbl, above=1pt] {\prop} (\name.west);
+}
+\node[note, anchor=north west] at ($(dbr.south west) + (0.3, -0.08)$)
+  {English DBpedia, verified by \texttt{link-check}};
+\node[note, anchor=north west] at ($(wd.south west) + (0.3, -0.08)$)
+  {Wikidata, QID of the vi article};
+\node[note, anchor=north west] at ($(page.south west) + (0.6, -0.08)$) {source article (HTML)};
+\node[note, anchor=north west] at ($(rev.south west) + (0.6, -0.08)$) {extracted revision (HTML)};
+
+% ---- Linked capital, currency and language (bottom), typed by the property's range
+\foreach \x/\name/\iri/\cls/\label in {
+   -7.8/capital/{vir:Hà\_Nội}/dbo:City/{"Hà Nội"@vi},
+    0.0/currency/{vir:Đồng\_(tiền)}/dbo:Currency/{"Đồng (tiền)"@vi},
+    7.8/language/{vir:Tiếng\_Việt}/dbo:Language/{"Tiếng Việt"@vi}} {
+  \node[res] (\name) at (\x, -5.3) {\iri};
+  \node[cls] (\name-cls) at (\x - 2.0, -7.6) {\cls};
+  \node[lit] (\name-lbl) at (\x + 2.0, -7.6) {\label};
+  \draw[rel] (\name) -- node[lbl, left=2pt, pos=0.45] {rdf:type} (\name-cls);
+  \draw[rel] (\name) -- node[lbl, right=2pt, pos=0.45] {rdfs:label} (\name-lbl);
+}
+\draw[rel] (vn.250) -- node[lbl, sloped, below=1pt, pos=0.62] {dbo:capital} (capital.north east);
+\draw[rel] (vn.south) -- node[lbl, right=2pt, pos=0.55] {dbo:currency} (currency.north);
+\draw[rel] (vn.290) -- node[lbl, sloped, below=1pt, pos=0.62] {dbo:officialLanguage}
+  (language.north west);
+
+% ---- Inset: an infobox value without an article link
+\node[res, anchor=west] (kg) at (-14.0, 6.1) {vir:Kyrgyzstan};
+\node[lit, anchor=west] (som) at (-5.4, 6.1) {"Som Kyrgyzstani"@vi};
+\draw[rel] (kg.east) -- node[newlbl, above=1pt] {vio:currencyName} (som.west);
+\node[note, anchor=south west] (kgnote) at ($(kg.north west) + (0, 0.12)$)
+  {Infobox value without an article link: kept as text with \texttt{vio:capitalName},
+   \texttt{vio:currencyName} or \texttt{vio:officialLanguageName},\\
+   never as the object of \texttt{dbo:capital}, \texttt{dbo:currency} or \texttt{dbo:officialLanguage}};
+\begin{scope}[on background layer]
+  \node[panel, fit=(kg) (som) (kgnote)] {};
+\end{scope}
+
+% ---- Legend
+\begin{scope}[shift={(-14.0, -9.2)}]
+  \node[res, minimum height=6mm, font=\ttfamily\footnotesize] at (0.8, 0) {vir:…};
+  \node[note, anchor=west] at (1.8, 0) {resource of this dataset, or class};
+  \node[ext, minimum height=6mm, font=\ttfamily\footnotesize] at (0.8, -0.8) {dbr:…};
+  \node[note, anchor=west] at (1.8, -0.8) {resource of another dataset (\texttt{owl:sameAs} target)};
+  \node[doc, minimum height=6mm, font=\ttfamily\footnotesize] at (0.8, -1.6) {https:…};
+  \node[note, anchor=west] at (1.8, -1.6) {web page (document)};
+  \node[lit, minimum height=5.5mm, font=\footnotesize] at (12.2, 0) {"…"};
+  \node[note, anchor=west] at (13.0, 0)
+    {literal: \texttt{"lexical form"\^{}\^{}datatype} or \texttt{"text"@lang}};
+  \node[note, anchor=west] at (11.6, -0.8) {\textcolor{kgnew}{\texttt{vio:}} property defined by this
+    project; the others come from DBpedia, W3C, FOAF and PROV};
+  \node[note, anchor=west] at (11.6, -1.6) {\texttt{vir:}~\texttt{<http://vi.dbpedia.org/resource/>}\quad
+    \texttt{dbr:}~\texttt{<http://dbpedia.org/resource/>}\quad
+    \texttt{wd:}~\texttt{<http://www.wikidata.org/entity/>}};
+\end{scope}
+\node[note, anchor=north west, text width=27cm] at (-13.8, -11.3) {%
+  Whole file \texttt{data/rdf/countries.ttl}: 4,082 triples; 197 \texttt{dbo:Country}, 199 \texttt{dbo:City},
+  139 \texttt{dbo:Currency}, 169 \texttt{dbo:Language}; \texttt{owl:sameAs}: 196 to English DBpedia,
+  197 to Wikidata. The abstract literal is shortened in this figure.};
+
+\end{tikzpicture}
+\end{document}

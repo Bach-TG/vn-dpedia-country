@@ -23,7 +23,11 @@ As per the official capstone brief, this project set out to achieve five core ob
 
 ## 3. System Architecture and Design
 
-The system is designed as an end-to-end data pipeline, split into a Python-based extraction/transformation toolset and a Dockerized hosting environment.
+The system is designed as an end-to-end data pipeline, split into a Python-based extraction/transformation toolset and a Dockerized hosting environment. Figure 1 shows the four layers: the data sources, the eight pipeline commands with the file each one writes, the published Turtle files, and the Fuseki query service with its clients.
+
+![Figure 1. Service architecture](figures/fig_architecture.png)
+
+*Figure 1. Service architecture. The pipeline reads Vietnamese Wikipedia (MediaWiki API), uses Wikidata only to discover candidate countries, and checks English DBpedia links with `link-check`. The Turtle files are loaded into an in-memory, read-only Apache Jena Fuseki dataset, which answers SPARQL 1.1 queries and can federate to DBpedia with `SERVICE`.*
 
 ### 3.1. Data Collection Pipeline (Web Scraping)
 The data extraction is orchestrated via a bespoke CLI tool (`vi-dbpedia-data`). It queries the Wikidata API to discover all existing entities classified as countries, subsequently mapping them to their localized Vietnamese Wikipedia counterparts. The raw Wikitext is then extracted using the MediaWiki API.
@@ -38,6 +42,18 @@ Following Linked Open Data best practices, the project avoided inventing redunda
     *   `population_total` → `dbo:populationTotal` (Typed as `xsd:nonNegativeInteger`, the DBpedia range)
     *   `area_km2` → `dbo:areaTotal` (Typed as `xsd:double`, in m²)
     *   `capital` → `dbo:capital` (Object property linking to a new URI, e.g., `vir:Hà_Nội`)
+
+Figure 2 shows the ontology (T-Box) declared in `ontology/vi-dbpedia.ttl`: the reused DBpedia classes with their class hierarchy, and each property drawn from its `rdfs:domain` to its `rdfs:range`.
+
+![Figure 2. Ontology (T-Box)](figures/fig_ontology.png)
+
+*Figure 2. Ontology (T-Box). Ellipses are classes and rectangles are datatypes; unlabelled arrows are `rdfs:subClassOf`. Dashed arrows are properties without an `rdfs:domain` in the DBpedia Ontology, drawn from the class they are used on. Terms in red are the new `vio:` terms.*
+
+Figure 3 shows how one country record is stored (A-Box): every triple of `vir:Việt_Nam` in `data/rdf/countries.ttl`, with the exact literal forms of the file.
+
+![Figure 3. Data schema (A-Box)](figures/fig_data_schema.png)
+
+*Figure 3. Data schema (A-Box) for one country. Ellipses are resources and rectangles are literals. Blue ellipses are resources of other datasets, linked with `owl:sameAs` (the 5th star). Linked capitals, currencies and languages are typed by the range of the property that links to them. The inset shows how an infobox value without an article link is stored.*
 
 ## 4. Implementation and Fulfillment of Requirements
 
